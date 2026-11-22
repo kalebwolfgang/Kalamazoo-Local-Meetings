@@ -38,7 +38,8 @@ Future governments go next to `kalamazoo-city/`, for example `kalamazoo-county/`
 
 **transcript.txt**
 Taken from YouTube's automatic captions. Cleaned for format only:
-- Timestamps are written as `[h:mm:ss]` and link to that moment in the video.
+- The text is split into short blocks. Each block starts with a line like `--- 1:46:13 | https://www.youtube.com/watch?v=VIDEO_ID&t=6373s` that links to that moment in the video.
+- Every sentence is marked with the time it starts, like `[1:46:15]`. Times are accurate to within a few seconds, because YouTube only marks when each caption line begins.
 - Broken lines are joined into full sentences.
 - Names are corrected only when a title comes before them (for example "Clerk Bowling" becomes "Clerk Borling"), using the roster file.
 - Sounds like `[snorts]` are removed.
@@ -52,6 +53,25 @@ The full agenda packet, split by agenda item. Nothing is left out except blank p
 
 **info.txt**
 The meeting date, type, and links to the YouTube video and the original PDFs.
+
+## How to cite
+
+Every fact should point to the most specific place it came from. Use these formats:
+
+| Source | Cite it as | Example |
+|---|---|---|
+| Transcript | Meeting, then the time with a video link | Business Meeting, Jan 5, 2026, [4:06:21](https://www.youtube.com/watch?v=upL1eEYIMCE&t=14781s) |
+| Minutes | Meeting, then the page | Minutes, Jan 5, 2026 Business Meeting, p. 8 |
+| Agenda | Meeting, then the agenda item | Agenda item H2, Jan 5, 2026 Business Meeting |
+| Agenda packet | Meeting, then the packet pages | Jan 5, 2026 packet, pp. 153-154 (staff report, item H2) |
+| Packet table | The packet page from the `packet_page` column | Jan 5, 2026 packet, p. 83 (2026 Expenditure Summary by Activity) |
+
+Rules:
+- Never cite a whole packet or a whole meeting when a page or a time is available.
+- Packet page numbers match the "Page X of Y" printed on the original PDF, so readers can open the PDF and jump straight there.
+- Each packet text file marks every page with `--- packet page N ---`. Minutes and agendas mark pages the same way, using the original page numbers.
+- To turn a transcript time into a link, convert it to seconds and add `&t=SECONDSs` to the video link (1:02:03 = 3723 seconds).
+- If something comes from a page marked `[scanned page, text read by software]`, check the original page before quoting numbers.
 
 ## Original PDFs
 
