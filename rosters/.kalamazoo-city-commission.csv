@@ -1,0 +1,18 @@
+type,official_name,title,fix_only_after,wrong_spellings,verified_from,notes
+member,David Anderson,Mayor,Mayor,,2026-01-05 minutes,Not the same person as Christina Anderson (staff)
+member,Drew Duncan,Vice Mayor,Vice Mayor|Commissioner,Beckin,2026-01-05 minutes,
+member,Jeanne Hess,Commissioner,Commissioner,Hes|Hus,2026-01-05 minutes,"""Commissioner H"" is left alone because it could be Hess or Hoffman"
+member,Stephanie Hoffman,Commissioner,Commissioner,Huffman,2026-01-05 minutes,
+member,Chris Praedel,Commissioner,Commissioner,Pradle|Pradell|Prao|Pradoor|Prado|Ple|Bra|Br,2026-01-05 minutes,
+member,Jacqueline Slaby,Commissioner,Commissioner,Sley|Slay|Slayby|Slaybe|Slayy|Sllayy|Slavy|Sbe|Sy,2026-01-05 minutes,
+member,Alonzo Wilson,Commissioner,Commissioner,,2026-01-05 minutes,
+staff,Malcolm Hankins,City Manager,Manager|City Manager|Mr.|Malcolm,Henkins|Hengins|Henens|Higgins,2026-01-05 minutes,Started as City Manager 2026-01-05
+staff,Aaron Leal,City Attorney,Attorney|City Attorney,Leo|Leel,2026-01-05 minutes,
+staff,Scott Borling,City Clerk,Clerk|City Clerk,Bowling|Boling|Boring|Booring|Boing|Borley|Berling|Barley|Borland|Florane,2026-01-05 minutes,
+staff,Steve Vicenzi,Chief Financial Officer,CFO|Steve,Vicencies|Vasensei|Vensei|Vencies,2026-01-05 minutes,Also Management Services Director
+staff,Christina Anderson,Deputy Director of Community Planning and Economic Development,Christina|Christine|Planner|Director,,2026-01-05 minutes,"Transcripts often say ""Christine"""
+staff,Charlie Bear,Assistant City Attorney,Attorney|Charlie,Bearer,2026-01-05 minutes,
+staff,Nolan Bergstrom,Community Planner,Nolan|Planner,Burkstrom,2026-01-05 minutes,
+staff,Dennis Randolph,Public Works Division Manager,Dennis,Randall,2026-01-05 minutes,
+staff,Bobby Durkee,Assistant City Planner,Bobby,Jerky,2026-01-05 minutes,"Transcript also had ""Puppy jerky"""
+place,Kalamazoo,,,Kalazoo|Calazoo|Kamazoo|Calamazoo|Kelzoo|Kelmsu|Kalum Zoo,,"""Kazoo"" is left alone because speakers may really be saying the nickname ""K-zoo"""
