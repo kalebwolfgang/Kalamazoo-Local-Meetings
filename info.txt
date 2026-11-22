@@ -1,0 +1,30 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Committee of the Whole
+Date: 2026-01-05
+Scheduled start: 5:00 PM
+Called to order: 5:01 PM (per minutes)
+Adjourned: 5:40 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=SwI5GDHpHNk
+Note: the meeting starts about 3 minutes and 24 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2542/files/agenda/4605
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2542/files/agenda/4606 (same as the agenda, no attachments; not stored separately)
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2542/files/agenda/4987
+Minutes document number: CC-2026-01
+Minutes approved: 2026-02-16
+Backup copy of original PDFs: not yet archived
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 108 blocks, each sentence timestamped (220 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (3 rows): name and topic from the minutes, video time, minutes page
+  public-comment-topics.csv  one row per topic each speaker mentioned (11 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (1 row): outcome, video time, minutes page
+
+Note: the training slides shown at this meeting were filed with the meeting papers but are not in the packet.
+
+Related meeting: 2026-01-05-business (7:00 PM, same day)
