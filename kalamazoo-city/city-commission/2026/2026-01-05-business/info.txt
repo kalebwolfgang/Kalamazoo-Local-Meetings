@@ -14,7 +14,6 @@ Agenda packet (500 pages): https://kalamazoomi.portal.civicclerk.com/event/2530/
 Minutes: https://kalamazoomi.portal.civicclerk.com/event/2530/files/agenda/4980
 Minutes document number: CC-2026-02
 Minutes approved: 2026-02-16
-Backup copy of original PDFs: not yet archived
 
 Files in this folder:
   transcript.txt  cleaned YouTube automatic captions; 611 blocks, each sentence timestamped (1,762 timestamps)
