@@ -1,0 +1,73 @@
+# Agenda item G1: Approval of a sole source three-year contract with VDA Labs for Crowdstrike Falcon MSSP for Cyber Security protection in the amount of $274,483.50.
+# Attachment: Agenda Report
+# Packet pages 6-7 of the January 5, 2026 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 6 ---
+
+                                                                                                Date:   1/5/2026
+                City Commission                                                                          Item: G.1.
+
+                Agenda Report
+                City of Kalamazoo
+
+TO:            Mayor Anderson, Vice Mayor Duncan, and City Commissioners
+
+FROM:          Malcolm Hankins, City Manager
+               Reviewed by: Tim Dubois, IT Director
+               Prepared by: John Hambright, IT Deputy Director
+
+DATE:          January 5, 2026
+
+SUBJECT:       Approval of a sole source three-year contract with VDA Labs for Crowdstrike
+               Falcon MSSP for Cyber Security protection (Bid Ref# 00000-026.2)
+
+RECOMMENDATION:
+
+It is recommended that the City Commission approve the purchase of a sole source three-year
+agreement with VDA Labs for Crowdstrike Falcon MSSP for Cyber Security protection in the
+amount of $274,483.50
+
+BACKGROUND:
+
+Crowdstrike is used for its powerful cloud-native, AI-powered cybersecurity platform that offers
+rapid and effective threat detection and prevention. Adding a Managed Security Service Provider
+(MSSP) provides continuous, expert management of the platform, effectively acting as an
+outsourced 24/7 security team.
+
+STRATEGIC VISION ALIGNMENT:
+
+Strategic Goal Impact:
+Good Governance- Ensuring the City organization has the capacity and resources to effectively
+implement the community's Strategic Vision in a way that is sustainable over the long term.
+
+COMMUNITY ENGAGEMENT:
+
+Appropriate Depth of Engagement
+Inform (one-way conversation) – no feasible alternatives available due to legal/regulatory
+restrictions, standards and best practices, or resource limitations; the community will be made
+aware of the project.
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                                Page 6 of 500
+
+--- packet page 7 ---
+
+Commission Agenda Report
+Page 2
+
+FISCAL IMPACT:
+
+The funds required for this contract are $274,483.50. The funding available and estimated costs
+are detailed below. The contract is a 3-year contract and will be reviewed for renewal at the end
+of the three-year contract. Funds are available in 2026 for year 1 ($91,494.50). Future years will
+be budgeted accordingly. We are requesting the approval of this purchase using the funds below.
+
+Description                          Account                                 Project #      Dollar Amount
+IT Network and Security              101-229-00.000-815.000                                 $274,483.5
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                            Page 7 of 500

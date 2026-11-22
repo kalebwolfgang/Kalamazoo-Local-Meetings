@@ -1,0 +1,354 @@
+packet_page,col1,col2
+128,Fee Description,2026 Fee Schedule
+128,Fees Applicable to all Types of Projects,
+128,Work commenced prior to approval/permit issuance,2x original fee
+128,Copying costs (1st page + additional pages),1.50 +.50
+128,Enforcement Letter - General: failure to comply with violation notice,78.00
+128,Code Enforcement Attorney Warning Letter,156.00
+128,City Attorney case review referral,234.00
+128,Inspection outside of regular work hours,Permit fee + $80/hr
+128,Administrative Fee,56.00
+128,Electrical Permits,
+128,Application Fee (Non-refundable),83.00
+128,Service through 200 Amp.,11.00
+128,Service over 200 Amp. through 600 Amp.,16.00
+128,Service over 600 Amp. through 800 Amp.,21.00
+128,Service over 800 Amp. through 1200 Amp.,26.00
+128,Service over 1200 Amp. (GFI only),52.00
+128,Sub Panel (each),11.00
+128,Disconnect,11.00
+128,Receptacles- per 30,7.00
+128,Each Circuit,6.00
+128,Fixtures/Smoke Detectors – per 25,7.00
+128,Dishwasher,6.00
+128,Furnace/Unit Heater,6.00
+128,Electrical Heating Units (baseboard),5.00
+128,"Power Outlets (ranges, dryers, etc.)",8.00
+128,Signs: Unit,11.00
+128,Signs: Letter,16.00
+128,Signs: Neon – each 25’,21.00
+128,"Feeders-Bus Ducts, etc. – per 50’",7.00
+128,Mobile Home Park Site,7.00
+129,Recreational Vehicle Park Site,5.00
+129,"Generators, Motors, AC units, Solar, Wind Turbines, EVSE",
+129,KVA or HP: Units up to 20,7.00
+129,KVA or HP: Units 21-50,11.00
+129,KVA or HP: Units 51 and over,13.00
+129,Fire Alarm Systems: up to 10 devices,52.00
+129,Fire Alarms: 11-20 devices,104.00
+129,Fire Alarms: over 20 devices (each),6.00
+129,Data/Telecommunications Outlets: over 300 devices,312.00
+129,Data/Telecommunications Outlets: 20-300 devices,104.00
+129,Data/Telecommunications Outlets: 1-19 devices (each),7.00
+129,Energy Retrofit – Temp. Control,47.00
+129,Conduit only or grounding only,47.00
+129,Special/Safety Inspections (includes certification fee),83.00
+129,Additional Inspection EACH,83.00
+129,Rough-In Inspection,83.00
+129,Final Inspection REQUIRED,83.00
+129,Certification Fee,32.00
+129,"Technical Code Inspection (any additional, $70 each)",83.00
+129,Mechanical Permits,
+129,Replacement Water Heater (flat fee),120.00
+129,Replacement Furnace (flat fee),145.00
+129,Replacement Air Conditioning (flat fee),145.00
+129,Replacement Furnace & Air Conditioning (flat fee),177.00
+129,Application Fee (Non-Refundable),83.00
+129,Residential New Heating System (includes duct & pipe for new building only),52.00
+129,Gas/Oil Burning Equipment (Furnace) – new and/or conversion units,32.00
+129,Residential Boiler,32.00
+129,Water Heater,6.00
+129,Flue/Liner,6.00
+129,Solid Fuel Equipment (includes chimney),32.00
+129,"Chimney, factory built (installed separately",26.00
+130,Solar; set of 3 panels (including piping),21.00
+130,Gas Piping; each opening – new installation (residential),5.00
+130,Air Conditioning,31.00
+130,Heat Pumps (complete residential),31.00
+130,Bath & Kitchen Exhaust,6.00
+130,Tanks – Aboveground,21.00
+130,Tanks – Aboveground Connection,21.00
+130,Tanks - Underground,21.00
+130,Tanks - Underground Connection,21.00
+130,Humidifiers,11.00
+130,"Piping Systems: Piping (per foot, minimum $25)",0.20
+130,"Piping Systems: Process Piping (per foot, minimum $25)",0.20
+130,"Duct (per foot, minimum $25)",0.20
+130,"Heat Pumps (commercial, pipe not included)",21.00
+130,"Air Handlers/Heat Wheels Up To 10,000 CFM (RTU)",21.00
+130,"Air Handlers/Heat Wheels Over 10,000 CFM (RTU)",62.00
+130,Commercial Hoods (includes puff test) Type I,62.00
+130,Commercial Hoods (includes puff test) Type II,62.00
+130,Heat Recovery Units,11.00
+130,VAV Boxes,11.00
+130,Unit Ventilators,11.00
+130,Unit Heaters,16.00
+130,Fire Suppression/Protection,$72 + $.80/head + engineering (if applicable)
+130,Evaporator Coils,32.00
+130,Refrigeration (Split System),32.00
+130,Chiller/Compressor,32.00
+130,Cooling Towers,32.00
+130,Air Compressor,32.00
+130,Special/Safety Inspection,83.00
+130,Additional Inspection,83.00
+130,Rough-In Inspection,83.00
+131,Final Inspection REQUIRED,83.00
+131,Certification Fee,32.00
+131,Gas Burning Fireplace,32.00
+131,"Technical Code Inspection (any additional, $70 each)",83.00
+131,Plumbing Permits,
+131,Replacement Water Heater (flat fee),$120.00
+131,Application Fee,83.00
+131,Mobile home park site (each),6.00
+131,"Fixtures, floor drains, special drains, water connected -Appliances (each)",6.00
+131,"Stacks – soil, waste, vent and conductor (each)",4.00
+131,"Sewage ejectors, pumps (each)",6.00
+131,Sub-soil drains (each),6.00
+131,Water service less than 2”,6.00
+131,Water service 2” – 6”,26.00
+131,Water service over 6”,51.00
+131,"Connection (building drain, building sewer)",6.00
+131,Sewers less than 6”,6.00
+131,Sewers 6” and over,26.00
+131,"Manholes, catch basins (each)",6.00
+131,¾” water distribution pipe,6.00
+131,1” water distribution pipe,11.00
+131,1 ¼” water distribution pipe,16.00
+131,1 ½” water distribution pipe,21.00
+131,2” water distribution,26.00
+131,Over 2” water distribution pipe,32.00
+131,Reduced pressure zone back-flow preventer (each),6.00
+131,Special/safety inspection (includes certification fee),83.00
+131,Additional inspection,83.00
+131,Rough-In Inspection,83.00
+131,Final inspection REQUIRED,83.00
+131,Certification fee,32.00
+132,Domestic water treatment and filtering equipment,7.00
+132,Medical gas system,47.00
+132,"Technical Code Inspection (any additional, $70 each)",$83.00
+132,Annual Licenses & Permits,
+132,Building wrecker license,63.00
+132,Builder mover license,63.00
+132,Sign erector license,47.00
+132,Annual fee for signs projecting over public property,47.00
+132,Annual electrical permit,88.00
+132,Construction Plan Review,
+132,Plan Review - Construction Drawings - Residential - projects over 3500 sq ft (fee is non- refundable if review has occured),$55 + 6% of permit fee
+132,Plan Review - Construction Drawings - Commercial (fee is non-refundable if review has taken place),$55 + 10% of permit fee
+132,Residential Construction Permit,
+132,Application Fee: The application fee of any construction application fee is non- refundable. Pre-manufactured unit fees are based upon 50% of the normal cost to,93.00
+132,"$1,000 to $10,000","$85 + $10 per $1,000 over $1,000"
+132,"$10,001 to $100,000","$165 + $3 per $1,000 over $10,000"
+132,"$100,000 to $500,000","$435 + $2 per $1,000 over $100,000"
+132,"$500,000 +","$1,235 +$3 per $1,000 over $500,000"
+132,All work not involving a square foot computation: Plan review and administration fee,$92 + $71 for each inspection
+132,Additional inspections per hour or fraction thereof,83.00
+132,Special inspection (pertaining to sale of building),104.00
+132,Special building permit (pertaining to temporary modular ADA ramps),Waived
+132,Commercial Construction,
+132,"$1 to $2,000",
+132,"($23 for the first $500 + $3.05 for each additional $100 or fraction thereof up to and including $2,000)",46.00
+132,"$2,001 to $25,000",
+132,"For the first $2,000",70.00
+132,"For each additional $1,000 or fraction thereof up to and including $25,000",15.00
+132,"$25,001 to $50,000",
+132,"For the first $25,000",399.00
+132,"For each additional $1,000 or fraction thereof to and including $50,000",11.00
+133,"$50,000 to $100,000",
+133,"For the first $50,000",656.00
+133,"For each additional $1,000 or fraction thereof up to and including $100,000",8.00
+133,"$100,001 to $500,000",
+133,"For the first $100,000","1,013.00"
+133,"For each additional $1,000 or fraction thereof up to and including $500,000",6.00
+133,"$500,001 to $1,000,000",
+133,"For the first $500,000","3,298.00"
+133,"For each additional $1,000 or fraction thereof up to and including $1,000,000",5.00
+133,"Over $1,000,000",
+133,"For the first $1,000,000","5,720.00"
+133,"For each additional $1,000 or fraction thereof",4.00
+133,Miscellaneous Structures & Work,
+133,Foundation permit,160.00
+133,Swimming pool (including fencing),42.00
+133,Fences over 7’ high,42.00
+133,Re-roofing,52.00
+133,Re-siding,52.00
+133,Demo Permit,$88 + $ .10/sq. ft.
+133,Temporary Occupancy Inspection Fee,370.00
+133,"Soil Erosion, Sedimentation, & Earth Change",
+133,Single Family,130.00
+133,Land development project: first acre,260.00
+133,Land development project: each additional acre,37.00
+133,Trenched utility installation: first mile,260.00
+133,Trenched utility installation mile,37.00
+133,Excavating utility installation: first acre,260.00
+133,Excavated utility installation: each additional acre,37.00
+133,Sea wall,130.00
+133,Pond,130.00
+133,Inspection/reinspection,83.0
+134,Permit waiver,26.00
+134,"Technical Code Inspection, residential",83.00
+134,Other charges/review by outside entities,
+134,Renewal Fee,"Equal to the initial permit fee or $985 ($82 x 12 for monthly inspections), whichever is less"
+134,Event Tent Permit,
+134,First three tents,130.00
+134,Each additional tent,26.00
+134,Additional inspection,93.00
+134,Paving Permits,
+134,Driveway and/or Parking Area with 3 or Fewer Spaces,57.00
+134,Driveway and/or Parking Area with 4 or More Spaces,78.00
+134,Housing,
+134,Housing Code - On Line,Free
+134,Rental Registration Violation (fail to update registration),78.00
+134,Unregistered Rental Violation,234.00
+134,Housing Board of Appeals,88.00
+134,Code Enforcement Letter for Expired Rental Properties with 30 or more units expired no initial inspection schedued,100.00
+134,"Code Enforcement Letter (may be issued every 21 days for rental properties 1-4 months cert expired, no inspection scheduled)",78.00
+134,Code Enforcement Letter (may be issued every 21 days for rental properties >4 months cert expired),104.00
+134,Code Enforcement Letter (may be issued every 21 days for rental properties >4 months cert expired) 2nd Notice,153.00
+134,Code Enforcement Letter (may be issued every 21 days for rental properties >4 months cert expired) 3rd Notice,204.00
+134,Code Enforcement Letter (may be issued every 21 days for rental properties >4 months cert expired) 4th notice before legal actions,255.00
+134,Cancellation of scheduled rental inspection with less than 3 days’ notice (up to 9 units),41.00
+134,Cancellation of scheduled rental inspection with less than 3 days’ notice (up to 36 units),81.00
+134,Cancellation of scheduled rental inspection with less than 3 days' notice (up to 74 units),122.00
+134,Cancellation of scheduled rental inspection with less than 3 days' notice (up to 112 units),163.00
+134,Cancellation of scheduled rental inspection with less than 3 days' notice (up to 150 units),204.00
+134,No Call/No Show for Rental Inspection Appointment (1st Occurence),57.00
+134,No Call/No Show for Rental Inspection Appointment (2nd Occurence),78.00
+134,No Call/No Show for Rental Inspection Appointment (3rd+ Occurence),104.00
+134,No Call/No Show for Rental Inspection 11 units or more,57.00 base + 10.00 for ea addt'l hour scheduled
+135,"Discount Rate for Early Rental inspection prior to cert expiration (per unit, per inspection and reinspection)",61.00
+135,"Standard Rental inspection after cert expiration (per unit, per inspection and reinspection)",88.00
+135,"Hotel/Motel, Bed/Breakfast, Fraternity/Sorority, Rooming House inspection (per building inspected + per room inspected)",$121 + $16
+135,Conditional Certificate Clearance,51.00
+135,Conditional Certificate Time Extension,26.00
+135,Residential pre-sale inspection (per dwelling unit),88.00
+135,Housing complaint inspection resulting in a violation notice (per inspection visit),83.00
+135,Annual Rental Registration fee (per property + per unit),$123 + $1.75/unit
+135,Historic Preservation,
+135,Work in a Historic District with a Building Permit,$35+Building Permit fee
+135,Administrative Review of Work in a Historic District not requiring a Building Permit,35.00
+135,Historic District Commission Review,85.00
+135,Nuisance Violations,
+135,Owner Occupied Housing Notice (per occurrence),
+135,Initial Notice,
+135,No response 2nd notice,83.00
+135,Tall Grass/Weed violation notice (1st notice of season),132.00
+135,Tall Grass/Weed violation notice (2nd notice),184.00
+135,Tall Grass/Weed violation notice (3rd notice),236.00
+135,Tall Grass/Weed violation notice (4th + notices),288.00
+135,Weed Mowing (per occurrence) (if property needs to be referred to city's contractor for mowing),$80 + contractor charges
+135,Noxious Weed abatement,$80 + contractor charges
+135,Curb lawn - junk/debris left in curblawn area/city row area - immediate referral (no warning notice),$58 + contractor charges
+135,Herby Bin Rollback - bins left in curblawn after ordinance guidelines,$32 + contractor charges
+135,"Private Property Nuisance Notice (trash, brush, porch, graffiti, junk auto, etc.) (per occurrence)",80.00
+135,"Private property clean-ups (trash, brush, porch)(city contractor is sent to property to clean up after notice expires)",$80 + contractor charges
+135,Graffiti: Initial Notice,
+135,Graffiti: No Response 2nd Notice,80.00
+135,Graffiti: Abatement,$80 + contractor charges
+135,Condemnation/Dangerous Building Post,156.00
+136,Condemnation reposting,52.00
+136,Notice to vacate,80.00
+136,Repair or vacate notice,127.00
+136,Open to casual entry,80.00
+136,Commercial/Industrial Complaint Inspection Resulting in a Violation Notice,80.00
+136,Vacant Blighted Structure Inspection Fees (per inspection)(in excess of monthy monitoring inspection),80.00
+136,Vacant Blighted Structure Fees,
+136,Annual VBS Registration Fee (every property assessed the same fee for the 1st initial year but fees will increase each year or long as property is classified as VBS,153.00
+136,Annual VBS Registration Fee (Second Year),255.00
+136,Annual VBS Registration Fee (Third Year),357.00
+136,Annual VBS Registration Fee (Four or more years),510.00
+136,VBS Tier 1 - monthly monitoring fee,63.00
+136,VBS Tier 2 - biannually monitoring fee,63.00
+136,VBS Boarding,
+136,Dangerous Buildings Board,
+136,Dangerous Buildings Board referral,172.00
+136,Initial Hearing,172.00
+136,Re-hearing,115.00
+136,Title Search and Review,286.00
+136,Title Search Update,115.00
+136,Planning,
+136,Documents,
+136,Planning Document-Printed (Any),27.00
+136,Plot of Any Map-Printed,16.00
+136,Zoning Ordinance or other documents-On Line,
+136,Rezoning,
+136,Rezoning,572.00
+136,Zoning Ordinance Text Amendment,572.00
+136,Special Use Permits,
+136,Special Use Permits,390.00
+136,Planned Unit Development,
+137,Preliminary Plan,312.00
+137,Final Plan,572.00
+137,Subdivision,
+137,Tentative Preliminary Plat Approval,572.00
+137,Final Preliminary Plat Approval,572.00
+137,Final Plat Approval,572.00
+137,Temporary Use Permit,
+137,Temporary Use Permit – Administrative Approval for 30 Days or Less,156.00
+137,Sidewalk Dining Permit,
+137,Sidewalk Café Permit,156.00
+137,Parklet/Street Patio Permit,260.00
+137,2nd Year Renewal,52.00
+137,Planning: Other,
+137,Master Plan Amendment,780.00
+137,Right-of-Way Vacation,$495 + fair market value of land
+137,Natural Features Protection,
+137,NFP Board Project Review,115.00
+137,Sign Permits,
+137,New Sign,78.00
+137,Special Event/Grand Opening Sign,52.00
+137,Repair/Alteration of Existing Sign,52.00
+137,Zoning Board of Appeals,
+137,Use Variance,390.00
+137,Dimensional Variance,312.00
+137,Ordinance Interpretation,286.00
+137,Appeal of Administrative Decision,312.00
+137,Temporary Use,156.00
+137,Zoning Inspections & Enforcement,
+137,Zoning Compliance Letter – up to 4 Dwelling Units,57.00
+137,Zoning Compliance Letter – all other development,156.00
+138,Zoning Inspection Resulting in Violation Notice,80.00
+138,Site Plan Review,
+138,Checklist Meeting (formerly Pre-Application),37.00
+138,Site Plan for Change of Use only (with no building),312.00
+138,Site Plans,520.00
+138,Amendment that Requires Action by 1-4 Site Plan Review Committee Members,156.00
+138,Amendment that Requires Action 5 or more Site Plan Review Committee Members,364.00
+138,Telecommunication Antennas Co-location,260.00
+138,Economic Development,
+138,Economic Initiative Loan Application Fee,"A $500 flat, non-refundable application fee. For loans over $50,000, the total fee is 1% of the approved loan amount. The $500 application fee is applied toward this 1%, with the remaining balance due after City Commission approval."
+138,"NEZ (New and Rehabilitated Only) - Fee collected for Certificate, Per Project","2,500.00"
+138,"OPRA - Fee collected for Certificate, Per Project","2,500.00"
+138,"Commercial Redevelopment Act (PA225) - Fee collected for Certificate, Per Project","2,500.00"
+138,"Commercial Rehabilitation Act (PA201) - Fee collected for Certificate, Per Project","2,500.00"
+138,"Industrial Property Tax Abatement (PA198) - Fee collected for Certificate, Per Project","2,500.00"
+138,Marihuana,
+138,Marihuana Business Operating Permit: Provision Center,"5,000.00"
+138,Marihuana Business Operating Permit: Retailer,"5,000.00"
+138,Marihuana Business Operating Permit: Grower (all classes),"5,000.00"
+138,Marihuana Business Operating Permit: Provision Venter,"5,000.00"
+138,Marihuana Business Operating Permit: Processor,"5,000.00"
+138,Marihuana Business Operating Permit: Microbusiness,"5,000.00"
+138,Marihuana Business Operating Permit: Seure Transporter,"5,000.00"
+138,Marihuana Business Operating Permit: Safety Compliance Facility,"5,000.00"
+138,Marihuana Business Operating Permit: Excess Grower,"2,500.00"
+138,Marihuana Business Operating Permit: Designated Consumption Establishment,250.00
+138,Liquor License,
+138,Liquor License Application,350.00
+138,Liquor License Permit Application,100.00
+138,Redevelopment Liquor License (new location),350.00
+139,Manufacturing Liquor License (new location),350.00
+139,Off-Premises Tasting Room Liquor License (new location),350.00
+139,Other MLCC (new location),350.00
+139,Social District Permit (existing location),100.00
+139,On-Premises Tasting Room Permit (existing location),100.00
+139,Other Liquor License (existing location),100.00
+139,Business Development Fund,
+139,Façade Improvement Program Application Fee,1% of grant/loan request
+139,Small Business Program Application Fee,1% of grant/loan request
+139,Brownfield Redevelopment Authority,
+139,Brownfield Plan Application Fee,"Application base fee of $1,500 plus 1% of total TIF reimbursement approved to developer, not to exceed $15,000"
+139,Transformational Brownfield Plan Application Fee,"Application base fee of $10,000 plus 1% of total TIF reimbursement approved to developer, not to exceed $25,000"
+139,Brownfield Plan Amendment Fee,780.00
+139,Temporary Site Access Fee,510.00
+139,Brownfield TIF Advance Application Fee,"2,500.00"

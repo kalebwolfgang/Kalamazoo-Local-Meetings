@@ -1,0 +1,53 @@
+# Agenda item H1: Adoption of a RESOLUTION approving and adopting the annual appropriation for the year 2026, setting forth the number of mills to be levied, approving an interim appropriation for the year 2027, and establishing policies for the administration of the budget.
+# Attachment: 2026 Expenditure Summary by Fund
+# Packet pages 88-89 of the January 5, 2026 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 88 ---
+[scanned page, text read by software: may contain small errors]
+
+12/12/25, 11:14 AM Kalamazoo / FY26 Proposed Budget for Budget Book
+FY26 Proposed Budget for Budget Book
+Collapse All 2024 Actuals 2025 Amended Budget 2025 Adopted Budget 2026 Proposed Budget
+v PROPRIETARY $ 121,498,780 $ 347,902,745 $ 242,155,283 $ 158,421,494
+v ENTERPRISE FUNDS 121,498,780 347,902,745 242,155,283 158,421,494
+> WATER 62,875,978 254,581,229 177,520,200 78,479,431
+> WASTEWATER 55,805,013 90,441,835 61,755,402 76,941,742
+> PARKING 2,817,789 2,879,681 2,879,681 3,000,321
+v GOVERNMENTAL 157,307,608 241,670,189 146,561,763 186,004,016
+>» GENERAL FUNDS 86,695,314 89,348,520 85,084,378 87,079,820
+v SPECIAL REVENUE FUNDS 60,794,205 110,675,572 45,325,809 87,506,213
+> MAJOR STREETS 19,812,228 44,413,002 25,918,280 65,818,290
+v GRANTS AND DONATIONS 21,335,634 35,652,420 1,629,687 182,000
+(235) RECOVERY GRANTS AND PROGRAMS 18,359,663 10,171,918 500,000 182,000
+(232) GRANT FUND 2,828,796 24,819,153 1,129,687 0
+(233) DONATIONS FUND 27,176 661,349 0 0
+(236) LIGHT GRANT 120,000 0 0 0
+> LOCAL STREETS 5,614,309 6,540,967 4,814,572 5,860,921
+>» FOUNDATION FOR EXCELLENCE 3,285,752 6,812,952 5,000,000 5,016,000
+v OTHER SPECIAL REVENUE 4,365,875 4,440,778 3,355,039 5,730,780
+(211) KALAMAZOO MUNICIPAL GOLF ASSOCIATION 3,496,213 3,157,027 2,670,000 3,170,000
+(209) CEMETERY FUND 733,708 752,356 535,998 670,632
+(249) BUILDING DEPARTMENT FUND 0) 0 0 1,662,139
+(265) DRUG LAW ENFORCEMENT FUND 132,567 505,038 147,571 201,633
+https://controlpanel.opengov.com/reports#/kalamazoocity/162203/accountType=expenses&embed=n&breakdown=b1 6edfdc-9ffc-48b6-839a-bac23b21f5e4&currentYearAmount=cu mulative&currea eae of 560
+
+--- packet page 89 ---
+[scanned page, text read by software: may contain small errors]
+
+12/12/25, 11:14 AM Kalamazoo / FY26 Proposed Budget for Budget Book
+2024 Actuals 2025 Amended Budget 2025 Adopted Budget 2026 Proposed Budget
+(270) HISTORICAL COMMISSION FUND 3,389 26,187 1,300 26,345
+(225) BLIGHT ABATEMENT FUND 0 170 170 31
+> SOLID WASTE 3,608,794 4,442,729 4,408,729 4,744,017
+vy COMMUNITY DEVELOPMENT 2,771,613 8,372,722 199,502 154,205
+(299) CDBG GRANT 2,443,724 4,014,649 188,423 124,883
+(298) HOME GRANT 327,890 4,358,073 11,079 29,322
+(296) HUD GRANT ADMINISTRATION 0 0 0 0
+v CAPITAL PROJECTS FUNDS 9,818,090 41,646,097 16,151,576 11,417,983
+v CAPITAL IMPROVEMENT PROGRAM 7,508,136 39,543,504 14,351,834 9,159,111
+(401) CAPITAL PROJECTS FUND 7,508,136 39,543,504 14,351,834 9,159,111
+v STREETS 2,309,954 2,102,593 1,799,742 2,258,872
+(440) STREETS JURISDICTIONAL TRANSFER 2,309,954 2,102,593 1,799,742 2,258,872 [corrected by hand from page image]
+Total $ 278,806,388 $ 589,572,934 $ 388,717,046 $ 344,425,510
+Created with OpenGov
+https://controlpanel. opengov.com/reports#/kalamazoocity/162203/accountType=expenses&embed=n&breakdown=b1 6edide- 9ffc-48b6-839a-bac23b2 115e48currentYearAmount=cumulative&curpentveagy of BEF

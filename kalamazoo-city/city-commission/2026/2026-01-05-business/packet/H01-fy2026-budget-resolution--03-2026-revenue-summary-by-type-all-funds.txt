@@ -1,0 +1,23 @@
+# Agenda item H1: Adoption of a RESOLUTION approving and adopting the annual appropriation for the year 2026, setting forth the number of mills to be levied, approving an interim appropriation for the year 2027, and establishing policies for the administration of the budget.
+# Attachment: 2026 Revenue Summary by Type - All Funds
+# Packet pages 87-87 of the January 5, 2026 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 87 ---
+[scanned page, text read by software: may contain small errors]
+
+12/12/25, 11:16 AM Kalamazoo / FY26 Proposed Budget for Budget Book
+FY26 Proposed Budget for Budget Book
+Expand All 2024 Actuals 2025 Amended Budget 2025 Adopted Budget 2026 Proposed Budget
+>» CHARGES FOR SERVICES $ 95,238,003 $ 102,987,418 $ 102,987,418 $ 109,877,852
+> STATE GRANTS 30,434,656 171,685,248 142,941,587 39,333,407
+> OTHER FINANCING SOURCES 75,171,313 34,990,752 75,176,914 131,743,808
+>» OTHER REVENUE 59,087,414 194,555,283 27,525,009 28,749,628
+> TAXES 30,715,464 31,161,910 31,161,910 32,635,255
+>» FEDERAL GRANTS 28,628,163 39,318,569 3,495,000 346,234
+> INTEREST AND RENTALS 8,996,701 2,173,611 2,173,611 3,321,395
+> LICENSES AND PERMITS 2,687,527 3,406,131 3,206,131 3,180,634
+> FINES AND FORFEITS 749,456 608,607 608,607 858,084
+> CONTRIBUTION FROM LOCAL UNITS 259,810 1,408,474 90,000 245,390
+Total $ 331,968,508 $ 582,296,003 $ 389,366,187 $ 350,291,687
+Created with OpenGov
+https://controlpanel.opengov.com/reports#/kalamazoocity/162203/accountType=revenues&embed=n&breakdown=types&current YearAmount=cumulative&currentYearPeriod=years&graph=pie&legendh7 of Afi
