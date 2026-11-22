@@ -1,1 +1,12 @@
-x
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet, so no numbers needed checking.
+# The pages below were maps or pictures. Software turned them into unreadable text, so that text was replaced.
+
+F01-4301-stadium-rezoning-hearing--03-2025-05-4301-stadium-drive-aerial-view.txt, packet page 19: map. Readable labels typed in by hand from the page image.
+F01-4301-stadium-rezoning-hearing--04-2025-05-4301-stadium-current-zoning.txt, packet page 20: map. Readable labels typed in by hand from the page image.
+F01-4301-stadium-rezoning-hearing--05-2025-05-4301-stadium-future-land-use.txt, packet page 21: map. Readable labels typed in by hand from the page image.
+F01-4301-stadium-rezoning-hearing--10-letters-provided-with-comments-received-20260121.txt, packet page 171: map with a property list. The text was read again at higher resolution from cropped parts of the page and checked by hand. Map labels left out.
+F01-4301-stadium-rezoning-hearing--10-letters-provided-with-comments-received-20260121.txt, packet pages 182-183: slides with photos and aerial maps. Titles typed in by hand.
+G06-polling-locations-resolution--04-map-precincts-and-proposed-polling-locations.txt, packet page 228: map. Title and the polling location table printed on the map typed in by hand.
+G06-polling-locations-resolution--05-map-precinct-15-relocation.txt, packet page 229: map. Readable labels typed in by hand.
+G06-polling-locations-resolution--06-map-precinct-23-14-relocation.txt, packet page 230: map. Readable labels typed in by hand.

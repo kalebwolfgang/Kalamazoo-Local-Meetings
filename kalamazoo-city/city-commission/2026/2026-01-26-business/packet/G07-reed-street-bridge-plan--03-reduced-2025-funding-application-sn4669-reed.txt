@@ -1,0 +1,594 @@
+# Agenda item G7: It is recommended that the City Commission accept a recommendation by the Regional Bridge Council to include Reed Street Bridge in the three-year bridge plan, providing $126,350 (95%) of funding for preventative maintenance and committing $6,650 as city match funding for this project.
+# Attachment: Reduced 2025 Funding Application_SN4669 Reed
+# Packet pages 236-250 of the January 26, 2026 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 236 ---
+
+                                         MICHIGAN DEPARTMENT OF TRANSPORTATION
+
+STR 4669                                    BRIDGE SAFETY INSPECTION REPORT
+Facility                           Latitude / Longitude                MDOT Structure ID              Structure Condition
+REED STREET                        42.2741 / -85.5766                  394353800053B01                Fair Condition(6)
+Feature                            Length / Width / Spans              Owner
+PORTAGE CREEK                      23 / 65.9 / 1                       City: KALAMAZOO(3538)
+Location                           Built / Recon. / Paint / Ovly.      TSC                            Operational Status
+CITY OF KALAMAZOO                  1983 /      /     / 2009            Kalamazoo(16)                  A Open, no restriction(A)
+Region / County                    Material / Design                   Last NBI Inspection            Scour Evaluation
+Southwest(5) / Kalamazoo(39)       5 Prestressed Concrete / 05         07/25/2024 / O0B8              5 Stable w/in footing
+                                   Box Bm/Gird- Multiple
+
+NBI INSPECTION                                                                                                                        O0B8
+Inspector Name                           Agency / Company Name                            Insp. Freq.                    Insp. Date
+Alan Halbeisen                           Orchard, Hiltz, & McCliment                             24                     07/25/2024
+
+GENERAL NOTES
+2024 inspection assisted by Arnold Chiswanda
+
+USGS station at SE corner. Gauge at SW, water at 2.50
+
+DECK
+                      08/20 07/22 07/24
+1. Surface              7      7     7     HMA in good condition. Longitudinal cracks sealed. (07/24)
+(SIA-58A)                                  HMA in good condition. Longitudinal cracks sealed. (07/22)
+                                           HMA in good condition. Longitudinal cracks sealed. (08/20)
+2. Expansion            N      N     N      (07/24)
+Joints                                      (07/22)
+                                            (08/20)
+3. Other                7      7     N     Sealed cracking at road lanes and abutment lines. (07/24)
+Joints                                     Sealed cracking at road lanes and abutment lines. (07/22)
+                                           Sealed cracking at road lanes and abutment lines. (08/20)
+4. Railings             7      7     7     Concrete parapet with 1 tube. Bushes at NE and NW corners. Vegetation on NW railing.
+                                           (07/24)
+                                           Concrete parapet with 1 tube. Bushes at NE and NW corners. vegetation on NW railing.
+                                           (07/22)
+                                           Concrete parapet with 1 tube. Bushes at NE and NW corners. (08/20)
+5. Sidewalks            6      6     6     Wide sidewalks Longitudinal and transverse joints, with vegetation in joints and cracks.
+or Curbs                                   Transverse cracks at west end of north sidewalk. (07/24)
+                                           Wide sidewalks Longitudinal and transverse joints, with vegetation in joints and cracks.
+                                           Transverse cracks at west end of north sidewalk. (07/22)
+                                           Wide sidewalks Longitudinal and transverse joints, with vegetation in joints and cracks.
+                                           Transverse cracks at west end of north sidewalk. (08/20)
+6. Deck                 N      N     N     Side by side concrete box beams. (07/24)
+Bottom                                     Side by side concrete box beams. (07/22)
+Surface                                    Side by side concrete box beams. (08/20)
+(SIA-58B)
+7. Deck                 7      7     7     Concrete box beams with HMA surface. (07/24)
+(SIA-58)                                   Concrete box beams with HMA surface. (07/22)
+                                           Concrete box beams with HMA surface. (08/20)
+8. Drainage                                Curb and gutter storm drains off of bridge. (07/24)
+                                           Curb and gutter storm drains off of bridge. (07/22)
+                                           Curb and gutter storm drains off of bridge. (08/20)
+
+SUPERSTRUCTURE
+                      08/20 07/22 07/24
+
+Modified by: HALBEISENA1216 on 08/12/2024               Printed on 03/11/2025                                                 Page 1 of 4
+
+                                                                                                                          Page 236 of 261
+
+--- packet page 237 ---
+
+                                        MICHIGAN DEPARTMENT OF TRANSPORTATION
+
+STR 4669                                  BRIDGE SAFETY INSPECTION REPORT
+Facility                           Latitude / Longitude               MDOT Structure ID           Structure Condition
+REED STREET                        42.2741 / -85.5766                 394353800053B01             Fair Condition(6)
+Feature                            Length / Width / Spans             Owner
+PORTAGE CREEK                      23 / 65.9 / 1                      City: KALAMAZOO(3538)
+Location                           Built / Recon. / Paint / Ovly.     TSC                         Operational Status
+CITY OF KALAMAZOO                  1983 /      /     / 2009           Kalamazoo(16)               A Open, no restriction(A)
+Region / County                    Material / Design                  Last NBI Inspection         Scour Evaluation
+Southwest(5) / Kalamazoo(39)       5 Prestressed Concrete / 05        07/25/2024 / O0B8           5 Stable w/in footing
+                                   Box Bm/Gird- Multiple
+
+9. Stringer            7       7    7    Side by side concrete box beams. Ellforesence with stalagtites forming at 2nd, 3rd, 4th, 5th &
+(SIA-59)                                 6th joints from north fascia and at 3rd, 4th & 5th joints from south fascia. (07/24)
+                                         Side by side concrete box beams. Ellforesence with stalagtites forming at 2nd, 3rd, 4th, 5th &
+                                         6th joints from north fascia and at 3rd, 4th & 5th joints from south fascia. (07/22)
+                                         Side by side concrete box beams. Ellforesence with stalagtites forming at 2nd, 3rd, 4th, 5th &
+                                         6th joints from north fascia and at 3rd, 4th & 5th joints from south fascia. (08/20)
+10. Paint             N        N    N     (07/24)
+(SIA-59A)                                 (07/22)
+                                          (08/20)
+11. Section           N        N    N     (07/24)
+Loss                                      (07/22)
+                                          (08/20)
+12. Bearings           7       7    7    Thin bearing pads. (07/24)
+                                         Thin bearing pads. (07/22)
+                                         Thin bearing pads. (08/20)
+
+SUBSTRUCTURE
+                     08/20 07/22 07/24
+13. Abutments          6       6    6    Vertical crack in West abut at storm outlet near center and vertical crack with displacement
+(SIA-60)                                 (4") at corner of west abutment and SW wing. Crack at corner of SE wing. Vertical cracks in
+                                         East abut, north of hanging utility pipe. Vertical crack at NW wing. Vertical crack with
+                                         displacement (<1") at corners of east abutment and SE wing. Scaling and spalling at water
+                                         line on west side and east side at south end. (07/24)
+                                         Vertical crack in West abut at storm outlet and vertical crack with displacement (4") at corner
+                                         of west abutment and SW wing. Crack at corner of SE wing. Vertical cracks in East abut,
+                                         north of hanging utility pipe. Vertical crack at NW wing. Vertical crack with displacement
+                                         (<1") at corners of east abutment and SE wing. Scaling and spalling at water line on west
+                                         side and east side at south end. (07/22)
+                                         Vertical crack in West abut at storm outlet and vertical crack with displacement (4") at corner
+                                         of west abutment and SW wing. Crack at corner of SE wing. Vertical cracks in East abut,
+                                         north of hanging utility pipe. Vertical crack at NW wing. Vertical crack with displacement
+                                         (<1") at corners of east abutment and SE wing. Scaling and spalling at water line on west
+                                         side and east side at south end. (08/20)
+14. Piers             N        N    N     (07/24)
+(SIA-60)                                  (07/22)
+                                          (08/20)
+15. Slope             N        N    N     (07/24)
+Protection                                (07/22)
+                                          (08/20)
+16. Channel            6       6    6    Abutments in line with channel walls downstream. Gabion stone walls behind wingwalls at
+(SIA-61)                                 SE and SW. (07/24)
+                                         Abutments in line with channel walls downstream. Gabion stone walls behind wingwalls at
+                                         SE and SW. USGS gauge station at SE corner, 2.20 ft. (07/22)
+                                         Abutments in line with channel walls downstream. Gabion stone walls behind wingwalls at
+                                         SE and SW. USGS gauge station at SE corner (08/20)
+17. Scour              7       7    7    Sandy bottom, water 2 ft +/-. No exposed footings. (07/24)
+Inspection                               Sandy bottom, water 1.5 ft +/-. No exposed footings. (07/22)
+                                         Sandy bottom, water 1.5 ft +/-. No exposed footings. (08/20)
+
+APPROACH
+                     08/20 07/22 07/24
+
+Modified by: HALBEISENA1216 on 08/12/2024              Printed on 03/11/2025                                               Page 2 of 4
+
+                                                                                                                      Page 237 of 261
+
+--- packet page 238 ---
+
+                                        MICHIGAN DEPARTMENT OF TRANSPORTATION
+
+STR 4669                                  BRIDGE SAFETY INSPECTION REPORT
+Facility                           Latitude / Longitude                 MDOT Structure ID       Structure Condition
+REED STREET                        42.2741 / -85.5766                   394353800053B01         Fair Condition(6)
+Feature                            Length / Width / Spans               Owner
+PORTAGE CREEK                      23 / 65.9 / 1                        City: KALAMAZOO(3538)
+Location                           Built / Recon. / Paint / Ovly.       TSC                     Operational Status
+CITY OF KALAMAZOO                  1983 /      /     / 2009             Kalamazoo(16)           A Open, no restriction(A)
+Region / County                    Material / Design                    Last NBI Inspection     Scour Evaluation
+Southwest(5) / Kalamazoo(39)       5 Prestressed Concrete / 05          07/25/2024 / O0B8       5 Stable w/in footing
+                                   Box Bm/Gird- Multiple
+
+18. Approach             6     6    6     Patched pavement near MH at Reed Court, east of bridge. NE approach depressed
+Pavement                                  pavement adjacent to manhole West approach settled near MH in WB lane. (07/24)
+                                          Patched pavement near MH at Reed Court, east of bridge. NE approach depressed
+                                          pavement adjacent to manhole West approach settled near MH in WB lane. (07/22)
+                                          Patched pavement near MH at Reed Court, east of bridge. NE approach depressed
+                                          pavement adjacent to manhole West approach settled near MH in WB lane. (08/20)
+19. Approach             6     6    6     SE quad, 1 1/2" lip. No sidewalk on SW approach. No ramp at NE approach (Reed Court)
+Shoulders                                 (07/24)
+Sidewalks                                 SE quad, 1 1/2" lip. No sidewalk on SW approach. No ramp at NE approach (Reed Court)
+                                          (07/22)
+                                          Minor trip hazard in SE quad, 1 1/2" lip. No sidewalk on SW approach. No ramp at NE
+                                          approach (Reed Court) (08/20)
+20. Approach                              Flat, grass. (07/24)
+Slopes                                    Flat, grass. (07/22)
+                                          Flat, grass. (08/20)
+21. Utilities                             Casing under south curb is very rusty.
+                                          6 inch pipe under north side.
+                                          OH lines North and South of bridge. Diagonal OH service, SE to NW. (07/24)
+                                          Casing under south curb is very rusty.
+                                          6 inch pipe under north side.
+                                          OH lines North and South of bridge. Diagonal OH service, SE to NW. (07/22)
+                                          Casing under south curb is very rusty.
+                                          6 inch pipe under north side.
+                                          OH lines North and South of bridge. Diagonal OH service, SE to NW. (08/20)
+22. Drainage                              (07/24)
+Culverts                                  (07/22)
+                                          (08/20)
+
+MISCELLANEOUS
+Guard Rail                                                           Other Items
+Item                               Rating                            Item                           Rating
+36A. Bridge Railings               1                                 71. Water Adequacy             8
+36B. Transitions                   0                                 72. Approach Alignment         9
+36C. Approach Guardrail            0                                 Temporary Support              0 No Temporary Supports
+36D. Approach Guardrail Ends       0                                 High Load Hit (M)              No
+                                                                     Special Insp. Equipment
+                                                                     Underwater Insp. Method        1
+False Decking (Timber) Removed to Complete Inspection                N/A - No False Decking
+
+Critical Feature Inspections (SIA-92)
+                                   Freq             Date
+92A. Fracture Critical
+92B. Underwater
+92C. Other Special
+92D. Fatigue Sensitive
+
+Modified by: HALBEISENA1216 on 08/12/2024                  Printed on 03/11/2025                                        Page 3 of 4
+
+                                                                                                                    Page 238 of 261
+
+--- packet page 239 ---
+
+                                     MICHIGAN DEPARTMENT OF TRANSPORTATION
+
+STR 4669                                BRIDGE SAFETY INSPECTION REPORT
+Facility                         Latitude / Longitude               MDOT Structure ID        Structure Condition
+REED STREET                      42.2741 / -85.5766                 394353800053B01          Fair Condition(6)
+Feature                          Length / Width / Spans             Owner
+PORTAGE CREEK                    23 / 65.9 / 1                      City: KALAMAZOO(3538)
+Location                         Built / Recon. / Paint / Ovly.     TSC                      Operational Status
+CITY OF KALAMAZOO                1983 /      /     / 2009           Kalamazoo(16)            A Open, no restriction(A)
+Region / County                  Material / Design                  Last NBI Inspection      Scour Evaluation
+Southwest(5) / Kalamazoo(39)     5 Prestressed Concrete / 05        07/25/2024 / O0B8        5 Stable w/in footing
+                                 Box Bm/Gird- Multiple
+
+SUPPORTING IMAGES                                                                                              O0B8 07/25/2024
+
+Document Name: DSCF0011.JPG                                       Document Name: DSCF0012.JPG
+Category: Approach                                                Category: Approach
+Span Number:                                                      Span Number:
+Comments: Looking west                                            Comments: East approach, looking south
+
+Document Name: DSCF0016.JPG                                       Document Name: DSCF0013.JPG
+Category: Deck                                                    Category: Substructure
+Span Number:                                                      Span Number:
+Comments: South sidewalk                                          Comments: West abutment, crack near centerline
+
+Modified by: HALBEISENA1216 on 08/12/2024            Printed on 03/11/2025                                            Page 4 of 4
+
+                                                                                                                   Page 239 of 261
+
+--- packet page 240 ---
+
+                                            MICHIGAN DEPARTMENT OF TRANSPORTATION
+
+STR 4669                                    STRUCTURE INVENTORY AND APPRAISAL
+Facility                               Latitude / Longitude                    MDOT Structure ID        Structure Condition
+REED STREET                            42.2741 / -85.5766                      394353800053B01          Fair Condition(6)
+Feature                                Length / Width / Spans                  Owner
+PORTAGE CREEK                          23 / 65.9 / 1                           City: KALAMAZOO(3538)
+Location                               Built / Recon. / Paint / Ovly.          TSC                      Operational Status
+CITY OF KALAMAZOO                      1983 /      /     / 2009                Kalamazoo(16)            A Open, no restriction(A)
+Region / County                        Material / Design                       Last NBI Inspection      Scour Evaluation
+Southwest(5) / Kalamazoo(39)           5 Prestressed Concrete / 05             07/25/2024 / O0B8        5 Stable w/in footing
+                                       Box Bm/Gird- Multiple
+
+     Bridge History, Type, Materials             Route Carried By Structure(ON Record)            Route Under Structure (UNDER Record)
+27 - Year Built                1983             5A - Record Type                  1               5A - Record Type
+106 - Year Reconstructed                        5B - Route Signing                5               5B - Route Signing
+202 - Year Painted                              5C - Level of Service             0               5C - Level of Service
+203 - Year Overlay             2009             5D - Route Number                 02005           5D - Route Number
+43 - Main Span Bridge Type     5      05        5E - Direction Suffix             0               5E - Direction Suffix
+44 - Appr Span Bridge Type                      10L - Best 3m Unclr-Lt            0     0         10L - Best 3m Unclr-Lt
+77 - Steel Type                0                10R - Best 3m Unclr-Rt            99    99        10R - Best 3m Unclr-Rt
+78 - Paint Type                0                   PR Number                                         PR Number
+79 - Rail Type                 6                   Control Section                                   Control Section
+80 - Post Type                 0                11 - Mile Point                    0              11 - Mile Point
+107 - Deck Type                1                12 - Base Highway Network          0              12 - Base Highway Network
+108A - Wearing Surface         6                13 - LRS Route-Subroute           0000000036 05   13 - LRS Route-Subroute
+108B - Membrane                0                19 - Detour Length                 2              19 - Detour Length
+108C - Deck Protection         1                20 - Toll Facility                 3              20 - Toll Facility
+           Structure Dimensions                 26 - Functional Class              16             26 - Functional Class
+                                                28A - Lanes On                     2              28B - Lanes Under
+34 - Skew                      5
+                                                29 - ADT                           3647           29 - ADT
+35 - Struct Flared             N
+                                                30 - Year of ADT                   1997           30 - Year of ADT
+45 - Num Main Spans            1
+                                                32 - Appr Roadway Width            32.2           42B - Service Type Under          5
+46 - Num Apprs Spans           0
+                                                32A/B - Ap Pvt Type/Width          5     31.99    47L - Left Horizontal Clear
+48 - Max Span Length           20
+                                                42A - Service Type On              5              47R - Right Horizontal Clear
+49 - Structure Length          23
+                                                47L - Left Horizontal Clear        0.0            54A - Left Feature
+50A - Width Left Curb/SW       4.9
+                                                47R - Right Horizontal Clear       31.2           54B - Left Underclearance         99     99
+50B - Width Right Curb/SW      4.9
+                                                53 - Min Vert Clr Ov Deck          99    99       54C - Right Feature
+33 - Median                    0
+                                                100 - STRAHNET                     0              54D - Right Clearance             99     99
+51 - Width Curb to Curb        32.2
+                                                102 - Traffic Direct               2                 Under Clearance Year
+52 - Width Out to Out          65.9
+                                                109 - Truck %                      5              55A - Reference Feature           N
+112 - NBIS Length              Y
+                                                110 - Truck Network                0              55B - Right Horiz Clearance       99.9
+               Inspection Data                  114 - Future ADT                   4741           56 - Left Horiz Clearance         0
+90 - Inspection Date           07/25/2024       115 - Year Future ADT              2017           100 - STRAHNET
+91 - Inspection Freq           24                  Freeway                         0              102 - Traffic Direct
+92A - Frac Crit Req/Freq       N                             Structure Appraisal                  109 - Truck %
+93A - Frac Crit Insp Date                                                                         110 - Truck Network
+                                                36A - Bridge Railing              1
+92B - Und Water Req/Freq       N                                                                  114 - Future ADT
+                                                36B - Rail Transition             0
+93B - Und Water Insp Date                                                                         115 - Year Future ADT
+                                                36C - Approach Rail               0
+92C - Oth Spec Insp Req/Freq   N                                                                     Freeway
+                                                36D - Rail Termination            0
+93C - Oth Spec Insp Date                                                                                   Proposed Improvements
+                                                67 - Structure Evaluation         6
+92D - Fatigue Req/Freq         N
+                                                68 - Deck Geometry                4               75 - Type of Work
+93D - Fatigue Insp Date
+                                                69 - Underclearance               N               76 - Length of Improvement
+176A - Und Water Insp Method   1
+                                                71 - Waterway Adequacy            8               94 - Bridge Cost
+58 - Deck Rating               7
+                                                72 - Approach Alignment           9               95 - Roadway Cost
+58A/B - Deck Surface/Bottom    7      N
+                                                103 - Temporary Structure                         96 - Total Cost
+59 - Superstructure Rating     7
+                                                113 - Scour Criticality           5               97 - Year of Cost Estimate
+59A - Paint Rating             N
+60 - Substructure Rating       6                                Miscellaneous                              Load Rating and Posting
+61 - Channel Rating            6                37 - Historical Significance      5               31 - Design Load                  6
+62 - Culvert Rating            N                98A - Border Bridge State                         41 - Open, Posted, Closed         A
+               Navigation Data                  98B - Border Bridge %                             63 - Fed Oper Rtg Method          6
+                                                101 - Parallel Structure          N               64F - Fed Oper Rtg Load           2.16
+38 - Navigation Control        0
+                                                   EPA ID                                         64MA - Mich Oper Rtg Method       6
+39 - Vertical Clearance        0
+                                                   Stay in Place Forms            0               64MB - Mich Oper Rtg              1.67
+40 - Horizontal Clearance      0
+                                                143 - Pin & Hanger Code           0               64MC - Mich Oper Truck            18
+111 - Pier Protection
+                                                148 - No. of Pin & Hangers        0               65 - Inv Rtg Method               6
+116 - Lift Brdg Vert Clear
+                                                                                                  66 - Inventory Load               1.29
+                                                                                                  70 - Posting                      5
+                                                                                                  141 - Posted Loading
+                                                                                                  193 - Overload Class
+
+                                                            Printed on 03/11/2025                                                   Page 1 of 1
+
+                                                                                                                                 Page 240 of 261
+
+--- packet page 241 ---
+
+2a. Situation Map
+
+                    Image from Google Earth
+
+                                              Page 241 of 261
+
+--- packet page 242 ---
+
+2b. Detour Map
+
+                 Reed to Portage St
+                 To Alcott St
+                 To S Burdick St
+                 To Reed St
+
+                 Detour Length: 1.60 Miles
+
+                 Image from Google Earth
+
+                                             Page 242 of 261
+
+--- packet page 243 ---
+
+3. Photos
+
+            Approach Looking West
+
+            East Approach Condition
+
+                                      Page 243 of 261
+
+--- packet page 244 ---
+
+Utility Line and storm sewer outlets
+
+             West Abutment
+
+                                       Page 244 of 261
+
+--- packet page 245 ---
+
+  4. Application Requirements for Reed Street over Portage Creek
+
+A. Local Agency Contact Person
+
+   Tom Palumbo, PE
+   Public Works Division
+   palumbot@kalamazoocity.org
+   269-303-5142
+
+B. The purpose of this application is for the preventative maintenance of the
+   bridge carrying Reed Street over Portage Creek. Funding requested for
+   removal and replacement of the HMA overlay, waterproofing and
+   sidewalk sealing, substructure patching, and utility work. The City of
+   Kalamazoo will commit to providing 5% of the construction cost for the
+   local match on this structure. If selected the City would like to combine
+   this project with the similar work of preventive maintenance for
+   Stockbridge Avenue that was selected for 2027 funding.
+
+C. Economic Importance of the Structure
+
+   This structure is located approximately 0.28 miles west of Portage Street and
+   0.23 miles south of Stockbridge Avenue on the south side of Kalamazoo.
+   Reed Avenue is classified as a major collector, located in a residential area.
+
+   Reed Street is a moderately traveled residential roadway seeing approximately
+   2,900 vehicles a day. Residents use Reed St as a connection to the eastern and
+   western neighborhoods south of downtown. Additionally, it serves as a link to
+   many roadways providing access to public service agencies, major businesses,
+   and commercial shopping.
+
+   The bridge consists of side-by-side box beams with its top surface covered by
+   an HMA overlay consisting of two lanes of traffic. Additionally, concrete
+   sidewalks are adjacent to both directions of traffic. Overall, the structure is in
+   fair condition and rated as a 6. The HMA surface is beginning to crack on the
+   bridge and within the approach areas. This could lead to penetration of water
+   and deterioration of the beams and abutments. Replacing the HMA surface on
+   the deck and approaches, along with providing a waterproofing membrane
+   would stop this potential issue. Furthermore, vertical cracking and areas of
+   spalling and deteriorated patchwork can be seen in both abutments. A heavily
+   rusted utility casing running under the bridge on the south side is present as
+   well. Over time these cracks will widen, reducing the capacity of the structure.
+   Continual rusting of the utility casing can also lead to deterioration of the
+   abutment and reduction of structure capacity. Sealing these cracks and
+   replacing the utility casing would mitigate these issues and increase the life of
+   the structure.
+
+                                                                                    Page 245 of 261
+
+--- packet page 246 ---
+
+        D. If there is a current detour, what does it affect?
+
+           Currently the bridge is open to traffic and there is no detour.
+
+        E. If the structure were to be closed, what would the detour affect?
+
+           If the structure were to be closed, the detour would affect the residents and
+           businesses in the area. This would lengthen routes and discourage travel in
+           the area, hurting local businesses. Additionally, it may force more traffic onto
+           adjacent local roads congesting the areas and requiring an increase in
+           maintenance of these roadways. Located approximately 0.75 miles south of
+           Bronson Hospital, a detour may increase travel times for emergency vehicles,
+           a critical variable in times of emergency.
+
+        F. The structure is not currently closed.
+
+        G. Maintenance of the Structure
+
+           The structure was built in 1983. In 2009 an HMA overlay was placed on the
+           bridge.
+
+5. Estimated Replacement Costs
+
+        Preventative Maintenance
+        A. Structure Construction         $ 44,000.00
+        B. Approach Construction          $ 89,000.00
+            Total (A & B)                 $133,000.00
+
+        For a breakdown of Construction costs, see Appendix A.
+
+6. Priority List
+
+   1.      Crosstown Parkway over Portage Creek (Replacement)
+   2.      Preventive Maintenance (PM)
+           1. Reed Street over Portage Creek
+
+7. Resolution
+
+        The resolution is attached in Appendix B.
+
+8. Previous Applications
+
+        It is understood that all previous applications have been discarded and that this
+        application will be used to select funding.
+
+                                                                                            Page 246 of 261
+
+--- packet page 247 ---
+[image only: no readable text on this page]
+
+--- packet page 248 ---
+
+                                                                                   Exhibit 4 - Cost Estimating Worksheet
+                    2025                                                           BRIDGE COST ESTIMATE WORKSHEET                                                                                          REV. 02/6/2024
+
+                                                                                        - CPM, REHAB, REPLACE -                                                                             DATE:          3/11/2025
+OWNER:        KALAMAZOO                            FISCAL YEAR:             2028                                                                 Out to Out        Curb to Curb         ENGINEER:         OHM Advisors
+REGION:       Southwest                                                                                                          LENGTH          WIDTH              WIDTH
+TSC:          Kalamazoo                       PR: #N/A           MP: #N/A                                                           23.0          65.9               32.2           STRUCTURE ID:              4669
+                                                                                                                                                                                       BRIDGE ID:              N/A
+                LOCATION:     REED STREET          over PORTAGE CREEK
+    PRIMARY WORK ACTIVITY Asphalt overlay w/waterproofing                                                               DECK AREA:                1,516                 SFT              STR. TYPE: Prestressed Concrete
+             OTHER WORK: Substructure Patching                                                                     CLEAR ROADWAY:                  741                  SFT                         Box Beam or Girders - Multiple
+
+                    WORK ACTIVITY                               MDOT Bridge Design Guides                                    QUANTITY                                UNIT           UNIT COST                TOTAL
+NEW BRIDGE                                         (increase deck area based on design standards and hydraulic requirements)
+    Single or Multiple Spans, Grade Separation                  (add demo, approach, MOT)                                                                               SFT         $435.00 /SFT
+    Single Span, Over Water                  Length < 100ft    (add demo, approach, MOT)                                                                                SFT         $525.00 /SFT
+    Multiple Spans, Over Water               Length > 100ft    (add demo, approach, MOT)                                                                                SFT         $470.00 /SFT
+    Precast Culvert                          Length < 40ft     (add demo, approach, MOT)                                                                                SFT         $565.00 /SFT
+NEW SUPERSTRUCTURE
+    New Superstructure, Grade Separation                        (incl. remove exist deck/super; add MOT & approach)                                                     SFT         $310.00 /SFT
+    New Superstructure, Over Water                              (incl. remove exist deck/super; add MOT & approach)                                                     SFT         $315.00 /SFT
+WIDENING
+    Structure Widening, _____ ft                                (incl. deck/super/sub widening, add approach transition)                                                SFT         $630.00 /SFT
+NEW DECK
+    New Bridge Deck & Barrier                                   (incl. remove exist deck/railing, add approach, MOT)                                                    SFT         $150.00 /SFT
+DEMOLITION
+    Entire Structure, Grade Separation                                                                                                                                  SFT          $75.00 /SFT
+    Entire Structure, Over Water                                                                                                                                        SFT          $95.00 /SFT
+DECK REPAIR / TREATMENTS
+    Bridge Railing Replacement                                  (incl. removal and replacement)                                                                          FT         $750.00 /FT
+    Concrete Brush Block / Curb Patch                           (incl. hand chipping and formwork)                                                                       FT          $29.00 /FT
+    Concrete Barrier Patch                                      (incl. hand chipping and formwork)                                                                      SFT          $85.00 /SFT
+    Concrete Deck Patch                                         (incl. hand chipping)                                                                                   SFT          $68.00 /SFT
+    Deep Overlay                                                (incl. joint repl & hydro)                                                                              SFT          $46.00 /SFT
+    Epoxy Overlay                                               (incl. warranty)                                                                                        SYD          $48.00 /SYD
+    Expansion Joint Gland Replacement                           (remove and replace elastomeric gland)                                                                   FT         $125.00 /FT
+    Expansion Joint Replacement                                 (incl. removal)                                                                                          FT         $860.00 /FT
+    Full Depth Patch                                                                                                                                                    SFT         $140.00 /SFT
+    Healer / Sealer                                             (penetrates cracks in bridge deck)                                                     86.1             SYD          $30.00 /SYD                      $2,583.67
+    HMA Overlay with WP membrane                                                                                                                       82.3             SYD          $60.00 /SYD                      $4,937.33
+    Overlay Removal                                             (Epoxy: $22/syd | Latex: $26/syd | HMA: $7/syd)                                        82.3             SYD           $7.00 /SYD                        $576.02
+    Reseal Bridge Joints                                                                                                                              130.0              FT          $28.00 /FT                       $3,640.00
+    Shallow Overlay                                             (incl. joint repl & hydro)                                                                              SFT          $46.00 /SFT
+SUPERSTRUCTURE REPAIR
+    Bearing Realignment / Replacement                           (incl. temporary supports)                                                                              EA         $6,450.00 EA
+    Heat Straightening                                          (incl. clean and coat)                                                                                  EA        $57,000.00 EA
+    Pack Rust Repair                                            (greater than 3/8" separation)                                                                           FT        $1,150.00 /FT
+    Paint - Complete                                            (incl. clean & coat)                                                                                    SFT           $30.00 /SFT
+    Paint - Partial / Spot / Zone                               (incl. clean & coat - $20k minimum)                                                                     SFT           $60.00 /SFT
+    PCI Beam End Blockout                                       (incl. temporary supports)                                                                              EA         $7,200.00 EA
+    Pin & Hanger Replacement                                    (incl. temporary supports)                                                                              EA        $17,000.00 EA
+    Structural Steel Repair                                     (based on 6ft repair length)                                                                            EA         $4,000.00 EA
+        Structural Steel Repair - Stiffener                     (includes each side of beam)                                                                            EA         $1,500.00 EA
+SUBSTRUCTURE REPAIR
+    Substructure Patching                                       (measured x 2) replace if repair area > 30%                                             50.0            CFT          $360.00 /CFT                  $18,000.00
+    Substructure Replacement                                    (incl. temporary supports, excavation)                                                                  CFT          $375.00 /CFT
+    Substructure Horizontal Surface Sealer                                                                                                                              SYD           $75.00 /SYD
+    Temporary Supports                                          (add Structural Steel Repair - Stiffener for ea steel beam)                                              EA        $4,000.00 EA
+MISCELLANEOUS
+     Articulating Concrete Block System (ACB)                                                                                                                           SYD         $320.00 /SYD
+     Concrete Surface Coating                                                                                                                                           SYD          $47.00 /SYD
+     Culvert Cleanout                                                                                                                                                    FT         $125.00 /FT
+     Epoxy Crack Injection                                      (structural crack repair)                                                                                FT          $70.00 /FT
+     Metal Mesh Panels                                          (48" width, max 6'-6" length)                                                                           SFT          $28.00 /SFT
+     Pressure Relief Joint                                      (use when approach concrete roadway exceeds 1,000ft)                                                     FT         $110.00 /FT
+     Riprap                                                     (assume 10ft distance around perimeter of substructure)                                                 SYD         $275.00 /SYD
+     Silane Treatment                                           (penetrating sealer for concrete surfaces)                                                              SFT           $7.00 /SFT
+     Slope Protection Repairs                                                                                                                                           SYD         $150.00 /SYD
+     Other
+
+                                                                                                                                                STRUCTURE CONSTRUCTION BUDGET                                          $29,737
+
+ROAD WORK
+    Approach Pavement, 12" RC                                   (incl. removal; add curb, gutter, guardrail) 40' ea. end                                             SYD             $230.00 /SYD
+    Approach Curb & Gutter                                      (incl. removal) 40' ea. quadrant                                                                      FT              $57.00 /FT
+    Guardrail Anchorage to Bridge                               (each quadrant)                                                                                       EA           $2,540.00 /EA
+    Guardrail                                                   (incl. removal) < 200ft beyond reference line                                                         FT              $41.00 /FT
+    Guardrail Terminal                                          (each quadrant)                                                                                       EA           $3,900.00 /EA
+    Roadway Approach Work                                       (beyond approach pavement)                                                                1.0       LSUM          $10,000.00 LSUM                  $10,000.00
+    Utilities                                                                                                                                             1.0       LSUM          $20,000.00 LSUM                  $20,000.00
+TRAFFIC CONTROL               Unit Cost to be determined by Region or TSC Traffic & Safety
+    Part Width Construction                                                                                                                                         LSUM                     LSUM
+    Crossovers                                                                                                                                                       EA                      /EA
+    Temporary Traffic Signals                                                                                                                                        set                     /set
+    RR Flagging                                                                                                                                                     LSUM                     LSUM
+    Detour                                                                                                                                                1.0       LSUM          $30,000.00 LSUM                  $30,000.00
+
+                                                                                                                        RELATED ROAD/TRAFFIC CONSTRUCTION BUDGET                                                      $60,000
+CONTINGENCY                      (10% - 20%) (use higher contingency for small projects)                                                                      20        %           $90,000.00                         $18,000
+MOBILIZATION                     (estimate at 10%)                                                                                                            10        %           $108,000.00                        $11,000
+INFLATION                        (assume 4% per year, beginning in 2025)                                                                                      12        %           $119,000.00                        $14,000
+
+                                                                                                                  (Does not include PE or CE)         TOTAL CONSTRUCTION BUDGET                                     $133,000
+                                                  (Refer to programming guidelines in Bridge Cost Estimating Worksheet-Key for CE,PE & PE-S )                 18 % CE                   CON BUDGET                     $157,000
+                                                                                                                                                              10 % PE                     PE BUDGET                      $9,000
+                                                                                                                                                              10 % PE                   PE-S BUDGET                      $4,000
+
+                                                                                                                                                                                                                            Page 248 of 261
+
+--- packet page 249 ---
+[image only: no readable text on this page]
+
+--- packet page 250 ---
+[scanned page, text read by software: may contain small errors]
+
+INSERT CITY Resolution
+
+Page 250 of 261
