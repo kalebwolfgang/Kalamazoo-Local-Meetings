@@ -20,10 +20,10 @@ kalamazoo-city/                     <- one folder per government
         agenda-items.csv            <- one row per agenda item: outcome, vote, video times, pages
         packet/
           index.csv                 <- every agenda item, its attachments, and original page numbers
-          G01-short-item-name/      <- one folder per agenda item
-            01-agenda-report.txt    <- each attachment as its own text file
-            02-resolution.txt
-            03-fee-schedule.csv     <- tables saved as spreadsheets
+          corrections.txt           <- any numbers fixed by hand after software misread them
+          G01-short-item-name--01-agenda-report.txt   <- each attachment as its own text file
+          G01-short-item-name--02-resolution.txt
+          H01-short-item-name--03-fee-schedule.csv    <- tables saved as spreadsheets
 rosters/
   kalamazoo-city-commission.csv     <- official names and their common transcript misspellings
 topics.csv                          <- the shared topic list used to tag every government's meetings
