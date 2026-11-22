@@ -15,6 +15,9 @@ kalamazoo-city/                     <- one folder per government
         transcript.txt              <- cleaned YouTube transcript with [h:mm:ss] timestamps
         agenda.txt                  <- full text of the agenda
         minutes.txt                 <- full text of the approved minutes
+        public-comment.csv          <- one row per public comment speaker
+        public-comment-topics.csv   <- one row per topic each speaker mentioned, with time and quote
+        agenda-items.csv            <- one row per agenda item: outcome, vote, video times, pages
         packet/
           index.csv                 <- every agenda item, its attachments, and original page numbers
           G01-short-item-name/      <- one folder per agenda item
@@ -23,6 +26,7 @@ kalamazoo-city/                     <- one folder per government
             03-fee-schedule.csv     <- tables saved as spreadsheets
 rosters/
   kalamazoo-city-commission.csv     <- official names and their common transcript misspellings
+topics.csv                          <- the shared topic list used to tag every government's meetings
 ```
 
 Future governments go next to `kalamazoo-city/`, for example `kalamazoo-county/`, `portage/`, `oshtemo-township/`.
@@ -50,6 +54,32 @@ Full text. Minutes are often scanned, so the text was read by software and check
 
 **packet/**
 The full agenda packet, split by agenda item. Nothing is left out except blank pages. Pages that were scanned images are marked `[scanned page, text read by software]` because they may contain small errors. Tables are saved as `.csv`.
+
+**public-comment.csv**
+One row per speaker, in the order they spoke. The speaker's name, residency, affiliation, and what they spoke about are copied from the minutes, because the minutes are the official record. The video time comes from the transcript. `comment_period` says whether it was general public comment or comment on a specific agenda item.
+
+**agenda-items.csv**
+One row per agenda item: the outcome, the vote count, who voted no, who made and seconded the motion, the resolution number, the video time when the item was introduced and when the vote was taken, the minutes page, and the packet pages.
+
+**Topics and categories**
+`topics.csv` is the one shared list used for every government, so meetings can be compared. Each topic belongs to a broader category (for example, Policing is in Public Safety and Justice). A few topics belong to two categories, like Streets and Traffic Safety, which is in both Transportation and Public Safety and Justice.
+
+Tagging rules:
+- **Every topic that was mentioned gets counted.** There is no limit and no "main" topic. If a speaker talks about 15 things, all 15 count.
+- A topic counts when the speaker says something about it. Greetings, welcomes, and describing themselves do not count.
+- Public comment topics come from what was actually said in the transcript, not only from the short summary in the minutes, because the minutes often leave topics out.
+- `categories` is filled in automatically from the topics, so a row can fall under many categories.
+- When a topic is Other, a note says what it is. Other is reviewed regularly. If the same kind keeps showing up, it becomes a new topic.
+
+**public-comment-topics.csv**
+One row per topic per speaker. Every row has the time the topic was first mentioned, a video link to that moment, and the exact words from the transcript as proof. This is the file to count from.
+
+Tags are a judgment call made by AI, so they are labeled that way. Everything else in these spreadsheets is copied from the minutes, the agenda, or the transcript.
+
+Counting rules:
+- "How often did X come up at public comment" counts the speakers who mentioned X.
+- "Most talked about" ranks topics by how many speakers mentioned them.
+- Counts are of speakers or agenda items, not of every time a word was said.
 
 **info.txt**
 The meeting date, type, and links to the YouTube video and the original PDFs.
