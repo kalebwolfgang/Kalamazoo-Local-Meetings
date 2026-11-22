@@ -1,0 +1,8 @@
+# Hand corrections to software-read (scanned) pages in this packet
+# Budget tables were read twice by software and checked so that group totals equal the sum of their lines.
+# Every disagreement below was checked against the page image.
+
+H01-fy2026-budget-resolution--02-2026-expenditure-summary-by-activity.csv / .txt, packet page 81, '561 - WATER OPERATIONS (PUMPING/SUPPLY)', column 2: software read 7,933,541, page shows 7,533,541
+H01-fy2026-budget-resolution--02-2026-expenditure-summary-by-activity.csv / .txt, packet page 83, '346 - PUBLIC SAFETY COPS', column 1: software read 2,099,894, page shows 2,599,894
+H01-fy2026-budget-resolution--04-2026-expenditure-summary-by-fund.csv / .txt, packet page 89, '(440) STREETS JURISDICTIONAL TRANSFER', column 4: software read 2,208,872, page shows 2,258,872
+H01-fy2026-budget-resolution--02-2026-expenditure-summary-by-activity.csv, packet page 85: row '210 - MANAGEMENT SERVICES' was unreadable to software, added from page image: 355,861 395,731 376,731 391,664
