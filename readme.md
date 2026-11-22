@@ -25,7 +25,7 @@ kalamazoo-city/                     <- one folder per government
           G01-short-item-name--02-resolution.txt
           H01-short-item-name--03-fee-schedule.csv    <- tables saved as spreadsheets
 rosters/
-  kalamazoo-city-commission.csv     <- official names and their common transcript misspellings
+  kalamazoo-city-commission.csv     <- official names, when each person served, and common transcript misspellings
 topics.csv                          <- the shared topic list used to tag every government's meetings
 ```
 
@@ -35,7 +35,7 @@ Future governments go next to `kalamazoo-city/`, for example `kalamazoo-county/`
 
 - Meeting folders: `YYYY-MM-DD-type`, where type is `business`, `committee-of-the-whole`, `special`, `work-session`, or `retreat`.
 - If two meetings of the same type happen on one day, add `-2`.
-- Agenda item folders start with the agenda letter and number, like `G01` or `H02`, so they sort in agenda order.
+- Packet files all sit in one `packet` folder. Each name starts with the agenda letter and number, like `G01` or `H02`, then a short item name, then `--` and the attachment. They sort in agenda order.
 - All names are lowercase with dashes, no spaces.
 
 ## What each file contains
@@ -53,7 +53,7 @@ Taken from YouTube's automatic captions. Cleaned for format only:
 Full text. Minutes are often scanned, so the text was read by software and checked by hand for names, numbers, and votes. The minutes are the official record.
 
 **packet/**
-The full agenda packet, split by agenda item. Nothing is left out except blank pages. Pages that were scanned images are marked `[scanned page, text read by software]` because they may contain small errors. Tables are saved as `.csv`.
+The full agenda packet, split into one file per attachment, all in one folder. Nothing is left out except blank pages. Pages that were scanned images are marked `[scanned page, text read by software]` because they may contain small errors. Tables are saved as `.csv`.
 
 **public-comment.csv**
 One row per speaker, in the order they spoke. The speaker's name, residency, affiliation, and what they spoke about are copied from the minutes, because the minutes are the official record. The video time comes from the transcript. `comment_period` says whether it was general public comment or comment on a specific agenda item.
@@ -84,6 +84,14 @@ Counting rules:
 **info.txt**
 The meeting date, type, and links to the YouTube video and the original PDFs.
 
+## Rosters
+
+Each board has a roster file listing officials and staff who appear in its meetings, spelled the way the minutes spell them.
+- `first_seen` and `last_seen` are the first and last meeting dates in this archive where the person appears in that role. Name fixes only apply to meetings inside those dates, so people from different years are never mixed up.
+- When someone's role changes (for example, Commissioner to Mayor), they get a new row instead of the old row being changed.
+- Every new meeting is checked against the roster. New people are added, and missing people are flagged.
+- Public commenters are not in the roster. Their names come from each meeting's minutes.
+
 ## How to cite
 
 Every fact should point to the most specific place it came from. Use these formats:
@@ -105,7 +113,7 @@ Rules:
 
 ## Original PDFs
 
-Original PDFs are not stored here because they are too large for GitHub. Each `info.txt` links to the city's copy and to a backup copy.
+Original PDFs are not stored here because they are too large for GitHub, and no separate backup is kept. Each `info.txt` links to the official copy on the city's CivicClerk portal, which is the source for every document.
 
 ## Accuracy
 
