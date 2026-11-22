@@ -1,0 +1,36 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-01-26
+Scheduled start: 6:00 PM (opening ceremony), business meeting at 7:00 PM
+Called to order: 6:01 PM (per minutes)
+Recesses: 6:54 to 7:15 PM, and 9:11 to 9:26 PM (per minutes)
+Adjourned: 1:30 AM on January 27, 2026 (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=eSdMoRZE6y4
+The meeting starts at 0:08:52 in the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2567/files/agenda/4669
+Agenda packet (261 pages): https://kalamazoomi.portal.civicclerk.com/event/2567/files/agenda/4674
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2567/files/agenda/4981
+Minutes document number: CC-2026-03
+Minutes approved: 2026-02-16
+Backup copy of original PDFs: not yet archived
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 1,016 blocks, each sentence timestamped (2,457 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (106 rows): 39 in general public comment, 67 at the public hearing on 4301 Stadium Drive (57 in person, 10 by phone)
+  public-comment-topics.csv  one row per topic each speaker mentioned (372 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (15 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 11 agenda items and 30 attachments; see packet/index.csv
+                  packet/corrections.txt lists 9 map and picture pages whose text was typed in by hand
+
+Notes:
+  The first caption line ("Y'all set? All set, colleagues. All right.") had no time in the copied transcript. It is shown at 0:08:52 but was said a few seconds earlier.
+  YouTube's automatic chapter titles were removed from the transcript because they are not spoken words.
+  The consent agenda was voted on before the public hearing, at the Mayor's request.
+  Some general public comment speakers said their names on video but are listed as anonymous in the minutes. The minutes are followed here.
+  The rezoning hearing presentation slides were filed with the meeting papers but are not in the packet.
