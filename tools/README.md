@@ -44,3 +44,14 @@ Names in the minutes' roll call and staff list are compared with the roster. New
 These steps involve judgment and are labeled as AI-assigned where they appear:
 - Topic tags. A topic counts when a speaker says something about it. Greetings and welcomes do not count.
 - Speaker start times, when a caption line holds the end of one speaker and the start of the next.
+
+## Helper scripts (added November 2026)
+
+Smaller scripts that make each step faster. `CLAUDE.md` in the repo root explains the full order of work.
+- `prep_meeting.py`: makes agenda.txt, cleans the transcript, and reads the minutes with tesseract
+- `update_roster.py`: moves `last_seen` forward for people at a meeting and adds new people
+- `agenda_titles.py` and `make_slugs.py`: full agenda item titles and the item list for `split_packet.py`
+- `fix_agenda_row.py`: fixes the packet index when bookmarks put the agenda pages under an opening item
+- `write_public_comment.py`, `write_topics.py`, `write_agenda_items.py`: write the three spreadsheets from simple lists
+- `write_info.py`: writes info.txt
+- `build_checklist.py`: rebuilds checklist.md from meeting-list.csv
