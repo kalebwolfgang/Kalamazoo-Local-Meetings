@@ -27,6 +27,7 @@ kalamazoo-city/                     <- one folder per government
 rosters/
   kalamazoo-city-commission.csv     <- official names, when each person served, and common transcript misspellings
 topics.csv                          <- the shared topic list used to tag every government's meetings
+audit.csv                           <- problems found in the official records, one row per problem
 ```
 
 Future governments go next to `kalamazoo-city/`, for example `kalamazoo-county/`, `portage/`, `oshtemo-township/`.
@@ -83,6 +84,9 @@ Counting rules:
 
 **info.txt**
 The meeting date, type, and links to the YouTube video and the original PDFs.
+
+**audit.csv**
+This archive also works as an audit of the city's records. Each row is one problem found while processing a meeting, such as minutes that were never posted or a packet page that belongs to a different item. `status` is "confirmed" when the records prove it, or "possible" when it only looks wrong; the `issue` text says why. The `evidence` column says where it was checked, and `checked_on` gives the date. The same problems are listed at the top of the notes in each meeting's `info.txt`.
 
 ## Rosters
 
