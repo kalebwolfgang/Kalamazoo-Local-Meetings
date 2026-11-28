@@ -1,0 +1,37 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-02-02
+Scheduled start: 7:00 PM
+Called to order: 7:03 PM (per minutes)
+Adjourned: 8:53 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=8XYsqV-bIlc
+Note: the meeting starts about 7 minutes and 15 seconds into the video. The transcript before that is room talk before the meeting.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2531/files/agenda/4684
+Agenda packet (34 pages): https://kalamazoomi.portal.civicclerk.com/event/2531/files/agenda/4686
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2531/files/agenda/4982
+Minutes document number: CC-2026-05
+Minutes approved: 2026-02-16
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 252 blocks, each sentence timestamped (674 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (19 rows): 16 in general public comment, 3 at the public hearing on the B NEZ
+  public-comment-topics.csv  one row per topic each speaker mentioned (66 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (9 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 6 agenda items and 9 attachments; see packet/index.csv
+                  packet/corrections.txt lists 3 map and signature pages whose text was typed in by hand
+
+Notes:
+  Commissioner Slaby was excused at the start and arrived at 7:30 PM (per minutes), before the consent agenda vote.
+  The agenda lists Rev. Caleb Williams for the invocation. He was not there, and Rev. Ed Liebenthal gave it instead (per minutes).
+  The minutes list Kendall Campbell and Shawntel Lindsey together. They spoke one after the other, so each has a row.
+  Tina McClinton does not say her name on video. She is matched to the minutes by speaking order.
+  The NEZ hearing was a hearing only, with no vote (the agenda marks it "No Action"). The packet letters say the City Commission will consider the resolution on March 2, 2026 (packet p. 12).
+  The NEZ presentation slides were filed with the meeting papers but are not in the packet.
+
+Related meeting: 2026-02-02-committee-of-the-whole (5:00 PM, same day)
