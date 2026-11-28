@@ -37,7 +37,7 @@ Do not pull a whole transcript into the chat. It is far too big. Copy it in the 
 - CivicClerk event list: open `https://kalamazoomi.portal.civicclerk.com/` in Chrome and fetch `https://kalamazoomi.api.civicclerk.com/v1/Events?$filter=startDateTime ge ... and startswith(eventName,'City Commission')&$orderby=startDateTime` with JavaScript. Follow `@odata.nextLink`. Each event's `publishedFiles` has the Agenda, Agenda Packet and Minutes file IDs.
 - PDF link: `https://kalamazoomi.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=ID,plainText=false)`. Portal link for info.txt: `https://kalamazoomi.portal.civicclerk.com/event/EVENT/files/agenda/FILE`.
 - Videos: the city channel is `https://www.youtube.com/@KalamazooCityTV/streams`. Scroll with JavaScript, then read `aria-label` on `a[href*="watch?v="]` links. Titles look like "February 16, 2026 Committee of the Whole" or "Regular Business Meeting". Some Business Meetings are titled "Kalamazoo City Commission". Special meetings may only be on the Public Media Network channel (the Mar 14, 2026 retreat was).
-- `meeting-list.csv` already has the IDs for January to September 2026.
+- `meeting-list.csv` already has the IDs for January to September 2026. It does not have the CivicClerk event numbers that info.txt links need. Take those from `requests.csv` on the `raw-inputs` branch. Never guess them.
 
 ## Steps for one meeting date
 
@@ -81,6 +81,7 @@ Work in a scratch folder (for example `/home/claude/w/DATE/TYPE/`) with `raw/` (
 ## Open items
 
 - Sep 8, 2026 Business Meeting packet is over 100 MB.
+- May 18, 2026 Committee of the Whole: no packet.pdf on the `raw-inputs` branch. Check whether CivicClerk has one before processing that date.
 - Minutes not posted yet (as of 2026-11-27): Jun 15 CoW, Jul 6, Aug 10 (both), Aug 17 (both), Sep 8 (both), Sep 21 Business.
 - Mar 14, 2026 Planning Retreat: no minutes were ever posted. Video is on the Public Media Network channel. Names in it come from the video.
 - Before 2026: no meeting list yet. Check how far back CivicClerk goes and where older records live.
