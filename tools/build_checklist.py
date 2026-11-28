@@ -75,7 +75,7 @@ out = [
     "",
     f"What has been collected and uploaded for each meeting, and what is still needed. Rebuilt by `tools/build_checklist.py` from `meeting-list.csv` and the meeting folders. Last rebuilt {date.today().isoformat()}.",
     "",
-    "Goal: every City of Kalamazoo City Commission meeting back to January 2020. So far the meeting list covers January to September 2026. Earlier years are added to `meeting-list.csv` as we get to them.",
+    "Goal: every City of Kalamazoo City Commission meeting back to January 2020. So far the meeting list covers October 2025 to September 2026. Earlier years are added to `meeting-list.csv` as we get to them.",
     "",
     "## Summary",
     "",

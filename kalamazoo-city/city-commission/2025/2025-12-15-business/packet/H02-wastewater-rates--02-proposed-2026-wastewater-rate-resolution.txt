@@ -1,0 +1,373 @@
+# Agenda item H2: Adoption of a RESOLUTION detailing the rates charged for wastewater as authorized by Chapter 28 of the Kalamazoo code.
+# Attachment: Proposed 2026 Wastewater Rate Resolution
+# Packet pages 87-94 of the December 15, 2025 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 87 ---
+
+                           CITY OF KALAMAZOO, MICHIGAN
+
+                                 RESOLUTION NO. 25-___
+
+      RESOLUTION DETAILING THE RATES CHARGED FOR WASTEWATER AS
+         AUTHORIZED BY CHAPTER 28 OF THE KALAMAZOO CITY CODE
+
+        Minutes of a regular meeting of the City Commission of the City held on December 15,
+ 2025, at 7:00 o'clock p.m., local time, at the City Hall.
+
+PRESENT, Commissioners:
+
+ABSENT, Commissioners:
+
+BE IT RESOLVED:
+
+1.     Section 1.     Sec. 28-22, 28-23 of the Kalamazoo Code
+
+       “Sec. 28-22, 28-23. Rate schedules established.
+
+(1)    Each user of the treatment works shall pay charges as set out in subsections (a), (b), (c),
+       and (d) below. Municipal wholesale customers shall be charged fixed monthly charges
+       specific to their allocated revenue responsibility as set forth in (c) below. Commercial or
+       industrial users whose wastewater strengths are monitored and tested by city technical
+       services staff shall be charged domestic commodity charges based on their volumetric
+       contributions and surcharges (COD, SS, NH3, and PHOS) as set forth in (d) below. All
+       other users shall pay charges equal to the sum of those set out in subsections (b) and (c)
+       below, according to the service charge (meter reading, billing expense, and allocated
+       infiltration/inflow costs) in (a) and the commodity charge (quantity of wastewater at
+       average domestic strength and septic haulers at higher strengths as indicated) in (b).
+
+       (a)    Service Charges. The following service charges shall apply to all users connected
+              or required to be connected regardless of quantity of wastewater discharged. The
+              service charge is a user charge, and it contains billing and inflow and infiltration
+              charges for retail customers.
+
+                                                                                              Page 87 of 418
+
+--- packet page 88 ---
+
+Service Charges (minimum charges per billing period):
+
+Inside City Quarterly
+
+Size of meter              OM&R                  Capital    Total
+  (inches)                 ($/bill)              ($/bill)   ($/bill)
+           5/8                 20.87                 2.09     22.96
+           3/4                 21.56                 2.35     23.91
+            1                  23.62                 3.18     26.80
+          1 1/2                26.38                 4.21     30.59
+            2                  33.98                 7.01     40.99
+            3                  89.87                27.12    116.99
+            4                 110.59                34.50    145.09
+            6                 158.88                51.78    210.66
+        Flat Rate             113.16                20.22    133.38
+
+Outside City Quarterly
+
+Size of meter              OM&R                  Capital    Total
+  (inches)                 ($/bill)              ($/bill)   ($/bill)
+           5/8                20.87                  6.28    27.15
+           3/4                21.56                  7.01    28.57
+            1                 23.62                  9.14    32.76
+          1 1/2               26.38                 11.95    38.33
+            2                 33.98                 19.70    53.68
+            3                 89.87                 76.69   166.56
+            4                110.59                 97.79   208.38
+            6                158.88                147.05   305.93
+        Flat Rate            113.16                 53.97    16713
+
+Inside City Monthly
+
+Size of meter              OM&R                  Capital    Total
+  (inches)                 ($/bill)              ($/bill)   ($/bill)
+      5/8                     16.27                  0.22    16.49
+      3/4                     16.52                  0.31    16.83
+       1                      17.18                  0.61    17.79
+     1-1/2                    18.10                  1.01    19.11
+       2                      20.64                  2.01    22.65
+       3                      39.28                  8.92    48.20
+       4                      46.17                 11.45    57.62
+       6                      62.27                 17.23    79.50
+ Dewatering                   13.85                  0.00    13.85
+
+                                                                       Page 88 of 418
+
+--- packet page 89 ---
+
+Outside City Monthly
+
+Size of meter                  OM&R                       Capital                    Total
+  (inches)                     ($/bill)                   ($/bill)                   ($/bill)
+      5/8                         16.27                       1.57                     17.84
+      3/4                         16.52                       1.78                     18.30
+       1                          17.18                       2.53                     19.71
+     1-1/2                        18.10                       3.46                     21.56
+       2                          20.64                       6.05                     26.69
+       3                          39.28                      25.07                     64.35
+       4                          46.17                      32.13                     78.30
+       6                          62.27                      48.55                    110.82
+ Dewatering                       13.85                        0.00                    13.85
+ Septage Haulers                  13.85                        0.00                    13.85
+
+       (b) Commodity Charges
+
+                               OM&R                       Capital                    Total
+                               ($/m3)                     ($/m3)                     ($/m3)
+ Inside City Retail               1.070                      0.230                    1.300
+ Outside City Retail              1.070                      0.579                    1.649
+
+ M3 = Cubic Meters
+
+(*) Summer water consumption used in calculation of wastewater bills shall not exceed 120% of
+winter quarter consumption for quarterly users whose winter quarter water consumption is less
+than two hundred (200) cubic meters and monthly users whose winter quarter water does not
+exceed sixty-six (66) cubic meters per month.
+
+Metering methods, meter reads, leaks, errant meter reads, lab data results and lab data anomalies
+are subject to approval and reasonable remedy as determined by the Director of Public Services.
+
+(c) Fixed Monthly Charges. The following fixed monthly service charges shall apply to all
+municipal customers who are served on a wholesale basis. These amounts represent allocated
+revenue responsibility based on their specific wastewater contribution, and are based on the unit
+costs reflected in the table based on their individual characteristics, as also indicated in the table.
+
+ Customer                          Monthly Charge - $         Unit cost _$/cu mtr         Notes
+ Portage                                     460,500                        1.131
+ Portage SW Interceptor                       42,300                        1.526           (1)
+ Galesburg                                     8,700                        1.526           (1)
+ Vicksburg                                    30,500                        1.131
+ Gull Lake                                    92,700                        1.131
+
+                                                                                                   Page 89 of 418
+
+--- packet page 90 ---
+
+ Augusta                                         3,800                      1.229          (2)
+ Mattawan                                       37,100                      1.131
+ South County                                   11,500                      1.131
+ Charleston                                      3,700                      1.229          (2)
+
+   1.  Volumes reported by water meter instead of sewer meter. Adjusted unit costs to account
+      for infiltration and inflow.
+   2. Allocated costs associated with Lift Stations.
+
+(d) Industrial Surcharges and Construction Charges
+
+Commercial or industrial users whose wastewater strengths are monitored and tested by city
+technical services staff shall be allocated revenue responsibility based on their monitored
+wastewater contributions (commodity, COD, SS, NH3, and PHOS) relative the System in total.
+The individual rates are set forth in the table below.
+
+The industrial specific commodity charge in the first section of the table is designed to recover the
+costs of industrial pretreatment and monitoring activities.
+
+The commodity charges in the first section of the table include recovery of wastewater
+contributions at average domestic wastewater strengths (COD – 478 mg/l, SS-259 mg/l, NH3 –
+18.3 mg/l, PHOS 8.1 mg/l). The surcharges for COD, SS, NH3, and PHOS set forth in the
+remaining sections of the table shall be applied to monitored wastewater contributions over and
+above domestic levels. For 2026, any wastewater contributions at below domestic levels shall be
+credited 75% of the amounts below domestic strength. (If the monthly contributed loadings are
+100 kg below domestic strength, the monthly bill will reflect a credit of 75 kg times the unit
+surcharge rate.) It is the City’s intent to phase out this below domestic credit over the next five
+years. may document their wastewater strengths to the satisfaction of the director (or pay the cost
+of sampling and testing by city technical services staff) and shall be charged a fixed monthly
+amount that reflects the allocated revenue responsibility based on their specific contributions.
+
+Septage haulers whose wastewater strengths are below average domestic wastewater strengths the
+amounts noted may document their wastewater strengths to the satisfaction of the director (or pay
+the cost of sampling and testing by city technical services staff) and shall be charged the industrial
+surcharge rates below.
+
+Industrial Specific Commodity Charge
+
+                               OM&R                      Capital                    Total
+                               ($/m3)                    ($/m3)                     ($/m3)
+Monitored Customers
+All Monitored Customers               0.118                  N/A                      0.118
+
+                                                                                                  Page 90 of 418
+
+--- packet page 91 ---
+
+Domestic Commodity Charge
+
+                           OM&R        Capital   Total
+                           ($/m3)      ($/m3)    ($/m3)
+
+Monitored Customers
+Pfizer                         0.906     0.289    1.195
+Graphic Packaging              0.906     0.101    1.007
+Industrial / Dewatering:
+  Inside City                  1.256     0.139    1.395
+ Outside City                  1.256     0.462    1.718
+
+COD Strength Surcharge
+
+                           OM&R        Capital   Total
+                           ($/Kg)      ($/Kg)    ($/Kg)
+Monitored Customers
+Pfizer                         0.374     0.063    0.437
+Graphic Packaging              0.374     0.042    0.416
+Industrial / Dewatering:
+  Inside City                  0.374     0.042    0.416
+ Outside City                  0.374     0.068    0.442
+
+SS Strength Charge
+
+                           OM&R        Capital   Total
+                           ($/Kg)      ($/Kg)    ($/Kg)
+Monitored Customers
+Pfizer                         1.402     0.222    1.624
+Graphic Packaging              1.402     0.156    1.558
+Industrial / Dewatering:
+  Inside City                  1.402     0.156    1.558
+ Outside City                  1.402     0.223    1.625
+
+NH3-N Strength Charge
+
+                           OM&R        Capital   Total
+                           ($/Kg)      ($/Kg)    ($/Kg)
+Monitored Customers
+Pfizer                         4.392     0.696    5.008
+Graphic Packaging              4.392     0.488    4.880
+Industrial / Dewatering:
+  Inside City                  4.392     0.488    4.880
+ Outside City                  4.392     0.760    5.152
+
+                                                          Page 91 of 418
+
+--- packet page 92 ---
+
+PHOS Strength Charge
+
+                              OM&R                      Capital                     Total
+                              ($/Kg)                    ($/Kg)                      ($/Kg)
+Monitored Customers
+Pfizer                             13.378                  1.486                    14.864
+Graphic Packaging                  13.378                  1.486                    14.864
+Industrial / Dewatering:
+  Inside City                      13.378                  1.486                    14.864
+ Outside City                      13.378                  1.486                    14.864
+
+Kg= Kilogram
+
+2)     In addition to the above charges, each user shall pay the charges for miscellaneous service
+       and monitoring, as determined by the Director. The charges may be revised by the Director
+       whenever, in her/his opinion, it is deemed appropriate. All charges shall be paid to the
+       Department of Public Services, and all funds received as result of the miscellaneous
+       charges will be credited to the wastewater system receiving account.
+
+(3)    Any person or entity who is responsible for discharging prohibited material shall be
+       charged the actual expense incurred by the city for handling, treatment and/or removal of
+       said material in the wastewater system.
+
+(4)    Any user who is responsible for damage to the wastewater system shall be charged the full
+       cost of repair of damage to the wastewater system. The cost shall include, but is not limited
+       to, labor, equipment, materials, and administrative expense, interest on borrowed funds,
+       engineering, legal, or other professional fees or expenses charged to the city by other
+       utilities or departments and any and all fines, costs, penalties, or damages imposed upon
+       the city by the United States, the State of Michigan, or any court or administrative agency.
+
+(5)    Users will be notified at least once per year how much they are being charged for their
+       proportional operation, maintenance, and replacement costs, as required by United States
+       Environmental Protection Agency regulations. (Ord. No. 1649, &1, 3-9-98).
+
+(6)    The City Manager is hereby authorized, with the consent of the City Commission, to
+       determine and establish a schedule of construction charges for the various sizes and types
+       of sanitary sewer connections for each calendar year. Each schedule shall become effective
+       when approved by motion duly adopted by the City Commission. Such schedule of charges
+       shall be based on the following, as applicable:
+
+       (1) Recovery of all costs normally incurred for this type of construction.
+       (2) The size and length of pipe to be used for connection.
+       (3) Extra costs of construction during winter months.
+       (4) Repair or replacement of pavement and sidewalk.
+       (5) Exceptional surface repairs, including landscaping.
+
+                                                                                                Page 92 of 418
+
+--- packet page 93 ---
+
+SCHEDULE OF CHARGES:
+
+    Sewer Lateral Construction, 12_Inch Diameter, Sewer Main to Property Line, Up to 33
+    Linear Feet, Includes Manhole at Main, Includes Manhole at Property
+    Line……………………………………………………………………$19,900.00/EA
+
+    Additional Linear Feet……………………………………………………$300.00/LF
+
+    Sewer Lateral Construction, 8_Inch Diameter, Sewer Main to Property Line, Up to 33
+    Linear Feet, Includes Manhole at Main, Pipe Plugged and Terminated at the Property
+    Line…………………………………………………………$14,075.00/EA
+
+    Additional Linear Feet……………………………………………………$275.00/LF
+
+    Sewer Lateral Construction, 6_Inch Diameter, Sewer Main to Property Line, Up to 33
+    Linear Feet, Includes Wye at Main, Includes Clean Out at Property Line
+    w/Cap……………………………………………………………………$5,940.00/EA
+
+    Additional Linear Feet……………………………………………………$200.00/LF
+
+    Additional Linear Feet, Private Property, Signed Release, designation as an authorized
+    agent in accordance with the plumbing code and Right to Entry
+    Required…………………………………………………………….……..$200.00/LF
+
+    Cured in Place Pipe (CIPP) Lining of Existing Sanitary Sewer Lateral, Pre and Post CCTV
+    Report with Videos………………………………………………..$180.00/LF
+
+    Sewer Lateral Construction, Connection to an Existing Sewer Lateral at the Property Line,
+    Located, Inspected and Deemed Serviceable by the Director of Public Services and
+    Placement        of       a       Clean        Out        at        Property        Line
+    w/Cap……………………………………………………………………..$1,450/EA
+
+    Sewer Lateral Construction by Private Party or Others, Not by The City Of Kalamazoo,
+    Completed at The Expense of The Property Owner, Inspection Only, ROW Permit
+    Application Required…………………………………….$350/EA
+
+    Construction Placement of a Clean Out at the Property Line w/Cap on an Existing, Active
+    Sewer Lateral and Active Account (Vac-A-Tee)………………$FREE
+
+    All Sewer Lateral Construction, Any Inch Diameter, Additional Charge for Excavation
+    Depths Greater Than 10 Ft Deep………………………$50.00/LF
+
+    All Sewer Lateral Construction charges include repair or replacement of public
+    pavement(s) and sidewalk(s), all materials, labor and equipment, and all temporary traffic
+    control, traffic control and maintenance of traffic plan, and all required agency permits to
+    include ROW and MDOT permitting.
+
+                                                                                            Page 93 of 418
+
+--- packet page 94 ---
+
+       Any work on private property requires prior approval by the Director of Public Services, a
+       signed release, designation as an authorized agent in accordance with the plumbing code
+       and signed right of entry,
+
+       Hard surfaces such as drive approaches, roadway, sidewalk, hardscape shall be restored in-
+       kind to materials and dimensions of which was damaged or removed during sewer
+       construction installation.
+
+               The rates established by this ordinance amendment shall go into effect for
+wastewater bills rendered on or after January 1, 2026. Municipal and industrial customers with
+established daily flow metering and load monitoring will be charged these rates for flow and loads
+received beginning January 1, 2026, at 00:00 AM.
+
+      The above resolution was offered by Commissioner                 and supported by
+ Commissioner      .
+
+AYES, Commissioners:
+
+NAYS, Commissioners:
+
+ABSTAIN, Commissioners:
+
+RESOLUTION DECLARED ADOPTED.
+
+                                        CERTIFICATE
+
+The foregoing is a true and complete copy of a resolution adopted by the City Commission of the
+City of Kalamazoo at a regular meeting held on December 15, 2025. Public notice was given and
+the meeting was conducted in compliance with the Michigan Open Meetings Act (PA 267 of 1976)
+as amended by PA 254 of 2020. Minutes of the meeting will be available as required by the Act.
+
+                                                                    Scott A. Borling, City Clerk
+
+                                                                                              Page 94 of 418

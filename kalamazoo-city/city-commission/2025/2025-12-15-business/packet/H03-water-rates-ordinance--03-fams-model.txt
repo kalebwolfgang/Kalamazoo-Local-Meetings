@@ -1,0 +1,982 @@
+# Agenda item H3: Adoption of an ORDINANCE to amend certain sections of Chapter 38 of the Kalamazoo City Code to change the rates charged for drinking water, effective January 1, 2026.
+# Attachment: FAMS Model
+# Packet pages 241-258 of the December 15, 2025 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 241 ---
+
+Kalamazoo, Michigan - Water Utility
+FY 2025 Water Revenue Sufficiency Analysis
+Assumptions & Preliminary Results Workbook
+
+                                             Page 241 of 418
+
+--- packet page 242 ---
+
+11/7/2025
+James Baker
+Page 8
+
+Assumptions                                                                                                     Schedule 1
+                                                 FY 2025      FY 2026      FY 2027       FY 2028      FY 2029       FY 2030
+Rate Increase Adoption Date                       1/1/2025     1/1/2026     1/1/2027     1/1/2028     1/1/2029      1/1/2030
+
+Annual Growth
+Water
+Ending # of Accounts                               52,114       52,669       53,224       53,779       54,334        54,889
+Account Growth                                        555          555          555          555          555           555
+% Change in Accounts                                1.08%        1.06%        1.05%        1.04%        1.03%         1.02%
+Usage per Account                                   38.67        38.67        38.67        38.67        38.67         38.67
+Usage (Kgal)                                       24,182       24,440       24,697       24,955       25,212        25,470
+% Change in Usage                                   1.08%        1.06%        1.05%        1.04%        1.03%         1.02%
+
+Capital Spending
+Annual Capital Budget (Future Year Dollars)   $ 46,670,583 $ 67,846,833 $ 80,765,203 $ 72,408,103 $ 40,467,814 $ 41,668,188
+Annual Percent Executed                               100%          75%          75%          75%          75%          75%
+
+Average Annual Interest Earnings Rate
+On Fund Balances                                    3.00%        2.50%        2.00%        2.00%        2.00%         2.00%
+
+Operating Budget Reserve
+Target (Number of Months of Reserve)                  9.0          9.0          9.0          9.0          9.0           9.0
+
+Operating Budget Execution Percentage
+Personnel Services                                  100%         100%         100%          100%         100%         100%
+Variable Operations and Maintenance                 100%         100%         100%          100%         100%         100%
+Fixed Operations and Maintenance                    100%         100%         100%          100%         100%         100%
+Capital Outlay                                      100%         100%         100%          100%         100%         100%
+
+                                                                                                                   Page 242 of 418
+
+--- packet page 243 ---
+
+11/7/2025
+James Baker
+Page 9
+
+  FY 2025 Beginning Balances as of 12/31/2024                               Schedule 2
+
+                                  Stantec Grouping of Funds in Model    Revenue Fund
+
+  Current Unrestricted Assets
+  Cash and Cash Equivalents                                             $    25,555,283
+  Investments                                                                 5,954,605
+  Receivables:
+    Customers                                                                 6,060,676
+    Leases                                                                       11,548
+  Due from Other Governments                                                  3,050,985
+  Due from Other Funds                                                          647,213
+  Prepaid Items                                                                  26,897
+  Inventories                                                                 1,991,352
+  Total Assets                                                          $    43,298,559
+
+  Current Liabilities
+  Accounts and Contracts Payable                                        $    (2,813,513)
+  Accrued Interest Payable                                                   (1,869,227)
+  Other Accrued Liabilities                                                      (1,568)
+  Due to Other Governments                                                      (30,698)
+  Due to Other Funds                                                           (722,119)
+  Deposit Payable                                                              (671,331)
+  Long-Term Subscription Obligations                                            (38,366)
+  Lease Payable                                                                (138,622)
+  Accrued Compensated Absences                                                 (606,251)
+  Calculated Fund Balance (Assets - Liabilities)                        $    36,406,864
+
+  Plus/(Less): Inventories                                                   (1,991,352)
+  Available Fund Balance                                                $    34,415,512
+
+  Fund Summary
+  Revenue Fund                                        $    34,415,512
+  Total Available Funds                               $    34,415,512
+
+                                                                                    Page 243 of 418
+
+--- packet page 244 ---
+
+11/7/2025
+James Baker
+Page 10
+
+ Projection of Cash Inflows                                                                                                                      Schedule 3
+                                                           FY 2025           FY 2026           FY 2027           FY 2028           FY 2029           FY 2030
+       Rate Revenue Growth Assumptions
+       Water
+  1    % Change in Base Revenue                             1.08%             1.06%             1.05%             1.04%             1.03%             1.02%
+  2    % Change in Usage Revenue                            1.08%             1.06%             1.05%             1.04%             1.03%             1.02%
+       Assumed Rate Revenue Increases
+  3    Assumed Water Rate Increase                          0.00%             5.00%             7.00%             7.00%             7.00%             6.00%
+  4    Assumed Private Fire Protection Rate Increase        0.00%             5.00%             7.00%             7.00%             7.00%             6.00%
+       Water Rate Revenue
+  5    Inside City Base Rate Revenue                   $     6,470,811   $     6,866,709   $     7,424,802   $     8,027,381   $     8,677,939   $     9,292,576
+  6    Inside City Usage Rate Revenue                       10,853,748        11,517,805        12,453,916        13,464,645        14,555,853        15,586,807
+  7    Outside City Base Rate Revenue                        7,468,986         7,925,955         8,570,138         9,265,670        10,016,582        10,726,031
+  8    Outside City Usage Rate Revenue                      10,755,483        11,413,527        12,341,163        13,342,741        14,424,069        15,445,690
+  9    Total Water Rate Revenue                        $    35,549,028   $    37,723,996   $    40,790,019   $    44,100,437   $    47,674,443   $    51,051,103
+       Private Fire Protection Rate Revenue
+  10   Base Rate Revenue                               $      968,010    $     1,016,410   $     1,087,559   $     1,163,688   $     1,245,146   $     1,319,855
+  11   Total Private Fire Protection Rate Revenue      $      968,010    $     1,016,410   $     1,087,559   $     1,163,688   $     1,245,146   $     1,319,855
+       Other Operating Revenue
+  12   Hydrants - Private                              $        39,000   $        39,000   $        39,000   $        39,000   $        39,000   $        39,000
+  13   Other Operational Revenues                                  500               500               500               500               500               500
+  14   Interest And Penalties                                  132,000           132,000           132,000           132,000           132,000           132,000
+  15   Customer Turn-On Fees                                 1,318,125         1,318,125         1,318,125         1,318,125         1,318,125         1,318,125
+  16   Meter Setting And Installation Fees                      32,000            32,000            32,000            32,000            32,000            32,000
+  17   Administrative Fee                                    2,214,601         2,446,905         2,551,077         2,711,003         2,769,851         2,928,933
+  18   Property Rent Revenues                                    3,000             3,000             3,000             3,000             3,000             3,000
+  19   Total Other Operating Revenue                   $     3,739,226   $     3,971,530   $     4,075,702   $     4,235,628   $     4,294,476   $     4,453,558
+       Transfers In
+  20   Transfer From Self-Insurance Fund               $      243,000    $      279,000    $      279,000    $      279,000    $      279,000    $      251,100
+  21   Total Transfers In                              $      243,000    $      279,000    $      279,000    $      279,000    $      279,000    $      251,100
+       Interest Income
+  22   Unrestricted                                    $     1,077,184   $     1,682,676   $     1,621,782   $      972,282    $      595,142    $      556,033
+  23   Total Interest Income                           $     1,077,184   $     1,682,676   $     1,621,782   $      972,282    $      595,142    $      556,033
+  24   Water Connection Charges                        $       666,000   $       799,200   $       799,200   $       799,200   $       799,200   $       799,200
+  25   System Capacity Buy-In Fee Connection Charges           652,125           652,125           652,125           652,125           652,125           652,125
+  26   Total Connection Charges                        $     1,318,125   $     1,451,325   $     1,451,325   $     1,451,325   $     1,451,325   $     1,451,325
+
+  27   Total Cash Inflows                              $    42,894,572   $    46,124,937   $    49,305,387   $    52,202,360   $    55,539,532   $    59,082,974
+
+                                                                                                                                                     Page 244 of 418
+
+--- packet page 245 ---
+
+11/7/2025
+James Baker
+Page 11
+
+    Projection of Cash Outflows                                                                                                                                       Schedule 4
+
+                                                                                          FY 2025         FY 2026         FY 2027         FY 2028         FY 2029         FY 2030
+                Expense Line Item                            Account Number
+                WATER AND SEWER SYSTEMS
+                Personal Services
+      1   PS       Bonus Pay                                 591-536-00.000-709.010   $       1,700   $       1,216   $       1,276   $       1,340   $       1,407   $        1,463
+      2   PS       Employer Opeb Contribution                591-536-00.000-724.001         222,000         211,300         221,865         232,958         244,606          254,390
+      3   PS       Premium Pay                               591-536-00.000-709.001          12,000          13,544          14,221          14,933          15,679           16,306
+      4   PS       Temporary Pay - Regular                   591-536-00.000-702.014          10,000          55,000          57,750          60,638          63,669           66,216
+      5   PS       Overtime- Full Time                       591-536-00.000-703.001           2,000           2,000           2,100           2,205           2,315            2,408
+      6   PS       Base Pay - Full Time                      591-536-00.000-702.001       1,263,794       1,232,955       1,294,603       1,359,333       1,427,300        1,484,392
+      7   PS       Employer Social Security                  591-536-00.000-710.001          95,476          92,173          96,782         101,621         106,702          110,970
+      8   PS       Health Benefit Allocation                 591-536-00.000-711.001         156,245         151,340         158,907         166,852         175,195          182,203
+      9   PS       Dental Insurance Allocation               591-536-00.000-711.010          11,519          10,627          11,158          11,716          12,302           12,794
+     10   PS       Group Life Insurance Allocation           591-536-00.000-711.011           2,915           2,690           2,825           2,966           3,114            3,239
+     11   PS       Other Fringe Benefit Allocation           591-536-00.000-711.012             636             693             728             764             802              834
+     12   PS       Workers Compensation Allocation           591-536-00.000-711.020          17,036          15,848          16,640          17,472          18,346           19,080
+     13   PS       Deferred Compensation                     591-536-00.000-711.050          18,957          18,495          19,420          20,391          21,410           22,267
+     14   PS       Defined Retiree Health Contribution       591-536-00.000-711.051          27,040          24,440          25,662          26,945          28,292           29,424
+     15   PS       Allowances                                591-536-00.000-709.020           5,600           6,350           6,668           7,001           7,351            7,645
+     16   PS       Hsa Contribution                          591-536-00.000-711.002           3,000           3,535           3,712           3,897           4,092            4,256
+                Operations & Maintenance
+     17   OMF     Administrative Fees                        591-536-00.000-830.001   $ 2,271,519     $   2,857,643   $   2,934,799   $   3,014,039   $ 3,095,418     $    3,178,994
+     18   OMF     Meeting Supplies                           591-536-00.000-727.002        10,000            10,000          10,270          10,547        10,832             11,125
+     19   OMF     Postage                                    591-536-00.000-727.003        10,000             7,500           7,703           7,910         8,124              8,343
+     20   OMF     Operating Supplies                         591-536-00.000-729.000        20,000            30,000          30,810          31,642        32,496             33,374
+     21   OMF     Machinery & Equipment Under $5000          591-536-00.000-790.002        15,000            15,000          15,750          16,538        17,364             18,233
+     22   OMF     Professional And Contractual Services      591-536-00.000-801.000       385,000           385,000         395,395         406,071       417,035            428,295
+     23   OMF     Bank Fees                                  591-536-00.000-801.001         1,000             1,000           1,027           1,055         1,083              1,112
+     24   OMF     Memberships And Subscriptions              591-536-00.000-810.003        25,000            25,000          25,675          26,368        27,080             27,811
+     25   OMF     Professional Development                   591-536-00.000-811.000        75,000            75,000          77,025          79,105        81,241             83,434
+     26   OMF     Software And Applications                  591-536-00.000-815.000        60,000            60,000          61,620          63,284        64,992             66,747
+     27   OMF     Interest On Deposits                       591-536-00.000-829.001        50,000            50,000          51,350          52,736        54,160             55,623
+     28   OMF     Property Tax Expense                       591-536-00.000-829.002         3,060             3,060           3,143           3,227         3,315              3,404
+     29   OMF     Communication And Network Services         591-536-00.000-850.000        40,000            60,000          61,620          63,284        64,992             66,747
+     30   OMF     Office Supplies And Forms                  591-536-00.000-727.001         5,000             7,500           7,703           7,910         8,124              8,343
+     31   OMF     Clothing/Uniforms                          591-536-00.000-729.001        15,000            15,000          15,405          15,821        16,248             16,687
+     32   OMF     Office Furniture & Equip Under $5000       591-536-00.000-790.001         5,000             5,000           5,250           5,513         5,788              6,078
+     33   OMF     Consulting Fees                            591-536-00.000-801.003       150,000           150,000         154,050         158,209       162,481            166,868
+     34   OMF     Legal Services                             591-536-00.000-802.001        50,000            50,000          51,350          52,736        54,160             55,623
+     35   OMF     Business And Emergency Meals               591-536-00.000-810.001        10,000            10,000          10,270          10,547        10,832             11,125
+     36   OMF     Promotion And Advertisting                 591-536-00.000-880.000             -             7,500           7,703           7,910         8,124              8,343
+     37   OMF     Utility Policy Committee Services & Fees   591-536-00.000-829.004        85,000            85,000          87,295          89,652        92,073             94,559
+     38   CO      Machinery And Equipment                    591-536-00.000-975.000        20,000            20,000          20,000          20,000        20,000             20,000
+     39         Total WATER AND SEWER SYSTEMS                                         $ 5,155,497     $   5,771,409   $   5,969,528   $   6,175,137   $ 6,388,547     $    6,588,754
+                UTILITIES INVENTORY CONTROL
+                Personal Services
+     40   PS       Premium Pay                               591-537-00.000-709.001   $         300   $         339   $         356   $         373   $         392   $          408
+     41   PS       Overtime- Full Time                       591-537-00.000-703.001           2,000           2,000           2,100           2,205           2,315            2,408
+     42   PS       Base Pay - Full Time                      591-537-00.000-702.001          37,393          39,513          41,489          43,563          45,741           47,571
+     43   PS       Employer Social Security                  591-537-00.000-710.001           2,861           3,023           3,174           3,333           3,500            3,639
+     44   PS       Health Benefit Allocation                 591-537-00.000-711.001           9,084           9,539          10,016          10,517          11,043           11,484
+     45   PS       Dental Insurance Allocation               591-537-00.000-711.010             560             561             589             619             649              675
+     46   PS       Group Life Insurance Allocation           591-537-00.000-711.011              52              52              55              57              60               63
+     47   PS       Workers Compensation Allocation           591-537-00.000-711.020             232             222             233             245             257              267
+     48   PS       Deferred Compensation                     591-537-00.000-711.050             374             396             416             437             458              477
+     49   PS       Defined Retiree Health Contribution       591-537-00.000-711.051           1,950           1,950           2,048           2,150           2,257            2,348
+                Operations & Maintenance
+     50   OMF     Operating Supplies                         591-537-00.000-729.000   $       2,500   $       2,500   $       2,568   $       2,637   $       2,708   $        2,781
+     51   OMF     Professional Development                   591-537-00.000-811.000           1,000           1,000           1,027           1,055           1,083            1,112
+     52   OMF     Clothing/Uniforms                          591-537-00.000-729.001             500             500             514             527             542              556
+     53         Total UTILITIES INVENTORY CONTROL                                     $      58,806   $      61,595   $      64,582   $      67,717   $      71,006   $       73,790
+                UTILITIES ADMIN BUILDING AND GROUNDS
+                Personal Services
+     54   PS       Bonus Pay                                 591-538-00.000-709.010   $         800   $         572   $         601   $         631   $         662   $          689
+     55   PS       Premium Pay                               591-538-00.000-709.001           7,500           8,465           8,888           9,333           9,799           10,191
+     56   PS       Base Pay - Full Time                      591-538-00.000-702.001          70,155          72,061          75,664          79,447          83,420           86,756
+     57   PS       Employer Social Security                  591-538-00.000-710.001           5,367           5,513           5,789           6,078           6,382            6,637
+     58   PS       Health Benefit Allocation                 591-538-00.000-711.001          15,140          15,897          16,692          17,526          18,403           19,139
+     59   PS       Dental Insurance Allocation               591-538-00.000-711.010           1,026           1,027           1,078           1,132           1,189            1,236
+     60   PS       Group Life Insurance Allocation           591-538-00.000-711.011             171             172             181             190             199              207
+     61   PS       Other Fringe Benefit Allocation           591-538-00.000-711.012             227             239             251             263             277              288
+     62   PS       Workers Compensation Allocation           591-538-00.000-711.020           4,462           4,122           4,328           4,545           4,772            4,963
+     63   PS       Deferred Compensation                     591-538-00.000-711.050           1,052           1,081           1,135           1,192           1,251            1,301
+     64   PS       Defined Retiree Health Contribution       591-538-00.000-711.051             650             650             683             717             752              783
+     65   PS       Overtime- Full Time                       591-538-00.000-703.001           5,000           5,000           5,250           5,513           5,788            6,020
+                Operations & Maintenance
+     66   OMF     General Insurance Fund                     591-538-00.000-830.004   $     105,700   $     105,700   $     108,554   $     111,485   $     114,495   $      117,586
+     67   OMF     Operating Supplies                         591-538-00.000-729.000         100,000          75,000          77,025          79,105          81,241           83,434
+     68   OMF     Repair And Maintenance Supplies            591-538-00.000-750.000          10,000          10,000          10,500          11,025          11,576           12,155
+     69   OMF     Professional And Contractual Services      591-538-00.000-801.000          50,000          50,000          51,350          52,736          54,160           55,623
+     70   OMF     Uniforms/Laundry                           591-538-00.000-810.002           1,000           1,000           1,027           1,055           1,083            1,112
+     71   OMF     Communication And Network Services         591-538-00.000-850.000          10,000          10,000          10,270          10,547          10,832           11,125
+     72   OMV     Electricity                                591-538-00.000-920.001         105,000         105,000         109,200         113,568         118,111          122,835
+     73   OMV     Natural Gas                                591-538-00.000-920.002          50,000          55,000          57,200          59,488          61,868           64,342
+     74   OMF     Water And Sewer                            591-538-00.000-920.003           2,731           3,000           3,081           3,164           3,250            3,337
+     75   CO      Bldgs Additions & Improvements             591-538-00.000-974.000          10,000          10,000          10,000          10,000          10,000           10,000
+
+                                                                                                                                                                           Page 245 of 418
+
+--- packet page 246 ---
+
+11/7/2025
+James Baker
+Page 12
+
+    Projection of Cash Outflows                                                                                                                                       Schedule 4
+
+                                                                                          FY 2025         FY 2026         FY 2027         FY 2028         FY 2029         FY 2030
+                Expense Line Item                            Account Number
+     76         Total UTILITIES ADMIN BUILDING AND GROUNDS                            $     555,981   $     539,499   $     558,746   $     578,739   $     599,510   $      619,760
+                UTILITY BILLING SERVICES
+                Personal Services
+     77   PS       Overtime- Full Time                       591-539-00.000-703.001   $         500   $         500   $         525   $         551   $         579   $          602
+     78   PS       Overtime- Full Time                       591-539-01.000-703.001           6,000           6,000           6,300           6,615           6,946            7,224
+     79   PS       Base Pay - Full Time                      591-539-00.000-702.001         123,868         246,375         258,694         271,628         285,210          296,618
+     80   PS       Employer Social Security                  591-539-00.000-710.001           9,476          18,848          19,790          20,780          21,819           22,692
+     81   PS       Health Benefit Allocation                 591-539-00.000-711.001          24,224          38,153          40,061          42,064          44,167           45,934
+     82   PS       Dental Insurance Allocation               591-539-00.000-711.010           1,640           2,533           2,660           2,793           2,932            3,050
+     83   PS       Group Life Insurance Allocation           591-539-00.000-711.011             295             521             547             574             603              627
+     84   PS       Workers Compensation Allocation           591-539-00.000-711.020           1,955           2,508           2,633           2,765           2,903            3,019
+     85   PS       Deferred Compensation                     591-539-00.000-711.050           1,592           3,416           3,587           3,766           3,954            4,113
+     86   PS       Defined Retiree Health Contribution       591-539-00.000-711.051           5,200           7,800           8,190           8,600           9,029            9,391
+     87   PS       Base Pay - Full Time                      591-539-01.000-702.001         265,932         275,236         288,998         303,448         318,620          331,365
+     88   PS       Employer Social Security                  591-539-01.000-710.001          20,344          21,056          22,109          23,214          24,375           25,350
+     89   PS       Health Benefit Allocation                 591-539-01.000-711.001          60,560          63,588          66,767          70,106          73,611           76,556
+     90   PS       Dental Insurance Allocation               591-539-01.000-711.010           3,881           3,881           4,075           4,279           4,493            4,672
+     91   PS       Group Life Insurance Allocation           591-539-01.000-711.011             502             502             527             553             581              604
+     92   PS       Workers Compensation Allocation           591-539-01.000-711.020           1,649           1,542           1,619           1,700           1,785            1,856
+     93   PS       Deferred Compensation                     591-539-01.000-711.050           2,999           3,116           3,272           3,435           3,607            3,751
+     94   PS       Defined Retiree Health Contribution       591-539-01.000-711.051          13,000          13,000          13,650          14,333          15,049           15,651
+                Operations & Maintenance
+     95   OMF     Memberships And Subscriptions              591-539-00.000-810.003   $       1,500   $       1,500   $       1,541   $       1,582   $       1,625   $        1,669
+     96   OMF     Professional Development                   591-539-00.000-811.000           5,000           5,000           5,135           5,274           5,416            5,562
+     97   OMF     Postage                                    591-539-01.000-727.003         120,000         135,000         138,645         142,388         146,233          150,181
+     98   OMF     Professional And Contractual Services      591-539-01.000-801.000          50,000          25,000          25,675          26,368          27,080           27,811
+     99   OMF     Memberships And Subscriptions              591-539-01.000-810.003           1,500           1,500           1,541           1,582           1,625            1,669
+    100   OMF     Professional Development                   591-539-01.000-811.000           5,000           5,000           5,135           5,274           5,416            5,562
+    101   OMF     Software And Applications                  591-539-01.000-815.000             500             500             514             527             542              556
+    102   OMF     Recording Fees                             591-539-01.000-802.010               -             500             514             527             542              556
+    103   OMF     Printing And Publishing                    591-539-01.000-900.000          40,000          50,000          51,350          52,736          54,160           55,623
+    104         Total UTILITY BILLING SERVICES                                        $     767,117   $     932,575   $     974,052   $   1,017,463   $ 1,062,902     $    1,102,264
+                WATER OPERATIONS (PUMPING/SUPPLY)
+                Personal Services
+    105   PS       Bonus Pay                                 591-561-01.000-709.010   $       1,000   $         715   $         751   $         788   $         828   $          861
+    106   PS       Bonus Pay                                 591-561-02.000-709.010           1,000             715             751             788             828              861
+    107   PS       Bonus Pay                                 591-561-04.000-709.010             400             286             300             315             331              344
+    108   PS       Premium Pay                               591-561-01.000-709.001          24,000          27,088          28,443          29,865          31,358           32,613
+    109   PS       Premium Pay                               591-561-02.000-709.001          44,000          49,662          52,145          54,753          57,490           59,790
+    110   PS       Premium Pay                               591-561-03.000-709.001           1,800           2,032           2,133           2,240           2,352            2,446
+    111   PS       Premium Pay                               591-561-04.000-709.001          39,000          44,019          46,220          48,531          50,957           52,995
+    112   PS       Overtime- Full Time                       591-561-01.000-703.001          12,000          15,000          15,750          16,538          17,364           18,059
+    113   PS       Overtime- Full Time                       591-561-02.000-703.001          10,000          10,000          10,500          11,025          11,576           12,039
+    114   PS       Temporary Pay - Regular                   591-561-03.000-702.014          20,000               -               -               -               -                -
+    115   PS       Overtime- Full Time                       591-561-03.000-703.001           3,000           3,000           3,150           3,308           3,473            3,612
+    116   PS       Overtime- Full Time                       591-561-04.000-703.001          11,000          11,000          11,550          12,128          12,734           13,243
+    117   PS       Base Pay - Full Time                      591-561-01.000-702.001         528,227         397,077         416,931         437,777         459,666          478,053
+    118   PS       Employer Social Security                  591-561-01.000-710.001          40,409          30,377          31,896          33,491          35,165           36,572
+    119   PS       Health Benefit Allocation                 591-561-01.000-711.001         109,614          87,116          91,472          96,045         100,848          104,882
+    120   PS       Dental Insurance Allocation               591-561-01.000-711.010           7,619           5,676           5,960           6,258           6,571            6,834
+    121   PS       Group Life Insurance Allocation           591-561-01.000-711.011           1,493           1,031           1,083           1,137           1,194            1,241
+    122   PS       Workers Compensation Allocation           591-561-01.000-711.020          27,890          19,004          19,954          20,952          22,000           22,879
+    123   PS       Deferred Compensation                     591-561-01.000-711.050           7,657           5,564           5,842           6,134           6,441            6,699
+    124   PS       Defined Retiree Health Contribution       591-561-01.000-711.051          22,490          16,770          17,609          18,489          19,413           20,190
+    125   PS       Base Pay - Full Time                      591-561-02.000-702.001         391,299         485,306         509,571         535,050         561,802          584,274
+    126   PS       Employer Social Security                  591-561-02.000-710.001          29,934          37,126          38,982          40,931          42,978           44,697
+    127   PS       Health Benefit Allocation                 591-561-02.000-711.001          84,178         111,279         116,843         122,685         128,819          133,972
+    128   PS       Dental Insurance Allocation               591-561-02.000-711.010           5,583           7,039           7,391           7,760           8,149            8,474
+    129   PS       Group Life Insurance Allocation           591-561-02.000-711.011             848           1,075           1,129           1,185           1,244            1,294
+    130   PS       Workers Compensation Allocation           591-561-02.000-711.020          20,485          23,527          24,703          25,939          27,235           28,325
+    131   PS       Deferred Compensation                     591-561-02.000-711.050           5,092           6,356           6,674           7,007           7,358            7,652
+    132   PS       Defined Retiree Health Contribution       591-561-02.000-711.051          16,770          21,190          22,250          23,362          24,530           25,511
+    133   PS       Base Pay - Full Time                      591-561-03.000-702.001          41,532          39,457          41,430          43,501          45,676           47,503
+    134   PS       Employer Social Security                  591-561-03.000-710.001           3,177           3,019           3,170           3,328           3,495            3,635
+    135   PS       Health Benefit Allocation                 591-561-03.000-711.001           7,873           7,631           8,013           8,413           8,834            9,187
+    136   PS       Dental Insurance Allocation               591-561-03.000-711.010             522             478             502             527             553              575
+    137   PS       Group Life Insurance Allocation           591-561-03.000-711.011              84              73              77              80              85               88
+    138   PS       Workers Compensation Allocation           591-561-03.000-711.020           1,575           1,268           1,331           1,398           1,468            1,527
+    139   PS       Deferred Compensation                     591-561-03.000-711.050             508             475             499             524             550              572
+    140   PS       Defined Retiree Health Contribution       591-561-03.000-711.051           1,690           1,560           1,638           1,720           1,806            1,878
+    141   PS       Base Pay - Full Time                      591-561-04.000-702.001         247,923         207,624         218,005         228,905         240,351          249,965
+    142   PS       Employer Social Security                  591-561-04.000-710.001          18,966          15,884          16,678          17,512          18,388           19,123
+    143   PS       Health Benefit Allocation                 591-561-04.000-711.001          61,166          54,686          57,420          60,291          63,306           65,838
+    144   PS       Dental Insurance Allocation               591-561-04.000-711.010           4,171           3,531           3,708           3,893           4,088            4,251
+    145   PS       Group Life Insurance Allocation           591-561-04.000-711.011             723             590             620             650             683              710
+    146   PS       Workers Compensation Allocation           591-561-04.000-711.020          14,211          10,447          10,969          11,518          12,094           12,577
+    147   PS       Deferred Compensation                     591-561-04.000-711.050           3,719           3,115           3,271           3,434           3,606            3,750
+    148   PS       Defined Retiree Health Contribution       591-561-04.000-711.051          13,130          11,180          11,739          12,326          12,942           13,460
+    149   PS       Base Pay - Full Time                      591-561-00.000-702.001          98,175         172,190         180,800         189,839         199,331          207,305
+    150   PS       Employer Social Security                  591-561-00.000-710.001           7,510          13,173          13,832          14,523          15,249           15,859
+    151   PS       Health Benefit Allocation                 591-561-00.000-711.001          13,323          26,707          28,042          29,444          30,917           32,153
+    152   PS       Dental Insurance Allocation               591-561-00.000-711.010             968           1,861           1,954           2,052           2,154            2,241
+    153   PS       Group Life Insurance Allocation           591-561-00.000-711.011             233             459             482             506             531              553
+    154   PS       Workers Compensation Allocation           591-561-00.000-711.020           2,695           6,505           6,830           7,172           7,530            7,832
+    155   PS       Deferred Compensation                     591-561-00.000-711.050           1,449           2,559           2,687           2,821           2,962            3,081
+    156   PS       Hsa Contribution                          591-561-04.000-711.002             300             354             371             390             409              426
+    157   PS       Defined Retiree Health Contribution       591-561-00.000-711.051           2,860           5,460           5,733           6,020           6,321            6,573
+
+                                                                                                                                                                           Page 246 of 418
+
+--- packet page 247 ---
+
+11/7/2025
+James Baker
+Page 13
+
+    Projection of Cash Outflows                                                                                                                                   Schedule 4
+
+                                                                                      FY 2025         FY 2026         FY 2027         FY 2028         FY 2029         FY 2030
+               Expense Line Item                         Account Number
+    158   PS      Hsa Contribution                       591-561-03.000-711.002             500             589             619             650             682              709
+    159   PS      Hsa Contribution                       591-561-02.000-711.002             800             943             990           1,039           1,091            1,135
+    160   PS      Hsa Contribution                       591-561-01.000-711.002           2,000           2,357           2,475           2,598           2,728            2,837
+               Operations & Maintenance
+    161 OMF      Operating Supplies                      591-561-01.000-729.000   $       6,000   $       6,000   $       6,162   $       6,328   $       6,499   $        6,675
+    162 OMF      Professional And Contractual Services   591-561-01.000-801.000         234,463         232,000         238,264         244,697         251,304          258,089
+    163 OMF      Memberships And Subscriptions           591-561-01.000-810.003          10,000          10,000          10,270          10,547          10,832           11,125
+    164 OMF      Communication And Network Services      591-561-01.000-850.000           5,400           5,400           5,546           5,696           5,849            6,007
+    165 OMF      Operating Supplies                      591-561-02.000-729.000         125,000         100,000         102,700         105,473         108,321          111,245
+    166 OMF      Machinery & Equipment Under $5000       591-561-02.000-790.002          50,000          50,000          52,500          55,125          57,881           60,775
+    167 OMF      Professional And Contractual Services   591-561-02.000-801.000          12,000          12,000          12,324          12,657          12,998           13,349
+    168 OMF      Uniforms/Laundry                        591-561-02.000-810.002          10,000          10,000          10,270          10,547          10,832           11,125
+    169 OMF      Communication And Network Services      591-561-02.000-850.000          40,000          40,000          41,080          42,189          43,328           44,498
+    170 OMV      Electricity                             591-561-02.000-920.001       2,000,000       2,100,000       2,184,000       2,271,360       2,362,214        2,456,703
+    171 OMV      Natural Gas                             591-561-02.000-920.002          82,000          85,000          88,400          91,936          95,613           99,438
+    172 OMF      Water And Sewer                         591-561-02.000-920.003          10,000          10,000          10,270          10,547          10,832           11,125
+    173 OMF      Operating Supplies                      591-561-03.000-729.000          50,000          55,000          56,485          58,010          59,576           61,185
+    174 OMV      Chemicals                               591-561-03.000-729.006       1,032,000       1,500,000       2,112,500       2,270,938       2,441,258        2,624,352
+    175 OMF      Professional And Contractual Services   591-561-03.000-801.000         289,800         145,000         148,915         152,936         157,065          161,306
+    176 OMF      Operating Supplies                      591-561-04.000-729.000          25,000          25,000          25,675          26,368          27,080           27,811
+    177 OMF      Professional And Contractual Services   591-561-04.000-801.000         541,821       1,056,450         584,974       1,100,769         630,489        1,147,513
+    178 CO       Machinery And Equipment                 591-561-02.000-975.000          60,000          60,000          60,000          60,000          60,000           60,000
+    179 OMF      Equipment Fuel - Diesel                 591-561-02.000-730.002           6,000           6,000           6,240           6,490           6,749            7,019
+    180 OMF      Machinery & Equipment Under $5000       591-561-03.000-790.002          20,000          20,000          21,000          22,050          23,153           24,310
+    181 OMF      Repair And Maintenance Supplies         591-561-04.000-750.000          75,000          75,000          78,750          82,688          86,822           91,163
+    182 OMF      Machinery & Equipment Under $5000       591-561-04.000-790.002         100,000         100,000         105,000         110,250         115,763          121,551
+    183 OMF      Professional And Contractual Services   591-561-00.000-801.000               -           2,500           2,568           2,637           2,708            2,781
+    184 OMF      Planning And Studies                    591-561-04.000-801.010               -          25,000          25,675          26,368          27,080           27,811
+    185 OMF      Software And Applications               591-561-01.000-815.000               -          20,000          20,540          21,095          21,664           22,249
+    186 OMF      Repairs And Maintenance Services        591-561-02.000-930.000               -          40,000          41,080          42,189          43,328           44,498
+    187 CO       Machinery And Equipment                 591-561-04.000-975.000         140,486         100,000         100,000         100,000         100,000          100,000
+    188 OMF      Professional Development                591-561-01.000-811.000          25,000          25,000          25,675          26,368          27,080           27,811
+    189 CO       Machinery And Equipment                 591-561-01.000-975.000          50,000          50,000          50,000          50,000          50,000           50,000
+    190        Total WATER OPERATIONS (PUMPING/SUPPLY)                            $ 7,018,541     $   7,978,554   $   8,340,727   $   9,245,815   $ 9,186,856     $   10,115,271
+               WATER DISTRIBUTION
+               Personal Services
+    191   PS      Bonus Pay                              591-562-00.000-709.010   $         800 $           572 $           601 $           631 $           662 $            689
+    192   PS      Bonus Pay                              591-562-02.000-709.010           1,500           1,073           1,126           1,183           1,242            1,291
+    193   PS      Bonus Pay                              591-562-03.000-709.010             300             215             225             237             248              258
+    194   PS      Bonus Pay                              591-562-04.000-709.010             150             107             113             118             124              129
+    195   PS      Bonus Pay                              591-562-05.000-709.010           1,500           1,073           1,126           1,183           1,242            1,291
+    196   PS      Bonus Pay                              591-562-07.000-709.010             150             107             113             118             124              129
+    197   PS      Premium Pay                            591-562-00.000-709.001          80,000          90,295          94,810          99,550         104,528          108,709
+    198   PS      Premium Pay                            591-562-02.000-709.001          42,000          47,405          49,775          52,264          54,877           57,072
+    199   PS      Premium Pay                            591-562-03.000-709.001          15,000          16,930          17,777          18,666          19,599           20,383
+    200   PS      Premium Pay                            591-562-04.000-709.001           9,500          10,723          11,259          11,822          12,413           12,909
+    201   PS      Premium Pay                            591-562-05.000-709.001          37,000          41,761          43,849          46,042          48,344           50,278
+    202   PS      Premium Pay                            591-562-07.000-709.001          13,500          15,237          15,999          16,799          17,639           18,345
+    203   PS      Capital Labor Variance                 591-562-00.000-725.003        (700,000)       (700,000)       (735,000)       (771,750)       (810,338)        (842,751)
+    204   PS      Temporary Pay - Regular                591-562-00.000-702.014          40,000          93,000          97,650         102,533         107,659          111,965
+    205   PS      Overtime- Full Time                    591-562-00.000-703.001          40,000          40,000          42,000          44,100          46,305           48,157
+    206   PS      Overtime- Full Time                    591-562-02.000-703.001         115,000         100,000         105,000         110,250         115,763          120,393
+    207   PS      Temporary Pay - Regular                591-562-03.000-702.014           3,000           3,000           3,150           3,308           3,473            3,612
+    208   PS      Overtime- Full Time                    591-562-03.000-703.001          25,000          25,000          26,250          27,563          28,941           30,098
+    209   PS      Overtime- Full Time                    591-562-04.000-703.001          25,000          25,000          26,250          27,563          28,941           30,098
+    210   PS      Hsa Contribution                       591-562-00.000-711.002           1,500           1,768           1,856           1,949           2,046            2,128
+    211   PS      Overtime- Full Time                    591-562-05.000-703.001          38,000          25,000          26,250          27,563          28,941           30,098
+    212   PS      Overtime- Full Time                    591-562-07.000-703.001          15,000          30,000          31,500          33,075          34,729           36,118
+    213   PS      Employer Social Security               591-562-00.000-710.001          52,007          35,743          37,530          39,407          41,377           43,032
+    214   PS      Health Benefit Allocation              591-562-00.000-711.001         138,077          80,121          84,127          88,333          92,750           96,460
+    215   PS      Dental Insurance Allocation            591-562-00.000-711.010           9,527           5,349           5,616           5,897           6,192            6,440
+    216   PS      Group Life Insurance Allocation        591-562-00.000-711.011           1,828           1,126           1,182           1,241           1,303            1,356
+    217   PS      Other Fringe Benefit Allocation        591-562-00.000-711.012           2,462           2,538           2,665           2,798           2,938            3,056
+    218   PS      Workers Compensation Allocation        591-562-00.000-711.020          35,064          19,004          19,954          20,952          22,000           22,879
+    219   PS      Deferred Compensation                  591-562-00.000-711.050           9,520           6,475           6,799           7,139           7,496            7,795
+    220   PS      Defined Retiree Health Contribution    591-562-00.000-711.051          28,340          15,080          15,834          16,626          17,457           18,155
+    221   PS      Base Pay - Full Time                   591-562-02.000-702.001         475,468         549,352         576,820         605,661         635,944          661,381
+    222   PS      Employer Social Security               591-562-02.000-710.001          36,373          42,026          44,127          46,334          48,650           50,596
+    223   PS      Health Benefit Allocation              591-562-02.000-711.001         116,881         131,628         138,209         145,120         152,376          158,471
+    224   PS      Dental Insurance Allocation            591-562-02.000-711.010           8,052           8,685           9,119           9,575          10,054           10,456
+    225   PS      Group Life Insurance Allocation        591-562-02.000-711.011           1,482           1,650           1,733           1,819           1,910            1,986
+    226   PS      Other Fringe Benefit Allocation        591-562-02.000-711.012               -             537             564             592             622              647
+    227   PS      Workers Compensation Allocation        591-562-02.000-711.020          25,713          23,986          25,185          26,445          27,767           28,877
+    228   PS      Deferred Compensation                  591-562-02.000-711.050           7,132           8,241           8,653           9,086           9,540            9,922
+    229   PS      Defined Retiree Health Contribution    591-562-02.000-711.051          23,010          22,750          23,888          25,082          26,336           27,389
+    230   PS      Base Pay - Full Time                   591-562-03.000-702.001         536,075         500,358         525,376         551,645         579,227          602,396
+    231   PS      Employer Social Security               591-562-03.000-710.001          41,010          38,278          40,192          42,201          44,312           46,084
+    232   PS      Health Benefit Allocation              591-562-03.000-711.001         133,838         123,997         130,197         136,707         143,542          149,284
+    233   PS      Dental Insurance Allocation            591-562-03.000-711.010           9,215           8,149           8,556           8,984           9,433            9,811
+    234   PS      Group Life Insurance Allocation        591-562-03.000-711.011           1,692           1,514           1,590           1,669           1,753            1,823
+    235   PS      Other Fringe Benefit Allocation        591-562-03.000-711.012               -             537             564             592             622              647
+    236   PS      Workers Compensation Allocation        591-562-03.000-711.020          34,200          27,378          28,747          30,184          31,693           32,961
+    237   PS      Deferred Compensation                  591-562-03.000-711.050           8,041           7,506           7,881           8,275           8,689            9,037
+    238   PS      Defined Retiree Health Contribution    591-562-03.000-711.051          28,730          25,350          26,618          27,948          29,346           30,520
+    239   PS      Base Pay - Full Time                   591-562-04.000-702.001         302,602         354,175         371,884         390,478         410,002          426,402
+    240   PS      Employer Social Security               591-562-04.000-710.001          23,149          27,095          28,450          29,872          31,366           32,620
+    241   PS      Health Benefit Allocation              591-562-04.000-711.001          82,967          98,562         103,490         108,665         114,098          118,662
+    242   PS      Dental Insurance Allocation            591-562-04.000-711.010           5,624           6,363           6,681           7,015           7,366            7,661
+
+                                                                                                                                                                       Page 247 of 418
+
+--- packet page 248 ---
+
+11/7/2025
+James Baker
+Page 14
+
+    Projection of Cash Outflows                                                                                                                                    Schedule 4
+
+                                                                                       FY 2025         FY 2026         FY 2027         FY 2028         FY 2029         FY 2030
+                Expense Line Item                         Account Number
+    243   PS       Group Life Insurance Allocation        591-562-04.000-711.011             938           1,062           1,115           1,171           1,229            1,279
+    244   PS       Other Fringe Benefit Allocation        591-562-04.000-711.012               -             537             564             592             622              647
+    245   PS       Workers Compensation Allocation        591-562-04.000-711.020          17,468          19,227          20,188          21,198          22,258           23,148
+    246   PS       Deferred Compensation                  591-562-04.000-711.050           4,539           5,313           5,579           5,858           6,150            6,396
+    247   PS       Defined Retiree Health Contribution    591-562-04.000-711.051          17,810          20,150          21,158          22,215          23,326           24,259
+    248   PS       Base Pay - Full Time                   591-562-05.000-702.001         314,654         332,631         349,263         366,726         385,062          400,464
+    249   PS       Employer Social Security               591-562-05.000-710.001          24,071          25,447          26,719          28,055          29,458           30,636
+    250   PS       Health Benefit Allocation              591-562-05.000-711.001          60,560          63,588          66,767          70,106          73,611           76,556
+    251   PS       Dental Insurance Allocation            591-562-05.000-711.010           3,881           3,881           4,075           4,279           4,493            4,672
+    252   PS       Group Life Insurance Allocation        591-562-05.000-711.011             502             502             527             553             581              604
+    253   PS       Workers Compensation Allocation        591-562-05.000-711.020           7,481           7,116           7,472           7,845           8,238            8,567
+    254   PS       Deferred Compensation                  591-562-05.000-711.050           3,480           3,683           3,867           4,061           4,264            4,434
+    255   PS       Defined Retiree Health Contribution    591-562-05.000-711.051          13,000          13,000          13,650          14,333          15,049           15,651
+    256   PS       Base Pay - Full Time                   591-562-07.000-702.001         539,178         638,019         669,920         703,416         738,587          768,130
+    257   PS       Employer Social Security               591-562-07.000-710.001          41,247          48,809          51,249          53,812          56,503           58,763
+    258   PS       Health Benefit Allocation              591-562-07.000-711.001         130,204         168,509         176,934         185,781         195,070          202,873
+    259   PS       Dental Insurance Allocation            591-562-07.000-711.010           9,005          10,986          11,535          12,112          12,718           13,226
+    260   PS       Group Life Insurance Allocation        591-562-07.000-711.011           1,695           1,949           2,046           2,149           2,256            2,346
+    261   PS       Base Pay - Full Time                   591-562-00.000-702.001         679,832         467,227         490,588         515,118         540,874          562,509
+    262   PS       Workers Compensation Allocation        591-562-07.000-711.020          25,601          33,316          34,982          36,731          38,567           40,110
+    263   PS       Deferred Compensation                  591-562-07.000-711.050           8,088           9,571          10,050          10,552          11,080           11,523
+    264   PS       Defined Retiree Health Contribution    591-562-07.000-711.051          24,050          33,150          34,808          36,548          38,375           39,910
+    265   PS       Hsa Contribution                       591-562-02.000-711.002           3,500           4,124           4,330           4,547           4,774            4,965
+    266   PS       Hsa Contribution                       591-562-03.000-711.002           2,000           2,357           2,475           2,598           2,728            2,837
+    267   PS       Temporary Pay - Regular                591-562-04.000-702.014          20,000               -               -               -               -                -
+    268   PS       Temporary Pay - Regular                591-562-07.000-702.014          10,500               -               -               -               -                -
+    269   PS       Other Fringe Benefit Allocation        591-562-07.000-711.012               -             537             564             592             622              647
+    270   PS       Hsa Contribution                       591-562-04.000-711.002           3,500           4,124           4,330           4,547           4,774            4,965
+                Operations & Maintenance
+    271 OMF       Operating Supplies                      591-562-00.000-729.000   $      15,000   $      15,000   $      15,405   $      15,821   $      16,248   $       16,687
+    272 OMF       Machinery & Equipment Under $5000       591-562-00.000-790.002          24,500          24,500          25,725          27,011          28,362           29,780
+    273 OMF       Professional And Contractual Services   591-562-00.000-801.000          54,000          54,000          55,458          56,955          58,493           60,072
+    274 OMF       Postage                                 591-562-00.000-727.003          10,000          25,000          25,675          26,368          27,080           27,811
+    275 OMF       Professional Development                591-562-00.000-811.000          95,000          95,000          97,565         100,199         102,905          105,683
+    276 OMF       Operating Supplies                      591-562-02.000-729.000         200,000         200,000         205,400         210,946         216,641          222,491
+    277 OMF       Professional And Contractual Services   591-562-02.000-801.000         225,000         350,000         359,450         369,155         379,122          389,359
+    278 OMV       Electricity                             591-562-02.000-920.001          15,000          15,000          15,600          16,224          16,873           17,548
+    279 OMF       Operating Supplies                      591-562-03.000-729.000         325,000         325,000         333,775         342,787         352,042          361,547
+    280 OMF       Professional And Contractual Services   591-562-03.000-801.000          90,000          95,000          97,565         100,199         102,905          105,683
+    281 OMF       Uniforms/Laundry                        591-562-03.000-810.002          20,000          20,000          20,540          21,095          21,664           22,249
+    282 OMF       Operating Supplies                      591-562-04.000-729.000         100,000         100,000         102,700         105,473         108,321          111,245
+    283 OMF       Professional And Contractual Services   591-562-04.000-801.000           5,000           5,000           5,135           5,274           5,416            5,562
+    284 OMF       Operating Supplies                      591-562-05.000-729.000          20,000          20,000          20,540          21,095          21,664           22,249
+    285 OMF       Professional And Contractual Services   591-562-05.000-801.000          50,000          70,000          71,890          73,831          75,824           77,872
+    286 OMF       Repair And Maintenance Supplies         591-562-02.000-750.000          25,000          25,000          26,250          27,563          28,941           30,388
+    287 OMF       Software And Applications               591-562-05.000-815.000          15,000          15,000          15,405          15,821          16,248           16,687
+    288 OMF       Operating Supplies                      591-562-07.000-729.000          50,000          50,000          51,350          52,736          54,160           55,623
+    289 OMF       Professional And Contractual Services   591-562-07.000-801.000           9,000          12,500          12,838          13,184          13,540           13,906
+    290 CO        Water System                            591-562-07.000-980.000         591,000         500,000         500,000         500,000         500,000          500,000
+    291 OMF       Promotion And Advertisting              591-562-00.000-880.000          75,000          75,000          77,025          79,105          81,241           83,434
+    292 OMF       Software And Applications               591-562-00.000-815.000               -          40,000          41,080          42,189          43,328           44,498
+    293 OMF       Recording Fees                          591-562-02.000-802.010               -           5,000           5,135           5,274           5,416            5,562
+    294 OMF       Natural Gas                             591-562-02.000-920.002               -             500             520             541             562              585
+    295 OMF       Promotion And Advertisting              591-562-03.000-880.000               -          15,000          15,405          15,821          16,248           16,687
+    296 OMF       Communication And Network Services      591-562-07.000-850.000          15,000          10,000          10,270          10,547          10,832           11,125
+    297 OMF       Machinery & Equipment Under $5000       591-562-07.000-790.002          25,000          25,000          26,250          27,563          28,941           30,388
+    298         Total WATER DISTRIBUTION                                           $ 6,002,263     $   6,147,133   $   6,392,615   $   6,649,374   $ 6,917,946     $    7,153,045
+                ENVIRONMENTAL SERVICES
+                Personal Services
+    299   PS       Base Pay - Full Time                   591-545-00.000-702.001   $      14,629   $      15,355   $      16,123   $      16,929   $      17,775   $       18,486
+    300   PS       Overtime- Full Time                    591-545-00.000-703.001           1,200           1,200           1,260           1,323           1,389            1,445
+    301   PS       Employer Social Security               591-545-00.000-710.001           1,119           1,175           1,234           1,295           1,360            1,415
+    302   PS       Health Benefit Allocation              591-545-00.000-711.001           2,422           2,544           2,671           2,805           2,945            3,063
+    303   PS       Dental Insurance Allocation            591-545-00.000-711.010             179             179             188             197             207              216
+    304   PS       Group Life Insurance Allocation        591-545-00.000-711.011              45              46              48              51              53               55
+    305   PS       Deferred Compensation                  591-545-00.000-711.050             219             231             243             255             267              278
+    306   PS       Defined Retiree Health Contribution    591-545-00.000-711.051             520             520             546             573             602              626
+    307   PS       Base Pay - Full Time                   591-545-05.000-702.001          14,412          16,919          17,765          18,653          19,586           20,369
+    308   PS       Employer Social Security               591-545-05.000-710.001           1,103           1,295           1,360           1,428           1,499            1,559
+    309   PS       Health Benefit Allocation              591-545-05.000-711.001           3,028           3,180           3,339           3,506           3,681            3,828
+    310   PS       Dental Insurance Allocation            591-545-05.000-711.010             187             187             196             206             216              225
+    311   PS       Group Life Insurance Allocation        591-545-05.000-711.011              17              18              19              20              21               22
+    312   PS       Deferred Compensation                  591-545-05.000-711.050             144             170             179             187             197              205
+    313   PS       Defined Retiree Health Contribution    591-545-05.000-711.051             650             650             683             717             752              783
+    314   PS       Workers Compensation Allocation        591-545-05.000-711.020             411             435             457             480             504              524
+    315   PS       Workers Compensation Allocation        591-545-00.000-711.020             417             395             415             435             457              476
+    316   PS       Other Fringe Benefit Allocation        591-545-05.000-711.012             295             347             364             383             402              418
+                Operations & Maintenance
+    317   OMF     Professional And Contractual Services   591-545-00.000-801.000   $      86,332   $      70,000   $      71,890   $      73,831   $      75,824   $       77,872
+    318   OMF     Operating Supplies                      591-545-02.000-729.000          21,875          50,000          51,350          52,736          54,160           55,623
+    319   OMF     Professional And Contractual Services   591-545-02.000-801.000          15,000          15,000          15,405          15,821          16,248           16,687
+    320   OMF     Professional And Contractual Services   591-545-06.000-801.000         128,253         102,500         105,268         108,110         111,029          114,026
+    321   OMF     Operating Supplies                      591-545-03.000-729.000          18,125          25,000          25,675          26,368          27,080           27,811
+    322   OMF     Professional And Contractual Services   591-545-03.000-801.000         110,475         212,500         218,238         224,130         230,181          236,396
+    323   OMF     Printing And Publishing                 591-545-03.000-900.000          80,000          80,000          82,160          84,378          86,657           88,996
+    324   OMF     Operating Supplies                      591-545-00.000-729.000               -           1,000           1,027           1,055           1,083            1,112
+    325   OMF     Machinery & Equipment Under $5000       591-545-02.000-790.002          10,000          10,000          10,500          11,025          11,576           12,155
+
+                                                                                                                                                                        Page 248 of 418
+
+--- packet page 249 ---
+
+11/7/2025
+James Baker
+Page 15
+
+    Projection of Cash Outflows                                                                                                                                           Schedule 4
+
+                                                                                            FY 2025         FY 2026         FY 2027         FY 2028          FY 2029          FY 2030
+                Expense Line Item                              Account Number
+    326         Total ENVIRONMENTAL SERVICES                                            $     511,057   $     610,846   $     628,600   $     646,897    $     665,754    $      684,671
+              CITY EQUIPMENT
+              Operations & Maintenance
+    327   OMF    Fleet Maintenance Services                    591-580-00.000-830.011   $     531,700   $     500,300   $     513,808   $     527,681    $     541,928    $      556,560
+    328   OMF    Vehicle Supplies - Gasoline                   591-580-00.000-730.001          89,200          89,200          92,768          96,479          100,338           104,351
+    329   OMF    Vehicle Supplies - Diesel Fuel                591-580-00.000-730.002          25,000          25,000          26,000          27,040           28,122            29,246
+    330   OMF    Vehicle Supplies - Bio Diesel Fuel            591-580-00.000-730.003          70,000          70,000          72,800          75,712           78,740            81,890
+    331   OMF    Software And Applications                     591-580-00.000-815.000          35,000          35,000          35,945          36,916           37,912            38,936
+    332   CO     Machinery And Equipment                       591-580-00.000-975.000         150,000         150,000         150,000         150,000          150,000           150,000
+    333   CO     Vehicular Equipment                           591-580-00.000-977.000         350,000         350,000         350,000         350,000          350,000           350,000
+    334         Total CITY EQUIPMENT                                                    $ 1,250,900     $   1,219,500   $   1,241,321   $    1,263,827   $ 1,287,040      $    1,310,984
+            WATER OPERATIONS (PUMPING/SUPPLY)
+            Operations & Maintenance
+    335 OMF   Operating Supplies                               591-560-01.000-729.000   $       2,000   $         -     $         -     $          -     $          -     $          -
+    336 OMF   Professional And Contractual Services            591-560-01.000-801.000          70,000             -               -                -                -                -
+    337 OMF   Operating Supplies                               591-560-00.000-729.000           1,000             -               -                -                -                -
+    338         Total WATER OPERATIONS (PUMPING/SUPPLY)                                 $      73,000   $         -     $         -     $          -     $          -     $          -
+
+                Other Operating Expenses
+    339   OMF      Principal Payments-Opeb Debt                591-906-00.000-991.005   $     233,121   $     241,680   $     250,240   $     260,310    $     270,883    $      281,960
+    340   OMF      Interest Expense - Opeb Bonds               591-906-00.000-993.005         318,253         310,077         301,118         291,341          280,781           269,385
+    341   PS       Additional FTEs                                                                -           180,000         240,000         252,000          264,600           275,184
+    342         Total Other Operating Expenses                                          $     551,373   $     731,757   $     791,358   $     803,651    $     816,264    $      826,529
+              Total Expenses by Category
+    343    PS    Personnel Services                                                     $ 8,568,222     $  8,921,858    $  9,418,951    $  9,889,898     $ 10,384,393     $   10,799,769
+    344   OMV    Variable Operations & Maintenance                                         3,284,000       3,860,000       4,566,900       4,823,514        5,095,937          5,385,218
+    345   OMF    Fixed Operations & Maintenance                                            8,720,827       9,971,011       9,735,678      10,495,208       10,275,495         11,050,079
+    346   CO     Capital Outlay                                                            1,371,486       1,240,000       1,240,000       1,240,000        1,240,000          1,240,000
+    347       Total Expenses                                                            $ 21,944,535    $ 23,992,869    $ 24,961,529    $ 26,448,620     $ 26,995,825     $   28,475,067
+                Expense Execution Factors
+    348            Personnel Services                                                           100%            100%            100%             100%             100%             100%
+    349            Variable Operations & Maintenance                                            100%            100%            100%             100%             100%             100%
+    350            Fixed Operations & Maintenance                                               100%            100%            100%             100%             100%             100%
+    351            Capital Outlay                                                               100%            100%            100%             100%             100%             100%
+                Total Expenses at Execution
+    352            Personnel Services                                                   $ 8,568,222     $   8,921,858   $   9,418,951   $    9,889,898   $ 10,384,393     $   10,799,769
+    353            Variable Operations & Maintenance                                      3,284,000         3,860,000       4,566,900        4,823,514      5,095,937          5,385,218
+    354            Fixed Operations & Maintenance                                           8,720,827       9,971,011       9,735,678       10,495,208       10,275,495       11,050,079
+    355            Capital Outlay                                                          1,371,486       1,240,000       1,240,000       1,240,000        1,240,000          1,240,000
+    356         Total Expenses at Execution                                             $ 21,944,535    $ 23,992,869    $ 24,961,529    $ 26,448,620     $ 26,995,825     $   28,475,067
+                Transfers Out
+    357            PAYMENT IN LIEU OF TAXES                                             $     300,000   $     300,000   $     300,000   $     300,000    $     300,000    $      300,000
+    358         Total Transfers Out                                                     $     300,000   $     300,000   $     300,000   $     300,000    $     300,000    $      300,000
+
+                Debt Service
+    359            2015 Water Supply System Revenue Bond                                $     175,225   $     172,075   $     173,925   $     175,625    $     177,175    $      173,575
+    360            2017 Water Supply System Revenue and Revenue Refunding Bond                603,469         596,669         429,469         428,269          431,669           432,519
+    361            2018 Water Supply System Revenue Bond                                      570,900         571,150         570,650         572,650          572,450           571,950
+    362            2019 Water Supply System Revenue Bond                                      608,250         608,000         612,000         610,000          610,800           611,000
+    363            2020 Water Supply System Revenue Bond                                    1,152,863       1,153,363       1,152,363        1,149,863        1,150,863        1,150,113
+    364            2021 Water Supply System Refunding Bond                                    750,750         745,625         930,225         934,325          937,738           950,463
+    365            2022 Water Supply System Revenue Bond                                    1,926,200       1,925,450       1,922,950        1,923,700        1,922,450        1,924,200
+    366            2023 Water Supply System Revenue Bond                                    1,870,000       1,871,000       1,870,500        1,868,500        1,870,000        1,869,750
+    367            2024 Water Supply System Revenue Bond                                    1,759,106       1,758,500       1,761,250        1,757,500        1,757,500        1,761,000
+    368            2019 DWRF Funds                                                             42,294          41,694          46,094          45,394           44,694            48,994
+    369            2020 DWRF Funds                                                          1,163,307       1,160,857       1,163,057        1,164,857        1,161,307        1,162,407
+    370            2023 DWRF Funds                                                             94,688         304,688         305,750         306,719          302,594           303,469
+    371            2025 Water Supply System Revenue Bond                                          -         1,414,664       1,414,664        1,414,664        1,414,664        1,414,664
+    372            DWSRF #7866-01                                                                 -           400,000         800,000        1,400,000        2,608,472        2,608,472
+    373            New All-In Debt Service (Calculated)                                      439,801       1,477,731       2,937,565       4,461,509        6,147,249          8,232,069
+    374         Total Debt Service                                                      $ 11,156,852    $ 14,201,466    $ 16,090,463    $ 18,213,575     $ 21,109,624     $   23,214,644
+
+                Cash-Funded Capital
+    375         Excess Fund Balances Used for Cash Funding                              $ 6,511,940     $   9,915,000   $ 13,119,908    $ 12,848,645     $ 12,154,580     $    5,983,831
+    376         Total Cash-Funded Capital                                               $ 6,511,940     $   9,915,000   $ 13,119,908    $ 12,848,645     $ 12,154,580     $    5,983,831
+    377         Total Cash Outflows                                                     $ 39,913,327    $ 48,409,335    $ 54,471,900    $ 57,810,841     $ 60,560,029     $   57,973,542
+
+                                                                                                                                                                               Page 249 of 418
+
+--- packet page 250 ---
+
+11/7/2025
+James Baker
+Page 16
+
+ Cost Escalation Factors                                                                     Schedule 5
+ Inflation Factor                                         FY 2027       FY 2028      FY 2029       FY 2030
+ Salaries & Wages                                          5.00%         5.00%         5.00%         4.00%
+ Health Insurance                                          5.00%         5.00%         5.00%         4.00%
+ Benefits                                                  5.00%         5.00%         5.00%         4.00%
+ Repair & Maintenance                                      5.00%         5.00%         5.00%         5.00%
+ Chemicals                                                 7.50%         7.50%         7.50%         7.50%
+ Fuel & Utilities                                          4.00%         4.00%         4.00%         4.00%
+ Other                                                     2.70%         2.70%         2.70%         2.70%
+ No Escalation                                             0.00%         0.00%         0.00%         0.00%
+                                           1
+ Weighted Average Increase in O&M Expenses                 4.26%         6.27%         2.17%         5.74%
+ 1
+  The Weighted Average Increase in O&M Expenses is reflective of the cost escalation factors presented on this
+ schedule and the cost execution factors on Schedule 1.
+
+                                                                                                       Page 250 of 418
+
+--- packet page 251 ---
+
+11/7/2025
+James Baker
+Page 17
+
+ Capital Improvement Program (CIP)                                                                                                                                Schedule 6
+                                                                         FY 2025        FY 2026        FY 2027        FY 2028        FY 2029        FY 2030           Total Cost
+
+  1   WATER SOURCE AND PUMPING
+  2   WELL REPLACEMENT PROGRAM                                   BOND   $ 1,500,000    $ 1,500,000    $ 1,545,000    $ 1,591,350    $ 1,639,091    $ 1,688,263    $     9,463,704
+  3   MONITORING WELL ABANDONMENT                                BOND        75,000         56,250         57,938         59,676         61,466         63,310            373,639
+  4   WATER SOURCE AND PUMPING PROGRAM                           BOND       250,000        187,500        193,125        198,919        204,886        211,033          1,245,463
+  5   STATION ROADWAY IMPROVEMENTS                               BOND        70,000         52,500         54,075         55,697         57,368         59,089            348,730
+  6   STA #39 GENERATOR                                          BOND     1,000,000               -              -              -              -              -         1,000,000
+  7   STA #10 UPGRADES                                           BOND              -       375,000        386,250               -              -              -           761,250
+  8   CENTRAL PUMP STATION GENERATORS                            BOND     4,000,000               -     2,317,500      2,387,025      2,458,636               -        11,163,161
+  9   STA#25 GENERATOR                                           BOND     1,500,000               -              -              -              -              -         1,500,000
+ 10 STATION FACILITY UPGRADES                                    BOND       125,000         75,000         77,250        795,675        819,545        844,132          2,736,602
+ 11 STA#9 FLOW CONTROL UPGRADE                                   BOND       500,000               -              -              -              -              -           500,000
+ 12 STA PLC REPLACEMENT                                          BOND              -        75,000         77,250         79,568         81,955               -           313,772
+ 13 STATION GENERATOR INSTALLATIONS                              BOND       515,000        397,500        421,785        447,169        327,818        337,653          2,446,925
+ 14 BLAKESLEE GROUND STORAGE TANK REPL.                          BOND              -              -              -     1,432,215      4,917,272      5,064,790         11,414,276
+ 15 WATER STATION 45 CONSTRUCTION                                BOND              -              -              -       491,727      1,957,160      2,015,875          4,464,761
+ 16 STA 26 & STA 23 REPLACEMENT                                  BOND       500,000               -              -              -              -              -           500,000
+ 17 CENTRAL PUMP STATION FILTRATION EXPANS.                      BOND       500,000        375,000        386,250        397,838               -              -         1,659,088
+ 18 STATION 6 UPGRADES                                           BOND       772,500               -              -     2,306,013      2,375,194               -         5,453,707
+ 19 STA 24 CONTROL SYSTEM UPGRADES                               BOND              -       375,000               -     3,978,375      4,097,726               -         8,451,101
+ 20 STA 29 CHLORIDE GAS CONVERSION                               BOND       500,000        750,000               -              -              -              -         1,250,000
+ 21 ST 11 BACKWASH UPGRADES AND SEWER EXT.                       BOND              -              -     1,738,911               -              -              -         1,738,911
+ 22 STA 4 BOOSTER REPLACEMENT                                    BOND        80,000               -              -              -              -              -            80,000
+ 23 STA 25 RELIABILITY                                           BOND              -     3,750,000      3,862,500               -              -              -         7,612,500
+ 24 WATER STATION SECURITY UPGRADES                              BOND              -        75,000         77,250         79,568               -              -           231,818
+ 25 RICHLAND ELEVATED STORAGE TANK                               BOND              -              -              -              -              -       379,859            379,859
+ 26 STA 24 ROOF                                                  BOND              -              -       154,500               -              -              -           154,500
+ 27 STA 38 CONSTRUCTION                                          BOND              -              -              -              -     3,165,494      8,651,462         11,816,955
+ 28 STA 46 BOOSTER STATION                                       BOND              -              -              -              -       379,859      3,114,526          3,494,385
+ 29 STA 47 BOOSTER STATION                                       BOND              -              -              -              -              -       391,255            391,255
+      STA 28 ELECTRICAL UPGRADES AND ONSITE GENERATOR
+ 30                                                              BOND              -              -        69,525        477,405               -              -           546,930
+      INSTALLAITON
+ 31 STA 22 GENERATOR                                             BOND              -       225,000        772,500        795,675               -              -         1,793,175
+ 32 SPRING VALLEY DAM                                            BOND              -       750,000               -              -              -              -           750,000
+      WATER INFRASTRUCTURE - FUNDED BY CONTRIBUTIONS IN AID OF
+      CAPITAL
+ 33 NEW SERVICE CONNECTION PROGRAM                               CIA      1,321,000      1,453,000      1,598,000      1,758,000      1,828,000      1,901,000          9,859,000
+      WATER INFRASTRUCTURE
+ 34 WATER MAIN PROGRAM                                           BOND       500,000        375,000        386,250        397,838        409,773        422,066          2,490,926
+ 35 VALVE IMPROVEMENT PROGRAM                                    BOND       125,000         93,750         96,563         99,459        102,443        105,516            622,731
+ 36 ACADEMY STREET CULVERT MAIN                                  BOND              -              -       193,125               -              -              -           193,125
+ 37 HYDRANT REPLACEMENT PROGRAM                                  BOND       150,000        150,000        579,375        795,675        819,545        844,132          3,338,727
+ 38 BURDICK STREET (REED - CROSSTOWN-LOVELL)                     BOND     2,350,000      2,887,500      1,815,375               -              -              -         7,052,875
+ 39 PORTER ST (KAL - RANSOM) WATER MAIN REPL                     BOND       500,000               -              -              -              -              -           500,000
+ 40 KALAMAZOO AVENUE - DOUGLAS TO HARRISON                       BOND     1,500,000      1,125,000               -              -              -              -         2,625,000
+ 41 PRAIRIE - BLAKESLEE TO ALAMO/NICHOLS TO PRAIRIE              BOND              -              -              -        37,596        329,481               -           367,076
+ 42 MI AVE - DOUGLAS TO HARRISON/W. MAIN                         BOND              -              -     2,703,750      1,034,378               -              -         3,738,128
+ 43 TRANSMISSION OVERSIZING PROGRAM                              BOND       500,000        375,000        386,250        397,838        409,773        422,066          2,490,926
+ 44 W DUTTON (PARK - BURDICK)                                    BOND              -              -       618,000               -              -              -           618,000
+ 45 ML / 35TH ST (33RD TO CASTLE CREEK)                          BOND     3,360,000               -              -              -              -              -         3,360,000
+ 46 7TH ST LOOP WEST                                             BOND              -              -              -       113,384        778,568               -           891,952
+ 47 KNOLLWOOD NEIGHBORHOOD WATER MAIN LINING                     BOND     1,500,000               -              -              -              -              -         1,500,000
+ 48 W MAIN 131 TO DRAKE (MDOT)                                   BOND       400,000               -              -              -              -              -           400,000
+ 49 WYNN ROAD (CONSTRUCTION DR - RIVER ST)                       BOND              -              -              -        24,586        195,716               -           220,302
+ 50 MAPLE STREET (CROSSTOWN - STEARNS)                           BOND              -              -        57,938        397,838               -              -           455,775
+ 51 EDWARDS ELEANOR TRANSMISSION CONNECTOR                       BOND              -       562,500               -              -              -              -           562,500
+ 52 REED BRIDGE WATER MAIN LINING                                BOND        75,000        375,000               -              -              -              -           450,000
+ 53 INGLESIDE TERRACE                                            BOND       120,000               -              -       636,540               -              -           756,540
+ 54 ROSE ST (CEDAR - VINE)                                       BOND              -              -        98,494        676,324               -              -           774,818
+ 55 E K AVE (WORDEN - 28TH ST)                                   BOND              -              -              -              -              -       253,239            253,239
+ 56 KING HWY (RIVER ST - E MICHIGAN)                             BOND              -              -              -              -              -       253,239            253,239
+ 57 E MICHIGAN, 26TH ST, M96 WATER MAIN, SHIELDS TRNS            BOND              -              -              -              -       983,454      3,376,526          4,359,981
+ 58 PIONEER (WESTNEDGE - MERRILL), MERRILL (PIONEER - HOWARD)    BOND       450,000               -       347,625      1,193,513      1,229,318               -         3,220,455
+ 59 ATLANTIC AVE EXTENSION LOOP                                  BOND        45,000               -       231,750               -              -              -           276,750
+ 60 FIRE LOOP                                                    BOND              -              -        40,556        278,486               -              -           319,043
+ 61 BLUFFTON/BELA LOOP                                           BOND        30,000               -       154,500               -              -              -           184,500
+ 62 8TH ST LOOP                                                  BOND              -              -              -              -       338,062      2,321,362          2,659,424
+ 63 35TH ST MICHIGAN AVE - GALESBURG LOOP                        BOND       540,750               -     2,954,461               -              -              -         3,495,211
+ 64 GH AVE LOOP                                                  BOND              -              -       115,875        795,675               -              -           911,550
+ 65 N AVE LOOP TO 35TH ST                                        BOND              -     4,500,000      4,635,000               -              -              -         9,135,000
+ 66 TEXAS DR WATER MAIN                                          BOND              -              -              -       226,767      1,557,136               -         1,783,903
+
+                                                                                                                                                                  Page 251 of 418
+
+--- packet page 252 ---
+
+11/7/2025
+James Baker
+Page 18
+
+ Capital Improvement Program (CIP)                                                                                                                                                                   Schedule 6
+                                                                                                            FY 2025        FY 2026        FY 2027        FY 2028        FY 2029        FY 2030        Total Cost
+ 67 COMMUNITY WATER MAIN PROGRAM                                                             BOND            1,500,000        750,000      1,158,750      1,193,513      1,229,318      1,266,197        7,097,778
+ 68 REVERAND WRIGHT CT                                                                       BOND                     -       600,000               -              -              -              -         600,000
+ 69 W. MAIN - ARLINGTON TO NICHOLS                                                           BOND                     -              -              -       365,215      2,714,533               -       3,079,747
+ 70 W. MICHIGAN - DRAKE TO HOWARD                                                            BOND                     -              -       695,250      4,774,050               -              -       5,469,300
+ 71 WATER MAIN LINING PROGRAM                                                                BOND                     -       750,000      1,158,750      1,591,350      1,639,091      1,688,263        6,827,454
+ 72 TRANSMISSION WATER MAIN PROGRAM                                                          BOND                     -              -              -              -              -     2,532,395        2,532,395
+     WATER INFRASTRUCTURE - LEAD SERVICES
+ 73 LEAD SERVICE REPLACEMENT                                                                 BOND            1,500,000        750,000        772,500        795,675        819,545        844,132        5,481,852
+ 74 DWSRF 26 LSLR                                                                            DWSRF                    -     5,000,000      9,500,000      9,500,000               -              -      24,000,000
+     WATER GENERAL CAPITAL
+ 75 WATER GENERAL CAPITAL PROGRAM                                                            BOND              250,000        187,500        193,125        198,919        204,886        211,033        1,245,463
+ 76 STOCKBRIDGE FACILITY UPGRADES                                                            BOND              250,000        337,500        193,125        198,919               -              -         979,544
+ 77 ROOF REPLACEMENT PROGRAM                                                                 BOND              100,000        300,000         77,250         79,568         81,955         84,413          723,185
+ 78 LUCITY UPGRADE                                                                           BOND               50,000               -              -              -              -              -          50,000
+ 79 MOBILE SCADA ATENNA TOWER                                                                BOND            1,000,000        375,000               -              -              -              -       1,375,000
+ 80 WATER HEAVY EQUIP                                                                        BOND            5,000,000        375,000        193,125        198,919        204,886        211,033        6,182,963
+ 81 SMART METER PROGRAM                                                                      BOND            5,000,000      3,750,000      3,862,500      1,989,188      2,048,863      2,110,329       18,760,880
+ 82 FY 2025 SCENARIO PROJECT SPREAD (FY 2025)                                                DWSRF           6,666,333      6,666,333      6,666,333               -              -              -      19,999,000
+ 83 FY 2025 SCENARIO PROJECT SPREAD (FY 2026- FY 2028) ($110 M)                              DWSRF                    -    27,090,000     27,090,000     27,085,000               -              -      81,265,000
+ 84 Unspecified Future Capital                                                                                        -              -              -              -              -              -                 -
+ 85 Total CIP Budget (in future dollars) 1                                                                 $ 46,670,583   $ 67,846,833   $ 80,765,203   $ 72,408,103   $ 40,467,814   $ 41,668,188   $ 349,826,724
+     1
+         CIP Escalation factors are consistent with the Engineering News Record Construction Cost Index.
+
+                                                                                                                                                                                                     Page 252 of 418
+
+--- packet page 253 ---
+
+11/7/2025
+James Baker
+Page 19
+
+   FAMS - Control Panel   Schedule 7
+
+                            Page 253 of 418
+
+--- packet page 254 ---
+
+11/7/2025
+James Baker
+Page 20
+
+Pro Forma                                                                                                                                                            Schedule 8
+                                                                                              FY 2025        FY 2026        FY 2027        FY 2028        FY 2029        FY 2030
+      Operating Revenue
+ 1    Water, Private Fire Protection And System Capacity Buy-In Fee Rate Revenue          $ 36,517,037   $ 36,517,037   $ 38,740,406   $ 41,877,577   $ 45,264,125   $ 48,919,589
+ 2    Change in Revenue From Growth                                                                  -        378,588        397,517        425,343        455,117        486,975
+ 3    Subtotal                                                                            $ 36,517,037   $ 36,895,625   $ 39,137,923   $ 42,302,920   $ 45,719,242   $ 49,406,564
+ 4    Weighted Average Rate Increase                                                             0.00%          5.00%          7.00%          7.00%          7.00%          6.00%
+ 5    Additional Rate Revenue From Rate Increase                                                     -      1,844,781      2,739,655      2,961,204      3,200,347      2,964,394
+ 6    Total Rate Revenue                                                                  $ 36,517,037   $ 38,740,406   $ 41,877,577   $ 45,264,125   $ 48,919,589   $ 52,370,958
+ 7    Plus: Other Operating Revenue                                                          5,057,351      5,422,855      5,527,027      5,686,953      5,745,801      5,904,883
+ 8    Equals: Total Operating Revenue                                                     $ 41,574,388   $ 44,163,261   $ 47,404,605   $ 50,951,078   $ 54,665,390   $ 58,275,841
+      Less: Operating Expenses
+ 9    Personnel Services                                                                  $ (8,568,222) $ (8,921,858) $ (9,418,951) $ (9,889,898) $ (10,384,393) $ (10,799,769)
+ 10   Variable Operations & Maintenance Costs                                               (3,284,000)   (3,860,000)   (4,566,900)    (4,823,514)   (5,095,937)    (5,385,218)
+ 11   Operations & Maintenance Costs                                                        (8,720,827)   (9,971,011)   (9,735,678)   (10,495,208)  (10,275,495)   (11,050,079)
+ 12   Equals: Net Operating Income                                                        $ 21,001,339 $ 21,410,392 $ 23,683,076 $ 25,742,458 $ 28,909,565 $ 31,040,774
+      Plus: Non-Operating Income/(Expense)
+ 13   Non-Operating Revenue                                                               $          -   $          -   $          -   $          -   $          -   $          -
+ 14   Interest Income                                                                        1,077,184      1,682,676      1,621,782        972,282        595,142        556,033
+ 15   Transfers In                                                                             243,000        279,000        279,000        279,000        279,000        251,100
+ 16   Equals: Net Income                                                                  $ 22,321,523   $ 23,372,069   $ 25,583,858   $ 26,993,740   $ 29,783,708   $ 31,847,907
+      Less: Revenues Excluded From Coverage Test
+ 17 Transfers In                                                                          $   (243,000) $  (279,000) $  (279,000) $  (279,000) $  (279,000) $  (251,100)
+ 18 Equals: Net Income Available For Debt Service                                         $ 22,078,523 $ 23,093,069 $ 25,304,858 $ 26,714,740 $ 29,504,708 $ 31,596,807
+      Senior Lien Debt Service Coverage Test
+ 19   Net Income Available for Senior-Lien Debt Service                                   $ 22,078,523   $ 23,093,069   $ 25,304,858   $ 26,714,740   $ 29,504,708   $ 31,596,807
+ 20   Existing Senior-Lien Debt                                                              9,416,762     10,816,496     10,837,996     10,835,096     10,845,308     10,859,233
+ 21   Cumulative New Senior Lien Debt Service (calculated)                                     439,801      1,477,731      2,937,565      4,461,509      6,124,425      8,190,353
+ 22   Total Annual Senior-Lien Debt Service                                        Req.   $  9,856,563   $ 12,294,227   $ 13,775,561   $ 15,296,605   $ 16,969,733   $ 19,049,586
+ 23   Calculated Senior-Lien Debt Service Coverage                                 1.40           2.24           1.88           1.84           1.75           1.74           1.66
+      Subordinate Debt Service Coverage Test
+ 24   Net Income Available for Subordinate Debt Service                                   $ 12,221,960   $ 10,798,842   $ 11,529,297   $ 11,418,135   $ 12,534,974   $ 12,547,221
+ 25   Existing Subordinate Debt                                                              1,300,289      1,907,239      2,314,902      2,916,970      4,117,067      4,123,342
+ 26   Cumulative New Subordinate Debt Service (calculated)                                           -              -              -              -         22,823         41,716
+ 27   Total Annual Subordinate Debt Service                                        Req.   $  1,300,289   $  1,907,239   $  2,314,902   $  2,916,970   $  4,139,891   $  4,165,058
+ 28   Calculated Subordinate Debt Service Coverage                                 1.40           9.40           5.66           4.98           3.91           3.03           3.01
+      Total All-In Debt Service Coverage Test
+ 29   Net Income Available for Subordinate Debt Service                                   $ 22,078,523   $ 23,093,069   $ 25,304,858   $ 26,714,740   $ 29,504,708   $ 31,596,807
+ 30   Total Senior-Lien Debt Service                                                         9,856,563     12,294,227     13,775,561     15,296,605     16,969,733     19,049,586
+ 31   Total Subordinate Debt Service                                                         1,300,289      1,907,239      2,314,902      2,916,970      4,139,891      4,165,058
+ 32   Total Annual Debt Service                                                           $ 11,156,852   $ 14,201,466   $ 16,090,463   $ 18,213,575   $ 21,109,624   $ 23,214,644
+ 33   Calculated All-In Debt Service Coverage                                                     1.98           1.63           1.57           1.47           1.40           1.36
+      Cash Flow Test
+ 34 Net Income Available For Debt Service                                                 $ 22,078,523   $ 23,093,069   $ 25,304,858   $ 26,714,740   $ 29,504,708   $ 31,596,807
+ 35 Less: Non-Operating Expenditures
+ 36    Net Interfund Transfers (In - Out)                                                       (57,000)      (21,000)      (21,000)      (21,000)      (21,000)      (48,900)
+ 37    Net Debt Service Payment                                                             (11,156,852)  (14,201,466)  (16,090,463)  (18,213,575)  (21,109,624)  (23,214,644)
+ 38    Capital Outlay                                                                        (1,371,486)   (1,240,000)   (1,240,000)   (1,240,000)   (1,240,000)   (1,240,000)
+ 39 Net Cash Flow                                                                         $   9,493,185 $   7,630,603 $   7,953,395 $   7,240,165 $   7,134,083 $   7,093,263
+      Unrestricted Reserve Fund Test
+ 40   Balance At Beginning Of Fiscal Year                                                 $ 34,415,512 $ 37,396,757 $ 35,112,359 $ 29,945,846 $ 24,337,366 $ 19,316,869
+ 41   Cash Flow Surplus/(Deficit)                                                            9,493,185    7,630,603     7,953,395    7,240,165     7,134,083    7,093,263
+ 42   Projects Paid With Non Specified Funds                                                (6,511,940)  (9,915,000)  (13,119,908) (12,848,645)  (12,154,580)  (5,983,831)
+ 43   Balance At End Of Fiscal Year                                                       $ 37,396,757 $ 35,112,359 $ 29,945,846 $ 24,337,366 $ 19,316,869 $ 20,426,300
+ 44   Minimum Working Capital Reserve Target                                                15,429,787   17,064,651    17,791,147   18,906,465    19,316,869   20,426,300
+ 45   Excess/(Deficiency) Of Working Capital To Target                                    $ 21,966,970 $ 18,047,708 $ 12,154,699 $   5,430,900 $           - $          -
+
+                                                                                                                                                                     Page 254 of 418
+
+--- packet page 255 ---
+
+11/7/2025
+James Baker
+Page 21
+
+ Capital Project Funding Summary                                                                                             Schedule 9
+ Final Capital Projects Funding Sources     FY 2025          FY 2026          FY 2027          FY 2028          FY 2029          FY 2030
+ Bond Proceeds                            $ 22,100,000   $            -   $            -   $            -   $            -   $            -
+ Contributions In Aid Of Capital             1,321,000        1,453,000        1,598,000        1,758,000        1,828,000        1,901,000
+ Grant Proceeds                              6,666,333       38,756,333       43,256,333       36,585,000                -                -
+ Revenue Fund                                6,511,940        9,915,000       13,119,908       12,848,645       12,154,580        5,983,831
+ Subordinate Debt Proceeds                           -                -                -                -        1,141,163        1,688,263
+ Senior-Lien Debt Proceeds                  10,071,310       17,722,500       22,790,961       21,216,457       25,344,070       32,095,093
+ Total Projects Paid                      $ 46,670,583   $ 67,846,833     $ 80,765,203     $ 72,408,103     $ 40,467,814     $ 41,668,188
+
+                                                                                                                                 Page 255 of 418
+
+--- packet page 256 ---
+
+11/7/2025
+James Baker
+Page 22
+
+      Funding Summary by Fund                                                                                                           Schedule 10
+                                                  FY 2025            FY 2026            FY 2027            FY 2028            FY 2029            FY 2030
+      Bond Proceeds
+      Balance At Beginning Of Fiscal Year     $             -    $             -    $             -    $             -    $             -    $              -
+      Annual Revenues                             22,100,000                   -                  -                  -                  -                   -
+      Subtotal                                $ 22,100,000       $             -    $             -    $             -    $             -    $              -
+      Total Amount Available For Projects     $ 22,100,000       $             -    $             -    $             -    $             -    $              -
+      Amount Paid For Projects                    (22,100,000)                 -                  -                  -                  -                   -
+      Subtotal                                $             -    $             -    $             -    $             -    $             -    $              -
+      Plus: Interest Earnings                               -                  -                  -                  -                  -                   -
+      Balance At End Of Fiscal Year           $             -    $             -    $             -    $             -    $             -    $              -
+
+      Contributions In Aid Of Capital
+      Balance At Beginning Of Fiscal Year     $             -    $             -    $             -    $             -    $             -    $              -
+      Annual Revenues                              1,321,000           1,453,000         1,598,000          1,758,000          1,828,000          1,901,120
+      Less: Annual Expenses                                 -                  -                  -                  -                  -                   -
+      Less: Payment Of Debt Service                         -                  -                  -                  -                  -                   -
+      Subtotal                                $    1,321,000     $     1,453,000    $    1,598,000     $    1,758,000     $    1,828,000     $    1,901,120
+      Less: Restricted Funds                                -                  -                  -                  -                  -                   -
+      Total Amount Available For Projects     $    1,321,000     $     1,453,000    $    1,598,000     $    1,758,000     $    1,828,000     $    1,901,120
+      Amount Paid For Projects                     (1,321,000)        (1,453,000)        (1,598,000)        (1,758,000)        (1,828,000)        (1,901,000)
+      Subtotal                                $             -    $             -    $             -    $             -    $             -    $          120
+      Add Back: Restricted Funds                            -                  -                  -                  -                  -                   -
+      Plus: Interest Earnings                               -                  -                  -                  -                  -                  1
+      Less: Interest Allocated To Cash Flow                 -                  -                  -                  -                  -                  (1)
+      Balance At End Of Fiscal Year           $             -    $             -    $             -    $             -    $             -    $          120
+                                                            -                  -                  -                  -                  -                 -
+      Grant Proceeds
+      Balance At Beginning Of Fiscal Year     $             -    $             -    $ 62,105,000       $ 35,015,000       $    7,930,000     $    7,930,000
+      Annual Revenues                              6,666,333         100,861,333        16,166,333          9,500,000                   -                   -
+      Less: Annual Expenses                                 -                  -                  -                  -                  -                   -
+      Less: Payment Of Debt Service                         -                  -                  -                  -                  -                   -
+      Subtotal                                $    6,666,333     $ 100,861,333      $ 78,271,333       $ 44,515,000       $    7,930,000     $    7,930,000
+      Less: Restricted Funds                                -                  -                  -                  -                  -                   -
+      Total Amount Available For Projects     $    6,666,333     $ 100,861,333      $ 78,271,333       $ 44,515,000       $    7,930,000     $    7,930,000
+      Amount Paid For Projects                     (6,666,333)       (38,756,333)       (43,256,333)       (36,585,000)                 -                   -
+      Subtotal                                $             -    $ 62,105,000       $ 35,015,000       $    7,930,000     $    7,930,000     $    7,930,000
+      Add Back: Restricted Funds                            -                  -                  -                  -                  -                   -
+      Plus: Interest Earnings                               -           776,313            971,200            429,450            158,600            158,600
+      Less: Interest Allocated To Cash Flow                 -           (776,313)         (971,200)          (429,450)          (158,600)          (158,600)
+      Balance At End Of Fiscal Year           $             -    $ 62,105,000       $ 35,015,000       $    7,930,000     $    7,930,000     $    7,930,000
+
+      Revenue Fund
+      Balance At Beginning Of Fiscal Year     $ 34,415,512       $ 37,396,757       $ 35,112,359       $ 29,945,846       $ 24,337,366       $ 19,316,869
+      Net Cash Flow                                9,493,185           7,630,603         7,953,395          7,240,165          7,134,083          7,093,263
+      Subtotal                                $ 43,908,697       $ 45,027,359       $ 43,065,754       $ 37,186,011       $ 31,471,449       $ 26,410,131
+      Less: Restricted Funds                      (15,429,787)       (17,064,651)       (17,791,147)       (18,906,465)       (19,316,869)       (20,426,300)
+      Total Amount Available For Projects     $ 28,478,910       $ 27,962,708       $ 25,274,607       $ 18,279,546       $ 12,154,580       $    5,983,831
+      Amount Paid For Projects                     (6,511,940)        (9,915,000)       (13,119,908)       (12,848,645)       (12,154,580)        (5,983,831)
+      Subtotal                                $ 21,966,970       $ 18,047,708       $ 12,154,699       $    5,430,900     $             -    $              -
+      Add Back: Restricted Funds                  15,429,787          17,064,651        17,791,147         18,906,465         19,316,869         20,426,300
+      Plus: Interest Earnings                      1,077,184            906,364            650,582            542,832            436,542            397,432
+      Less: Interest Allocated To Cash Flow        (1,077,184)          (906,364)         (650,582)          (542,832)          (436,542)          (397,432)
+      Balance At End Of Fiscal Year           $ 37,396,757       $ 35,112,359       $ 29,945,846       $ 24,337,366       $ 19,316,869       $ 20,426,300
+
+      Restricted Reserves
+      Balance At Beginning Of Fiscal Year     $             -    $      714,370     $    1,986,212     $    3,634,563     $    5,204,750     $    7,097,675
+      Debt Service Reserve On New Debt               703,813           1,238,501         1,592,700          1,482,669          1,771,119          2,242,900
+      Subtotal                                $      703,813     $     1,952,871    $    3,578,912     $    5,117,232     $    6,975,869     $    9,340,575
+      Plus: Interest Earnings                         10,557             33,341             55,651             87,518            121,806            164,383
+      Balance At End Of Fiscal Year           $      714,370     $     1,986,212    $    3,634,563     $    5,204,750     $    7,097,675     $    9,504,958
+
+                                                                                                                                                       Page 256 of 418
+
+--- packet page 257 ---
+
+11/7/2025
+James Baker
+Page 23
+
+ Senior Lien Borrowing Projections                                                                                                                   Schedule 11
+                                                                       FY 2025          FY 2026          FY 2027          FY 2028          FY 2029          FY 2030
+ Term (Years)                                                             25               25               25               25               25               25
+ Interest Rate                                                          4.00%            4.00%            4.00%            4.00%            4.00%            4.00%
+
+ Sources of Funds
+ Par Amount                                                        $ 10,995,023     $ 19,347,960     $ 24,881,287     $ 23,162,374     $ 27,668,560     $ 35,038,769
+
+ Uses of Funds
+ Proceeds                                                          $ 10,071,310     $ 17,722,500     $ 22,790,961     $ 21,216,457     $ 25,344,070     $ 32,095,093
+ Cost of Issuance                  2.00% of Par                         219,900          386,959          497,626          463,247          553,371          700,775
+ Debt Service Reserve                  1 Year(s) of Debt Service        703,813        1,238,501        1,592,700        1,482,669        1,771,119        2,242,900
+ Total Uses                                                        $ 10,995,023     $ 19,347,960     $ 24,881,287     $ 23,162,374     $ 27,668,560     $ 35,038,769
+
+ 1 Year Interest                                                          439,801          773,918          995,251          926,495        1,106,742        1,401,551
+ Annual Debt Service                                               $      703,813   $    1,238,501   $    1,592,700   $    1,482,669   $    1,771,119   $    2,242,900
+ Total Debt Service                                                    17,595,325       30,962,522       39,817,500       37,066,726       44,277,971       56,072,509
+
+                                                           1
+ Cumulative New Annual Senior Lien Debt Service                    $     439,801    $    1,477,731   $    2,937,565   $    4,461,509   $    6,124,425   $    8,190,353
+ 1
+ Reflects interest-only payment due in year of issuance.
+
+                                                                                                                                                            Page 257 of 418
+
+--- packet page 258 ---
+
+11/7/2025
+James Baker
+Page 24
+
+ Subordinate Borrowing Projections                                                                                                                Schedule 12
+                                                                FY 2025           FY 2026           FY 2027           FY 2028           FY 2029         FY 2030
+ Term (Years)                                                      40                40                40                40                40              40
+ Interest Rate                                                   2.00%             2.00%             2.00%             2.00%             2.00%           2.00%
+
+ Sources of Funds
+ Par Amount                                                 $             -   $             -   $             -   $             -   $   1,141,163   $    1,688,263
+
+ Uses of Funds
+ Proceeds                                                   $             -   $             -   $             -   $             -   $   1,141,163   $    1,688,263
+ Cost of Issuance           0.00% of Par                                  -                 -                 -                 -               -                -
+ Loan Repayment Res.        0.00% of Capital Cost                         -                 -                 -                 -               -                -
+ Loan Service Fee           0.00% of Capital Cost                         -                 -                 -                 -               -                -
+ Capitalized Interest           0 Years Interest                          -                 -                 -                 -               -                -
+ Debt Service Reserve           0 Year(s) of Debt Service                 -                 -                 -                 -               -                -
+ Other Costs                                                              -                 -                 -                 -               -                -
+ Total Uses                                                 $             -   $             -   $             -   $             -   $   1,141,163   $    1,688,263
+
+ 1 Year Interest                                                          -                 -                 -                 -          22,823           33,765
+ Annual Debt Service                                        $             -   $             -   $             -   $             -   $      41,716   $       61,716
+ Total Debt Service                                                       -                 -                 -                 -       1,668,643        2,468,629
+
+ Cumulative New Annual Subordinate Debt Service             $             -   $             -   $             -   $             -   $      22,823   $      41,716
+
+                                                                                                                                                        Page 258 of 418

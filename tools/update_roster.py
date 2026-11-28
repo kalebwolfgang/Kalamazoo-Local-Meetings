@@ -9,6 +9,7 @@ for r in rows:
     if r['official_name'] in present:
         seen.add(r['official_name'])
         if r['last_seen']<date: r['last_seen']=date
+        if r['first_seen']>date: r['first_seen']=date  # backlog: meetings older than first_seen
 for n in new:
     n={k:n.get(k,'') for k in f}; n.setdefault('first_seen',date)
     if not n['first_seen']: n['first_seen']=date

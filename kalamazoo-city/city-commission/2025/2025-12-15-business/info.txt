@@ -1,0 +1,43 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2025-12-15
+Scheduled start: 7:00 PM
+Called to order: 7:01 PM (per minutes)
+Adjourned: 10:28 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=0cJEC-IYZ2M
+Note: the meeting starts about 2 minutes and 34 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/1284/files/agenda/4555
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/1284/files/agenda/4556
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/1284/files/agenda/4745
+Minutes document number: CC-2025-54
+Minutes approved: 2026-02-16 (consent item G18 at the February 16, 2026 Business Meeting, per the February 16 minutes); the posted copy is still the unsigned DRAFT
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 473 blocks, each sentence timestamped (1254 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (17 rows): 13 in general public comment, 4 in public hearing F1 (FY 2026 Proposed Budget)
+  public-comment-topics.csv  one row per topic each speaker mentioned (74 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (26 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 19 agenda items and 37 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  Staff record issue: the Commission approved these minutes on 2026-02-16 (consent item G18 at the February 16, 2026 Business Meeting, per the February 16 minutes), but the copy posted on CivicClerk is still the unsigned DRAFT with a blank approval date (checked 2026-11-28).
+  Staff record issue: the minutes give the same resolution number, 25-71, to two different resolutions: the micro brewer license for Sit and Stay Winery & Brewery (G6, document 2025-54-11) and the wastewater rates resolution (H2, document 2025-54-19).
+  Staff record issue: the slides from the Community Service Team presentation (Communications) were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk.
+  Staff record issue: the slides from Director Baker's 2026 Proposed Utility Rates presentation (H2 and H3) were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk.
+  Possible staff record issue: the state form attached to G6 (packet page 41) is the Michigan Liquor Control Commission "Local Government Approval For On-Premises Tasting Room Permit", while the agenda item, agenda report and minutes describe a Micro Brewer License. This is only possible, because a tasting room permit may be part of the same application.
+  Possible staff record issue: the minutes list the second budget hearing speaker as "Sarah, City resident", but on video that speaker says "I'm Claire again" (captions). Captions can mishear names, so this is only possible. The minutes are followed.
+  All seven commissioners were present (per minutes). Patsy Moore attended as Interim City Manager; on video Commissioner Slaby thanked her and said this was her last meeting.
+  Items removed when the agenda was adopted: G9 (FY 2025 year-end budget amendments) and K1 (Kalamazoo River Urban Wildlife Corridor Plan). The packet still includes both. Commissioner Slaby added a New Business item on homelessness response coordination, listed here as "Added"; it was discussed and no committee was created.
+  The Community Service Team presentation by Chief David Boysen and PSO Mary Miller was given under Communications; it is not a printed agenda item.
+  During the budget hearing (F1) the Commission created, by consensus, a subcommittee on the use of City Commission Initiatives funds (Vice Mayor Duncan, Commissioners Praedel and Slaby). Under L1 it created a special purpose committee on City Commission policies (Commissioners Slaby, Praedel and Hess), 7-0.
+  Public comment (per minutes): 13 speakers in general public comment and 4 in the budget hearing. Venetia, Shona Espinoza and Sarah do not say a name on video. Hannah Gingrich says "I live in the city" and later "I live in the township" during the budget hearing; the minutes list her as non-resident there and give no residency for her general comment.
+  The video's captions begin with the invocation; the call to order and roll call are not in the captions.
+
+Related meeting: 2025-12-15-committee-of-the-whole (5:00 PM, same day)

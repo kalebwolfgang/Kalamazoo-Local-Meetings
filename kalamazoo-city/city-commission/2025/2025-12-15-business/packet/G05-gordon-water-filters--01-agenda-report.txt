@@ -1,0 +1,178 @@
+# Agenda item G5: Approval of a contract, and a budget amendment, with Gordon Water Systems for the purchase of 350 mechanical filtration units for potable water and 1,400 replacement cartridge filter packs in the amount of $588,959.
+# Attachment: Agenda Report
+# Packet pages 35-38 of the December 15, 2025 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 35 ---
+
+                                                                                          Date:   12/15/2025
+               City Commission                                                                       Item: G.5.
+
+               Agenda Report
+               City of Kalamazoo
+
+TO:            Mayor Anderson, Vice Mayor Duncan, and City Commissioners
+
+FROM:          Patsy Moore, Interim City Manager
+               Reviewed by: James J. Baker, PE, Public Services Director and City Engineer
+               Prepared by: Brock VanDyken, Water Superintendent
+
+DATE:          December 15, 2025
+
+SUBJECT:       Approval of a contract with Gordon Water Systems for the purchase of 350
+               mechanical filtration units and 1,400 replacement cartridge filter packs (Bid
+               Ref#67086-001.0) and the approval of a budget amendment in the amount of
+               $588,959
+
+RECOMMENDATION:
+
+It is recommended that the City Commission approve a contract, and a budget amendment, with
+Gordon Water Systems for the purchase of 350 mechanical filtration units for potable water and
+1,400 replacement cartridge filter packs in the amount of $588,959.00.
+
+BACKGROUND:
+
+Public Services continues to work on a solution to improve water quality at Abbey 42. These
+conditions date back to the original construction and installation of the oversized water main
+serving the Abbey 42 apartment complex. This oversizing and construction agreement provided
+for pipe upsizing to 12” diameter water from the originally designed 8” diameter water main.
+The cost provided covered the difference in size. The oversized diameter was recommended by
+Public Services to support future residential housing, commercial and industrial growth within
+the area south of N Ave and north of E. O Ave within Pavilion Township. Construction occurred
+in late 2023 and into the spring of 2024. The water main passed inspection and was placed into
+service.
+
+Corrective action in response to the Abbey 42 water quality complaints has followed industry
+and Departmental standards and policies. Corrective actions to date have focused on corrective
+responses to common themes associated with increased water age, water stagnation and
+sedimentation, low chlorine residual, elevated concentrations of iron and manganese and
+occasionally elevated levels of aluminum (above EPA secondary treatment standards, but below
+health standards) and elevated concentrations of iron reducing bacteria and sulfur reducing
+bacteria.
+
+             Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                               Fax: 269.337.8182
+
+                                                                                                           Page 35 of 418
+
+--- packet page 36 ---
+
+Commission Agenda Report
+Page 2
+
+Contributing factors to these water quality complaints may include oversized public transmission
+and distribution main that is presently underutilized, increased water age (also a factor of
+oversizing), low chlorine residual (also a factor of oversizing and system operations), unknown
+source of iron reducing bacteria originating within the newly constructed oversized main,
+unknown source of sulfur reducing bacteria originating within newly constructed oversized main,
+elevated concentrations of iron and manganese (above EPA secondary treatment standards, but
+below health standards) originating within the newly constructed oversized main and additional
+unknown contributing factors.
+
+Specific corrective action to resolve these themes included the following:
+
+• Flushing, continuous at times
+• Installation of Hydrant Mounted Auto-Flushers (April 15 to Nov 15 use only)
+• Installation of a Permanent Auto-Flusher (year-round use)
+• Water Age Computer Modeling
+• Closing valves within the High-Pressure District Distribution System to Decrease Water Age
+• High-Pressure District System Operation Strategy Improvements
+• Ice Pigging and Chlorination of the 12” Transmission Main from N Ave south to the
+Abbey Loop
+• Water Heater Flushing and Chlorination in Accordance with Manufacturer
+Recommendations
+• Increased Frequency Monitoring of Water Quality Parameters and Iron Reducing
+Bacteria Monitoring
+Aesthetic water quality concerns at Abbey 42 were showing improvement until around late June
+to early July 2025. The following observations and/or events within the High-Pressure District
+may have contributed to the recurrences and increased complaints of water quality concerns at
+Abbey 42.
+• Variable Frequency Drive (VFD) and Impeller Failure at Station No.6
+• Inadequate Differential System Pressure to Operate the Pilot Valves at Station No.30
+during High Peak Hour and Peak Day Demands
+• Summer 2025 Peak Day and Peak Hour Demands Much Greater than Summer 2024
+• Hydraulic Demands Requiring the Use of the Edgemoor Elevated Storage Facility
+• Catastrophic Failure of a Private 12” Fire Service and Subsequent Fire Response at
+Midlink Business Park Midlink BWA-Rescue-Fire
+• Operational Failure of the Abbey Permanent Auto-Flusher Due to an Electrical Fault
+
+Anytime conditions within the water system change related to flow, flow direction, and/or
+pressure, there is increased potential for settled sediment and iron deposits within the mains to be
+swept up and carried into the service lines and interior plumbing of the buildings and units. The
+above-referenced events created disruption of the system while also preventing corrective action
+strategies previously available in 2024.
+
+Water Supply staff were alerted to the renewed concerns at Abbey 42 and meetings with
+management were scheduled to identify the issues and work on solutions. Our first meeting of
+now ongoing weekly to bi-weekly meetings occurred on July 24, 2025.
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                      Page 36 of 418
+
+--- packet page 37 ---
+
+Commission Agenda Report
+Page 3
+
+Immediate focus was directed at identifying what changes had occurred to cause these issues
+while seeking to implement positive corrective action. The following actions were immediately
+put into place:
+
+• Manual Operations of the Abbey Permanent Auto-Flusher to Prevent any Further
+Control/Electrical Faults
+• Hydrant Flushing
+• Installation of Hydrant Mounted Auto-Flushers (April 15 to Nov 15 use only)
+• Seeking the Consulting Services of Tower Pinkster (Mechanical Engineer specializing in
+Michigan and IBC Plumbing Code)
+• Seeking the Consulting Services of Gordan Water (Laboratory Analysis for Additional
+Parameters and Knowledge/Experience with Residential Water Treatment)
+• Technical Assistance Request to the Kalamazoo County Health Department –
+Environmental Health Division
+• Technical Assistance Discussions with EGLE
+• Ongoing Monitoring (Lab sampling) of Vacant Units, Service Entrances, Public Mains
+• Resident Notifications
+
+Public Services proposes immediate recommendations to support and fund improvements to
+private plumbing facilities at Abbey 42 consisting of furnishing and installation of; mixing
+valve(s) necessary to safely obtain storage temperatures of 140 degrees F within water heaters,
+point of entry mechanical filtration of iron and manganese, turbidity monitoring, and externally
+powered electric anodes.
+
+STRATEGIC VISION ALIGNMENT:
+
+Strategic Goal Impact:
+Safe Community- Creating a safe environment for living, working, and playing
+
+COMMUNITY ENGAGEMENT:
+
+Appropriate Depth of Engagement
+Inform (one-way conversation) – no feasible alternatives available due to legal/regulatory
+restrictions, standards and best practices, or resource limitations; the community will be made
+aware of the project.
+
+FISCAL IMPACT:
+
+The funds required for this equipment purchase are $588,959.00. The funding available and
+estimated costs are detailed below. This project will begin in 2025 and be completed in 2026.
+ We are requesting the approval of this purchase and an approval of a budget amendment in the
+amount of the funds below.
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                      Page 37 of 418
+
+--- packet page 38 ---
+
+Commission Agenda Report
+Page 4
+
+Description                                 Account Project #                                  Dollar Amount
+2025 Water Capital Improvement                           WAT5620301-04-988.000                 $285,000.00
+2026 Water Capital Improvement                           WAT5620301-04-988.000                 $303,959.00
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                             Page 38 of 418

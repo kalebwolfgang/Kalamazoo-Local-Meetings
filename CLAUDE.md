@@ -114,6 +114,17 @@ Things to look for:
 - YouTube's new transcripts split into shorter lines, so expect about twice as many blocks as in January.
 - If a tool call is blocked as unsafe, do not look for a way around it. Stop and ask Kaleb.
 
+## Backlog work (2025 and earlier), added Nov 28, 2026
+
+- Kaleb moved to the backlog on Nov 28, 2026, starting with October to December 2025, working back from December. 2025 folders go in `kalamazoo-city/city-commission/2025/`.
+- CivicClerk goes back to July 2015 (City Commission). The city YouTube channel goes back to November 2015. Filter the Events API with `categoryName eq 'City Commission'` to catch special meetings whose names do not start with "City Commission".
+- New meeting types (folder suffix, label in the tools): `special-committee-of-the-whole`, `special-business`, `oath-of-office` (Business Meeting and Oath of Office Ceremony), `budget-work-session`.
+- `update_roster.py` now also moves `first_seen` back for older meetings. Patsy Moore was Interim City Manager in late 2025 (Hankins started 2026-01-05).
+- Before a ctrl+v paste into GitHub, check the copy worked: on Nov 28 one paste held a different meeting left on the clipboard. After pasting, compare the file's first and last lines and line count with what the JavaScript reported.
+- Many 2025 minutes were approved at early 2026 meetings; find the approval date in the 2026 `agenda-items.csv` files ("Approval of the minutes").
+- Minutes PDFs from late 2025 have a text layer. `tools/min2txt.py minutes.pdf` drafts minutes.txt with paragraphs joined and margin headings in [brackets]. Check it against the page images: it sometimes joins two speakers or a "Commissioner Questions:" line into the paragraph before.
+- Map pages: typing the title, legend and main place names is enough; say in the page note that small labels and sources are not typed in.
+
 ## Open items
 
 - Sep 8, 2026 Business Meeting packet is over 100 MB.

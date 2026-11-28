@@ -1,8 +1,8 @@
 """info.py OUTDIR DATE TYPE EVENT AGENDA PACKET MINUTES VIDEO START_VIDEO CALLED ADJ MINDOC APPROVED NOTES_FILE RELATED"""
 import sys,os,csv,re,datetime
 (d,date,typ,ev,ag,pk,mn,vid,start,called,adj,mindoc,appr,notesf,related)=sys.argv[1:16]
-label={'committee-of-the-whole':'Committee of the Whole','business':'Business Meeting','retreat':'Planning Retreat'}[typ]
-sched={'committee-of-the-whole':'5:00 PM','business':'7:00 PM','retreat':''}[typ]
+label={'committee-of-the-whole':'Committee of the Whole','business':'Business Meeting','retreat':'Planning Retreat','special-committee-of-the-whole':'Special Committee of the Whole','special-business':'Special Business Meeting','oath-of-office':'Business Meeting and Oath of Office Ceremony','budget-work-session':'Budget Work Session'}[typ]
+sched={'committee-of-the-whole':'5:00 PM','business':'7:00 PM','retreat':'','special-committee-of-the-whole':'','special-business':'5:00 PM','oath-of-office':'5:00 PM','budget-work-session':'5:00 PM'}[typ]
 u=lambda f:f"https://kalamazoomi.portal.civicclerk.com/event/{ev}/files/agenda/{f}"
 def cnt(f): return sum(1 for _ in csv.DictReader(open(f'{d}/{f}',encoding='utf-8')))
 L=["Government: City of Kalamazoo","Board: City Commission",f"Meeting: {label}",f"Date: {date}",f"Scheduled start: {sched}",

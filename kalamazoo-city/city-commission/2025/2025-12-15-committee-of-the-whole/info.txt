@@ -1,0 +1,34 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Committee of the Whole
+Date: 2025-12-15
+Scheduled start: 5:00 PM
+Called to order: 5:01 PM (per minutes)
+Adjourned: 5:08 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=wyD7_IUUtbQ
+Note: the meeting starts about 1 minute and 47 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/1308/files/agenda/4552
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/1308/files/agenda/4553 (same as the agenda, no attachments; not stored separately)
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/1308/files/agenda/4724
+Minutes document number: CC-2025-53
+Minutes approved: 2026-02-16 (consent item G18 at the February 16, 2026 Business Meeting, per the February 16 minutes); the posted copy is still the unsigned DRAFT
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 24 blocks, each sentence timestamped (56 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (2 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (4 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
+
+Notes:
+  Staff record issue: the Commission approved these minutes on 2026-02-16 (consent item G18 at the February 16, 2026 Business Meeting, per the February 16 minutes), but the copy posted on CivicClerk is still the unsigned DRAFT with a blank approval date (checked 2026-11-28).
+  All seven commissioners were present (per minutes). Patsy Moore attended as Interim City Manager.
+  The only agenda item was a closed session to discuss an attorney/client privileged communication. The Commission did not return to open session; the meeting adjourned at 5:08 PM (per minutes).
+  Two people spoke during public comment (per minutes). Edward Nickerson does not say a name on video; his name comes from the minutes. On video the Mayor first said the time limit was three minutes, then corrected it to two minutes for Committee of the Whole meetings.
+  The agenda packet is the agenda with page footers only, so it is not stored separately.
+
+Related meeting: 2025-12-15-business (7:00 PM, same day)

@@ -2,7 +2,7 @@
 import subprocess, sys, os, glob, datetime
 d, date, typ, vid = sys.argv[1:5]
 R=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-label={'committee-of-the-whole':'Committee of the Whole','business':'Business Meeting','retreat':'Planning Retreat'}[typ]
+label={'committee-of-the-whole':'Committee of the Whole','business':'Business Meeting','retreat':'Planning Retreat','special-committee-of-the-whole':'Special Committee of the Whole','special-business':'Special Business Meeting','oath-of-office':'Business Meeting and Oath of Office Ceremony','budget-work-session':'Budget Work Session'}[typ]
 nice=datetime.date.fromisoformat(date).strftime('%B %-d, %Y')
 title=f"Kalamazoo City Commission, {label}, {nice}"
 os.makedirs(f'{d}/out',exist_ok=True)

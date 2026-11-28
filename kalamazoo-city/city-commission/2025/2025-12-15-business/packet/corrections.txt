@@ -1,0 +1,38 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The fee table CSVs for "Proposed 2026 WWR Rates 110725_Final" (H2 attachment 3 and H3 attachment 5) did not line up in columns, so they were removed; the full text is in the .txt files.
+# The pages below had no usable text from the software, so the words on them were typed in by hand from the page images.
+
+H02-wastewater-rates--04-kwrp-biosolids-stakeholder-conference-2025-present.txt, packet page 156: slide title page "Introductions".
+H02-wastewater-rates--04-kwrp-biosolids-stakeholder-conference-2025-present.txt, packet page 206: slide title page "The Pivot".
+H02-wastewater-rates--04-kwrp-biosolids-stakeholder-conference-2025-present.txt, packet page 233: slide title page "Open Discussion".
+H02-wastewater-rates--04-kwrp-biosolids-stakeholder-conference-2025-present.txt, packet page 234: slide title page "Next Steps".
+H03-water-rates-ordinance--04-stantec-water-cost-of-service.txt, packet page 266: Stantec closing page "Thank you".
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 345: Map 1: Specific Project Locations: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 350: Map 2 Potential Preservation and Restoration Areas: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 355: Map 3. Rivers, Streams and Drains: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 357: Map 4. Digital Elevation Model: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 359: Map 5. Kalamazoo River Urban Wildlife Corridor Municipalities: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 361: Map 6 Population Density: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 363: Map 7 Municipal Zoning Districts: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 365: Map 8 School Districts: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 367: Map 9 Land Cover/Land Use: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 370: Map 10 Impervious Surfaces: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 372: Map 11 Pollution Sites: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 374: Map 12 Wellhead Protection Areas: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 376: Map 13 Tree Canopy Coverage: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 378: Map 14 Intact Habitat Core: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 380: Map 15 Biorarity Index: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 382: Map 16 Floodplain: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 384: Map 17 Existing Wetlands: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 385: Map 18 Wetland Function Habitat: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 386: Map 19 Wetland Function Water Quality: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 388: Map 20 Wetland Function Overall: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 390: Map 21 Water Trails: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 392: Map 22 Rivers and Stream Designation: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 395: Map 23 Parks, Preserves and Public Spaces: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 405: Map 24 Water & Wetland Sub-Group: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 406: Map 25 Designated Sub-Group: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 407: Map 26 Land Sub-Group: map; title, legend and main place names typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 409: survey chart Q3 (municipality) with word cloud; chart labels and values typed in by hand.
+K01-urban-wildlife-corridor--03-kalamazoo-urban-wildlife-corridor-plan.txt, packet page 411: survey charts Q6 and Q7; chart labels and values typed in by hand.
