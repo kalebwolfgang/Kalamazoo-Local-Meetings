@@ -99,7 +99,10 @@ for p in prows:
     topics = list(dict.fromkeys(r["topic"] for r in mine))
     p[TM] = "; ".join(topics)
     p["categories"] = "; ".join(cats_for(topics))
-    p["other_notes"] = "; ".join(dict.fromkeys(r["other_note"] for r in mine if r["other_note"]))
+    if mine:
+        p["other_notes"] = "; ".join(dict.fromkeys(r["other_note"] for r in mine if r["other_note"]))
+    elif not p["other_notes"]:
+        p["other_notes"] = "No topics tagged: only greetings or thanks, or the captions were too unclear to tell."
     p["video_link"] = link(p["video_time"])
 write("public-comment.csv", pcols, prows)
 

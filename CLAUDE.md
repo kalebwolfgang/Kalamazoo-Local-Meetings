@@ -63,6 +63,8 @@ Work in a scratch folder (for example `/home/claude/w/DATE/TYPE/`) with `raw/` (
 - Tagging: count every topic a speaker says something about. Greetings, thanks, congratulations and describing themselves do not count. If the captions are too garbled to tell the topic, leave it out. Other always needs a note.
 - Keep names exactly as the minutes spell them, even when another meeting spells the same person differently. Mention it in the notes.
 - The CoW packet is usually the agenda plus page footers. When it is, say "same as the agenda" in info.txt and do not make a packet folder.
+- Residency labels: use only "City resident", "Non-resident" or "not stated". Never leave it blank, and never use lowercase "non-resident". If the minutes give something else (for example "unhoused"), copy it as written.
+- A speaker with nothing to tag (only greetings or thanks, or unclear captions) gets no topic rows, a note in `other_notes` saying why, and a line in info.txt. `finish_tables.py` keeps that note and adds a default one if it is missing.
 - Minutes often group general public comment speakers by topic. The table still follows the video order. If the minutes list one person twice but they spoke once, use one row and explain it in `time_note`.
 - A meeting with no public comment still gets `public-comment.csv` and `public-comment-topics.csv`, with headers only.
 - Actions taken after a closed session (for example a labor contract) get their own row, named like `N1a`, with a note.
