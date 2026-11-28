@@ -1,0 +1,11 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The pages below had no usable text from the software, so the words on them were typed in by hand from the page images.
+
+G04-cooper-twp-water-mou--02-00000-026-52-cc-packet-cooper-twp-cooper-township.txt, packet page 19: signature page. Typed in by hand; handwritten dates and titles noted.
+G10-french-parcel-purchase--02-00000-026-47-cc-packet-purchase-of-parcel-no-07-27.txt, packet pages 81, 84, 90, 111, 112, 113: maps and aerial photos. Labels typed in by hand.
+G10-french-parcel-purchase--02-00000-026-47-cc-packet-purchase-of-parcel-no-07-27.txt, packet pages 83, 89: photo pages. Captions typed in by hand.
+G10-french-parcel-purchase--02-00000-026-47-cc-packet-purchase-of-parcel-no-07-27.txt, packet page 104: the map part was typed in by hand; the numbered list of land sales below it is software-read.
+H01-dwsrf-project-plan--03-dwsrf-fy2027-presentation-slides.txt, packet page 138: title slide ("Public Comment"). Typed in by hand.
+
+# Not typed in: the other scanned pages (Cooper Township MOU, appraisal, MDOT contracts) are text documents read by software. Their signature blocks and stamps may read as garbled text.

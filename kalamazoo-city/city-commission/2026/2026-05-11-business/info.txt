@@ -1,0 +1,37 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-05-11
+Scheduled start: 7:00 PM
+Called to order: 7:01 PM (per minutes)
+Adjourned: 9:35 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=RuEM_S9GLkg
+Note: the meeting starts about 2 minutes and 51 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2534/files/agenda/5028
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2534/files/agenda/5034
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2534/files/agenda/5084
+Minutes document number: CC-2026-18
+Minutes approved: 2026-05-18
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 708 blocks, each sentence timestamped (1526 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (6 rows): 5 in general public comment, 1 in agenda item H2 (Portage Street lane conversion)
+  public-comment-topics.csv  one row per topic each speaker mentioned (40 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (19 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 14 agenda items and 28 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  All seven commissioners were present (per minutes).
+  Consent item G10 (French parcel purchase) was postponed to May 18, 2026 as part of the consent vote.
+  Item H2 passed 6-1; Vice Mayor Duncan voted no.
+  Tobi Hanah-Davies, the one speaker on item H2, does not say her name on video. She is matched to the minutes as the only speaker listed for that item.
+  The minutes print item numbers for two filed public comment documents: 2026-18-05 (Caleb Leonard's questions) and 2026-18-06 (Tina McClinton's pictures). These are not in the packet.
+  The H2 and H3 presentation slides were filed with the meeting papers but are not in the packet. The H1 slides are in the packet.
+
+Related meeting: 2026-05-11-committee-of-the-whole (5:00 PM, same day)

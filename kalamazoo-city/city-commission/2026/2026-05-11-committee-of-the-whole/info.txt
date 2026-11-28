@@ -1,0 +1,32 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Committee of the Whole
+Date: 2026-05-11
+Scheduled start: 5:00 PM
+Called to order: 5:02 PM (per minutes)
+Adjourned: 5:46 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=flEi-75k9N8
+Note: the meeting starts about 1 minute into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2546/files/agenda/5009
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2546/files/agenda/5010 (same as the agenda, no attachments; not stored separately)
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2546/files/agenda/5085
+Minutes document number: CC-2026-17
+Minutes approved: 2026-05-18
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 208 blocks, each sentence timestamped (431 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (0 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (0 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
+
+Notes:
+  Commissioner Praedel was absent at the start and excused; he arrived at 5:30 PM (per minutes).
+  No one spoke during public comment (per minutes), so public-comment.csv and public-comment-topics.csv have headers only.
+  The Childcare Coalition slides were filed with the meeting papers but are not in the packet.
+
+Related meeting: 2026-05-11-business (7:00 PM, same day)
