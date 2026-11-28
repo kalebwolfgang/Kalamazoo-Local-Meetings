@@ -1,0 +1,34 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-07-06
+Scheduled start: 7:00 PM
+Called to order: not recorded (minutes not posted yet)
+Adjourned: not recorded (minutes not posted yet)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=_SmXU52PJ5w
+Note: the meeting starts about 3 minutes and 8 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2536/files/agenda/5222
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2536/files/agenda/5223
+Minutes: not posted on CivicClerk yet (checked 2026-11-28). Add them when they are posted.
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 944 blocks, each sentence timestamped (1823 timestamps)
+  agenda.txt      full agenda text
+  public-comment.csv  one row per public comment speaker (31 rows): 30 in general public comment, 1 in agenda item G18 (retirement endowment allocation)
+  public-comment-topics.csv  one row per topic each speaker mentioned (119 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (24 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 22 agenda items and 40 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  No minutes have been posted, so attendance, votes, movers, public comment names and residency come from the video. Times, outcomes and votes should be checked against the minutes once they are posted.
+  Commissioner Hoffman was absent and was excused by motion at the start (on video). All votes have six members present.
+  Residency: "City resident" is used when a speaker said they live in the city or named a city neighborhood they live in (for example the Northside). For speakers who also appear in earlier 2026 minutes (Tina McClinton, Jeffrey Fry, Charlae Davis, Matt Griffith, Jeff Messer, Wendy Fields), names follow those minutes.
+  Many speaker names were heard only in the captions and may be misspelled; each one is marked in time_note. Several speakers gave no name and are listed as "Unnamed speaker" with a short description.
+  Most of the 30 general public comment speakers spoke about the police response to the "Sunday Fun Day" gathering at Spring Valley Park on June 28, the mobile nuisance party ordinance, and Flock license plate cameras.
+  G18 (retirement endowment allocation) was moved from the consent agenda during the consent agenda, at Commissioner Slaby's request, and taken up after H2 as "H3". It passed 5-1, with Commissioner Slaby voting no.
+  Commissioner Praedel abstained on G17, saying Community Homeworks is his employer.
+  The G19 attachment in the packet includes the June 15, 2026 Committee of the Whole minutes, which have not been posted on CivicClerk (packet pages 105-106).

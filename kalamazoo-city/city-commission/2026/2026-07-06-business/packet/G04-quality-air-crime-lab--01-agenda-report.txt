@@ -1,0 +1,127 @@
+# Agenda item G4: Approval of a sole source purchase with Quality Air Service, LLC for the critical spaces control platform upgrade for the Kalamazoo Crime Laboratory exhaust system in the amount of $132,115.
+# Attachment: Agenda Report
+# Packet pages 11-13 of the July 6, 2026 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 11 ---
+
+                                                                                                Date:   7/6/2026
+                City Commission                                                                          Item: G.4.
+
+                Agenda Report
+                City of Kalamazoo
+
+TO:            Mayor Anderson, Vice Mayor Duncan, and City Commissioners
+
+FROM:          Malcolm Hankins, City Manager
+               Reviewed by: David Boysen, Public Safety Chief
+               Prepared by: Ryan Tibbets, Chief of Staff
+
+DATE:          July 6, 2026
+
+SUBJECT:       Approval of a sole source purchase with Quality Air Service, LLC for Critical
+               Spaces Control Platform Upgrade for the Kalamazoo Crime Laboratory Exhaust
+               System (Bid Ref#00000-026.68)
+
+RECOMMENDATION:
+
+It is recommended that the City Commission approve the sole source purchase and installation of
+the Critical Spaces Control Platform (CSCP) upgrade for the Kalamazoo Crime Laboratory
+exhaust system by Quality Air Service, LLC, 6701 Quality Way, Portage, Michigan 49002, in
+the amount of $132,115. Quality Air Service is the exclusive authorized Phoenix Controls
+representative in the State of Michigan and is the only vendor authorized to provide the required
+equipment, installation, startup, commissioning, and warranty services associated with the
+existing Phoenix Controls infrastructure.
+
+BACKGROUND:
+
+The Kalamazoo Crime Laboratory utilizes a specialized exhaust and airflow control system that
+was installed as part of the original laboratory construction in 2003. This system serves as the
+primary means of regulating laboratory airflow, maintaining pressure relationships, and ensuring
+the safe removal of hazardous fumes generated during forensic testing and evidence processing
+activities.
+
+The existing Phoenix Controls analog system has reached the end of its useful life. Replacement
+components are no longer manufactured, and spare parts are increasingly unavailable. Failure of
+the existing system would significantly impact laboratory operations and could compromise the
+laboratory’s ability to safely process evidence and maintain required environmental controls.
+
+Crime laboratories operate under stringent environmental and occupational safety standards due
+to the presence of hazardous chemicals, biological materials, latent print processing agents, and
+other substances used during forensic examinations. Maintaining proper airflow, pressure
+differentials, and exhaust performance is essential to protecting laboratory personnel, preserving
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                               Page 11 of 138
+
+--- packet page 12 ---
+
+Commission Agenda Report
+Page 2
+
+evidence integrity, and ensuring compliance with accepted laboratory practices.
+
+Quality Air Service has proposed upgrading the laboratory from the existing analog platform to
+the Phoenix Controls Critical Spaces Control Platform (CSCP). The project includes replacement
+of laboratory control components, fume hood monitoring equipment, room pressure indicators,
+temperature and humidity monitoring, system transformers, low-voltage control wiring, and a
+centralized laboratory dashboard that will provide real-time monitoring of laboratory conditions.
+The upgrade will improve system reliability, increase operational flexibility, enhance monitoring
+capabilities, and provide a platform that can support future building automation integration.
+
+Quality Air Service is the exclusive authorized Phoenix Controls representative for the State of
+Michigan and maintains the exclusive rights for distribution, startup, commissioning, testing, and
+service of Phoenix Controls products and components within Michigan. Phoenix Controls has
+advised that the proposed upgrade kits are specifically designed for the existing Phoenix venturi
+valve infrastructure installed within the Kalamazoo Crime Laboratory. The manufacturer
+maintains proprietary performance data and valve characterization information that is only
+available through authorized Phoenix Controls representatives.
+
+Because the existing laboratory airflow system is a Phoenix Controls system, compatibility with
+existing equipment, preservation of system performance specifications, factory commissioning
+requirements, and maintenance of manufacturer warranties necessitate the use of Phoenix
+Controls components and authorized service personnel. As a result, Quality Air Service is the
+only vendor capable of providing a fully compatible upgrade and associated services for the
+existing infrastructure. Accordingly, this purchase qualifies as a sole source procurement.
+
+The proposed project includes equipment, installation, startup, commissioning, and warranty
+coverage. The upgrade will provide continued reliability of a critical public safety asset while
+ensuring the Crime Laboratory can maintain safe operations and compliance with forensic
+laboratory environmental requirements.
+
+STRATEGIC VISION ALIGNMENT:
+
+Strategic Goal Impact:
+Good Governance- Ensuring the City organization has the capacity and resources to effectively
+implement the community's Strategic Vision in a way that is sustainable over the long term.
+
+COMMUNITY ENGAGEMENT:
+
+Appropriate Depth of Engagement
+Inform (one-way conversation) – no feasible alternatives available due to legal/regulatory
+restrictions, standards and best practices, or resource limitations; the community will be made
+aware of the project.
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                      Page 12 of 138
+
+--- packet page 13 ---
+
+Commission Agenda Report
+Page 3
+
+FISCAL IMPACT:
+
+The total cost of the project is $132,115 and includes equipment, installation, startup,
+commissioning, and warranty services. Funding is available within CIP Project CIP0600042-04.
+
+Description                                                 Account Project #                  Dollar Amount
+Kalamazoo Crime Laboratory Exhaust System                                CIP0600042-04 $132,115
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                          Page 13 of 138

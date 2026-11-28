@@ -1,0 +1,7 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+
+# Fixed by hand:
+G17-community-homeworks-hdf--02-00000-026-72-cc-packet-community-homeworks-si.txt, packet page 91: software read the schedule table heading "Completed By: / Number of Units Assisted:" as "Sl octal Units Assisted:". The heading was fixed; the budget table on packet page 92 was checked against the page image and is correct.
+
+# Not typed in: the other scanned pages (Galesburg radio reader agreement, EDC resolution, personal guaranty and promissory note, claim adjuster letters, Gilmore Foundation award letter, Community Homeworks grant agreement) are text documents read by software. Signature blocks, stamps and redaction boxes may read as garbled text.

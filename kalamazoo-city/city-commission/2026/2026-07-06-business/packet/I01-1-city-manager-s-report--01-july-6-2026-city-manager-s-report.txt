@@ -1,0 +1,290 @@
+# Agenda item I1: 1. City Manager’s Report
+# Attachment: July 6, 2026 City Manager's Report
+# Packet pages 133-138 of the July 6, 2026 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 133 ---
+
+July 6, 2026
+
+CITY MANAGER’S
+REPORT
+Data Centers
+The City of Kalamazoo continues to monitor the issue of data centers, including those impacting communities
+here in southwest Michigan. There are many unanswered questions regarding the pros and cons of data
+centers, and municipalities around the country are seeking to understand more about them and weighing
+whether and how to regulate the projects being built. The City’s Information Technology team has put
+together some facts and frequently asked questions regarding data centers, including the following:
+
+What is a data center?
+    • A data center is a building that houses computer servers, storage systems, and networking equipment.
+    • Data centers support a wide range of everyday uses – cloud storage for photos and documents, video
+         streaming, video games, business applications, financial transactions, and more.
+    • Data centers vary enormously in size – from small commercial facilities of a few thousand square feet to
+         hyperscale campuses covering hundreds of acres.
+    • Artificial intelligence is one use of data centers, but it is not the only one. Most data centers serve many
+         purposes simultaneously.
+    • Data centers operate 24 hours a day, 7 days a week, and require continuous power and cooling to
+         function.
+Frequently Asked Questions
+Q: How much electricity would a data center use?
+A: Electricity use depends heavily on the size and design of the facility. The State of Michigan requires energy
+producers to meet 50% clean energy by 2030, 80% by 2035, and 100% by 2040, which would affect the long-
+term greenhouse gas implications of any facility’s energy use.
+Q: How much water would a data center use?
+A: Water use varies significantly depending on the cooling technology. Air-cooled or “dry” systems use
+relatively little water. Evaporative or cooling-based systems can use substantially more – potentially millions of
+gallons annually in large facilities.
+Q: How noisy would a data center be?
+A: The primary sources of noise from a data center are HVAC and cooling systems. Design choices, building
+insulation, and site screening can all affect noise levels for nearby properties.
+Q: What are the economic considerations:
+A: The most direct long-term economic benefit would be increased property tax revenue. Data centers also
+have substantial utility demands that may require infrastructure investment; depending on how those are
+funded, they could create additional capacity that benefits other users. Under Michigan law, the cost of data
+center electrical infrastructure would not be passed to other utility customers – data centers must pay 100% of
+the energy they use, plus an exit fee if they leave.
+
+                                                                                                      Page 133 of 138
+
+--- packet page 134 ---
+
+To reiterate, the City of Kalamazoo has not received a formal development proposal to establish a data center
+development, nor has a data center project been approved. There are processes involving development
+proposals. The City of Kalamazoo will keep everyone informed about this issue if and when a proposed data
+center does come to our community.
+
+Medicaid Eligibility Changes
+In July 2025, Congress passed H.R. 1, a federal budget reconciliation bill that includes new work requirements
+for certain Medicaid recipients enrolled through the Affordable Care Act’s Medicaid expansion. The State of
+Michigan is expected to implement these requirements later this year for applicable populations.
+
+Under the anticipated changes, affected individuals will be required to document approximately 80 hours per
+month of qualifying activities—such as employment, education or job training, volunteer service, or other
+activities defined by the Michigan Department of Health and Human Services (MDHHS), to maintain eligibility.
+MDHHS will be responsible for administering the program and communicating directly with beneficiaries
+regarding eligibility, reporting requirements, exemptions, and implementation timelines.
+
+While program administration rests with the State, the City has a supporting role in helping ensure residents are
+aware of significant changes and connected to accurate information and resources. City communications will
+be aligned with MDHHS guidance to avoid confusion and ensure consistency with official State messaging.
+
+City staff are reviewing MDHHS materials, coordinating with State partners as additional guidance becomes
+available, and assessing appropriate ways to support public awareness. MDHHS has made the following
+resources available:
+
+   •   MDHHS work requirements webpage
+
+   •   H.R. 1 Medicaid Implementation webinar recording
+
+   •   Community Partner Communications Toolkit: community partner toolkit
+
+  Key Fact           Details
+
+                     Medicaid recipients ages 19–64 enrolled through the Healthy Michigan Plan, mostly non-
+  Who is affected
+                     disabled adults earning up to 138% of the federal poverty line.
+
+  Local              12,581 Kalamazoo County residents were enrolled in the Healthy Michigan Plan as of
+  enrollment         May 2025.
+
+                     At least 200,000 Michiganders are anticipated to lose health coverage under the new
+  Statewide risk
+                     requirements.
+
+  What is            80 hours per month of work, community service, job training, or education; OR monthly
+  required           income of at least $580. Reporting must occur every 6 months.
+
+                     Research from Arkansas, the only state to have implemented work requirements, found
+  Why people
+                     that 87% of those who lost coverage actually met the requirements but lost benefits due
+  lose coverage
+                     to the administrative burden of documentation and reporting.
+
+City Role and Local Coordination
+
+The City of Kalamazoo, through the Community Planning and Economic Development Department’s Shared
+Prosperity Kalamazoo initiative, participates in the Medicaid Matters coalition. This engagement aligns with the
+
+                                                                                                     Page 134 of 138
+
+--- packet page 135 ---
+
+City’s broader economic development goals to strengthen stability for residents and neighborhoods in
+underinvested communities.
+
+Residents most likely to be affected by these changes are the same populations the City is working to connect
+with employment, training, and small business opportunities. Experience from other states indicates that
+administrative documentation requirements—rather than noncompliance—are a leading cause of coverage
+loss. The City’s participation supports broader efforts in workforce development, anti-displacement, and
+economic resilience.
+
+How Residents and Organizations Can Get Involved
+
+   •   Learn whether you or someone you know may be affected by the new requirements.
+   •   Connect with a MiBridges navigator or community health worker for help understanding requirements
+       and completing reporting.
+   •   Organizations may participate in the Medicaid Matters coalition through work groups focused on
+       strategy, outreach, advocacy, and action.
+
+These materials are provided for informational purposes and reflect current State guidance, which may
+continue to evolve. Updates will be included in future City Manager’s Reports as implementation progresses.
+
+SBA/FEMA Financial Assistance for Kalamazoo Flooding
+The State of Michigan has informed the City of Kalamazoo that the City will receive disaster assistance through
+the U.S. Small Business Administration (SBA) for residents, businesses, and nonprofit organizations impacted by
+the April flooding. President Trump has approved the Major Disaster Declaration for certain areas of Michigan
+impacted by the severe weather in April, and the City of Kalamazoo was included in the approved declaration
+for Individual Assistance related to the flooding. This declaration makes FEMA Individual Assistance available to
+eligible Kalamazoo residents who were impacted by the flooding. In addition, the SBA will also offer disaster
+assistance to eligible homeowners, renters, businesses, and private nonprofit organizations.
+
+At this time, an opening date for a tentative SBA Disaster Outreach Center serving the City of Kalamazoo,
+Allegan County, and Barry County that would be located at the Gun Plain Fire Department in Plainwell, has
+been postponed. We are currently coordinating with the State of Michigan, FEMA, SBA, and neighboring
+emergency managers to determine the updated date and operation schedule. As soon as those details are
+finalized, we will provide the information so it can be shared with the public.
+
+City Budget Update
+The City’s annual budget process is officially underway. Departments have submitted special requests for
+2027. I appreciate the effort in planning for community needs and ensuring equitable services for our
+residents. The request process provides opportunity to align resources with the priorities established by the City
+Commission and the goals outlined in IK2035.
+
+This year, we are increasing the focus on equity in our requests and budgets to ensure that resources are
+distributed across the City, understanding barriers to access, and aligning with community priorities. We will also
+be increasing community outreach through an upcoming survey and hosting a community engagement
+meeting to allow for more public participation in our process.
+
+Thank you for your continued partnership and thoughtful participation throughout this
+process. Additional information, timelines, and opportunities for input will be shared as we progress through the
+upcoming budget phases.
+
+                                                                                                       Page 135 of 138
+
+--- packet page 136 ---
+
+Downtown Kalamazoo Business Receives MEDC Grant
+The State of Michigan has awarded The Grazing Table, a restaurant located on the downtown Kalamazoo
+Mall, with a $17,233 grant through the Michigan Economic Development Corporation (MEDC) and the MEDC’s
+Match on Main program. The State of Michigan this year awarded over $1.5 million in grants to small local
+business through the Match on Main program. The Match on Main program serves as a tool to support new or
+expanding place-based businesses as they launch and grow in core downtown areas and commercial districts.
+The program provides up to $25,000 in funding to support an eligible small business through a competitive
+application process. This year’s application window saw a total of 144 applicants from 83 Michigan
+communities – the highest participation rate in the program’s history.
+
+The Grazing Table is located at 123 E. South Street on the downtown mall. The business sought Match on Main
+funding to support improvements, such as purchasing additional refrigeration units to support food preparation
+to enhance its operation capacity, as well as upgrades to its exterior façade to create a more welcoming
+storefront, to enhance their customer experience. Information on the MEDC and Match on Main program can
+be found here.
+
+Kalamazoo Avenue Start of Construction
+The long-awaited reconstruction and two-way conversion of Kalamazoo Avenue starts this month. The City of
+Kalamazoo is planning a groundbreaking this month along the northwest corner of Park Street and Kalamazoo
+Avenue to mark the start of the project. More details on the groundbreaking will be announced soon. The
+community is invited to attend the event.
+
+The Kalamazoo Avenue reconstruction and two-way conversion, along with the eventual conversion of
+Michigan Avenue, West Main Street, Douglas Avenue, Lovell Street, and South Street in downtown Kalamazoo,
+are part of the City’s broader Streets for All initiative to modernize our downtown infrastructure. The Kalamazoo
+Avenue project represents a long-term investment in Kalamazoo’s future, replacing aging underground
+infrastructure while redesigning the street to better serve residents, businesses, and visitors for generations to
+come. The City of Kalamazoo has also posted a video on Streets for All to learn about the vision behind the
+project, the history that led Kalamazoo to this point, and how these investments will help shape the next
+chapter of Kalamazoo’s history. Watch the short video here.
+
+Kzoo Park Rules
+Kalamazoo’s city parks are the perfect setting for events as well as simply having fun. The City of Kalamazoo
+encourages the peaceful and festive gathering of residents and non-residents, including visitors to our great
+community, to the City’s many parks and trails. Utilization of the parks by organizations as well as large
+gatherings are handled through the City’s special event permitting process. That process helps coordinate City
+services, ensures organizers are aware of applicable park rules and operational requirements, and facilitates
+communication among City departments in advance of larger public gatherings. The City lists the following
+rules to make sure everyone can enjoy the parks.
+
+   •   Parks are open daily from 8 a.m. to sunset.
+   •   Parks remain open year round, however vehicle gates at some parks close on October 1 until May.
+   •   Restrooms and water fountains are open Memorial Day through Labor Day (they may be available by
+       request outside of this window for approved events, if possible).
+   •   Always be respectful to other park visitors, park property, and facilities.
+   •   Help keep our parks beautiful by disposing of trash properly in trash bins. If you see litter, lend a hand
+       and toss it in a bin.
+   •   Fires are only permitted for grilling food and only in provided picnic grills.
+   •   Vehicles are only permitted in designated parking areas or roadways.
+   •   Trees, wood, or plants cannot be removed.
+   •   Pets must be kept on a six-foot leash.
+   •   Alcohol is not permitted.
+   •   Loud music is prohibited.
+   •   Public Safety enforces all City Code of Ordinances.
+
+                                                                                                       Page 136 of 138
+
+--- packet page 137 ---
+
+   •   If someone is not following these rules or acting in a way that is creating danger for park users or
+       damaging park property, please contact the Kalamazoo Department of Public Safety at (269) 488-8911.
+       In an emergency, always call 911.
+
+Make sure to know the rules, and be courteous and respectful to other park visitors as well as any Kzoo Parks
+staff. Learn more about Kzoo Parks at http://www.kzooparks.org/Home.
+
+Water Quality Report
+The City of Kalamazoo Department of Public Services has issued its annual Water Quality Report. The report
+covers water sources, system protection, compliance notices, contaminant monitoring results, lead and copper
+information, and customer contacts. The Water Quality Report is sent to all water customers in the water
+services system. The 2025 report, along with reports from previous years, can also be accessed on the City of
+Kalamazoo website here.
+
+Boil Water Advisories
+Boil Water Advisories are precautionary. They are issued while we test to confirm the water has not been
+affected. Our team completes two separate rounds of testing before advisories are lifted. While under a Boil
+Water Advisory, affected customers are advised to boil their tap water for two minutes before consuming it, or
+use bottled water until the advisory is lifted. No special actions are needed for water used for hygiene. The
+vast majority of Boil Water Advisories are issued out of an abundance of caution and lifted within three days.
+
+The Kalamazoo Department of Public Services hand delivers water advisory notices to affected homes and
+businesses whenever possible. If the affected area is large and includes a lot of properties, advisories may be
+issued by media release. Here is a list of watermain breaks and boil water advisories for the weeks of June 15-
+June 29.
+
+ Street Address            Municipality           Boil Water Advisory Date      Date Lifted
+ Humphrey Street           City of Kalamazoo      June 12, 2026                 June 19, 2026
+ Espanola Avenue           City of Parchment      June 13, 2026                 June 15, 2026
+ Charles Avenue            City of Kalamazoo      June 22, 2026                 June 25, 2026
+ North Drake Road          City of Kalamazoo      June 24, 2026                 June 26, 2026
+ Yew Street                City of Kalamazoo      June 27, 2026                 June 30, 2026
+
+Connecting With Community and Staff
+Over the past several weeks, I have continued engaging with City staff, community organizations,
+neighborhood leaders, and residents through meetings, tours, and community events.
+
+June 16 was a full day of community and employee engagement. I attended the Vine Neighborhood
+Association Board of Directors meeting, toured the Kalamazoo Valley Community College campus with
+President Marshall Washington, and joined the Department of Public Services Employee Appreciation event at
+the Public Services facility on Stockbridge Avenue. These opportunities strengthened relationships with
+community partners while recognizing the dedication and hard work of City staff.
+
+On June 30, I toured the Kalamazoo Gospel Ministries shelter with newly appointed President and CEO Pastor
+John Simpson. The visit provided an opportunity to learn more about the organization's important work and
+meet its committed staff and volunteers who serve members of our community.
+
+I also attended the Democracy Defenders Roadshow: Across Borders - Communities Against Gun Violence and
+Voter Suppression at the Douglass Community Association. The event, hosted by ISAAC and El Concilio in
+collaboration with community organizations and with participation from Vice Mayor Drew Duncan, brought
+together local leaders, advocates, and residents for discussion on issues related to gun violence, civic
+engagement, and community collaboration. The program included a panel featuring national and
+international speakers, followed by facilitated small-group discussions focused on community-based solutions
+and local calls to action.
+
+                                                                                                     Page 137 of 138
+
+--- packet page 138 ---
+
+On July 2, I attended the Westnedge Hill Neighborhood Association meeting, where I connected with
+neighborhood residents and discussed community priorities and ongoing City initiatives.
+
+These engagements continue to strengthen partnerships, foster open communication, and ensure the City
+remains connected to the people and organizations that make Kalamazoo a vibrant community.
+
+                                                                                               Page 138 of 138
