@@ -1,0 +1,8 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The pages below had no usable text from the software, so the words on them were typed in by hand from the page images.
+
+C01-city-manager-candidates--01-malcolm-hankins-information.txt, packet page 3: Raftelis cover page "Malcolm Hankins".
+C01-city-manager-candidates--02-laura-lam-information.txt, packet page 6: Raftelis cover page "Laura Lam".
+C01-city-manager-candidates--03-odis-jones-sr-information.txt, packet page 11: Raftelis cover page "Odis Jones Sr.".
+C01-city-manager-candidates--04-elle-cole-information.txt, packet page 16: Raftelis cover page "Elle Cole".

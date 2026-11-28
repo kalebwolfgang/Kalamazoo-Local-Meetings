@@ -1,0 +1,39 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Special Committee of the Whole
+Date: 2025-10-15
+Scheduled start: 4:00 PM
+Called to order: 4:05 PM (per minutes)
+Adjourned: 7:44 AM on October 17, 2025 (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=xRw1zpSANGM
+Video (continued October 17, 2025): https://www.youtube.com/watch?v=GNuJmXzQFKI
+Note: the meeting starts about 5 minutes and 24 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2524/files/agenda/4349
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2524/files/agenda/4350
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2524/files/agenda/4400
+Minutes document number: CC-2025-44
+Minutes approved: 2025-11-17 (item B1 at the November 17, 2025 5:00 PM meeting, voice vote, per the November 17 minutes); the posted copy is not signed
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 368 blocks, each sentence timestamped (987 timestamps)
+  transcript-2025-10-17.txt  cleaned YouTube automatic captions for the October 17 continuation; 102 blocks, each sentence timestamped (255 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (8 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (12 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (2 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 1 agenda items and 4 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  Staff record issue: the Commission approved these minutes on 2025-11-17 (item B1 at the November 17, 2025 5:00 PM meeting, voice vote, per the November 17 minutes), but the copy posted on CivicClerk is not signed and has a blank approval date (checked 2026-11-28).
+  Staff record issue: both roll calls in the minutes (October 15 and October 17) list "Esteven Juarez" as present. Commissioner Chris Praedel was the member present: he answers the roll call and votes on video, and the minutes themselves later name him and record his motion. Esteven Juarez was not on the 55th Commission.
+  Staff record issue: the minutes print the document number for the interviews as "2023-44-01" (page 69) and "2023-14-01" (page 70); this meeting's other numbers use 2025 (document CC-2025-44).
+  This meeting was recessed at 8:23 p.m. on October 15 and resumed at 7:00 a.m. on Friday, October 17, 2025 to interview Elle Cole remotely (per minutes). The October 17 part has its own video and transcript: https://www.youtube.com/watch?v=GNuJmXzQFKI (transcript-2025-10-17.txt; the meeting resumes at the start of that video).
+  All seven commissioners were present on both days, with City Attorney Aaron Leal and City Clerk Scott Borling (per minutes; see the roll call issue above).
+  Candidates interviewed: Malcolm Hankins, Laura Lam and Odis Jones, Sr. on October 15; Elle Cole on October 17. Odis Jones withdrew afterward (announced October 17). Pamela Wideman of Raftelis ran the process.
+  Public comment (per minutes): 8 people on October 15 and none on October 17. Kaleb, Chris Glasser and Rochelle Habeck do not say a name on video.
+  YouTube titles the October 15 video "October 15, 2025 City Manager Candidate Interviews" and the October 17 video "October 17, 2025 City Manager Interview".

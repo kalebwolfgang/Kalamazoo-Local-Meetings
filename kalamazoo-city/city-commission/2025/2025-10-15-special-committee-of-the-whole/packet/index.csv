@@ -1,0 +1,6 @@
+agenda_item,item_title,attachment_no,attachment_title,text_file,table_file,packet_pages,scanned_pages,image_only_pages
+,Agenda (pages 1-2),,Agenda,../agenda.txt,,1-2,,
+C1,"Interview of City Manager Candidates 4:15 pm Malcolm Hankins 5:15 pm Laura Lam -- Dinner Break -- 6:40 pm Odis Jones, Sr. 7:40 pm Elle Cole",1,Malcolm Hankins Information,C01-city-manager-candidates--01-malcolm-hankins-information.txt,,3-5,3,
+C1,"Interview of City Manager Candidates 4:15 pm Malcolm Hankins 5:15 pm Laura Lam -- Dinner Break -- 6:40 pm Odis Jones, Sr. 7:40 pm Elle Cole",2,Laura Lam Information,C01-city-manager-candidates--02-laura-lam-information.txt,,6-10,,6
+C1,"Interview of City Manager Candidates 4:15 pm Malcolm Hankins 5:15 pm Laura Lam -- Dinner Break -- 6:40 pm Odis Jones, Sr. 7:40 pm Elle Cole",3,Odis Jones Sr Information,C01-city-manager-candidates--03-odis-jones-sr-information.txt,,11-15,,11
+C1,"Interview of City Manager Candidates 4:15 pm Malcolm Hankins 5:15 pm Laura Lam -- Dinner Break -- 6:40 pm Odis Jones, Sr. 7:40 pm Elle Cole",4,Elle Cole Information,C01-city-manager-candidates--04-elle-cole-information.txt,,16-21,17 18 19 20 21,16
