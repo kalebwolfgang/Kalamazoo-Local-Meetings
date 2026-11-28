@@ -1,0 +1,35 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Committee of the Whole
+Date: 2026-02-02
+Scheduled start: 5:00 PM
+Called to order: 5:01 PM (per minutes)
+Adjourned: 6:27 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=tq1MxNj6osA
+Note: the meeting starts about 1 minute and 59 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2543/files/agenda/4682
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2543/files/agenda/4683 (same as the agenda, no attachments; not stored separately)
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2543/files/agenda/4988
+Minutes document number: CC-2026-04
+Minutes approved: 2026-02-16
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 169 blocks, each sentence timestamped (534 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (5 rows): name and topic from the minutes, video time, minutes page
+  public-comment-topics.csv  one row per topic each speaker mentioned (10 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (1 row): outcome, video time, minutes page
+
+Notes:
+  Commissioner Slaby was excused at the start and arrived at 5:13 PM (per minutes).
+  The minutes list four Edison Initiatives speakers together, then Tobi Hannah Davies. On video, Tobi Hannah Davies spoke second. The rows follow the video order.
+  Shari Davis read remarks written by Talanja Steele, who spoke herself at the Business Meeting the same night.
+  Names are spelled as in the minutes. The January 5 files spell the same speaker "Tobi Hanna-Davies."
+  The transcript says "Cherylyn" for Community Development Manager Sharilyn Parsons. First names are not fixed automatically, so it was left as is.
+  The housing corridor presentation slides were filed with the meeting papers but are not in the packet.
+
+Related meeting: 2026-02-02-business (7:00 PM, same day)
