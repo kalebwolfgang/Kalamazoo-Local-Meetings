@@ -1,0 +1,36 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-03-16
+Scheduled start: 7:00 PM
+Called to order: 7:03 PM (per minutes)
+Adjourned: 8:36 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=2KxazWgFRsI
+Note: the video starts as the meeting is called to order.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2556/files/agenda/4856
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2556/files/agenda/4863
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2556/files/agenda/4985
+Minutes document number: CC-2026-12
+Minutes approved: 2026-04-06
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 416 blocks, each sentence timestamped (921 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (10 rows): 4 in general public comment, 6 in agenda item H1 (MDOT Safe Routes to School contract)
+  public-comment-topics.csv  one row per topic each speaker mentioned (36 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (21 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 16 agenda items and 27 attachments; see packet/index.csv
+
+Notes:
+  Commissioner Slaby was absent and excused (per minutes).
+  The two anonymous speakers did not give names on video. They are matched to the minutes by speaking order.
+  The video starts right as the meeting is called to order.
+  The Commission went into closed session to discuss labor negotiations and did not return to open session (per minutes). It is listed in agenda-items.csv as N1.
+  Consent item G8 is printed as "$171,00.00" in both the agenda and the minutes. It is kept as printed.
+  The Safe Routes to School presentation slides were filed with the meeting papers but are not in the packet.
+
+Related meeting: 2026-03-16-committee-of-the-whole (5:00 PM, same day)
