@@ -23,7 +23,7 @@ jobs:
             done
             find "$d" -name '*.pdf' -size +95M | while read -r big; do
               mb=$(du -m "$big" | cut -f1); n=$(qpdf --show-npages "$big"); k=$(( mb / 80 + 1 )); per=$(( (n + k - 1) / k )); s=1; i=1
-              while [ $s -le $n ]; do e=$(( s + per - 1 )); [ $e -gt $n ] && e=$n; qpdf "$big" --pages . $s-$e -- "${big%.pdf}-part$i-pages-$s-$e.pdf"; s=$(( e + 1 )); i=$(( i + 1 )); done
+              while [ $s -le $n ]; do e=$(( s + per - 1 )); [ $e -gt $n ] && e=$n; qpdf --warning-exit-0 "$big" --pages . $s-$e -- "${big%.pdf}-part$i-pages-$s-$e.pdf"; s=$(( e + 1 )); i=$(( i + 1 )); done
               echo "SPLIT $(basename "$big") ($mb MB, $n pages) into $k parts" >> "$d/log.txt"; rm "$big"
               find "$d" -name '*-part*.pdf' -size +95M | while read -r p2; do echo "PART STILL TOO BIG $(basename "$p2")" >> "$d/log.txt"; rm "$p2"; done
             done
