@@ -1,0 +1,18 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The pages below had no usable text from the software, so the words on them were typed in by hand from the page images.
+
+G05-streetlight-k-college--02-contract-and-resolution.txt, packet page 19: Consumers Energy work-order drawing for 115 Catherine St. Notes, labels and title block typed in by hand; the pole-by-pole equipment codes were not typed.
+G08-easement-802-wheaton--02-802-wheaton-ave-utility-easement.txt, packet page 42: Exhibit B cover page (image only). Its words typed in by hand.
+G08-easement-802-wheaton--02-802-wheaton-ave-utility-easement.txt, packet page 43: easement survey drawing. Labels, legal description and title block typed in by hand.
+G09-easement-1005-newton--02-1005-newton-ct-utility-easement.txt, packet page 52: Exhibit B cover page (image only). Its words typed in by hand.
+G09-easement-1005-newton--02-1005-newton-ct-utility-easement.txt, packet page 53: easement survey drawing. Labels, legal description and title block typed in by hand.
+G10-easement-1009-newton--02-1009-newton-ct-utility-easement.txt, packet page 62: Exhibit B cover page (image only). Its words typed in by hand.
+G10-easement-1009-newton--02-1009-newton-ct-utility-easement.txt, packet page 63: easement survey drawing. Labels, legal description and title block typed in by hand. It is the same drawing as packet page 53 (item G9).
+
+# Fixed by hand:
+H04-mdot-kalamazoo-ave-two-way--02-00000-026-58-cc-packet-mdot-two-way-conversion-of.txt, packet page 102: software read "EXHIBIT I" as "EXHIBIT |". The cost table on this page was checked against the page image and is correct.
+
+# Not typed in: the other scanned pages (Consumers Energy contract form, easement agreements and notary pages, MDOT contract) are text documents read by software. Signature blocks and stamps may read as garbled text.
+
+# This packet's bookmarks used a different layout from other packets ("Item: G1: ..." with no section or agenda report bookmarks), so they were rearranged into the usual layout on a working copy before splitting. The pages and their order are unchanged.

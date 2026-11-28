@@ -1,0 +1,72 @@
+# Agenda item G1: Approval of a purchase of the Cisco On-Prem Calling Solution to support the City's phone system from Trace3 through the MiDeal cooperative purchasing program in the amount of $125,064.
+# Attachment: Agenda Report
+# Packet pages 5-6 of the June 1, 2026 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 5 ---
+
+                                                                                                Date:   6/1/2026
+                City Commission                                                                          Item: G.1.
+
+                Agenda Report
+                City of Kalamazoo
+
+TO:            Mayor Anderson, Vice Mayor Duncan, and City Commissioners
+
+FROM:          Malcolm Hankins, City Manager
+               Reviewed by: Tim Dubois, IT Director
+               Prepared by: John Hambright, IT Deputy Director
+
+DATE:          June 1, 2026
+
+SUBJECT:       Approval of a 3-Year cooperative MIDEAL purchase from Trace3 for Cisco On-
+               Prem Calling Solution (Bid Ref#00000-021.151)
+
+RECOMMENDATION:
+
+It is recommended that the City Commission approve a MiDeal cooperative purchase from
+Trace3 for the Cisco On-Prem Calling Solution to support the City's phone system in the amount
+of $125,064
+
+BACKGROUND:
+
+This On-Prem Calling solution provides the infrastructure and licensing to support the city-wide
+phone system. This is a 3-year contract, Billed annually with the total purchase commitment of
+$125,064.00 with the following invoice schedule. Year 1 amount of $41,688.00 invoiced upon
+receipt of the PO, Year 2 amount of $41,688.00invoiced 5/30/2027, Year 3 amount of
+$41,688.00 invoiced on 5/30/2028.
+
+STRATEGIC VISION ALIGNMENT:
+
+Strategic Goal Impact:
+Safe Community- Creating a safe environment for living, working, and playing
+Good Governance- Ensuring the City organization has the capacity and resources to effectively
+implement the community's Strategic Vision in a way that is sustainable over the long term.
+Connected City - A City networked for walking, biking, riding, and driving
+
+COMMUNITY ENGAGEMENT:
+
+Appropriate Depth of Engagement
+Inform (one-way conversation) – no feasible alternatives available due to legal/regulatory
+restrictions, standards and best practices, or resource limitations; the community will be made
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+--- packet page 6 ---
+
+Commission Agenda Report
+Page 2
+
+aware of the project.
+
+FISCAL IMPACT:
+
+The funds required for this contract are $125,064. The contract will be split evenly between each
+of the three years of this renewal with $41,688 being budgeted and available in 2026 and
+$41,688 being budgeted in each of the fiscal years of 2027 and 2028.
+
+Description                          Account                                 Project #      Dollar Amount
+IT Network and Security              101-229-00.000-815.000                                 $125,064
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182

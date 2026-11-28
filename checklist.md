@@ -1,20 +1,19 @@
 # Checklist
 
-What has been collected and uploaded for each meeting, and what is still needed. Rebuilt by `tools/build_checklist.py` from `meeting-list.csv` and the meeting folders. Last rebuilt 2026-11-27.
+What has been collected and uploaded for each meeting, and what is still needed. Rebuilt by `tools/build_checklist.py` from `meeting-list.csv` and the meeting folders. Last rebuilt 2026-11-28.
 
 Goal: every City of Kalamazoo City Commission meeting back to January 2020. So far the meeting list covers January to September 2026. Earlier years are added to `meeting-list.csv` as we get to them.
 
 ## Summary
 
-- Done: 19
+- Done: 20
 - Done, waiting on minutes: 1
-- Not started: 14
+- Not started: 13
 - Cancelled: 2
 
 ## Still needed
 
 - 2026-03-14 Planning Retreat: add minutes once the city posts them
-- 2026-06-01 Business Meeting: not started
 - 2026-06-15 Committee of the Whole: not started (Minutes not posted on CivicClerk yet (checked 2026-11-27))
 - 2026-06-15 Business Meeting: not started
 - 2026-07-06 Business Meeting: not started (Minutes not posted on CivicClerk yet (checked 2026-11-27))
@@ -54,7 +53,7 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 | 2026-05-18 | Committee of the Whole | Done | yes | yes | none posted | yes | yes | yes | Closed session only; no agenda packet. Minutes posted only as an unsigned DRAFT (checked 2026-11-27) |
 | 2026-05-18 | Business Meeting | Done | yes | yes | yes | yes | yes | yes | Minutes posted only as an unsigned DRAFT (checked 2026-11-27) |
 | 2026-06-01 | Committee of the Whole | Cancelled | n/a | n/a | n/a | n/a | n/a | n/a | Cancelled (per CivicClerk) |
-| 2026-06-01 | Business Meeting | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
+| 2026-06-01 | Business Meeting | Done | yes | yes | yes | yes | yes | yes | Minutes posted only as an unsigned DRAFT (checked 2026-11-28) |
 | 2026-06-15 | Committee of the Whole | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** | Minutes not posted on CivicClerk yet (checked 2026-11-27) |
 | 2026-06-15 | Business Meeting | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
 | 2026-07-06 | Committee of the Whole | Cancelled | n/a | n/a | n/a | n/a | n/a | n/a | Cancelled (per CivicClerk) |

@@ -1,0 +1,177 @@
+# Kalamazoo City Commission, Business Meeting, June 1, 2026: Minutes
+# DRAFT minutes, document CC-2026-22. The posted copy is stamped DRAFT, is not signed, and has no approval date.
+# Source: PDF with a text layer (not a scan). Text taken from the PDF, then checked against the page images for names, numbers, and votes.
+# Margin headings from the original are shown in [brackets]. Page numbers match the original.
+
+--- page 93 ---
+
+A regular meeting of the Kalamazoo City Commission was held on Monday, June 1, 2026 at 7:01 p.m. in the City Commission Chambers at City Hall.
+
+[Roll Call]
+COMMISSIONERS PRESENT: Mayor David Anderson, Vice Mayor Drew Duncan, Jeanne Hess, Stephanie Hoffman, Chris Praedel, Jacqueline Slaby, Alonzo Wilson
+COMMISSIONERS ABSENT: None
+Also present were City Manager Malcolm Hankins, City Attorney Aaron Leal, and City Clerk Scott Borling.
+
+[Opening Ceremony]
+
+[Invocation/Pledge]
+The invocation, given by Chaplain Regina Mays from Missional Chaplains, was followed by the Pledge of Allegiance.
+
+[Formal Adoption of the Agenda]
+
+[Adoption of the Agenda]
+By unanimous consent the City Commission adopted its meeting agenda as presented.
+
+[Public Comments]
+Next, when an opportunity was given for general public comments, the following people addressed the City Commission:
+    Jody Dozeman, City resident, regarding various topics.
+    Matt Milcarek, City resident, regarding an upcoming Kalamazoo Neighborhood Housing Services event and the two-way street conversion contracts.
+    Emma Baidy, City resident, regarding the need for speed bumps in the Edison Neighborhood.
+    K, regarding affordable housing issues and black mold in the boys' locker room at Loy Norrix High School.
+    Shona Espinoza, City resident, regarding the high cost of housing.
+    Tina McClinton, City resident, regarding flooding in her neighborhood, dangerous buildings, call-in public comments, and the high cost of living.
+    [2026-22-01] Jeff Messer, City resident, regarding Kalamazoo City Code Section 33-24(p) and the selective enforcement of this section against the unhoused. (document filed)
+
+--- page 94 ---
+
+[Consent Agenda]
+Consent Agenda items were presented as follows with a recommendation to approve the items and authorize the City Manager to sign all related documents on behalf of the city:
+    2026-22-02: approval of a purchase of the Cisco On-Prem Calling Solution to support the City's phone system from Trace3 through the MiDeal cooperative purchasing program in the amount of $125,064.
+    2026-22-03: approval of a professional service agreement with Peerless-Midwest, Inc. for 2026 well rehabilitation work in the amount of $167,630.
+    2026-22-04: approval of a contract extension with Santiago Services for trash and debris handling in the amount of $453,000.
+    2026-22-05: approval of a sole source purchase with Pure Air for carbon media replacement in the carbon filtration unit at the Wastewater Treatment Plant in the amount of $487,828.
+    2026-22-06 (Resolution 26-31): adoption of a RESOLUTION approving changes in the street lighting contract with Consumers Energy for the removal of a streetlight at K College.
+    2026-22-07: approval of an amendment to a grant from the National Fish and Wildlife Foundation for the Reed Court floodplain project construction to increase the grant by $588,062, extend the period of performance, and approval of a budget amendment in the amount of $588,062.
+    2026-22-08: approval of the following reappointments to the Water System Advisory Council:
+        the reappointment of Thomas Wheat for a term expiring on December 31, 2027.
+        the reappointment of Lucas Pols for a term expiring on December 31, 2027.
+        the reappointment of Michael Evans for a term expiring on December 31, 2028.
+        the reappointment of Terrell Cole for a term expiring on December 31, 2028.
+    2026-22-09: approval of a utility easement agreement with Newton Equity LLC for the upcoming construction of public sewer main at 802 Wheaton Avenue as part of the Contract 77A Newton Ct., Fellows Ave., and John St. Utilities Improvement Project.
+    2026-22-10: approval of a utility easement agreement with Newton Equity LLC for the upcoming construction of public sewer main at 1005 Newton Court as part of the Contract 77A Newton Ct., Fellows Ave., and John St. Utilities Improvement Project.
+
+--- page 95 ---
+
+    2026-22-11: approval of a utility easement agreement with Newton Equity LLC for the upcoming construction of public sewer main at 1009 Newton Court as part of the Contract 77A Newton Ct., Fellows Ave., and John St. Utilities Improvement Project.
+    2026-22-12: approval of the minutes from the City Commission meetings on May 18, 2026.
+
+Commissioner Slaby, seconded by Vice Mayor Duncan, moved to approve the consent agenda requests and authorize the City Manager to sign all related documents on behalf of the City.
+
+With a roll call vote this motion passed 7-0.
+AYES: Commissioners Hess, Hoffman, Praedel, Slaby, Wilson, Vice Mayor Duncan, Mayor Anderson
+NAYS: None
+
+[Regular Agenda]
+
+[2026-22-13: Purchase of Miscellaneous Water Inventory]
+City Manager Hankins introduced for consideration a contract with Ferguson Waterworks for the annual purchase of miscellaneous water inventory in the amount of $1,088,129.42.
+
+Commissioner Questions: none
+
+Public Comments:
+    Emma Baidy, City resident, regarding the meaning of "miscellaneous water inventory".
+
+At Mayor Anderson's request, Director Baker responded and reviewed the components that were being purchased.
+
+Commissioner Slaby, seconded by Vice Mayor Duncan, moved to approve a contract with Ferguson Waterworks for the annual purchase of miscellaneous water inventory in the amount of $1,088,129.42; and authorize the City Manager to sign all related documents.
+
+With a roll call vote this motion passed 7-0.
+AYES: Commissioners Hess, Hoffman, Praedel, Slaby, Wilson, Vice Mayor Duncan, Mayor Anderson
+NAYS: None
+
+[2026-22-14: Contract with WCA Assessing for Assessing and Assessor-of-Record Services]
+City Manager Hankins introduced for consideration a three-year contract with Wayne County Appraisal, LLC d/b/a WCA Assessing for assessing and assessor-of-record services in the amount of $1,855,321.92.
+
+Commissioner Questions:
+    Management Services Director and Chief Financial Officer Steve Vicenzi, and Aaron Powers, Managing Director of WCA Assessing, responded to
+
+--- page 96 ---
+
+[2026-22-14: Contract with WCA Assessing for Assessing and Assessor-of-Record Services (cont'd)]
+    Commissioner questions regarding the status of the City Assessor as a City Commission appointee, concerns about customer service levels stemming from outsourcing, local staffing levels, the City's oversight and management of the assessing services contract, the City's authority and influence over the assessing process, and the reporting relationships of the City Assessor vis-a-vis the City Charter.
+
+Aaron Powers, Managing Director of WCA Assessing, provided a history of the company and described the services WCA provides to the City of Kalamazoo.
+
+In response to Commissioner questions, City Attorney Leal reported that Section 51(d) of the City Charter states, "The Assessor shall perform such other duties as may be prescribed in this Charter or by the Director of Finance."
+
+Public Comments: none
+
+Commissioner Hoffman, seconded by Commissioner Slaby, moved to approve a three-year contract with Wayne County Appraisal, LLC d/b/a WCA Assessing for assessing and assessor-of-record services in the amount of $1,855,321.92; and authorize the City Manager to sign all related documents.
+
+Prior to a vote on the motion, Commissioner Slaby expressed concerns about customer service with WCA Assessing and suggested the City consider the option of reestablishing the assessing function as an in-house operation at the end of this contract.
+
+Vice Mayor Duncan asked about performance review options under the proposed contract.
+
+Discussion took place regarding the standards, tools, and timelines that were in place, or could be put in place, to monitor the performance of WCA under this contract.
+
+With a roll call vote this motion passed 7-0.
+AYES: Commissioners Hess, Hoffman, Praedel, Slaby, Wilson, Vice Mayor Duncan, Mayor Anderson
+NAYS: None
+
+[2026-22-15: Construction Engineering Contract for the Kalamazoo Avenue Reconstruction Project]
+City Manager Hankins introduced for consideration a contract with Wightman & Associates, Inc. for construction engineering services for the Kalamazoo Avenue construction project in the amount of $2,139,900.
+
+Public Services Director James Baker delivered a presentation entitled Kalamazoo Avenue Reconstruction Approvals: June 1, 2026. A copy of the slides from this presentation was filed with the papers for this meeting.
+
+Commissioner Questions:
+    Following the presentation, Director Baker responded to Commissioner questions regarding the project stages, traffic management once the Event Center opens (and there is still significant construction), cost containment
+
+--- page 97 ---
+
+[2026-22-15: Construction Engineering Contract for the Kalamazoo Avenue Reconstruction Project (cont'd)]
+    strategies, the challenge of maintaining the current streets in light of their pending replacement, underground infrastructure replacement on Michigan Avenue, plans to seek additional funding for the anticipated contract change orders, and a communication plan for the public.
+
+Public Comments:
+    Jeff Messer, City resident, regarding the need for unbiased enforcement of trespassing ordinances in construction areas.
+    Emma Baidy, City resident, regarding alternate routes for trucks during construction.
+
+At the request of Mayor Anderson, Director Baker responded to the question about truck routes.
+
+Commissioner Slaby, seconded by Commissioner Hess, moved to approve a contract with Wightman & Associates, Inc. for construction engineering services for the Kalamazoo Avenue construction project in the amount of $2,139,900; and authorize the City Manager to sign all related documents.
+
+Commissioners expressed support for the downtown two-way street conversion project and offered remarks on the magnitude and historic nature of this effort.
+
+With a roll call vote this motion passed 7-0.
+AYES: Commissioners Hess, Hoffman, Praedel, Slaby, Wilson, Vice Mayor Duncan, Mayor Anderson
+NAYS: None
+
+[2026-22-16, Resolution 26-32 re: an MDOT Agreement for the Two-Way Conversion of Kalamazoo Avenue]
+City Manager Hankins introduced for consideration a Michigan Department of Transportation subrecipient agreement for the two-way conversion of Kalamazoo Avenue in the amount of $16,808,308.
+
+Commissioner Questions: none
+
+Public Comments: none
+
+Commissioner Hoffman, seconded by Commissioner Slaby, moved to adopt a RESOLUTION approving a Michigan Department of Transportation subrecipient agreement for the two-way conversion of Kalamazoo Avenue in the amount of $16,808,308.
+
+With a roll call vote this motion passed 7-0.
+AYES: Commissioners Hess, Hoffman, Praedel, Slaby, Wilson, Vice Mayor Duncan, Mayor Anderson
+NAYS: None
+
+--- page 98 ---
+
+[Reports and Legislation]
+
+[2026-22-17: City Manager's Report]
+City Manager Hankins distributed and reviewed the June 1, 2026 City Manager's Report.
+
+[Commissioner Comments]
+Commissioner Slaby offered remarks on the United Auto Workers strike at American Axle in Three Rivers.
+
+Vice Mayor Duncan commented on Pride Month, an event on July 1st called Across Borders: Communities Against Gun Violence and Voter Suppression, the hard work of staff on the two-way street conversion project, and downtown parking changes.
+
+Commissioner Wilson offered comments on a men's wellness event at Urban Alliance on June 6th and a recent listening session about flooding in the Northside Neighborhood at the Northside Association for Community Development.
+
+Commissioner Hess spoke about events taking place downtown during Jumpstart Weekend, the start of the Beats on Bates events, Gun Violence Awareness Day on June 5th, and the June 11th screening of a documentary entitled Nothing to See Here: Watts at the Arcus Center for Social Justice Leadership. Commissioner Hess expressed well-wishes to Community Planning and Economic Development Director Antonio Mitchell on his retirement.
+
+Commissioner Praedel offered remarks on Jumpstart Weekend and the Homeshare Program.
+
+Mayor Anderson congratulated graduating students and spoke about federal funding that comes to the City through the Kalamazoo County Continuum of Care. Mayor Anderson noted a Point in Time (PIT) count of the unsheltered occurred on May 29th.
+
+[Adjournment]
+The meeting adjourned at 9:18 p.m.
+
+Scott A. Borling
+City Clerk
+
+Approved by the City Commission on: (blank)

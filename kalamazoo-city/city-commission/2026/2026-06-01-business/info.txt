@@ -1,0 +1,36 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-06-01
+Scheduled start: 7:00 PM
+Called to order: 7:01 PM (per minutes)
+Adjourned: 9:18 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=KSZsD7dpFeY
+Note: the meeting starts about 3 minutes and 50 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2535/files/agenda/5142
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2535/files/agenda/5141
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2535/files/agenda/5207
+Minutes document number: CC-2026-22
+Minutes approved: not yet (the posted minutes are a DRAFT)
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 745 blocks, each sentence timestamped (1417 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (from the PDF's text layer, checked against the page images)
+  public-comment.csv  one row per public comment speaker (10 rows): 7 in general public comment, 1 in agenda item H1 (Ferguson water inventory), 2 in agenda item H3 (Kalamazoo Avenue engineering contract)
+  public-comment-topics.csv  one row per topic each speaker mentioned (35 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (17 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 15 agenda items and 25 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  All seven commissioners were present (per minutes). The agenda was adopted as presented, and there were no proclamations.
+  The posted minutes are a DRAFT: stamped DRAFT, not signed, and with no approval date. Check again later for the approved version.
+  Jody Dozeman (General public comment, speaker 1) has no topic rows: she spoke about her faith, a spaceship and her own life, and no city issue could be identified. The minutes spell her name "Jody"; the Feb 16, 2026 minutes spelled it "Jodi". Each meeting keeps its own minutes' spelling.
+  The minutes list one speaker only as "K", with no residency. She says "I'm Kay" on video. She is listed as "K", residency "not stated".
+  Items H3 and H4 (Kalamazoo Avenue two-way conversion) were presented together by Public Services Director James Baker; the slides were filed with the meeting papers, not in the packet.
+  In the packet, the easement drawings for G9 (1005 Newton Court) and G10 (1009 Newton Court) are the same page. See packet/corrections.txt.
+  The packet's bookmarks used a different layout from other meetings, so they were rearranged on a working copy before splitting. Page numbers are unchanged.
