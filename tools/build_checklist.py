@@ -49,6 +49,8 @@ for r in rows:
         for name, f in COLS:
             if f == "packet/index.csv" and same_as_agenda(path):
                 cells.append("same as agenda")
+            elif f == "packet/index.csv" and os.path.exists(f"{path}/info.txt") and "Agenda packet: none posted" in open(f"{path}/info.txt", encoding="utf-8").read():
+                cells.append("none posted")
             elif f == "minutes.txt" and not r["minutes_file_id"] and not os.path.exists(f"{path}/{f}"):
                 cells.append("not posted yet")
             elif f == "transcript.txt" and not r["video_id"] and not os.path.exists(f"{path}/{f}"):
