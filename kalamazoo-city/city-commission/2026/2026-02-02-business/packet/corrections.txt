@@ -1,0 +1,7 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet, so no numbers needed checking.
+# The pages below were maps or signature blocks. Software turned them into unreadable text, so that text was replaced.
+
+F01-vine-burdick-nez-public-hearing--02-b-nez-resolution-with-attchments.txt, packet page 10: map. Readable labels typed in by hand from the page image.
+G05-growlers-lease-amendment--02-lease-amendment.txt, packet page 33: signature block. Typed in by hand from the page image; handwritten names left out.
+G05-growlers-lease-amendment--02-lease-amendment.txt, packet page 34: signature page. Typed in by hand from the page image; handwritten names left out.
