@@ -133,7 +133,7 @@ Things to look for:
 ## Open items
 
 - Sep 8, 2026 Business Meeting packet is over 100 MB. The download job now saves it in two parts on raw-inputs (pages 1-268 and 269-536); it still needs processing.
-- Oct 20, 2025 Business: the appraisal attached to H2 (packet pages 297-366) is the same as the Oct 6 G20 appraisal, but its photo captions, maps and zoning table were not typed in. The Oct 6 typed pages could be copied over (page numbers are 232 higher).
+- Oct 20, 2025 Business: the appraisal attached to H2 (packet pages 297-366) is the same as the Oct 6 G20 appraisal, but its photo captions, maps and zoning table were not typed in. Kaleb decided on Nov 28, 2026 to leave them as the software read them.
 - May 18, 2026: both sets of minutes were posted only as unsigned DRAFTs. Replace minutes.txt and the approval date when the approved version is posted. (The CoW had no packet because the whole meeting was a closed session.)
 - Minutes stamped DRAFT: process them and say so in the minutes.txt header, info.txt and meeting-list.csv notes. If a later meeting approved them, the approval date is that meeting's date and the posted DRAFT is a staff record issue; otherwise write "not yet (the posted minutes are a DRAFT)".
 - Minutes not posted yet (checked 2026-11-28): Jul 6, Aug 10 (both), Aug 17 (both), Sep 8 (both), Sep 21 Business. None of these has been on a Business Meeting agenda for approval through Nov 16, 2026.
