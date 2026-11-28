@@ -19,8 +19,9 @@ jobs:
               [ -z "$id" ] && continue
               curl -sSfL --retry 3 -o "$d/$name.pdf" "https://kalamazoomi.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=$id,plainText=false)" || echo "FAILED $name" >> "$d/log.txt"
             done
+            find "$d" -name '*.pdf' -size +95M | while read -r big; do echo "TOO BIG FOR GITHUB $(basename "$big") $(du -m "$big" | cut -f1) MB" >> "$d/log.txt"; rm "$big"; done
           done
       - name: Save to branch
         run: |
           git config user.name "fetch-bot"; git config user.email "fetch-bot@users.noreply.github.com"
-          git add inputs; git commit -qm "Fetched inputs" || echo nothing; git push
+          git add inputs; git commit -qm "Fetched inputs" || echo nothing; git pull --rebase -q; git push
