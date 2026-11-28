@@ -1,0 +1,10 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The pages below had captions or labels the software missed, so the words on them were typed in by hand from the page images.
+
+G20-burdick-crosstown-purchase--02-00000-025-100-cc-packet-purchase-of-1216-1222-1228.txt, packet pages 92, 93, 99, 102-107: appraisal photo pages, captions typed in.
+G20-burdick-crosstown-purchase--02-00000-025-100-cc-packet-purchase-of-1216-1222-1228.txt, packet page 128: plat map with aerial photo, title and note typed in.
+H02-porter-street-nez--02-porter-street-nez-resolution.txt, packet page 169: Porter Street NEZ map, title, legend and street names typed in.
+G20-burdick-crosstown-purchase--02-00000-025-100-cc-packet-purchase-of-1216-1222-1228.txt, packet pages 90, 94, 120, 127, 129: appraisal maps, titles and main labels typed in.
+G20-burdick-crosstown-purchase--02-00000-025-100-cc-packet-purchase-of-1216-1222-1228.txt, packet pages 130-131: zoning use table, typed in by hand because the software lost the columns.
+G20-burdick-crosstown-purchase--02-00000-025-100-cc-packet-purchase-of-1216-1222-1228.txt, packet page 134: appraiser's license, typed in.

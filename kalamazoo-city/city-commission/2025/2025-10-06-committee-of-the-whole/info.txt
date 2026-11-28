@@ -1,0 +1,36 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Committee of the Whole
+Date: 2025-10-06
+Scheduled start: 5:00 PM
+Called to order: 5:01 PM (per minutes)
+Adjourned: 5:17 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=lOXRmmCeIV4
+Note: the meeting starts about 1 minute and 12 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/1294/files/agenda/4344
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/1294/files/agenda/4345 (same as the agenda, no attachments; not stored separately)
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/1294/files/agenda/4399
+Minutes document number: CC-2025-42
+Minutes approved: 2025-11-17 (item B1 at the November 17, 2025 5:00 PM meeting, voice vote, per the November 17 minutes); the posted copy is not signed
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 34 blocks, each sentence timestamped (101 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (4 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (8 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
+
+Notes:
+  Staff record issue: the Commission approved these minutes on 2025-11-17 (item B1 at the November 17, 2025 5:00 PM meeting, voice vote, per the November 17 minutes), but the copy posted on CivicClerk is not signed and has a blank approval date (checked 2026-11-28).
+  Possible staff record issue: CivicClerk lists the agenda and the agenda packet as published on 2025-10-07, the day after the meeting. This may be a re-upload date; the first posting date is not shown.
+  Possible staff record issue: these minutes are numbered pages 157-158, the same page numbers as the October 20, 2025 Committee of the Whole minutes. Only possible, because the reason for the repeated numbers is not shown in the record.
+  All seven commissioners of the 55th Commission were present, with City Manager Jim Ritsema (per minutes).
+  The only agenda item was a closed session to review the applications of City Manager candidates who asked to keep them confidential. The Commission did not return to open session; the meeting adjourned at 5:17 PM (per minutes).
+  Four people spoke during public comment (per minutes). Tobi Hanna-Davies and Cathy Phason do not say a name on video.
+  The agenda packet is the agenda with page footers only, so it is not stored separately.
+
+Related meeting: 2025-10-06-business (7:00 PM, same day)

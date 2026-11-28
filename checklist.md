@@ -6,15 +6,13 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 
 ## Summary
 
-- Done: 35
+- Done: 37
 - Done, waiting on minutes: 6
-- Not started: 6
+- Not started: 4
 - Cancelled: 2
 
 ## Still needed
 
-- 2025-10-06 Committee of the Whole: not started
-- 2025-10-06 Business Meeting: not started
 - 2026-03-14 Planning Retreat: add minutes once the city posts them
 - 2026-07-06 Business Meeting: add minutes once the city posts them
 - 2026-08-10 Committee of the Whole: add minutes once the city posts them
@@ -30,8 +28,8 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 
 | Date | Meeting | Status | Transcript | Agenda | Packet | Minutes | Public comment | Agenda items | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| 2025-10-06 | Committee of the Whole | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
-| 2025-10-06 | Business Meeting | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
+| 2025-10-06 | Committee of the Whole | Done | yes | yes | same as agenda | yes | yes | yes | Closed session only. Minutes approved 2025-11-17 but the posted copy is not signed (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |
+| 2025-10-06 | Business Meeting | Done | yes | yes | yes | yes | yes | yes | Minutes approved 2025-11-17; the posted copy is signed. See info.txt and audit.csv for staff record issues. |
 | 2025-10-15 | Special Committee of the Whole | Done | yes | yes | yes | yes | yes | yes | City Manager candidate interviews. Recessed and finished on October 17, 2025 (second video GNuJmXzQFKI, "October 17, 2025 City Manager Interview"). Minutes approved 2025-11-17 but the posted copy is not signed (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |
 | 2025-10-20 | Committee of the Whole | Done | yes | yes | same as agenda | yes | yes | yes | Minutes approved 2025-11-17 but the posted copy is not signed (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |
 | 2025-10-20 | Business Meeting | Done | yes | yes | yes | yes | yes | yes | Agenda packet (about 96 MB) was downloaded in two parts and joined. Minutes approved 2025-11-17 but the posted copy is not signed (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |

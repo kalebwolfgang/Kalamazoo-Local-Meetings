@@ -1,0 +1,41 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2025-10-06
+Scheduled start: 7:00 PM
+Called to order: 7:01 PM (per minutes)
+Adjourned: 9:17 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=DyZj8KaXRss
+Note: the meeting starts about 1 minute and 5 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/1270/files/agenda/4320
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/1270/files/agenda/4321
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/1270/files/agenda/4979
+Minutes document number: CC-2025-43
+Minutes approved: 2025-11-17 (item B1 at the November 17, 2025 5:00 PM meeting, voice vote, per the November 17 minutes); the posted copy is signed
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 274 blocks, each sentence timestamped (701 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (10 rows): 8 in general public comment, 2 in agenda item H2 (Porter Street NEZ)
+  public-comment-topics.csv  one row per topic each speaker mentioned (19 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (28 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 22 agenda items and 29 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  Possible staff record issue: the Commission approved these minutes on 2025-11-17 (item B1 at the November 17, 2025 5:00 PM meeting, voice vote, per the November 17 minutes). The posted copy is signed and dated, but CivicClerk lists it as published on 2026-04-28, more than five months later. This may be a re-upload date; the first posting date is not shown.
+  Staff record issue: two presentations were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk: the Transformational Brownfield Plan Overview slides (D2) and the Porter Street NEZ slides (H2).
+  Possible staff record issue: these minutes are numbered pages 159-164, and the October 20, 2025 Business Meeting minutes also start at page 159. Only possible, because the reason for the repeated numbers is not shown in the record.
+  Possible staff record issue: for G17, the agenda report says "277 W Michigan Avenue" in one place, and the attached resolution and its file name say "277 W Michigan" throughout, while the agenda title, the rest of the agenda report and the minutes say 227 West Michigan Avenue. Which address is right is not shown here, so this is only possible.
+  Possible staff record issue: the agenda spells the Arts Council director's first name "Kirsten" (D1); the minutes say "Kristen Chesak", and on video she says "Kristen" (captions).
+  All seven commissioners of the 55th Commission were present at the start, with City Manager Jim Ritsema (per minutes). Commissioner Cooney did not return after the 8:12 to 8:32 p.m. recess, so later votes are 6-0.
+  L1 (Approval of the City Manager Candidate Interview List) was moved to right after public comments. Commissioners ranked candidates on ballots, the clerk counted them during the recess, and L1 was laid on the table until the recruiter confirmed the top four. Later in the meeting it was taken from the table and the four candidates were announced: Elle Cole, Malcolm Hankins, Odis Jones, Sr. and Laura Lam (per minutes).
+  G20 (purchase of 1216, 1222 and 1228 South Burdick Street and 121 West Crosstown Parkway) was postponed to October 20, 2025 as part of the consent agenda motion.
+  Public comment (per minutes): 8 speakers in general public comment, plus 2 speakers on H2 (Porter Street NEZ). Silvano Vanegas filed documents (document 2025-43-03); they are not posted.
+  The minutes PDF's text layer is jumbled, so minutes.txt was typed from software reading of the page images and checked by hand.
+
+Related meeting: 2025-10-06-committee-of-the-whole (5:00 PM, same day)
