@@ -25,7 +25,8 @@ Files in this folder:
   agenda-items.csv    one row per agenda item (2 rows): outcome, vote, mover, video times, minutes page, packet pages
 
 Notes:
+  Staff record issue: the development briefing and sustainability presentation slides were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk.
+  Possible staff record issue: the minutes were approved on 2026-03-02, but CivicClerk lists them as published on 2026-04-28, along with every set of minutes from January 5 to April 6. This may be a re-upload date; the first posting date is not shown.
   Commissioner Hoffman was absent and excused (per minutes).
-  The development briefing and sustainability presentation slides were filed with the meeting papers but are not in the packet.
 
 Related meeting: 2026-02-16-business (7:00 PM, same day)

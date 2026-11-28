@@ -27,11 +27,12 @@ Files in this folder:
                   packet/corrections.txt lists pages whose text was typed in or fixed by hand
 
 Notes:
+  Staff record issue: the H2 and H3 presentation slides were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk. The H1 slides are in the packet.
+  Staff record issue: the minutes give document numbers for two filed public comment documents, 2026-18-05 (Caleb Leonard's questions) and 2026-18-06 (Tina McClinton's pictures). They are not in the packet or posted on CivicClerk.
+  Possible staff record issue: CivicClerk lists the agenda packet as published on the day of the meeting. This may be a re-upload date; the first posting date is not shown.
   All seven commissioners were present (per minutes).
   Consent item G10 (French parcel purchase) was postponed to May 18, 2026 as part of the consent vote.
   Item H2 passed 6-1; Vice Mayor Duncan voted no.
   Tobi Hanah-Davies, the one speaker on item H2, does not say her name on video. She is matched to the minutes as the only speaker listed for that item.
-  The minutes print item numbers for two filed public comment documents: 2026-18-05 (Caleb Leonard's questions) and 2026-18-06 (Tina McClinton's pictures). These are not in the packet.
-  The H2 and H3 presentation slides were filed with the meeting papers but are not in the packet. The H1 slides are in the packet.
 
 Related meeting: 2026-05-11-committee-of-the-whole (5:00 PM, same day)

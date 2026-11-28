@@ -26,11 +26,13 @@ Files in this folder:
   packet/         full agenda packet split into 16 agenda items and 27 attachments; see packet/index.csv
 
 Notes:
+  Staff record issue: consent item G8 is printed as "$171,00.00" in both the agenda and the minutes, which is not a valid dollar amount.
+  Staff record issue: the Safe Routes to School presentation slides were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk.
+  Possible staff record issue: the minutes were approved on 2026-04-06, but CivicClerk lists them as published on 2026-04-28, along with every set of minutes from January 5 to April 6. This may be a re-upload date; the first posting date is not shown.
+  Possible staff record issue: CivicClerk lists the agenda packet as published on the day of the meeting. This may be a re-upload date; the first posting date is not shown.
   Commissioner Slaby was absent and excused (per minutes).
   The two anonymous speakers did not give names on video. They are matched to the minutes by speaking order.
   The video starts right as the meeting is called to order.
   The Commission went into closed session to discuss labor negotiations and did not return to open session (per minutes). It is listed in agenda-items.csv as N1.
-  Consent item G8 is printed as "$171,00.00" in both the agenda and the minutes. It is kept as printed.
-  The Safe Routes to School presentation slides were filed with the meeting papers but are not in the packet.
 
 Related meeting: 2026-03-16-committee-of-the-whole (5:00 PM, same day)

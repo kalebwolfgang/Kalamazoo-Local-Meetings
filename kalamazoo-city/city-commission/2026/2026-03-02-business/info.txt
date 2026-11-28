@@ -27,11 +27,13 @@ Files in this folder:
                   packet/corrections.txt lists pages whose text was typed in or fixed by hand
 
 Notes:
+  Staff record issue: the minutes spell the sorority both "Delta Theta Sigma" and "Delta Sigma Theta". Both are kept as written.
+  Staff record issue: the Wightman design presentation slides were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk.
+  Possible staff record issue: the minutes were approved on 2026-03-16, but CivicClerk lists them as published on 2026-04-28, along with every set of minutes from January 5 to April 6. This may be a re-upload date; the first posting date is not shown.
+  Possible staff record issue: CivicClerk lists the agenda packet as published on the day of the meeting. This may be a re-upload date; the first posting date is not shown.
+  Possible staff record issue: the minutes list Tracey Lawie, Liz Healy and Holly Smith together, but only Tracey Lawie spoke on video, so there is one row.
   Agenda item H3 (COPS Hiring Program Award) was removed from the agenda at the start of the meeting. Its packet pages are still included.
-  The minutes list Tracey Lawie, Liz Healy and Holly Smith together. Only Tracey Lawie spoke on video, so there is one row.
   Margaret Wilson does not say her name on video. She is matched to the minutes by speaking order.
   On H2 (B-NEZ resolution), Commissioner Praedel and Vice Mayor Duncan abstained (per minutes). On video, Commissioner Praedel said the owner of the developer sits on the board of the nonprofit he leads.
-  The minutes spell the sorority both "Delta Theta Sigma" and "Delta Sigma Theta." Both are kept as written.
-  The Wightman design presentation slides were filed with the meeting papers but are not in the packet.
 
 Related meeting: 2026-03-02-committee-of-the-whole (5:00 PM, same day)

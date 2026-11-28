@@ -27,13 +27,12 @@ Files in this folder:
                   packet/corrections.txt lists pages whose text was typed in or fixed by hand
 
 Notes:
-  Staff record issue: these minutes were approved on 2026-07-06 but were never posted on CivicClerk (checked 2026-11-28). The only copy found is the unsigned DRAFT in the July 6, 2026 agenda packet.
+  Staff record issue: these minutes were approved on 2026-07-06 but were never posted on CivicClerk (checked 2026-11-28). The only copy found is the unsigned DRAFT in the July 6, 2026 agenda packet (item G19, packet pages 105-106).
   Staff record issue: the F2 slides were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk.
-  Staff record issue: these minutes are not posted on CivicClerk (checked 2026-11-28). They were found in the July 6, 2026 Business Meeting agenda packet (item G19, attachment 2, packet pages 105-106) and approved on that consent agenda. The packet copy is stamped DRAFT and unsigned. minutes.txt is taken from that copy.
   Mayor Anderson and Commissioner Hoffman were absent and were excused by voice vote (per minutes). Vice Mayor Duncan chaired.
   All three public comment speakers opposed a proposed data center near the Milwood Neighborhood (per minutes).
   Names follow the minutes. The captions give "Eileen Pollock" for the speaker the minutes call Eileen Pawlicki. The speaker the minutes call Sarah Ferguson says "Sarah P." on video.
-  F1 was presented by Development Manager Jamie McCarthy and Logan Mulholland of Fishbeck; the Zone 32 slides are in the packet. F2 was presented by Deputy Director Christina Anderson and Public Services Director James Baker (per minutes); the minutes say its slides were filed with the meeting papers, and they are not in the packet.
+  F1 was presented by Development Manager Jamie McCarthy and Logan Mulholland of Fishbeck; the Zone 32 slides are in the packet. F2 was presented by Deputy Director Christina Anderson and Public Services Director James Baker (per minutes).
   No commissioner comments were made.
 
 Related meeting: 2026-06-15-business (7:00 PM, same day)

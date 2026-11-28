@@ -27,6 +27,7 @@ Files in this folder:
                   packet/corrections.txt lists pages whose text was typed in or fixed by hand
 
 Notes:
+  Possible staff record issue: the minutes were approved on 2026-04-20, but CivicClerk lists them as published on 2026-04-28, along with every set of minutes from January 5 to April 6. This may be a re-upload date; the first posting date is not shown.
   Commissioner Hoffman was absent and excused (per minutes).
   Caleb Leonard's name is not clear in the captions. He is matched to the minutes by speaking order.
 

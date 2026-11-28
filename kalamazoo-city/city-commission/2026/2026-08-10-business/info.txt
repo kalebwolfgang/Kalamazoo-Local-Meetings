@@ -25,9 +25,9 @@ Files in this folder:
 
 Notes:
   Staff record issue: no minutes are posted on CivicClerk (checked 2026-11-28), and no Business Meeting agenda from August 17 through November 16, 2026 has an item to approve them.
-  Staff record issue: CivicClerk lists the agenda packet as published on August 11, 2026, the day after the meeting (it may have been replaced that day; the first posting date is not shown).
-  Staff record issue: G10: the agenda report's subject line says "Comcast Easement for 459. N. Burdick", but the item, the report text and the survey are for an easement between 128 and 162 E. Water Street.
-  Staff record issue: G5: the Consumers Energy work drawing in the packet for the 825 Porter Street streetlight names 702 N Burdick St in its title block.
+  Possible staff record issue: CivicClerk lists the agenda packet as published on August 11, 2026, the day after the meeting. This may be a re-upload date; the first posting date is not shown.
+  Possible staff record issue: G10: the agenda report's subject line says "Comcast Easement for 459. N. Burdick", but the agenda title, the report text and the survey drawing describe an easement between 128 and 162 E. Water Street.
+  Possible staff record issue: G5: the request is to add four LED post-top lights at 825 Porter Street, but the Consumers Energy drawing in the packet is titled 702 N Burdick St and describes relocating an overhead line. It is not clear from the packet that the drawing belongs to this request.
   No minutes have been posted, so attendance, votes, movers, public comment names and residency come from the video. Times, outcomes and votes should be checked against the minutes once they are posted.
   Commissioners Hoffman and Slaby were absent and were excused by motion at the start (on video). All votes have five members present.
   Residency: "City resident" is used when a speaker said they live in the city or named a city neighborhood they live in. For speakers who also appear in earlier 2026 minutes (Tina McClinton, Wendy Fields, Jeff Messer, Shona Espinoza), names follow those minutes.

@@ -24,6 +24,8 @@ Files in this folder:
   public-comment-topics.csv  one row per topic each speaker mentioned (11 rows), with time and exact quote
   agenda-items.csv    one row per agenda item (1 row): outcome, video time, minutes page
 
-Note: the training slides shown at this meeting were filed with the meeting papers but are not in the packet.
+Notes:
+  Staff record issue: the training slides were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk.
+  Possible staff record issue: the minutes were approved on 2026-02-16, but CivicClerk lists them as published on 2026-04-28, along with every set of minutes from January 5 to April 6. This may be a re-upload date; the first posting date is not shown.
 
 Related meeting: 2026-01-05-business (7:00 PM, same day)

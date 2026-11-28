@@ -22,6 +22,7 @@ Files in this folder:
   agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
 
 Notes:
+  Staff record issue: no minutes are posted on CivicClerk (checked 2026-11-28), and no Business Meeting agenda from March 16 through November 16, 2026 has an item to approve them.
   This is the annual planning retreat, held on a Saturday at the KRESA Career Connect Campus. The agenda calls it a Committee of the Whole meeting.
   The video is on the Public Media Network YouTube channel, not the City of Kalamazoo channel.
   No minutes have been posted, so public comment names come from the video. Names are spelled as in earlier minutes where the same person appears.

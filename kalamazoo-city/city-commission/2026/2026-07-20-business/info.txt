@@ -28,14 +28,14 @@ Files in this folder:
 
 Notes:
   Staff record issue: the Commission approved these minutes on 2026-08-10 (consent item G16 at the August 10, 2026 Business Meeting, on video), but the copy posted on CivicClerk is still the unsigned DRAFT with a blank approval date (checked 2026-11-28).
-  Staff record issue: the minutes list Commissioner Slaby as seconding the consent agenda, but on video the second is Commissioner Hess. The minutes print G2's document number as "2026-26-06", which looks like a typo for 2026-28-06.
+  Possible staff record issue: consent agenda: the minutes say Commissioner Slaby seconded, but on video (automatic captions, about 1:35:37) the second is Commissioner Hess. The minutes are followed.
+  Possible staff record issue: the minutes print G2's document number as "2026-26-06", between 2026-28-05 (G1) and 2026-28-07 (G3). It looks like a typo for 2026-28-06; it is kept as printed.
+  Possible staff record issue: the minutes spell one K1 speaker "Shone Espinoza" and the same name "Shona Espinoza" in general public comment. Each row keeps the spelling the minutes use there.
   All seven commissioners were present (per minutes).
   Agenda change: a settlement agreement in Dirk Adam v City of Kalamazoo was added to the regular agenda as H5. In agenda-items.csv it is listed as "Added", because it has no printed number.
-  Consent agenda: the minutes say Commissioner Wilson moved and Commissioner Slaby seconded; the minutes are followed. G2's document number is kept as printed.
   Public comment: 26 general speakers, 2 on H3 and 7 on K1 (call-in public comments). Many spoke about Flock license plate cameras, a moratorium on data centers, the fence around Arcadia Creek Festival Place, and Northside safety.
   Jody Dozeman (general speaker 12) has no topic rows: she read her own writings about faith and a spaceship, and no city issue could be identified.
   Jonathan Yarbrough and Joe Williams do not say their names at the start of their general comments on video; they are matched to the minutes by speaking order. The speaker the minutes call "Thelma" is captioned "DOMA".
-  The minutes spell one K1 speaker "Shone Espinoza" (and "Shona Espinoza" in general public comment); each row keeps the spelling the minutes use there.
   K1 (call-in public comments) passed 7-0, directing staff to prepare options. L1 (data center moratorium) was a discussion with no vote; City Attorney Leal is to present on moratoria at the next Committee of the Whole.
 
 Related meeting: 2026-07-20-committee-of-the-whole (5:00 PM, same day)

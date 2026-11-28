@@ -28,10 +28,12 @@ Files in this folder:
 
 Notes:
   Staff record issue: the Commission approved these minutes on 2026-06-01 (consent item G11 at the June 1, 2026 Business Meeting, per the June 1 minutes), but the copy posted on CivicClerk is still the unsigned DRAFT with a blank approval date (checked 2026-11-28).
-  All seven commissioners were present (per minutes). Mayor Anderson left at about 8:09 PM and returned at 8:14 PM; Vice Mayor Duncan chaired in between. Items H1, H2 and H4 passed 6-0 with the Mayor absent.
-  Agenda changes: G13, G14 and G16 moved to the regular agenda; G8 moved and then removed; H3 and K1 removed; a settlement agreement in Rashard Armstrong v. City of Kalamazoo added. In agenda-items.csv the moved items keep their printed numbers (G13, G14, G16) and the added settlement is listed as "Added". On video the Commission renumbered the regular items as it went (for example, H4 was called H3).
   Staff record issue: the settlement vote: the minutes list all seven commissioners as AYES but print no "passed" line and no document number.
   Staff record issue: the minutes print document numbers 2026-20-03 and 2026-20-04 beside the removal of K1 and H3 but do not say which number goes with which item, so neither row has one.
+  Possible staff record issue: CivicClerk lists the agenda packet as published on May 20, 2026, two days after the meeting. This may be a re-upload date; the first posting date is not shown.
+  Possible staff record issue: the Zone 32 Phase II presentation slides were filed with the meeting papers (per minutes); no slide deck was found in the packet (F1 has only the NEZ letters) or on CivicClerk.
+  All seven commissioners were present (per minutes). Mayor Anderson left at about 8:09 PM and returned at 8:14 PM; Vice Mayor Duncan chaired in between. Items H1, H2 and H4 passed 6-0 with the Mayor absent.
+  Agenda changes: G13, G14 and G16 moved to the regular agenda; G8 moved and then removed; H3 and K1 removed; a settlement agreement in Rashard Armstrong v. City of Kalamazoo added. In agenda-items.csv the moved items keep their printed numbers (G13, G14, G16) and the added settlement is listed as "Added". On video the Commission renumbered the regular items as it went (for example, H4 was called H3).
   Item F1 public hearing: no action was taken. On video, staff say the resolution will come back on June 15, 2026.
   Mattie Jordan-Woods does not say her name on video when she speaks on the social district item (G16). She is matched to the minutes by speaking order.
   The H1 purchase agreement attachment is the same appraisal as in the May 11, 2026 packet; the pages typed in by hand there were reused here (see packet/corrections.txt).

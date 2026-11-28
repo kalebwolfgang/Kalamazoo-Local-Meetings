@@ -25,8 +25,8 @@ Files in this folder:
   agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
 
 Notes:
+  Staff record issue: the Childcare Coalition slides were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk.
   Commissioner Praedel was absent at the start and excused; he arrived at 5:30 PM (per minutes).
   No one spoke during public comment (per minutes), so public-comment.csv and public-comment-topics.csv have headers only.
-  The Childcare Coalition slides were filed with the meeting papers but are not in the packet.
 
 Related meeting: 2026-05-11-business (7:00 PM, same day)

@@ -27,15 +27,18 @@ Files in this folder:
                   packet/corrections.txt lists pages whose text was typed in or fixed by hand
 
 Notes:
+  Staff record issue: item G8 in the minutes gives the date "September 31, 2026", which does not exist. It is kept as printed.
+  Possible staff record issue: CivicClerk lists the agenda packet as published on the day of the meeting. This may be a re-upload date; the first posting date is not shown.
+  Possible staff record issue: item F1: the minutes say Compliance Specialist Julie Johnston gave the presentation, but on video the Mayor introduces Community Development Manager Sharilyn Parsons. The tables follow the minutes.
+  Possible staff record issue: the minutes print consent item G6's document number as 2026-16-012, with three digits at the end where the others have two. agenda-items.csv uses 2026-16-12.
+  Possible staff record issue: the minutes use both "Kalamazoo Metal Recycling" and "Kalamazoo Metal Recyclers". Both are kept as printed.
+  Possible staff record issue: the F1 (PY 2026 Action Plan) slides were filed with the meeting papers (per minutes); no slide deck was found in the packet (it has only a two-page funding table) or on CivicClerk.
   All seven commissioners were present (per minutes).
   The meeting recessed from 8:54 PM to 9:06 PM, then held the public hearing on the PY 2026 HUD Action Plan (per minutes).
   The minutes group the general public comment speakers by topic, so their order differs from the video. public-comment.csv follows the video order.
   Jonathan Yarbrough is listed twice in the general public comment minutes (Flock support, and flooding and Northside Days) but spoke once. He has one row in public-comment.csv.
   Pastor Addis Moore's and Euan Simpson's names are not clear in the captions, and Morgan Zapata does not give a name on video. They are matched to the minutes by speaking order.
-  Item F1: the minutes say Compliance Specialist Julie Johnston gave the presentation, but on video the Mayor introduces Community Development Manager Sharilyn Parsons. The tables follow the minutes. Commissioners Praedel and Slaby and Mayor Anderson abstained, so the vote was 4-0 with 3 abstentions.
   Consent items G9 and G10: Commissioner Wilson abstained due to a conflict of interest (per minutes).
-  The minutes print consent item G6's document number as 2026-16-012. agenda-items.csv uses 2026-16-12.
   The KMEA collective bargaining agreement was approved after the closed session. It is listed in agenda-items.csv as N1a.
-  Names and wording are kept as the minutes print them, including "September 31, 2026" in item G8 and both "Kalamazoo Metal Recycling" and "Kalamazoo Metal Recyclers".
 
 Related meeting: 2026-04-20-committee-of-the-whole (5:00 PM, same day)

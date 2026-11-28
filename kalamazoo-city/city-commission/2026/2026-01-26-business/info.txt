@@ -28,8 +28,10 @@ Files in this folder:
                   packet/corrections.txt lists 9 map and picture pages whose text was typed in by hand
 
 Notes:
+  Staff record issue: the rezoning hearing presentation slides were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk.
+  Possible staff record issue: the minutes were approved on 2026-02-16, but CivicClerk lists them as published on 2026-04-28, along with every set of minutes from January 5 to April 6. This may be a re-upload date; the first posting date is not shown.
+  Possible staff record issue: some general public comment speakers said their names on video but are listed as anonymous in the minutes. The minutes are followed here.
+  Possible staff record issue: a transcript of the remarks by Mayor Anderson and the presenters was filed with the meeting papers (per minutes); no copy was found in the packet or on CivicClerk.
   The first caption line ("Y'all set? All set, colleagues. All right.") had no time in the copied transcript. It is shown at 0:08:52 but was said a few seconds earlier.
   YouTube's automatic chapter titles were removed from the transcript because they are not spoken words.
   The consent agenda was voted on before the public hearing, at the Mayor's request.
-  Some general public comment speakers said their names on video but are listed as anonymous in the minutes. The minutes are followed here.
-  The rezoning hearing presentation slides were filed with the meeting papers but are not in the packet.

@@ -25,7 +25,7 @@ Files in this folder:
 
 Notes:
   Staff record issue: no minutes are posted on CivicClerk (checked 2026-11-28), and no Business Meeting agenda from July 20 through November 16, 2026 has an item to approve them. The August 10 agenda approved the July 20 minutes and skipped these.
-  Staff record issue: CivicClerk lists the agenda packet as published on the day of the meeting (it may have been replaced that day; the first posting date is not shown).
+  Possible staff record issue: CivicClerk lists the agenda packet as published on the day of the meeting. This may be a re-upload date; the first posting date is not shown.
   No minutes have been posted, so attendance, votes, movers, public comment names and residency come from the video. Times, outcomes and votes should be checked against the minutes once they are posted.
   Commissioner Hoffman was absent and was excused by motion at the start (on video). All votes have six members present.
   Residency: "City resident" is used when a speaker said they live in the city or named a city neighborhood they live in (for example the Northside). For speakers who also appear in earlier 2026 minutes (Tina McClinton, Jeffrey Fry, Charlae Davis, Matt Griffith, Jeff Messer, Wendy Fields), names follow those minutes.

@@ -58,7 +58,11 @@ Work in a scratch folder (for example `/home/claude/w/DATE/TYPE/`) with `raw/` (
 
 ## Audit: mark every staff record issue
 
-Kaleb treats this collection as an audit of the city's records (decided Nov 28, 2026). Staff sometimes forget or miss things, so mark every one you find. Start the line with `Staff record issue:` so they can all be found with one search. Put it at the top of the Notes in `info.txt`, and also in the `notes` column of the agenda item it belongs to. In `meeting-list.csv` notes, say "Staff record issues are listed in info.txt." State what the record shows, with dates and where you checked. Do not guess why it happened.
+Kaleb treats this collection as an audit of the city's records (decided Nov 28, 2026). Staff sometimes forget or miss things, so mark every one you find.
+- Only call something wrong if you can prove it from the records (for example two packet pages are the same image, a date that does not exist, a section number the City Attorney corrected on video). Start that line with `Staff record issue:`.
+- If it only looks wrong (an address that does not seem to match, a caption that disagrees with the minutes, a publish date that may be a re-upload), start the line with `Possible staff record issue:` and say why it is only possible.
+- Put each one at the top of the Notes in `info.txt`, add it to the `notes` column of the agenda item it belongs to, and add a row to `audit.csv` (repo root: meeting_date, meeting, folder, item, status confirmed/possible, category, issue, evidence, checked_on). In `meeting-list.csv` notes, say "See info.txt and audit.csv for staff record issues."
+- State what the record shows, with dates and where you checked. Do not guess why it happened. Recheck anything that could have changed (posting status, publish dates) and update `checked_on`.
 
 Things to look for:
 - Minutes not posted on CivicClerk, or posted only as an unsigned DRAFT after the Commission approved them.
@@ -117,6 +121,6 @@ Things to look for:
 - Minutes not posted yet (checked 2026-11-28): Jul 6, Aug 10 (both), Aug 17 (both), Sep 8 (both), Sep 21 Business. None of these has been on a Business Meeting agenda for approval through Nov 16, 2026.
 - Jun 15 CoW minutes: never posted; the text comes from the July 6, 2026 packet (G19). Those pages are saved on `raw-inputs` as `inputs/2026-06-15-committee-of-the-whole/minutes-from-2026-07-06-packet.pdf`.
 - Posted only as unsigned DRAFTs even though approved: May 18 (both, approved Jun 1), Jun 1 and Jun 15 Business (approved Jul 6), Jul 20 (both, approved Aug 10).
-- Meetings processed before Nov 28, 2026 (January to May) were not checked for staff record issues the same way. Ask Kaleb before going back over them.
+- January to August 2026 were all audited on Nov 28, 2026. September 2026 on still needs it as each meeting is processed.
 - Mar 14, 2026 Planning Retreat: no minutes were ever posted. Video is on the Public Media Network channel. Names in it come from the video.
 - Before 2026: no meeting list yet. Check how far back CivicClerk goes and where older records live.

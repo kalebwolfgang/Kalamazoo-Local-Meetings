@@ -27,6 +27,7 @@ Files in this folder:
                   packet/corrections.txt lists pages whose text was typed in or fixed by hand
 
 Notes:
+  Possible staff record issue: the minutes were approved on 2026-03-16, but CivicClerk lists them as published on 2026-04-28, along with every set of minutes from January 5 to April 6. This may be a re-upload date; the first posting date is not shown.
   Commissioner Praedel was excused at the start and arrived at 5:02 PM (per minutes).
   The Commission went into closed session to discuss an attorney-client privileged communication and did not return to open session (per minutes). The closed session is listed in agenda-items.csv as CS.
   The presentation slides are in the packet (D1).
