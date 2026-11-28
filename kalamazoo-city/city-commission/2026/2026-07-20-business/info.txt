@@ -33,7 +33,7 @@ Notes:
   Possible staff record issue: the minutes spell one K1 speaker "Shone Espinoza" and the same name "Shona Espinoza" in general public comment. Each row keeps the spelling the minutes use there.
   All seven commissioners were present (per minutes).
   Agenda change: a settlement agreement in Dirk Adam v City of Kalamazoo was added to the regular agenda as H5. In agenda-items.csv it is listed as "Added", because it has no printed number.
-  Public comment: 26 general speakers, 2 on H3 and 7 on K1 (call-in public comments). Many spoke about Flock license plate cameras, a moratorium on data centers, the fence around Arcadia Creek Festival Place, and Northside safety.
+  Public comment: 26 general speakers, 2 on H3 and 7 on K1 (call-in public comments). Subjects raised by several speakers included Flock license plate cameras, a moratorium on data centers, the fence around Arcadia Creek Festival Place, and Northside safety.
   Jody Dozeman (general speaker 12) has no topic rows: she read her own writings about faith and a spaceship, and no city issue could be identified.
   Jonathan Yarbrough and Joe Williams do not say their names at the start of their general comments on video; they are matched to the minutes by speaking order. The speaker the minutes call "Thelma" is captioned "DOMA".
   K1 (call-in public comments) passed 7-0, directing staff to prepare options. L1 (data center moratorium) was a discussion with no vote; City Attorney Leal is to present on moratoria at the next Committee of the Whole.

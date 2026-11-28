@@ -31,7 +31,7 @@ Notes:
   Possible staff record issue: the minutes were approved on 2026-04-20, but CivicClerk lists them as published on 2026-04-28, along with every set of minutes from January 5 to April 6. This may be a re-upload date; the first posting date is not shown.
   Possible staff record issue: CivicClerk lists the agenda packet as published on April 23, 2026, 17 days after the meeting. This may be a re-upload date; the first posting date is not shown.
   Commissioner Hoffman was absent and excused (per minutes).
-  Item H3 (COPS Hiring Program Award) was removed from the agenda at City Manager Hankins's request when the agenda was adopted. Most general public comments were about this grant.
+  Item H3 (COPS Hiring Program Award) was removed from the agenda at City Manager Hankins's request when the agenda was adopted. The minutes list 30 of the 35 general public comment speakers as speaking about this grant.
   The minutes group the speakers by topic, so their order differs from the video. public-comment.csv follows the video order.
   Kimberly Bender's name is not clear in the captions, and Cathy Phason, Shona Espinoza and the two anonymous speakers do not give names on video. They are matched to the minutes by speaking order.
   The first anonymous speaker (order 17) has no topics tagged: they mostly thanked the Commission for removing the COPS grant. The minutes list them among those opposing the grant.

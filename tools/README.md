@@ -31,8 +31,8 @@ Each line in `needs-review.txt` is checked against the page image. Confirmed err
 Names in the minutes' roll call and staff list are compared with the roster. New people are added, `last_seen` is moved forward, and new misspellings found in the transcript are added.
 
 **6. Spreadsheets**
-- `agenda-items.csv` is written from the minutes (outcomes, votes, movers) and the transcript (times).
-- `public-comment.csv` is written from the minutes (names, residency, what they spoke about) and the transcript (start times).
+- `agenda-items.csv` is written from the minutes (outcomes, votes, movers) and the transcript (times). When no minutes have been posted, outcomes, votes and movers come from the video, and the notes say so.
+- `public-comment.csv` is written from the minutes (names, residency, what they spoke about) and the transcript (start times). When no minutes have been posted, names and residency come from the video, and `time_note` says where each name comes from.
 - `speaker_text.py` prints each speaker's full comment, so every topic they mention can be tagged in `public-comment-topics.csv` with an exact quote.
 - `finish_tables.py` then checks everything: every topic is in `topics.csv`, every quote appears word for word in the transcript, and all times, links, and categories are filled in. It stops with an error if anything fails.
 

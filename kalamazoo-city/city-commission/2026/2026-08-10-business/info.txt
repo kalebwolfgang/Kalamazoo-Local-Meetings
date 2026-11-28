@@ -31,8 +31,8 @@ Notes:
   No minutes have been posted, so attendance, votes, movers, public comment names and residency come from the video. Times, outcomes and votes should be checked against the minutes once they are posted.
   Commissioners Hoffman and Slaby were absent and were excused by motion at the start (on video). All votes have five members present.
   Residency: "City resident" is used when a speaker said they live in the city or named a city neighborhood they live in. For speakers who also appear in earlier 2026 minutes (Tina McClinton, Wendy Fields, Jeff Messer, Shona Espinoza), names follow those minutes.
-  Many speaker names were heard only in the captions and may be misspelled; each one is marked in time_note. Several speakers gave no name and are listed as "Unnamed speaker" with a short description.
-  Most of the 14 general public comment speakers spoke about homelessness and how police treat unhoused people, and about Flock license plate cameras.
+  6 of the 15 public comment rows use a name heard only in the captions, which may be misspelled; time_note says where each name comes from. 3 speakers gave no name and are listed as "Unnamed speaker" with a short description.
+  In general public comment (14 speakers), 7 were tagged Homelessness and 7 Policing (the tag used for Flock license plate cameras, among other things). Topic tags are AI-assigned.
   G7 (community carnival funding) was moved from the consent agenda at Vice Mayor Duncan's request and taken up after H2 as "H3".
   H2: the mover and seconder are not clear on video.
 
