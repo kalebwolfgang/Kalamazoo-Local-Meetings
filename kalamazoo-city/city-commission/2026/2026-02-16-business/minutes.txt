@@ -1,0 +1,159 @@
+# Kalamazoo City Commission, Business Meeting, February 16, 2026: Minutes
+# Official minutes, document CC-2026-07. Approved by the City Commission on 3/2/2026.
+# Source: scanned PDF. Text read by software, then checked by hand for names, numbers, and votes.
+# Margin headings from the original are shown in [brackets]. Page numbers match the original.
+
+--- page 29 ---
+
+A regular meeting of the Kalamazoo City Commission was held on Monday, February 16, 2026 at 7:00 p.m. in the City Commission Chambers at City Hall.
+
+[Roll Call]
+COMMISSIONERS PRESENT: Mayor David Anderson, Vice Mayor Drew Duncan, Jeanne Hess, Chris Praedel, Jacqueline Slaby, Alonzo Wilson
+COMMISSIONERS ABSENT: Stephanie Hoffman
+Also present were City Manager Malcolm Hankins, Assistant City Attorney Sarah Van Hyfte, and City Clerk Scott Borling.
+
+[Commissioner Excused]
+Commissioner Praedel, seconded by Commissioner Slaby, moved to excuse the absence of Commissioner Hoffman. With a voice vote the motion passed.
+
+[Invocation]
+The invocation, given by Chaplain Michael Kemple from Missional Chaplains, was followed by the Pledge of Allegiance.
+
+[Proclamations] [2026-07-01]
+Vice Mayor Duncan read a proclamation for NAACP Founder's Day. Wendy Fields, President of the Kalamazoo Metropolitan Branch of the NAACP, and other Branch members received the proclamation.
+
+[2026-07-02]
+Commissioner Hess read a proclamation recognizing the Black History Month 100th Anniversary. Representatives from the Interfaith Strategy for Advocacy and Action in the Community (ISAAC) received the proclamation.
+
+[Adoption of the Agenda]
+By unanimous consent the City Commission adopted its meeting agenda with the following change:
+    Commissioner Praedel requested that Item G-11, a resolution approving a contract with the Michigan Department of Transportation (MDOT) for infrastructure improvements on Winchell Avenue and Howard Street, be moved to the Regular Agenda.
+
+[Communications]
+City Manager Hankins announced future Imagine Kalamazoo 2035 (IK 2035) Design It! meetings.
+
+[Public Comments]
+Next, when an opportunity was given for general public comments, the following people addressed the City Commission:
+    Edward Nickerson, City resident, regarding tax breaks for homeowners and the City's electronics recycling program.
+    K, non-resident, regarding the activities of Immigration and Customs Enforcement (ICE) agents in Grand Rapids and the need for anti-ICE policies.
+    Rachel Viñales, non-resident, regarding her candidacy for Judge of the 8th District Court.
+
+--- page 30 ---
+
+[Public Comments (cont'd)]
+    Wendy Fields, President of the Kalamazoo Metropolitan Branch of the NAACP, regarding upcoming events and the lifetime membership fee.
+    Tina McClinton, City resident, regarding flooding and development in her neighborhood.
+    Sarah Kennedy, City resident and President of the Local Advisory Council at St. Augustine Cathedral School, regarding trespassing on the school campus and student security.
+    Margaret Wilson, City resident, expressed opposition to the proposed Safe Routes to School changes to the Howard Street crossing at Merrill Street.
+    Katie Platte, City resident, expressed concern about the safety of the Howard Street crossing at Merrill Street.
+    Steve Walsh, City resident, expressed concern about the safety of the Howard Street crossing at Merrill Street.
+    Chris Glasser, City resident, regarding unauthorized access to Flock surveillance camera data by state and federal agencies.
+    Courtney Smith-Wiersema, City resident, regarding the addition of a sidewalk on the south side of Winchell Avenue.
+    Shona Espinoza, City resident, regarding the need for sidewalks around Hillside Middle School and all schools.
+
+[Consent Agenda]
+Consent Agenda items were presented as follows with a recommendation to approve the items and authorize the City Manager to sign all related documents on behalf of the city:
+    2026-07-03: approval of a sole-source purchase with MiMotion for the rehabilitation of two Faulk gear drives for the primary clarifiers at the Water Reclamation Plant in the amount of $124,914.09.
+    2026-07-04: approval of a contract with Dewpoint for Rapid 7 Vulnerability management and Rapid7 Insight IDR cybersecurity software services through the MiDeal cooperative purchasing program in the amount of $147,322.
+    2026-07-05: approval of the purchase of three (3) Ford Utility Explorers from Gorno Ford through the MiDeal cooperative purchasing program in the amount of $149,994.
+    2026-07-06: approval of a one-year contract extension with Kronos to continue with the Human Resources Information System in the amount of $169,919.65.
+    2026-07-07: approval of a contract extension with Santiago Services for mowing and trimming of parks and greenspaces in the amount of $199,904.
+    2026-07-08: approval of a contract with A1 Asphalt for the 2026 Water Main Break Patch Repair project in the amount of $217,401.
+
+--- page 31 ---
+
+[Consent Agenda (cont'd)]
+    2026-07-09: approval of the purchase of four (4) Chevrolet Tahoes from Berger Chevrolet through the MiDeal cooperative purchasing program in the amount of $221,568.
+    2026-07-10: approval of the purchase of audio/visual equipment, integration services, and sound masking for the 150 East Crosstown Facility Renovation Project from Smart Homes & Smart Offices, Inc. through the MiDeal cooperative purchasing program in the amount of $371,094.78.
+    2026-07-11: approval of the lease replacement of 26 vehicles for Public Safety from Enterprise Fleet Management in the amount of $836,119.80 over 60 months.
+    2026-07-12: approval of a contract with SWT Excavating, Inc. for new water service installations in the amount of $894,519.90.
+    2026-07-13 (Resolution 26-10): adoption of a RESOLUTION approving an Act 381 Brownfield Plan for Peregrine Peninsula located at 111 Portage Street.
+    2026-07-14: acceptance of funds from the State of Michigan under Public Act 120 of 2024 for the purchase and upfitting of a patrol vehicle in the amount of $63,672.19.
+    2026-07-15: acceptance of a Risk Avoidance Program grant and a Certification and Accreditation grant from the Michigan Municipal Risk Management Association in the total amount of $193,775.
+    2026-07-16: approval and acceptance of a public utility easement with CD Arena, LLC for water main and storm sewer installed as part of the Kalamazoo Event Center Project.
+    2026-07-17: approval and acceptance of a snow melt system easement with CD Arena, LLC for private snow melt installed as part of the Kalamazoo Event Center Project.
+    2026-07-18: approval and acceptance of an air rights easement with CD Arena, LLC for a building overhang element installed as part of the Kalamazoo Event Center Project.
+    2026-07-19: approval of the minutes from the City Commission meetings on December 8 and December 15, 2025 and January 5, January 26, and February 2, 2026.
+
+Commissioner Slaby, seconded by Commissioner Hess, moved to approve the consent agenda requests and authorize the City Manager to sign all related documents on behalf of the City.
+
+With a roll call vote this motion passed 6-0.
+AYES: Commissioners Hess, Praedel, Slaby, Wilson*, Vice Mayor Duncan, Mayor Anderson
+NAYS: None
+*At the time of the vote, Commissioner Wilson abstained from voting on Items G-15, G-16, and G-17 (easement agreements between the City and CD Arena, LLC) due to conflict of interest because of his employer.
+
+--- page 32 ---
+
+[Regular Agenda]
+
+[2026-07-20: Contract Extension for Property and Casualty Insurance]
+City Manager Hankins introduced for consideration a one-year contract extension with the Michigan Municipal Risk Management Authority through Ibex Insurance Agency for property and casualty insurance annual premium, a deposit to the member retention fund, and approval of a budget amendment.
+
+Commissioner Questions: none
+Public Comments: none
+
+Commissioner Slaby, seconded by Commissioner Wilson, moved to approve a one-year contract extension with the Michigan Municipal Risk Management Authority through Ibex Insurance Agency for property and casualty insurance annual premium in an amount not to exceed $1,130,954 and a deposit to the member retention fund of $100,000; and approval of a budget amendment for the contract extension in the amount of $174,589.
+
+With a roll call vote this motion passed 6-0.
+AYES: Commissioners Hess, Praedel, Slaby, Wilson, Vice Mayor Duncan, Mayor Anderson
+NAYS: None
+
+[2026-07-21: Purchase of Water Meters]
+City Manager Hankins introduced for consideration a sole source purchase of Neptune Water Meters from Ferguson Waterworks.
+
+Commissioner Questions: none
+Public Comments: none
+
+Commissioner Slaby, seconded by Vice Mayor Duncan, moved to approve a sole source purchase with Ferguson Waterworks to provide Neptune Water Meters in the amount of $2,000,000.
+
+With a roll call vote this motion passed 6-0.
+AYES: Commissioners Hess, Praedel, Slaby, Wilson, Vice Mayor Duncan, Mayor Anderson
+NAYS: None
+
+[2026-07-22: Safe Routes to School Grant for Winchell Avenue and Howard Street Improvements]
+Public Services Director James Baker provided a brief overview of a Safe Routes to School Grant for improvements along Winchell Avenue and Howard Street. Director Baker explained it was necessary to move the crossing of Howard Street away from Merrill Street due to the inclusion of a pedestrian refuge island in the middle of Howard Street as part of the new crossing.
+
+Commissioner Questions:
+    Director Baker and City Planner Christina Anderson responded to Commissioner questions regarding the ability of the City to change the project design after grant approval, engagement with the community on the final
+
+--- page 33 ---
+
+[2026-07-22: Safe Routes to School Grant for Winchell Avenue and Howard Street Improvements (cont'd)]
+design and the format of that engagement, the impact of postponement on grant funding and the construction timeline, opportunities to separate the two projects (Howard Street and Winchell Avenue), the timing of the Howard Street crossing and lane reduction projects, other design elements (lighting, for example) that could increase safety at the Howard Street crossing, concerns about people attempting to cross Howard Street at the current location out of habit, and the process for after action reviews.
+
+Public Comments:
+    Rob McFadden, City resident, expressed support for the planned improvements on Winchell Avenue.
+    Stephanie Watkins, City resident and President of the Oakland Winchell Neighborhood Association, expressed support for the contract and associated improvements.
+    Margaret Wilson, City resident, expressed concern about the contingent nature of the City's plans for safety improvements to Howard Street.
+
+Commissioner Praedel, seconded by Commissioner Hess, moved to adopt a resolution approving MDOT Contract No. 25-5691 for Winchell Avenue and Howard Street infrastructure improvements through the Safe Routes to School Grant in the amount of $47,367.
+
+Prior to a vote on the motion, Director Baker reported the project to convert Howard Street from four lanes to three lanes was in the CIP budget for construction in 2028, with the design work planned for 2027.
+
+Discussion took place regarding the possibility of postponing action for the sake of community engagement.
+
+City Manager Hankins indicated staff would be able to review the feedback received, engage with residents on the project design, and bring the item back to the City Commission by March 16th.
+
+Commissioner Praedel withdrew his motion, and Commissioner Hess withdrew her support for the motion.
+
+[2026-07-23: City Manager's Report]
+City Manager Hankins highlighted items in the written City Manager's Report and reviewed community meetings he attended.
+
+[Commissioner Comments]
+Commissioner Slaby thanked Public Services staff for their work during the winter weather and reported she had been attending the IK 2035 Design It! meetings.
+
+Commissioner Hess thanked City Manager Hankins for being visible in the community. Commissioner Hess offered remarks on recent downtown events and the Lunar New Year.
+
+Commissioner Praedel expressed appreciation to City Manager Hankins for how he was relating to the community and for his reports during City Commission meetings.
+
+--- page 34 ---
+
+[Commissioner Comments (cont'd)]
+Vice Mayor Duncan thanked people who spoke during public comments and wished people a "Happy Black History Month."
+
+Mayor Anderson offered remarks on Arthur J. White, civility in public service, and the need to work together to build the community.
+
+[Adjournment]
+The meeting adjourned at 9:21 p.m.
+
+[signature] Scott A. Borling, City Clerk
+Approved by the City Commission on: 3/2/2026 (handwritten)

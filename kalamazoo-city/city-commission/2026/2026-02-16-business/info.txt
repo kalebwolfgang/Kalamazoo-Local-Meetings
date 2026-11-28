@@ -1,0 +1,35 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-02-16
+Scheduled start: 7:00 PM
+Called to order: 7:00 PM (per minutes)
+Adjourned: 9:21 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=rw9AiPNa12A
+Note: the meeting starts about 2 minutes and 33 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2555/files/agenda/4751
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2555/files/agenda/4755
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2555/files/agenda/4983
+Minutes document number: CC-2026-07
+Minutes approved: 2026-03-02
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 672 blocks, each sentence timestamped (1380 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (15 rows): 12 in general public comment, 3 in agenda item H3 (formerly G11, MDOT Safe Routes to School contract)
+  public-comment-topics.csv  one row per topic each speaker mentioned (45 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (24 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 21 agenda items and 42 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  Commissioner Hoffman was absent and excused (per minutes).
+  Consent item G11 (MDOT Safe Routes to School contract) was moved to the regular agenda and is listed here as H3. The motion on it was withdrawn, so no vote was taken.
+  Commissioner Wilson abstained on consent items G15, G16 and G17 (CD Arena easements) because of a conflict of interest with his employer (per minutes).
+  Tina McClinton does not say her name on video. She is matched to the minutes by speaking order.
+
+Related meeting: 2026-02-16-committee-of-the-whole (5:00 PM, same day)

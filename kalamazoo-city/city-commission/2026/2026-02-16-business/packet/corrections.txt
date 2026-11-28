@@ -1,0 +1,5 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The pages below had no text the software could read, so the words on them were typed in by hand.
+
+G12-peregrine-peninsula-brownfield-plan--04-peregrine-peninsula-llc-brownfield-plan-4938-9723.txt, packet page 95: section title page. Typed in by hand from the page image.

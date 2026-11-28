@@ -1,0 +1,73 @@
+# Agenda item G2: Approval of a contract with Dewpoint for Rapid 7 Vulnerability management and Rapid7 Insight IDR cybersecurity software services through the MiDeal cooperative purchasing program in the amount of $147,322.
+# Attachment: Agenda Report
+# Packet pages 7-8 of the Kalamazoo City Commission, Business Meeting, February 16, 2026 agenda packet. Full text, not summarized.
+
+--- packet page 7 ---
+
+                                                                                             Date:    2/16/2026
+                City Commission                                                                         Item: G.2.
+
+                Agenda Report
+                City of Kalamazoo
+
+TO:            Mayor Anderson, Vice Mayor Duncan, and City Commissioners
+
+FROM:          Malcolm Hankins, City Manager
+               Reviewed by: Tim Dubois, IT Director
+               Prepared by: John Hambright, IT Deputy Director
+
+DATE:          February 16, 2026
+
+SUBJECT:       Approval of a cooperative MIDEAL purchase with Dewpoint for Rapid 7
+               Vulnerability management and Rapid7 Insight IDR software services (Bid
+               Ref#00000-022.15)
+
+RECOMMENDATION:
+
+It is recommended that the City Commission approve a cooperative MIDEAL purchase for the
+annual renewal agreement with Rapid7 for Vulnerability Management and Insight Intrusion
+Detection and Response software services in the amount of $147,322.
+
+BACKGROUND:
+
+Rapid7's Vulnerability Management and IDR (Intrusion Detection and Response) solutions offer
+a comprehensive approach to cybersecurity for city infrastructure. By combining InsightVM for
+continuous vulnerability assessment and InsightIDR for real-time threat detection and response,
+cities can proactively identify security risks, detect potential breaches, and swiftly respond to
+cyber incidents, ensuring robust protection of critical municipal systems and data.
+
+STRATEGIC VISION ALIGNMENT:
+
+Strategic Goal Impact:
+Good Governance- Ensuring the City organization has the capacity and resources to effectively
+implement the community's Strategic Vision in a way that is sustainable over the long term.
+
+COMMUNITY ENGAGEMENT:
+
+Appropriate Depth of Engagement
+Inform (one-way conversation) – no feasible alternatives available due to legal/regulatory
+restrictions, standards and best practices, or resource limitations; the community will be made
+aware of the project.
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                               Page 7 of 206
+
+--- packet page 8 ---
+
+Commission Agenda Report
+Page 2
+
+FISCAL IMPACT:
+
+The funds required for this contract are $147,322. The funding available and estimated costs are
+detailed below. We are requesting the approval of this purchase using the funds below.
+
+Description                          Account                                 Project #      Dollar Amount
+IT Network and Security              101-229-00.000-815.000                                 $147,322
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                            Page 8 of 206
