@@ -1,0 +1,38 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-06-15
+Scheduled start: 7:00 PM
+Called to order: 7:00 PM (per minutes)
+Adjourned: 8:43 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=GtBl9smWUZI
+Note: the meeting starts about 2 minutes and 16 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2559/files/agenda/5164
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2559/files/agenda/5176
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2559/files/agenda/5218
+Minutes document number: CC-2026-24
+Minutes approved: not yet (the posted minutes are a DRAFT)
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 550 blocks, each sentence timestamped (1065 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (from the PDF's text layer, checked against the page images)
+  public-comment.csv  one row per public comment speaker (14 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (76 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (24 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 21 agenda items and 36 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  Mayor Anderson and Commissioner Hoffman were absent and were excused by voice vote (per minutes). Vice Mayor Duncan chaired. All votes were 5-0 with two members absent.
+  The posted minutes are a DRAFT: stamped DRAFT, not signed, and with no approval date. Check again later for the approved version.
+  Nine public comment speakers opposed a proposed data center in the Milwood Neighborhood (speakers describe the Harbor Farms building on what the captions call "full circle drive"). Vice Mayor Duncan read a statement on data centers before public comment (row D).
+  Jeffrey Fry and Thelma spoke together in one turn and are one row, as in the minutes. Jeffrey Fry came back briefly at about 1:00:20 to show a picture; the Vice Mayor reminded him each person speaks once. That return is not a separate row and is not in the minutes.
+  Tina McClinton spoke once but is listed twice in the minutes (with the data center speakers and on her other topics). She has one row.
+  The speaker the minutes call "David Newton" says "David Knutson" on video. The minutes' spelling is used.
+  The minutes give Steve Vicenzi's title as "Management Services Director and Chief Operating Officer"; earlier minutes call him Chief Financial Officer.
+
+Related meeting: 2026-06-15-committee-of-the-whole (5:00 PM, same day)

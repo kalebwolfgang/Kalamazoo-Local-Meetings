@@ -1,0 +1,34 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Committee of the Whole
+Date: 2026-06-15
+Scheduled start: 5:00 PM
+Called to order: not recorded (minutes not posted yet)
+Adjourned: not recorded (minutes not posted yet)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=j-UI3A-0gmY
+Note: the meeting starts about 2 minutes and 55 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2572/files/agenda/5155
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2572/files/agenda/5159
+Minutes: not posted on CivicClerk yet (checked 2026-11-28). Add them when they are posted.
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 480 blocks, each sentence timestamped (869 timestamps)
+  agenda.txt      full agenda text
+  public-comment.csv  one row per public comment speaker (3 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (11 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (2 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 1 agenda items and 1 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  No minutes have been posted, so attendance, public comment names and residency come from the video. Residency is "City resident" only when the speaker said they live in the city.
+  On video, Mayor Anderson and Commissioner Hoffman were absent and were excused by motion; Vice Mayor Duncan chaired.
+  All three public comment speakers spoke against a proposed data center in the Milwood neighborhood.
+  Sarah P. gives only her first name and last initial on video.
+  F1 was presented by Development Manager Jamie McCarthy and Logan Mulholland of Fishbeck (the Brownfield Redevelopment Authority consultant); the Zone 32 slides are in the packet. F2 was presented by city staff and Public Services Director James Baker and had no slides in the packet.
+  No commissioner comments were made.
+
+Related meeting: 2026-06-15-business (7:00 PM, same day)

@@ -6,16 +6,15 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 
 ## Summary
 
-- Done: 20
-- Done, waiting on minutes: 1
-- Not started: 13
+- Done: 21
+- Done, waiting on minutes: 2
+- Not started: 11
 - Cancelled: 2
 
 ## Still needed
 
 - 2026-03-14 Planning Retreat: add minutes once the city posts them
-- 2026-06-15 Committee of the Whole: not started (Minutes not posted on CivicClerk yet (checked 2026-11-27))
-- 2026-06-15 Business Meeting: not started
+- 2026-06-15 Committee of the Whole: add minutes once the city posts them
 - 2026-07-06 Business Meeting: not started (Minutes not posted on CivicClerk yet (checked 2026-11-27))
 - 2026-07-20 Committee of the Whole: not started
 - 2026-07-20 Business Meeting: not started
@@ -54,8 +53,8 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 | 2026-05-18 | Business Meeting | Done | yes | yes | yes | yes | yes | yes | Minutes posted only as an unsigned DRAFT (checked 2026-11-27) |
 | 2026-06-01 | Committee of the Whole | Cancelled | n/a | n/a | n/a | n/a | n/a | n/a | Cancelled (per CivicClerk) |
 | 2026-06-01 | Business Meeting | Done | yes | yes | yes | yes | yes | yes | Minutes posted only as an unsigned DRAFT (checked 2026-11-28) |
-| 2026-06-15 | Committee of the Whole | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** | Minutes not posted on CivicClerk yet (checked 2026-11-27) |
-| 2026-06-15 | Business Meeting | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
+| 2026-06-15 | Committee of the Whole | Done, waiting on minutes | yes | yes | yes | not posted yet | yes | yes | Minutes not posted on CivicClerk yet (checked 2026-11-28) |
+| 2026-06-15 | Business Meeting | Done | yes | yes | yes | yes | yes | yes | Minutes posted only as an unsigned DRAFT (checked 2026-11-28) |
 | 2026-07-06 | Committee of the Whole | Cancelled | n/a | n/a | n/a | n/a | n/a | n/a | Cancelled (per CivicClerk) |
 | 2026-07-06 | Business Meeting | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** | Minutes not posted on CivicClerk yet (checked 2026-11-27) |
 | 2026-07-20 | Committee of the Whole | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |

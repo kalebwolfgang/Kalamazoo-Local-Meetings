@@ -1,0 +1,71 @@
+# Agenda item G6: Approval of a one-year license renewal for DarkTrace cybersecurity software from SHI International through the MiDeal Cooperative Purchase Program in the amount of $169,169.75.
+# Attachment: Agenda Report
+# Packet pages 16-17 of the June 15, 2026 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 16 ---
+
+                                                                                             Date:    6/15/2026
+                City Commission                                                                         Item: G.6.
+
+                Agenda Report
+                City of Kalamazoo
+
+TO:            Mayor Anderson, Vice Mayor Duncan, and City Commissioners
+
+FROM:          Malcolm Hankins, City Manager
+               Reviewed by: Tim Dubois, IT Director
+               Prepared by: John Hambright, IT Deputy Director
+
+DATE:          June 15, 2026
+
+SUBJECT:       Approval of a cooperative purchase for the one-year renewal of DarkTrace
+               Licensing from SHI International (Bid Ref# 000-00-017.25)
+
+RECOMMENDATION:
+
+It is recommended that the City Commission approve the 1-year cooperative purchase of
+DarkTrace Licensing from SHI International in the amount of $169,169.75.
+
+BACKGROUND:
+
+Darktrace is a software provider that detects and responds to cybersecurity threats. By enabling
+both detect and respond features, the City of Kalamazoo will not only have visibility into our
+digital infrastructure, but also the machine learning ability to respond to anomalies or deviations
+from the baseline normal behaviors.
+
+STRATEGIC VISION ALIGNMENT:
+
+Strategic Goal Impact:
+Good Governance- Ensuring the City organization has the capacity and resources to effectively
+implement the community's Strategic Vision in a way that is sustainable over the long term.
+
+COMMUNITY ENGAGEMENT:
+
+Appropriate Depth of Engagement
+Inform (one-way conversation) – no feasible alternatives available due to legal/regulatory
+restrictions, standards and best practices, or resource limitations; the community will be made
+aware of the project.
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                              Page 16 of 156
+
+--- packet page 17 ---
+
+Commission Agenda Report
+Page 2
+
+FISCAL IMPACT:
+
+The funds required for this contract/project/equipment purchase are $169,169.75. The funding
+available and estimated costs are detailed below. We are requesting the approval of this
+purchase using the funds below.
+
+Description                          Account                                 Project #      Dollar Amount
+IT Network and Security              101-229-00.000-815.000                                 $169,169.75
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                            Page 17 of 156

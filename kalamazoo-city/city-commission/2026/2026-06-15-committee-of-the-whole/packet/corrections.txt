@@ -1,0 +1,8 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The pages below had no usable text from the software, or text that left out what the picture shows, so the words on them were typed in by hand from the page images.
+
+F01-zone-32-incentive-briefing--01-zone-32-briefing-presentation-slides.txt, packet page 7: location map and aerial photo. Labels typed in by hand.
+F01-zone-32-incentive-briefing--01-zone-32-briefing-presentation-slides.txt, packet page 8: project slide with a building rendering. Text typed in by hand.
+F01-zone-32-incentive-briefing--01-zone-32-briefing-presentation-slides.txt, packet page 9: the housing need table on this slide is a picture; its numbers were typed in by hand.
+F01-zone-32-incentive-briefing--01-zone-32-briefing-presentation-slides.txt, packet page 13: closing "Questions?" slide. Text typed in by hand.

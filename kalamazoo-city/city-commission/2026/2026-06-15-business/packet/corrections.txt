@@ -1,0 +1,8 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The pages below had no usable text from the software, so the words on them were typed in by hand from the page images.
+
+G13-zone-32-brownfield-plan--04-zone-32-phase-ii-brownfield-plan-4901-1057-8349-1.txt, packet page 80: site layout plan drawing. Labels, legends, zoning requirements and title block typed in by hand; dimensions and bearings were not typed.
+G13-zone-32-brownfield-plan--04-zone-32-phase-ii-brownfield-plan-4901-1057-8349-1.txt, packet page 86: section divider page from the housing plan (image only). Its words typed in by hand.
+
+# Not typed in: the scanned Housing Development Fund loan agreement (G14, packet pages 94 to 118) is a text document read by software. Signature blocks, stamps and handwriting may read as garbled text.
