@@ -1,0 +1,41 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2025-11-17
+Scheduled start: 7:00 PM
+Called to order: 7:02 PM (per minutes)
+Adjourned: 8:44 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=YYPJG-u17po
+Note: the meeting starts about 4 minutes and 10 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/1311/files/agenda/4439
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/1311/files/agenda/4448
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/1311/files/agenda/4611
+Minutes document number: CC-2025-49
+Minutes approved: 2025-12-01 (consent item G25 at the December 1, 2025 Business Meeting, per the December 1 minutes); the posted copy is not signed
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 251 blocks, each sentence timestamped (677 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (15 rows): 14 in general public comment, 1 in agenda item H1 (winter shelter agreement)
+  public-comment-topics.csv  one row per topic each speaker mentioned (25 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (17 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 12 agenda items and 23 attachments; see packet/index.csv
+
+Notes:
+  Staff record issue: the Commission approved these minutes on 2025-12-01 (consent item G25 at the December 1, 2025 Business Meeting, per the December 1 minutes), but the copy posted on CivicClerk is not signed and has a blank approval date (checked 2026-11-28).
+  Staff record issue: the minutes say Iris Potter supported "the City purchasing 3401 Stadium Drive". On video she speaks about 4301 Stadium Drive, the property in the Lassiter resolution (I2) that the minutes elsewhere call 4301 Stadium Drive.
+  Possible staff record issue: the minutes list the eighth general public comment speaker as "Jan, a City resident"; on video the speaker says "My name is Shannon Dono" (captions). Captions can mishear names, so this is only possible. The minutes are followed.
+  Possible staff record issue: CivicClerk lists the agenda packet as published on 2025-11-17, the day of the meeting (the agenda was published 2025-11-14). This may be a re-upload date; the first posting date is not shown.
+  All seven commissioners of the newly seated 56th Commission were present (per minutes). Chief Operating Officer Laura Lam attended in place of a City Manager; H2 approved Patsy Moore's interim City Manager agreement.
+  The agenda lists Pastor William Boekestein for the invocation; the minutes say it was given by Pastoral Intern Joel Haan of the same church.
+  G8 (sale of 459 N. Rose Street) was postponed to December 1, 2025 as part of the consent motion.
+  I2: the City Clerk's report of the Lassiter resolution on 4301 Stadium Drive was given before public comment on video.
+  Public comment (per minutes): 14 people in general public comment and 1 on H1. The first speaker is a city resident named Drew Duncan, not Vice Mayor Duncan.
+  The meeting ended with a closed session (N1); the Commission did not return to open session.
+  YouTube titles both November 17, 2025 videos "Kalamazoo City Commission"; this video (7:00 PM meeting) was matched by its content.
+
+Related meeting: 2025-11-17-oath-of-office (5:00 PM, same day)

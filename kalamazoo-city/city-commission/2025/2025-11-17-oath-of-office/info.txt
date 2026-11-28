@@ -1,0 +1,36 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting and Oath of Office Ceremony
+Date: 2025-11-17
+Scheduled start: 5:00 PM
+Called to order: 5:04 PM (per minutes)
+Adjourned: 6:17 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=YwIuYEeYNdM
+Note: the meeting starts about 4 minutes and 11 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/1283/files/agenda/4435
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/1283/files/agenda/4436
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/1283/files/agenda/4610
+Minutes document number: CC-2025-48
+Minutes approved: 2026-01-05 (consent item G10 at the January 5, 2026 Business Meeting, per the January 5 minutes); the posted copy is still the unsigned DRAFT
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 171 blocks, each sentence timestamped (393 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (3 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (7 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (5 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 2 agenda items and 7 attachments; see packet/index.csv
+
+Notes:
+  Staff record issue: the Commission approved these minutes on 2026-01-05 (consent item G10 at the January 5, 2026 Business Meeting, per the January 5 minutes), but the copy posted on CivicClerk is still the unsigned DRAFT with a blank approval date (checked 2026-11-28).
+  This was the last meeting of the 55th City Commission and the first of the 56th. 55th Commission present: Mayor Anderson, Vice Mayor Hess, Commissioners Cooney, Decker, Hoffman, Praedel and Wilson, with City Manager Jim Ritsema. After the oath of office, the 56th Commission (Mayor Anderson, Vice Mayor Duncan, Commissioners Hess, Hoffman, Praedel, Slaby and Wilson) met with Chief Operating Officer Laura Lam (per minutes).
+  The minutes of October 6, 15, 20 and 30, 2025 were approved by voice vote (B1); copies are in this packet (pages 4-31).
+  The Mayor adjourned the 55th Commission sine die at 5:50 p.m. The 56th Commission was called to order at 6:02 p.m. and adjourned at 6:17 p.m. (per minutes).
+  Three people spoke during public comment (per minutes). K does not say a name on video.
+  YouTube titles both November 17, 2025 videos "Kalamazoo City Commission"; this video (5:00 PM meeting) was matched by its content.
+
+Related meeting: 2025-11-17-business (7:00 PM, same day)
