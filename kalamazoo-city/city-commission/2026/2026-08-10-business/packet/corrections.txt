@@ -1,0 +1,12 @@
+# Hand corrections to software-read pages in this packet
+# The pages below had no usable text from the software, so the words on them were typed in by hand from the page images.
+
+G03-mdot-portage-vine--02-00000-026-84-cc-packet-mdot-portage-vine-intersect.txt, packet page 20: cost table (Exhibit A, Grand Elk @ Kalamazoo) printed sideways. Typed in by hand; the labor, equipment and material totals and the $39,513.25 project total were checked and add up.
+G05-streetlight-825-porter--02-form-547-install-825-porter-st-kzo-002.txt, packet page 36: Consumers Energy work drawing. Notes, labels and title block typed in by hand. The title block on this drawing names 702 N Burdick St, not 825 Porter; it is typed in as printed.
+G10-comcast-easement-water-st--04-25-03-03-easement-modification.txt, packet page 62: Comcast easement location survey drawing. Labels, legend, notes and title block typed in by hand.
+G11-wmu-valley-oaks-easement--02-00000-026-82-cc-packet-wmu-valley-oaks-easement.txt, packet page 71: water main easement survey drawing. Bearings, distances, corner notes and title block typed in by hand.
+G12-wmu-hilltop-easement--02-00000-026-81-cc-packet-wmu-hilltop-village-loop-ro.txt, packet pages 81 and 83: water main easement survey drawings. Labels, bearings, distances and title blocks typed in by hand.
+G14-cork-st-easements--02-00000-026-83-cc-packet-cork-st-easements.txt, packet pages 97, 102, 107, 112, 117 and 122: Exhibit A easement sketches for the six Cork Street easements. Labels, easement descriptions and title blocks typed in by hand.
+
+# Not typed in: the other scanned pages (the MDOT contract, the Comcast and WMU easement agreements and their written legal descriptions, the Cork Street easement agreements and donation forms, and the 1517 South Park Street buy/sell agreement) are text documents read by software. Signature blocks, stamps and handwriting may read as garbled text. Packet page 82 (WMU Hilltop easement detail sheet 2) is mostly a written description that the software read; the drawing labels on it may be garbled.
+# Packet pages 52 and 53 are blank "APPENDIX B" pages in the Comensoli's MOU with no other text.

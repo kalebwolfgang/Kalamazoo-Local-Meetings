@@ -1,0 +1,35 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-08-10
+Scheduled start: 7:00 PM
+Called to order: not recorded (minutes not posted yet)
+Adjourned: not recorded (minutes not posted yet)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=5X6MAHRAoXo
+Note: the meeting starts about 5 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2537/files/agenda/5281
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2537/files/agenda/5290
+Minutes: not posted on CivicClerk yet (checked 2026-11-28). Add them when they are posted.
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 565 blocks, each sentence timestamped (1124 timestamps)
+  agenda.txt      full agenda text
+  public-comment.csv  one row per public comment speaker (15 rows): 14 in general public comment, 1 in agenda item H2 (healthcare charter amendment ballot)
+  public-comment-topics.csv  one row per topic each speaker mentioned (55 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (20 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 19 agenda items and 35 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  No minutes have been posted, so attendance, votes, movers, public comment names and residency come from the video. Times, outcomes and votes should be checked against the minutes once they are posted.
+  Commissioners Hoffman and Slaby were absent and were excused by motion at the start (on video). All votes have five members present.
+  Residency: "City resident" is used when a speaker said they live in the city or named a city neighborhood they live in. For speakers who also appear in earlier 2026 minutes (Tina McClinton, Wendy Fields, Jeff Messer, Shona Espinoza), names follow those minutes.
+  Many speaker names were heard only in the captions and may be misspelled; each one is marked in time_note. Several speakers gave no name and are listed as "Unnamed speaker" with a short description.
+  Most of the 14 general public comment speakers spoke about homelessness and how police treat unhoused people, and about Flock license plate cameras.
+  G7 (community carnival funding) was moved from the consent agenda at Vice Mayor Duncan's request and taken up after H2 as "H3".
+  H2: the mover and seconder are not clear on video.
+
+Related meeting: 2026-08-10-committee-of-the-whole (5:00 PM, same day)

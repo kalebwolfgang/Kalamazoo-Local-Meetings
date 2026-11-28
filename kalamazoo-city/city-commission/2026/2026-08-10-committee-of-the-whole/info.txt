@@ -1,0 +1,31 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Committee of the Whole
+Date: 2026-08-10
+Scheduled start: 5:00 PM
+Called to order: not recorded (minutes not posted yet)
+Adjourned: not recorded (minutes not posted yet)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=L8Yx9UEdT0M
+Note: the meeting starts about 25 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2549/files/agenda/5283
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2549/files/agenda/5284 (same as the agenda, no attachments; not stored separately)
+Minutes: not posted on CivicClerk yet (checked 2026-11-28). Add them when they are posted.
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 404 blocks, each sentence timestamped (911 timestamps)
+  agenda.txt      full agenda text
+  public-comment.csv  one row per public comment speaker (5 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (14 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (2 rows): outcome, vote, mover, video times, minutes page, packet pages
+
+Notes:
+  No minutes have been posted, so attendance, public comment names and residency come from the video.
+  On video, Commissioners Hoffman, Praedel and Slaby were excused by motion at the start (Commissioner Praedel was said to be in the building). Mayor Anderson chaired.
+  The CoW agenda packet is the agenda only, so there is no packet folder.
+  All five public comment speakers spoke about data centers or a ballot proposal: the owner of the Full Circle Drive building and his consultant spoke in favor of turning it into a small AI data center, one supported a two-year moratorium, one spoke for Michigan for Responsible Data Centers, and one supported the Community Action Michigan healthcare ballot proposal. A brief remark from the audience at about 0:07:13 is not counted as a speaker.
+  E2: after the City Attorney's presentation, commissioners agreed to have a short-term moratorium resolution drafted for the August 17, 2026 meeting, alongside the longer zoning ordinance moratorium process.
+
+Related meeting: 2026-08-10-business (7:00 PM, same day)
