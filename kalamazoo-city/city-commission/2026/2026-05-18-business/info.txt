@@ -1,0 +1,39 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-05-18
+Scheduled start: 7:00 PM
+Called to order: 7:03 PM (per minutes)
+Adjourned: 8:51 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=Q2ZrtRiZzbI
+Note: the meeting starts about 3 minutes and 35 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2558/files/agenda/5057
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2558/files/agenda/5076
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2558/files/agenda/5091
+Minutes document number: CC-2026-20
+Minutes approved: not yet (the posted minutes are a DRAFT)
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 573 blocks, each sentence timestamped (1133 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (11 rows): 7 in general public comment, 2 in public hearing F1 (Zone 32 NEZ district), 2 in agenda item G16 (Northside social district, moved to regular agenda)
+  public-comment-topics.csv  one row per topic each speaker mentioned (34 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (30 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 26 agenda items and 45 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  All seven commissioners were present (per minutes). Mayor Anderson left at about 8:09 PM and returned at 8:14 PM; Vice Mayor Duncan chaired in between. Items H1, H2 and H4 passed 6-0 with the Mayor absent.
+  The posted minutes are a DRAFT: stamped DRAFT, not signed, and with no approval date. Check again later for the approved version.
+  Agenda changes: G13, G14 and G16 moved to the regular agenda; G8 moved and then removed; H3 and K1 removed; a settlement agreement in Rashard Armstrong v. City of Kalamazoo added. In agenda-items.csv the moved items keep their printed numbers (G13, G14, G16) and the added settlement is listed as "Added". On video the Commission renumbered the regular items as it went (for example, H4 was called H3).
+  The settlement vote: the minutes list all seven commissioners as AYES but print no "passed" line and no document number.
+  The minutes print document numbers 2026-20-03 and 2026-20-04 beside the removal of K1 and H3 but do not say which number goes with which item, so neither row has one.
+  Item F1 public hearing: no action was taken. On video, staff say the resolution will come back on June 15, 2026.
+  Mattie Jordan-Woods does not say her name on video when she speaks on the social district item (G16). She is matched to the minutes by speaking order.
+  The H1 purchase agreement attachment is the same appraisal as in the May 11, 2026 packet; the pages typed in by hand there were reused here (see packet/corrections.txt).
+
+Related meeting: 2026-05-18-committee-of-the-whole (5:00 PM, same day)

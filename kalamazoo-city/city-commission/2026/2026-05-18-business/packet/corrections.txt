@@ -1,0 +1,10 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The pages below had no usable text from the software, so the words on them were typed in by hand from the page images.
+
+G13-streetlights-825-porter--03-00000-026-54-cc-packet-consumers-energy-change-in.txt, packet page 84: Consumers Energy work-order drawing. General notes, labels and title block typed in by hand; the pole-by-pole equipment codes were not typed.
+G14-streetlights-440-n-church--03-00000-026-54-cc-packet-consumers-energy-change-in.txt, packet page 92: Consumers Energy work-order drawing. General notes, labels and title block typed in by hand; the pole-by-pole equipment codes were not typed.
+G16-ncbd-social-district--04-ncbda-social-district-map-and-management-maintenan.txt, packet page 102: Social District map. Labels typed in by hand.
+H01-french-parcel-purchase--02-00000-026-47-cc-packet-purchase-of-parcel-no-07-27.txt, packet pages 141, 143, 144, 149, 150, 164, 171, 172, 173: maps, photos and flood map in the appraisal. This is the same appraisal that was in the May 11, 2026 packet (pages 81 to 113 there); the typed-in text from that packet was reused, after checking the pages match.
+
+# Not typed in: the other scanned pages (NEZ letters, MDOT contract, Consumers Energy forms, liquor form, NCBDA resolution, employment agreement extract, KRESA agreement, appraisal text) are text documents read by software. Signature blocks and stamps may read as garbled text.

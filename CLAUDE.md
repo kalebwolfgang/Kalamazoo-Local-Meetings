@@ -81,7 +81,8 @@ Work in a scratch folder (for example `/home/claude/w/DATE/TYPE/`) with `raw/` (
 ## Open items
 
 - Sep 8, 2026 Business Meeting packet is over 100 MB.
-- May 18, 2026 Committee of the Whole: no packet.pdf on the `raw-inputs` branch. Check whether CivicClerk has one before processing that date.
+- May 18, 2026: both sets of minutes were posted only as unsigned DRAFTs. Replace minutes.txt and the approval date when the approved version is posted. (The CoW had no packet because the whole meeting was a closed session.)
+- Minutes stamped DRAFT: process them, say so in the minutes.txt header, info.txt and meeting-list.csv notes, and write "not yet (the posted minutes are a DRAFT)" for the approval date.
 - Minutes not posted yet (as of 2026-11-27): Jun 15 CoW, Jul 6, Aug 10 (both), Aug 17 (both), Sep 8 (both), Sep 21 Business.
 - Mar 14, 2026 Planning Retreat: no minutes were ever posted. Video is on the Public Media Network channel. Names in it come from the video.
 - Before 2026: no meeting list yet. Check how far back CivicClerk goes and where older records live.
