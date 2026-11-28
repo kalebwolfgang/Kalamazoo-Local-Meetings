@@ -124,10 +124,16 @@ Things to look for:
 - Many 2025 minutes were approved at early 2026 meetings; find the approval date in the 2026 `agenda-items.csv` files ("Approval of the minutes").
 - Minutes PDFs from late 2025 have a text layer. `tools/min2txt.py minutes.pdf` drafts minutes.txt with paragraphs joined and margin headings in [brackets]. Check it against the page images: it sometimes joins two speakers or a "Commissioner Questions:" line into the paragraph before.
 - Map pages: typing the title, legend and main place names is enough; say in the page note that small labels and sources are not typed in.
+- Big packets: the raw-inputs download job now splits any PDF over 95 MB into parts with qpdf (`packet-part1-pages-1-268.pdf` and so on). Join the parts before splitting by bookmarks, and say in info.txt that the packet came in parts.
+- A meeting can run over two days with two videos (Oct 15, 2025 continued Oct 17). Keep it as one folder, list both videos in info.txt, and note the second video in meeting-list.csv.
+- Some 2025 minutes reuse page numbers from other meetings (Oct 6 and Oct 20, 2025). Log it as a possible staff record issue for each meeting.
+- If a proclamation bookmark points at agenda page 1, `split_packet.py` treats the agenda pages as its attachment. Delete that file and make the first index.csv row the usual "Agenda (pages 1-N)" row.
+- Appraisals and similar scanned reports: the software misses photo captions and loses table columns. Type in the captions and maps, and type tables as rows with `|` between columns (blank cells as -).
 
 ## Open items
 
-- Sep 8, 2026 Business Meeting packet is over 100 MB.
+- Sep 8, 2026 Business Meeting packet is over 100 MB. The download job now saves it in two parts on raw-inputs (pages 1-268 and 269-536); it still needs processing.
+- Oct 20, 2025 Business: the appraisal attached to H2 (packet pages 297-366) is the same as the Oct 6 G20 appraisal, but its photo captions, maps and zoning table were not typed in. The Oct 6 typed pages could be copied over (page numbers are 232 higher).
 - May 18, 2026: both sets of minutes were posted only as unsigned DRAFTs. Replace minutes.txt and the approval date when the approved version is posted. (The CoW had no packet because the whole meeting was a closed session.)
 - Minutes stamped DRAFT: process them and say so in the minutes.txt header, info.txt and meeting-list.csv notes. If a later meeting approved them, the approval date is that meeting's date and the posted DRAFT is a staff record issue; otherwise write "not yet (the posted minutes are a DRAFT)".
 - Minutes not posted yet (checked 2026-11-28): Jul 6, Aug 10 (both), Aug 17 (both), Sep 8 (both), Sep 21 Business. None of these has been on a Business Meeting agenda for approval through Nov 16, 2026.
