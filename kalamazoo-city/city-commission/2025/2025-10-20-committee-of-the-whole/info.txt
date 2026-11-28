@@ -1,0 +1,36 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Committee of the Whole
+Date: 2025-10-20
+Scheduled start: 5:00 PM
+Called to order: 5:05 PM (per minutes)
+Adjourned: 5:51 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=-dftdZgvgy0
+Note: the meeting starts about 6 minutes and 28 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/1306/files/agenda/4382
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/1306/files/agenda/4383 (same as the agenda, no attachments; not stored separately)
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/1306/files/agenda/4401
+Minutes document number: CC-2025-45
+Minutes approved: 2025-11-17 (item B1 at the November 17, 2025 5:00 PM meeting, voice vote, per the November 17 minutes); the posted copy is not signed
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 106 blocks, each sentence timestamped (279 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (18 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (26 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
+
+Notes:
+  Staff record issue: the Commission approved these minutes on 2025-11-17 (item B1 at the November 17, 2025 5:00 PM meeting, voice vote, per the November 17 minutes), but the copy posted on CivicClerk is not signed and has a blank approval date (checked 2026-11-28).
+  Possible staff record issue: the minutes spell one speaker's name "Jess Thompon"; on video she says "My name is Jess Thompson" (captions). This looks like a typo but is only possible, because captions can be wrong. The minutes spelling is kept.
+  All seven commissioners of the 55th Commission were present, with City Manager Jim Ritsema (per minutes).
+  The work session (F1) was the Commission's review of community input on the three City Manager candidates, ahead of the selection at the 7:00 p.m. Business Meeting. No action was taken.
+  Public comment (per minutes): 18 entries. 8 supported Malcolm Hankins and 3 supported Laura Lam (as the minutes group them); the rest spoke about the search process, other issues, and traffic safety in the Stuart neighborhood. On video the Mayor allowed three minutes per speaker instead of the usual two.
+  Dick Shilts's email was read aloud by Charlae Davis and Cathy Phason; it has its own row.
+  The agenda packet is the agenda with page footers only, so it is not stored separately. Page 2 of the agenda is a notice about the City Manager search survey.
+
+Related meeting: 2025-10-20-business (7:00 PM, same day)

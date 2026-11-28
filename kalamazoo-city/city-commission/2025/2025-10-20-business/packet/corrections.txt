@@ -1,0 +1,7 @@
+# Hand corrections to software-read pages in this packet
+# The agenda packet (96 MB) was too large to download in one piece, so it was downloaded in two parts (pages 1-214 and 215-427) and joined again before splitting. The page numbers match the original packet.
+# No budget tables in this packet needed checking against totals.
+
+H01-west-gateway-plan--02-cc-presentation-nd-west-end-plan-10-20-2025.txt, packet page 170: aerial illustration with no words; marked as a picture page.
+H01-west-gateway-plan--04-20250806-dean-s-charrette-7-kalamazoo-report-reduc.txt, packet page 184: aerial illustration with no words; marked as a picture page.
+# Not typed in: the small callout labels on the urban design drawings (packet pages 164, 165, 167 and 171). Their text layer holds the page titles and some labels only.

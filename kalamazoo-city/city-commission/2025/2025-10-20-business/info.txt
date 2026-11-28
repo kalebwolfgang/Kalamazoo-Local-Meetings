@@ -1,0 +1,40 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2025-10-20
+Scheduled start: 7:00 PM
+Called to order: 7:00 PM (per minutes)
+Adjourned: 10:51 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=6Us9dwCFNV4
+Note: the meeting starts at the very beginning of the video (the video starts as the meeting is called to order).
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/1282/files/agenda/4388
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/1282/files/agenda/4389
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/1282/files/agenda/4398
+Minutes document number: CC-2025-46
+Minutes approved: 2025-11-17 (item B1 at the November 17, 2025 5:00 PM meeting, voice vote, per the November 17 minutes); the posted copy is not signed
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 567 blocks, each sentence timestamped (1338 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (21 rows): 20 in general public comment, 1 in public hearing F1 (2025 Action Plan Substantial Amendment)
+  public-comment-topics.csv  one row per topic each speaker mentioned (36 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (48 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 42 agenda items and 61 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  Staff record issue: the Commission approved these minutes on 2025-11-17 (item B1 at the November 17, 2025 5:00 PM meeting, voice vote, per the November 17 minutes), but the copy posted on CivicClerk is not signed and has a blank approval date (checked 2026-11-28).
+  Staff record issue: three presentations were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk: the HUD Substantial Amendment slides (F1), the tax abatement slides for F2 and F3, and the Crosstown Center remodel slides (H4).
+  Possible staff record issue: the resolution attached to F2 says "277 W MICHIGAN AVENUE" in one place and its file is titled "277 W Michigan Resolution #2", while the agenda, the agenda report, the rest of the resolution and the minutes say 227 West Michigan Avenue. Which address the certificate should carry is not shown here, so this is only possible.
+  All seven commissioners of the 55th Commission were present, with City Manager Jim Ritsema (per minutes).
+  L1 (Selection of a City Manager Candidate) was moved to right after public comments. Four commissioners named Malcolm Hankins and three named Laura Lam; the motion to recommend Hankins and start negotiations passed 6-1 (Commissioner Decker voting no). The meeting recessed from 9:16 to 9:29 p.m.; a fallback motion to also authorize negotiations with Laura Lam was made and withdrawn.
+  F1: Commissioner Praedel abstained because of his employer (per minutes and video).
+  H4 approved 17 construction contracts for the 150 East Crosstown facility in one motion ($6,523,843 total); each contract has its own row (H4a to H4q).
+  Public comment (per minutes): 21 entries in general public comment, plus 1 speaker in the F1 hearing. The minutes list K twice; she spoke once, so she has one row. Edward Griffin, Jr. finished remarks started by an unnamed speaker; that is one row. These minutes spell a speaker "Tom Shuster"; the same day's Committee of the Whole minutes spell the name "Tom Schuster". Each meeting keeps its own minutes' spelling.
+  The agenda packet was downloaded in two parts because it is about 96 MB, then joined; page numbers match the original.
+
+Related meeting: 2025-10-20-committee-of-the-whole (5:00 PM, same day)

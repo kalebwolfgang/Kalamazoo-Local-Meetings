@@ -1,0 +1,716 @@
+# Agenda item G12: Adoption of a RESOLUTION approving an Affordable Housing Agreement between the City of Kalamazoo, the Brownfield Redevelopment Authority, 619, LLC and 19 Props, LLC.
+# Attachment: TBP Affordable Housing Agreement
+# Packet pages 93-106 of the October 20, 2025 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 93 ---
+
+                        AFFORDABLE HOUSING AGREEMENT
+                             CITY OF KALAMAZOO
+
+       THIS AFFORDABLE HOUSING AGREEMENT (''Agreement”) is entered into as
+of _____________, 2025 by and between the CITY OF KALAMAZOO (''City"), a Michigan
+public body corporate, with an address of 241 West South Street, Kalamazoo, MI 49007, the
+CITY OF KALAMAZOO BROWNFIELD REDEVELOPMENT AUTHORITY
+(“Authority”), a Michigan public body corporate, with an address of 245 North Rose Street,
+Kalamazoo, MI 49007, and 619, LLC (a "Developer"), a Michigan limited liability company,
+with an address of 200 W. Michigan Avenue, Suite 201, Kalamazoo, Michigan, 49007 and 19
+PROPS, LLC (a "Developer"), a Delaware limited liability company, with an address of 200
+W. Michigan Avenue, Suite 201, Kalamazoo, Michigan, 49007.
+
+                                      WITNESSETH:
+
+        WHEREAS, the City has a vested interest to: (1) promote the health, safety and general
+welfare of the citizens of the City through the implementation of housing goals, objectives, and
+policies that support economically integrated housing opportunities in the development or
+rehabilitation of housing, (2) stimulate the production of affordable rental housing available to
+individuals or families, and (3) optimize benefits available to residents by incentivizing
+affordable residential housing projects; and
+
+        WHEREAS, Developer’s proposal includes the redevelopment of three different
+buildings and project areas (each, a “Component”) within the City as follows: (1)
+redevelopment of the “Speareflex,” a 51,000 square foot, commercial office development into
+a residential housing project at 161 E. Kalamazoo Avenue (the “Speareflex Component”); (2)
+redevelopment of “619 Porter”, a former industrial building into a 65,000 square foot mixed-
+use project at 619 Porter Street and adjacent parcels (the “619 Porter Component”); and (3)
+redevelopment of the Michigan Avenue Courthouse (MAC), into approximately 100,000
+square foot hotel project (the “MAC Component”), which, collectively are expected to include
+approximately 115 apartments and other commercial spaces, including approximately 120 hotel
+rooms, spread over three sites in multiple component phases (altogether, the “Project”); only
+the Speareflex Component and the 619 Porter Component are the subject of this Agreement;
+and
+
+        WHEREAS, Developer intends to procure Michigan Strategic Fund (MSF) approval
+for transformational brownfield plan (the “Plan”) for the Project under the Brownfield
+Redevelopment Financing Act, Act 381 of 1996, as amended (“Act 381”), which the Plan, if
+approved by the MSF and the City, would afford Developer the opportunity to obtain
+reimbursement of certain eligible activities funded by the capture of certain eligible tax
+revenues and to obtain other tax benefits as described in Act 381 determined to be necessary
+for the Project to be economically viable; and
+
+       WHEREAS, if the MSF, Authority, and the City approve the Plan for the Project, the
+Project may be eligible, subject to an underwriting and financial analysis and other
+requirements all as set forth in Act 381, to capture up to 100% of income tax capture revenues
+
+                                          Page 1 of 14
+
+                                                                                            Page 93 of 427
+
+--- packet page 94 ---
+
+ if the applicable eligible properties within the Plan for the Project are subject to a written,
+ binding affordable housing agreement with the City; and
+
+        WHEREAS, Developer, in order to make the Project eligible to capture up to 100% of
+ income tax capture revenues, is willing to commit to certain affordable housing requirements
+ subject to the terms and conditions set forth in this Agreement; and
+
+        WHEREAS, to encourage the successful completion of the Project and promote the
+ development of inclusive mixed-income communities, the City, the Authority, and the
+ Developer are entering into this agreement to ensure and provide for affordable housing;
+
+         NOW, THEREFORE, for good and valuable consideration, the receipt and
+sufficiency of which is hereby acknowledged, the City, the Authority, and Developer agree as
+follows:
+
+ 1.     Definitions. The following terms used throughout this Agreement shall be defined as
+        follows:
+
+       a. "Developer” means (i) with respect to the Speareflex Component, 19 Props, LLC,
+          and (ii) with respect to the 619 Porter Component, 619, LLC.
+
+       b. "Income Limit” means the maximum Household Income that may be earned,
+          determined no less than 30 days nor more than 60 days prior to entering into a lease,
+          by a household leasing an Affordable Unit. For the purposes of this Agreement, the
+          relevant income limits at the time of a Lessee’s initial lease or lease renewal, are
+          those most recently published by the Michigan State Housing Development
+          Authority (MSHDA) for Kalamazoo County, Michigan, and are 120% of the area
+          median income (“AMI”).
+
+       c. “Rent Limit” means the maximum amount that may be charged as monthly base rent
+          for an Affordable Unit based on the number of bedrooms in the Affordable Unit.
+          The Rent Limit is published by MSHDA on an annual basis. Developer shall not
+          assess unreasonable fees upon Lessees and shall not assess any fees upon Lessees of
+          Affordable Units that are in addition to any fees assessed upon any other tenant.
+
+       d. "Affordable Housing Requirement" means: (1) for the Speareflex Component, the
+          Income Limit for at least 6 residential dwelling units within the Component must be
+          leased to households whose Household Income is equal to or less than 120% AMI,
+          and the Rent Limit for 10 residential dwelling units rented for an amount that does
+          not exceed 80% AMI and 1 residential dwelling unit that does not exceed 60% AMI
+          and, (2) for the 619 Porter Component, the Income Limit for 6 residential dwelling
+          units must be leased to households whose Household Income is equal to or less than
+          120% of AMI, and the Rent Limit for 11 residential dwelling units rented for an
+          amount that does not exceed 80% AMI and 1 residential dwelling unit that does not
+          exceed 60% AMI. Any unit that has an Income Limit shall also have a Rent Limit.
+
+                                          Page 2 of 14
+
+                                                                                           Page 94 of 427
+
+--- packet page 95 ---
+
+e. "Affordability Period" means the specific time periods for which residential rental
+    dwelling units must be maintained as Affordable Units. Each Component of the
+    Project may have its own Affordability Period. The Affordability period of each
+    Component shall begin once all residential dwelling units in a Component have
+    satisfied all requirements for the issuance of a temporary certificate of occupancy or
+    its equivalent from the City, and the dwelling units in that Component may be legally
+    occupied, and shall expire ten (10) years thereafter for the Speareflex Component
+    and expire ten (10) years thereafter for the 619 Porter Component. The Developer
+    anticipates that the Project will have three Components, two of which, namely the
+    619 Porter Component and the Speareflex Component, will include residential
+    dwelling units subject to the Affordability Period.
+
+f.   “Grace Period” means the 12-month renewal period available for an eligible Lessee
+     whose Household Income has exceeded the 120% AMI Income Limit for an
+     Affordable Unit.
+
+g. "Affordable Units" mean residential rental dwelling units within the Project that
+    satisfy the Affordable Housing Requirement.
+
+h. "AMI" means the median family income for Kalamazoo County as most recently
+    published by MSHDA.
+
+i.   “Income Checklist” means a checklist that contains information necessary to
+      determine Household Income, and such checklist form may be provided by
+      Developer, subject to approval by the City, with such approval not to be
+      unreasonably withheld.
+
+j.   “Tenant Household Self Certification Form” means a form that contains information
+      necessary for tenants to self-certify their Household Income, and such Tenant
+      Household Self Certification Form may be provided by Developer, subject to
+      approval by the City, with such approval not to be unreasonably withheld.
+
+k. “Tenant Income and Rent Report” means a report containing information necessary
+    to document tenant income and rental rates charged, and such Tenant Income and
+    Rent Report form may be provided by Developer, subject to approval by the City,
+    with such approval not to be unreasonably withheld.
+
+l.   “Lessee” means any individual(s) that enters into a lease with the Developer for any
+     Affordable Unit in the Project.
+
+m. “Household Income” means all income received or derived from any source required
+   to be listed on the Income Checklist by (1) every individual named as an authorized
+   leaseholder on the lease regardless of their age, and (2) every household member
+   age 18 and older, including those listed as household members on the lease.
+   Household income does not include income received by individuals under 18 years
+   of age unless a Lessee, nor income of a lease guarantor who does not reside in the
+
+                                   Page 3 of 14
+
+                                                                                     Page 95 of 427
+
+--- packet page 96 ---
+
+         unit.
+
+     n. “Affirmative Marketing Survey” means a report documenting marketing efforts
+        undertaken in connection with leasing the Affordable Units, and such Affirmative
+        Marketing Survey form may be provided by Developer, subject to approval by the
+        City, with such approval not to be unreasonably withheld.
+
+     o. “Designated Representative” means that for purposes of this Agreement the designated
+         representative of the City is the City Manager or their designee and the designated
+         representative of the Authority is either the Community Planning & Economic Development
+         Department Director or the Development Manager within that department.
+
+2.   Term of Agreement. This Agreement shall be effective only upon (1) the final approval
+     of the Plan for the Project by the City and MSF, and (2) execution of a development and
+     reimbursement agreement for the Project and shall expire at the end of the final
+     Affordability Period unless terminated earlier pursuant to another provision of this
+     Agreement.
+
+3.   Obligations of Developer. Developer shall meet the Affordable Housing Requirement,
+     subject to the limitations herein, by constructing or developing, and leasing, Affordable
+     Units subject to the terms and conditions of this Agreement.
+
+4.   Income Certification. During the Affordability Period, Developer shall conduct annual
+     income certifications as described herein to ensure the Household Income of the Lessee
+     does not exceed the applicable Income Limit. Income shall be determined in a manner
+     reasonably consistent with the Part 5 method and shall include income sources as
+     identified in 24 CFR 5.609. Developer shall obtain a completed Income Checklist,
+     including all supporting documentation (a) no less than 30 days nor more than 60 days
+     prior to the date of entering into a lease for an Affordable Unit, and (b) no less than 30
+     days nor more than 60 days prior to each fifth anniversary of such date. Developer shall,
+     in the intervening years (i.e. years two, three, four, six, etc.) obtain a completed Tenant
+     Household Self-Certification Form for each Lessee no less than 30 days nor more than
+     60 days prior to lease renewal. Developer shall retain all documentation collected
+     pursuant to this Section 5 for a minimum of five years after receipt.
+
+5.   Over Income. An Affordable Unit is “over income” and temporarily out of compliance
+     with the Affordable Housing Requirement when a Lessee experiences an increase in
+     Household Income causing them to surpass the applicable Income Limit. In the event
+     that the Lessee’s Household Income is above 120% AMI, the Lessee’s unit shall qualify
+     as an Affordable Unit only for the duration of the Grace Period. Rent during the Grace
+     Period will correspond with the applicable Rent Limit. As soon as practicable at the
+     beginning of the Grace Period, the Developer shall provide appropriate notice to the
+     Lessee describing the terms of this Agreement. Upon the expiration of the Grace Period,
+     the unit will no longer qualify as an Affordable Unit and Developer must rent the next
+     available unit of its approximate size and number of bedrooms as an Affordable Unit to
+     maintain compliance with the Affordable Housing Requirement.
+
+                                        Page 4 of 14
+
+                                                                                           Page 96 of 427
+
+--- packet page 97 ---
+
+6.   Marketing of Affordable Units. Developer will market the Project to both affordable
+     and market rate applicants with the intention of meeting the requirements of this
+     Agreement. Should an income-restricted unit remain vacant for longer than 30 days due
+     to lack of income-qualified applicants who meet Developer’s rental qualification
+     standards (which standards shall not violate the Fair Housing Act), upon notice to the
+     Authority, the Developer may rent the unit to a market rate applicant and rent the next
+     available unit of approximate size and number of bedrooms as an Affordable Unit.
+
+7.   Reporting to City. Within sixty (60) days after the end of each calendar year of this
+     Agreement, Developer shall provide the Authority and the City of Kalamazoo
+     Community Planning and Economic Development Department a report containing the
+     following information:
+
+     a. The total number of residential rental units for which an unconditional certificate of
+        occupancy has been issued by the City of Kalamazoo and the total number of
+        Affordable Units in the Project.
+
+     b. An Affirmative Marketing Survey for the previous calendar year.
+
+     c. The Tenant Income and Rent Report (TIRR) for the previous calendar year for all
+        Affordable Units subject to this Agreement.
+
+     d. The number of Affordable Units that are temporarily over income and out of
+        compliance due to a previously qualified Lessee exceeding the applicable Income
+        Limit and the plan to comply with the Affordable Housing Requirement.
+
+     The City hereby delegates the authority to review and make determinations based on the
+     reporting received to the Authority. After receipt of the documentation required in this
+     Section, Authority shall review each report within thirty (30) business days after
+     receiving it. The Authority may either (a) accept the report, or (b) request documentation
+     from Developer as is reasonably necessary to verify some or all of the information in the
+     report, which documentation may include but shall not be limited to income certification
+     documentation and leases. Developer shall provide the requested documentation within
+     thirty (30) days of receiving such request from the City. Within forty-five (45) business
+     days following the receipt of such supplemental documentation, the Authority shall
+     make the determination of whether the Affordable Housing Requirement has been met.
+     If the Authority determines that the Affordable Housing Requirement has not been met,
+     the Authority, on behalf of the City, will provide the Developer with a written
+     determination which shall describe the specific deficiency that resulted in the City’s
+     determination. If Developer wishes to appeal that determination, it shall provide written
+     notice to the Authority within fifteen (15) business days of the Authority written
+     determination, and the issue shall be brought to the Authority within forty-five (45)
+     business days thereafter for its determination. Developer shall have (60) calendar days
+     to cure period commencing after the later of receipt of notice of failure to satisfy the
+     terms of this Agreement, the Authority’s determination of Developer’s appeal.
+
+                                        Page 5 of 14
+
+                                                                                          Page 97 of 427
+
+--- packet page 98 ---
+
+8.    Notice and Notification of End of Affordability Period. At least three years prior to
+      the end of the Affordability Period, Developer shall submit notice to the tenants of the
+      Affordable Units, the Authority, and City of Kalamazoo Community Planning and
+      Economic Development Department indicating the end date of the Affordability Period
+      and Developer's plan for the expiring Affordable Units after the end of the Affordability
+      Period. After this initial notification, Developer shall submit similar notices at eighteen
+      months prior to the end of the required Affordability Period and every six months
+      thereafter with such notices to the same parties listed above, indicating the Affordability
+      Period remaining on the Affordable Units and notification of the plan for the Affordable
+      Units after the end of the Affordability Period.
+
+      At all times during the Affordability Period, every lease between Developer and a Lessee
+      must contain notification to the Lessee of the benefit derived from this Agreement, the
+      Lessee’s obligations, and the terms under which the benefit would no longer be
+      available, including (1) if in the future the Lessee’s Household Income exceeds the
+      applicable Income Limit for the Affordable Unit at the time of expiration or renewal of
+      their lease, or (2) the expiration of the Affordability Period.
+
+9.    Obligations of City. The City shall make commercially reasonable efforts to assist
+      Developer through City permitting, site plan approval, financing applications, and other
+      City processes. Notwithstanding the foregoing obligation, the City's efforts do not
+      guarantee final City approvals or City of Kalamazoo City Commission approval.
+
+10.   Recording. Developer shall execute and record a restriction encumbering the Project in
+      a manner consistent with this Agreement for the duration of the Affordability Period
+      ("Recorded Restriction"). Once recorded, Developer shall provide a copy of the
+      Recorded Restriction to the Authority.
+
+11.   Intentionally Deleted
+
+12.   Intentionally Deleted
+
+13.   Indemnity and Insurance. To the extent allowed by law, the Developer shall
+      indemnify, defend and hold harmless the Authority and the City, including their past
+      and present elected and appointed officials, board members, commissioners, agents and
+      employees, from any damages that it may sustain through the negligence or willful
+      misconduct of the Developer, its contractors, subcontractors, directors, agents and
+      employees pertaining to the performance of this Agreement.
+
+      a. Maintenance of Insurance: The Developer shall maintain such insurance as
+         necessary to comply with this provision during the life of this Agreement and will
+         provide and maintain its own public liability, property damage, and workers’
+         compensation insurance. All coverage shall be with insurance companies licensed
+         and admitted to do business in the State of Michigan, and reasonably acceptable to
+         the City and the Authority. Insurance required to be maintained by the Developer
+         shall include:
+
+                                         Page 6 of 14
+
+                                                                                            Page 98 of 427
+
+--- packet page 99 ---
+
+      Workers’ Compensation Insurance including Employers’ Liability Coverage, in
+      accordance with all applicable statutes of the State of Michigan.
+
+      Commercial General Liability Insurance on an “Occurrence Basis” with limits of
+      liability not less than $1,000,000 per occurrence and aggregate. Coverage shall include
+      the following extensions: (A) Contractual Liability; (B) Products and Completed
+      Operations; (C) Independent Contractors Coverage; (D) Broad Form General Liability
+      Extensions or equivalent.
+
+      Automobile Liability in accordance with all applicable statutes of the State of
+      Michigan, with limits of liability not less than $1,000,000 per occurrence, combined
+      single limit for Bodily Injury, and Property Damage. Coverage shall include all owned
+      vehicles, all non-owned vehicles, and all hired vehicles.
+
+b. Additional Insured: Commercial General Liability and Automobile Liability, as
+   described above, shall include an endorsement stating that the following shall be
+   Additional Insureds: The City of Kalamazoo, all elected and appointed officials, all
+   employees and volunteers, all boards, commissions, and/or authorities,
+   commissioners and board members, including employees and volunteers thereof and
+   the City of Kalamazoo Brownfield Redevelopment Authority and all commissioners,
+   board members and employees thereof. It is understood and agreed that by naming
+   the City and the Authority as additional insureds, coverage afforded is primary and
+   any other insurance the City or the Authority may have in effect shall be considered
+   secondary and/or excess.
+
+c. Cancellation Notice: All policies, as described above, shall include an endorsement
+   stating that it is understood and agreed that thirty (30) days, or ten (10) days for non-
+   payment of premium, Advance Written Notice of Cancellation, Non-Renewal,
+   Reduction, and/or Material Change shall be sent to the persons designated in this
+   Agreement to receive notices in behalf of the Authority and the City.
+
+   Proof of Insurance Coverage: The Developer shall provide the Authority and City
+   at the time that the contracts are returned for execution, a Certificate of Insurance as
+   well as the required endorsements. In lieu of required endorsements, if applicable,
+   a copy of the policy sections where coverage is provided for additional insured and
+   cancellation notice would be acceptable. Copies or certified copies of all policies
+   mentioned above shall be furnished, if so requested.
+
+d. Expiration of Coverage: If any coverage expires during the term of this contract, the
+   Developer shall deliver renewal certificates and/or policies to the Authority and City
+   of Kalamazoo at least ten (10) days prior to the expiration date.
+
+e. Governmental Immunity: Notwithstanding any other provisions of this Agreement,
+   nothing in this Agreement constitutes a limitation or waiver of any governmental
+   immunity provided by applicable law. All applicable laws related to governmental
+   immunity shall govern over any conflicting or inconsistent term of this Agreement
+   and any governmental agency shall be entitled to the full benefits and protections of
+                                   Page 7 of 14
+
+                                                                                        Page 99 of 427
+
+--- packet page 100 ---
+
+         such laws.
+
+14.   Casualty Events. If the Affordable Units cease to be available as the result of fire,
+      damage, or other casualty ("Casualty Event"), Developer shall provide prompt written
+      notice of such Casualty Event to the City and the Authority, and Developer shall proceed
+      with one of the following options, which Developer may elect in its sole discretion:
+
+      a. Developer may use the insurance proceeds that are actually made available to it to
+         restore the Affordable Units that have been damaged as a result of the Casualty
+         Event. Developer shall not be required to spend any money to restore the damaged
+         Affordable Units in an amount over and above the insurance proceeds that are
+         actually made available to such entity for the restoration of the Affordable Units
+         damaged as a result of a Casualty Event, and in the event that such insurance
+         proceeds are only sufficient to restore some but not all of the Affordable Units that
+         existed prior to the occurrence of the Casualty Event, then, so long as all such
+         insurance proceeds have been spent on the restoration of such Affordable Units,
+         Developer will be deemed to have restored all of the Affordable Units that were
+         damaged as a result of the Casualty Event for all purposes under this Agreement.
+
+      b. Developer may elect to pay liquidated damages as set forth in Section 15.a for the
+          remainder of the Affordability Period.
+
+      The Affordability Period for the Affordable Units which are the subject of the Casualty
+      Event shall be tolled during the period of time such units do not exist; provided,
+      however, that if Developer elects to pay liquidated damages, the tolling period shall
+      terminate as of the date that such liquidated damages commence being paid.
+
+15.   Default and Remedies. Any failure to satisfy the obligations in this Agreement shall be
+      a breach of this Agreement. If any breach of this Agreement shall occur and be
+      continuing for 30 days after written notice of default from the City (or such additional
+      time as may be reasonably necessary to cure the default at issue provided that Developer
+      has commenced such cure within the initial thirty (30) days and is proceeding in good
+      faith to cure), the City shall have the following remedies:
+
+      a. Violation of Agreement With Respect to Affordable Housing Requirement. If
+         Developer markets or charges rent in a manner that violates the Affordable Housing
+         Requirement, the City may declare an event of default by providing notice to the
+         Developer. Upon Developer's receipt of such notice, Developer shall have sixty (60)
+         calendar days to cure the default by either: (1) marketing or charging rent in a manner
+         that is consistent with this Agreement; or (2) Developer paying damages in the
+         following amount:
+
+         1)      the excess of actual rent received by Developer over the Rent Limit that
+                 would otherwise apply for each unit not in compliance; plus
+              2)    a penalty for each unit not in compliance in the amount of 25% of the
+                    applicable Rent Limit for each month or part of a month of
+
+                                         Page 8 of 14
+
+                                                                                          Page 100 of 427
+
+--- packet page 101 ---
+
+              noncompliance; plus
+   3)      the enforcement costs of the City with respect to the Affordable Units that
+           are subject to such damages.
+
+   If the City is entitled to pursue its remedies under this Section then Developer shall
+   provide the City an accounting of the actual rent received by Developer as referenced
+   in Section 15.a.1 above. If Developer fails to do so within thirty (30) days after
+   Developer's receipt of a request for such information, then, with respect to the units
+   that Developer has failed to provide such information only, (i) the City may calculate
+   the damages under Section 15.a using the applicable market rental rate that would
+   apply to each Affordable Unit absent the affordability restriction that Developer has
+   reported to the City pursuant to Section 7 above (in lieu of the actual rent received);
+   and (ii) the penalty under Section 14.a.ii. shall increase to 30% of the Rent Limit (in
+   lieu of 25%).
+
+   Upon the payment of any such liquidated damages, Developer shall be deemed to be
+   in compliance under this Agreement with respect to each Affordable Unit for the
+   time period to which the liquidated damages that have been paid pertain. If
+   Developer does not pay such liquidated damages within thirty (30) days of being
+   invoiced, the Authority may retain an amount up to and including the amount of
+   liquidated damages invoiced from any and all payments it would otherwise be
+   required to make to Developer pursuant to a separate development agreement.
+
+b. Failure to Satisfy Reporting Obligations to City: If Developer fails to provide the
+   information to the City required under Section 7 above (after the passage of all
+   applicable notice and cure periods), then the City's sole remedy shall be to extend
+   the Affordability Period for an additional three (3) months for each breach of Section
+   8.
+
+c. Payment into Housing Development Fund: Any amounts required to be paid to the
+   City under this Agreement may be utilized by the City for its housing development
+   fund, if such City fund exists, or for any other purpose the City determines.
+   Developer is still obligated to pay the City such amounts under this Agreement
+   regardless of whether or not such City fund exists.
+
+d. Withholding of Reimbursement: As an additional remedy, if Developer fails to
+   satisfy the obligations in this Agreement, the City and the Authority reserve the right
+   to retain, as liquidated damages calculated under Section 14.a, those tax increment
+   revenues captured by the Authority in accordance with the Plan.
+
+e. Termination: Additionally, in addition to any other available remedies, any breach
+   of this Agreement by Developer shall permit the City and the Authority to provide a
+   60 day written Notice of Intent to Terminate of this Agreement to Developer. During
+   the 60 day notice period, either party is entitled to require both parties to participate
+   in facilitative mediation, with a mediator mutually agreed to by the parties, in order
+   to attempt to resolve the dispute. If a resolution cannot be reached, either as part of
+
+                                    Page 9 of 14
+
+                                                                                      Page 101 of 427
+
+--- packet page 102 ---
+
+         a facilitative mediation outcome or otherwise, the City or the Authority may proceed
+         to terminate the Agreement, and either party may proceed to seek all available
+         remedies in court.
+
+16.   No Limitation on Remedy. Nothing contained in this Agreement shall limit the
+      exercise of any remedy contained in any other agreement or available in law or equity.
+
+17.   Conflict of Interest. The Developer affirms that there exists no actual or potential
+      conflict of interest between the Developer, the Developer’s key personnel or its family,
+      its business, or any financial interest in the performance by the Developer under this
+      Agreement. The Developer affirms that it has a procedure in place to require disclosure
+      and subsequent management of conflicts of interest between the Developer’s key
+      personnel, its family’s, or businesses’ financial interests and its activities under the
+      Agreement. In the event of a change in either its private interests or activities under this
+      Agreement, the Developer will inform the Authority and the City regarding possible
+      conflicts of interest that may arise as a result of such change that would conflict with the
+      Developer’s performance of its obligations under this Agreement or otherwise create the
+      appearance of impropriety with respect to this agreement. The Developer agrees that
+      conflicts of interest shall be resolved to the satisfaction of the Authority and the City or
+      the Authority and the City may terminate this agreement. As used in this paragraph,
+      “conflict of interest” shall include, but not be limited to conflicts of interest that are
+      defined under the laws of the state of Michigan.
+
+      The Developer further affirms that neither the Developer nor any affiliates or their
+      officers, directors, managers, and members or employees, have accepted or shall accept
+      anything of value based on an understanding that the actions of the Developer or its
+      affiliates or either’s employees on behalf of the Authority or the City would be
+      influenced. The Developer shall not attempt to influence any past or present elected and
+      appointed officials, board members, commissioners, agents and employees of either the
+      Authority or the City by the direct or indirect offer of anything of value. The Developer
+      also affirms that neither the Developer nor its affiliates or their officers, directors,
+      managers, and members or their employees has paid or agreed to pay any person, other
+      than bona fide employees and consultants working solely for the Developer or its
+      affiliates any fee, Commission, percentage, brokerage fee, gift or any other
+      consideration contingent upon or resulting from the execution of this agreement
+
+18.   Notices. All notices, consents, approvals, requests and other communications, herein
+      collectively called "Notices", required or permitted under this Agreement shall be given
+      in writing, signed by an authorized representative of City, Authority, or Developer, as
+      the case may be, and either mailed by certified or registered mail return receipt
+      requested; or sent by recognized overnight delivery service for next day delivery, and
+      addressed as follows:
+
+      To the City/Authority:
+
+      Antonio Mitchell
+
+                                         Page 10 of 14
+
+                                                                                            Page 102 of 427
+
+--- packet page 103 ---
+
+         Director Community Planning and Economic Development
+         mitchella@kalamazoocity.org
+         245 N Rose Street, Suite 100
+         Kalamazoo, MI 49007
+
+         Jessica Wood
+         Dickinson Wright, PLLC
+         jwood@dickinson-wright.com
+         200 Ottawa Avenue NW, Suite 900
+         Grand Rapids, MI 49503
+
+         To 619, LLC:
+         619, LLC
+         Attention: Jeffrey A. Nicholson
+         200 W. Michigan Avenue, Suite 201
+         Kalamazoo, MI 49007
+
+         To 19 Props, LLC:
+         19 Props, LLC
+         Attention: Jeffrey A. Nicholson
+         200 W. Michigan Avenue, Suite 201
+         Kalamazoo, MI 49007
+
+         Copies of notices to 619, LLC or 19 Props, LLC shall also be given to:
+
+         PlazaCorp Realty Advisors, Inc.
+         Attention: Director of Property Management
+         200 W. Michigan Avenue, Suite 201
+         Kalamazoo, MI 49007
+         Director of Property Management
+
+         McShane & Bowie, PLC
+         99 Monroe Avenue NW, Suite 1100
+         Grand Rapids, MI 49503
+         Aaron M. Smith
+         ams@msblaw.com
+
+      All Notices shall be effective upon receipt. Any party to this Agreement may change its
+      address for the receipt of Notices to an address in the United States or designate additional
+      addresses to whom copies of Notices shall be sent at any time by giving Notice thereof to
+      the others as herein provided.
+
+19.   Confirmatory Certificate. At the request of Developer, the Authority, on behalf of the
+
+                                            Page 11 of 14
+
+                                                                                              Page 103 of 427
+
+--- packet page 104 ---
+
+      City, shall execute and deliver, within ten (10) business days of its receipt of a written
+      request, a certificate addressed as requested stating that: (a) this Agreement is in full force
+      and effect; (b) there is no default under this Agreement, or if there is any default, the extent
+      and nature thereof; (c) this Agreement has not been modified or amended in any way, or if
+      it has been modified or amended, the subject matter and dates of any such modifications
+      or amendments; and (d) such other information relating to the subject matter of this
+      Agreement as Developer may reasonably require. Such certificate may be relied upon by
+      the party to whom it is addressed and its mortgagees, successors, and assigns.
+
+20.   Third Party Management. The Parties acknowledge that Developer intends to enter into
+      a contract with a third-party property management firm (“Property Manager”) and that the
+      Property Manager may, as part of its contract with Developer, perform certain services
+      described in this Agreement. Developer acknowledges it remains responsible for all
+      obligations, liable for all defaults and subject to all remedies under this Agreement
+      regardless of the performance of any Property Manager.
+
+21.   Authority to Execute this Agreement The signatories below warrant that they are
+      empowered to enter into this Agreement on behalf of their respective Party.
+
+22.   Miscellaneous Provisions.
+
+      a. Amendment: This Agreement may be modified or amended in whole or in part only
+         by mutual written agreement and consent of both parties, which consent shall not be
+         unreasonably withheld, conditioned, or delayed.
+
+      b. Waiver: A failure by any party to give notice or insist on the immediate performance
+         of any right that it has under this Agreement shall not constitute a waiver of that right
+         or any other right under this Agreement.
+
+      c. Assignment or Transfer: This Agreement shall not be assigned, transferred, or
+         conveyed without the prior written consent of the other parties, which consent will not
+         be unreasonably withheld, conditioned, or delayed. The authority to review and
+         consent to a Developer requested assignment or transfer is hereby delegated by the City
+         to its Designated Representative as defined herein and delegated by the Authority to its
+         Designated Representative as defined herein. A failure to review and act by a
+         Designated Representative within 14 days of such a request shall be deemed to be a
+         consent to assignment or transfer by that Designated Representative. In cases where
+         consent is provided, all the obligations hereunder shall remain in full force and effect.
+
+      d. Remedies Not Exclusive: The parties agree that all rights and remedies provided in
+         this Agreement shall be deemed cumulative and additional and not in lieu of or
+         exclusive of each other or in any other remedy available at law or in equity.
+
+      e. Independent Contractor: Nothing contained in this Agreement, nor any act of
+         Developer, the Authority, or the City shall be deemed or construed by any of the parties
+         hereto or by any third person to create any relationship of third-party beneficiary,
+
+                                           Page 12 of 14
+
+                                                                                                 Page 104 of 427
+
+--- packet page 105 ---
+
+   principal and agent, limited or general partnership, or joint venture, or of any
+   association or relationship other than that of contracting parties. The Authority and City
+   shall be exempt from payment of all unemployment compensation, FICA, retirement,
+   life and/or medical insurance and workers’ compensation Insurance, as the Developer
+   is an independent contractor.
+
+f. Licensing and Permitting: Notwithstanding any other provisions of this Agreement,
+   any required permitting, licensing, or other regulatory approvals by any governmental
+   authority shall be subject to and undertaken in accordance with the established
+   procedures and requirements of such governmental authority, as may be applicable,
+   with respect to similar projects and in no event shall the governmental authority by
+   virtue of any provision of this Agreement be obligated to take any actions concerning
+   regulatory approvals.
+
+g. Severability: If this Agreement contains any unlawful provisions not an essential part
+   of this Agreement and which shall not appear to have a controlling or material
+   inducement to the making thereof, such provisions shall be deemed of no effect and
+   shall be deemed stricken from this Agreement without affecting the binding force of
+   the remainder. In the event any provision of this Agreement is capable of more than
+   one interpretation, one which would render the provision invalid and one which would
+   render the provision valid, the provision shall be interpreted so as to render it valid.
+
+h. Governing Law: The laws of the State of Michigan shall govern the validity,
+   performance and enforcement of this Agreement.
+
+i. Final Agreement: This Agreement, and all the documents and agreements described
+   or referred to herein, including, without limitation, any exhibits hereto, constitute the
+   full and complete agreement between the parties hereto with respect to the subject
+   matter hereof, and supersedes and controls in its entirety over any and all prior
+   agreements, understandings, representations and statements whether written or oral by
+   each of the parties hereto.
+
+j. Headings: The headings used in connection with the Sections and paragraphs of this
+   Agreement are for convenience only and shall not be deemed to construe or to limit the
+   meaning of the language of this Agreement.
+
+k. Counterparts: This Agreement may be executed in counterparts, each of which shall
+   be deemed to be an original document and together shall constitute one instrument.
+
+                      [SIGNATURE PAGE FOLLOWS.]
+
+                                    Page 13 of 14
+
+                                                                                        Page 105 of 427
+
+--- packet page 106 ---
+
+The City, the Authority, and the Developer, by and through their duly authorized officers and
+representatives, have executed this Agreement as follows:
+
+                                                  CITY OF KALAMAZOO
+
+                                                  James Ritsema, City Manager
+
+                                                  CITY OF KALAMAZOO BROWNFIELD
+                                                  REDEVELOPMENT AUTHORITY
+
+                                                  Kyle Gulau, Chairperson
+
+                                                  619, LLC
+
+                                                  Jeffrey A. Nicholson, Manager
+
+                                                  19 PROPS, LLC, by Floor 2 Manager, LLC, its
+                                                  Manager
+
+                                                  Jeffrey A. Nicholson, Manager
+
+  Approved as to form for the City of Kalamazoo
+  Office of the Kalamazoo City Attorney
+  By: Charles R. Bear
+  Dated: 10/17/2025
+
+1011957
+
+                                                  Page 14 of 14
+
+  4908-2846-6036 v2 [105916-1]
+                                                                                                Page 106 of 427

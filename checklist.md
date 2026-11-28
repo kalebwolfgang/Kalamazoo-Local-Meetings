@@ -6,9 +6,9 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 
 ## Summary
 
-- Done: 32
+- Done: 34
 - Done, waiting on minutes: 6
-- Not started: 9
+- Not started: 7
 - Cancelled: 2
 
 ## Still needed
@@ -16,8 +16,6 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 - 2025-10-06 Committee of the Whole: not started
 - 2025-10-06 Business Meeting: not started
 - 2025-10-15 Special Committee of the Whole: not started (City Manager candidate interviews. Video titled "October 15, 2025 City Manager Candidate Interviews".)
-- 2025-10-20 Committee of the Whole: not started
-- 2025-10-20 Business Meeting: not started (Agenda packet is about 96 MB, over the download limit; needs to be fetched in parts.)
 - 2026-03-14 Planning Retreat: add minutes once the city posts them
 - 2026-07-06 Business Meeting: add minutes once the city posts them
 - 2026-08-10 Committee of the Whole: add minutes once the city posts them
@@ -36,8 +34,8 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 | 2025-10-06 | Committee of the Whole | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
 | 2025-10-06 | Business Meeting | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
 | 2025-10-15 | Special Committee of the Whole | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** | City Manager candidate interviews. Video titled "October 15, 2025 City Manager Candidate Interviews". |
-| 2025-10-20 | Committee of the Whole | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
-| 2025-10-20 | Business Meeting | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** | Agenda packet is about 96 MB, over the download limit; needs to be fetched in parts. |
+| 2025-10-20 | Committee of the Whole | Done | yes | yes | same as agenda | yes | yes | yes | Minutes approved 2025-11-17 but the posted copy is not signed (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |
+| 2025-10-20 | Business Meeting | Done | yes | yes | yes | yes | yes | yes | Agenda packet (about 96 MB) was downloaded in two parts and joined. Minutes approved 2025-11-17 but the posted copy is not signed (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |
 | 2025-10-30 | Special Business Meeting | Done | yes | yes | yes | yes | yes | yes | Minutes approved 2025-11-17 but posted only as an unsigned DRAFT (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |
 | 2025-11-17 | Business Meeting and Oath of Office Ceremony | Done | yes | yes | yes | yes | yes | yes | 5:00 PM meeting. YouTube title is "November 17, 2025 Kalamazoo City Commission" for both meetings that day; matched by content. Minutes approved 2026-01-05 but posted only as an unsigned DRAFT (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |
 | 2025-11-17 | Business Meeting | Done | yes | yes | yes | yes | yes | yes | 7:00 PM meeting with the newly seated Commission. YouTube title is "November 17, 2025 Kalamazoo City Commission" for both meetings that day; matched by content. Minutes approved 2025-12-01 but the posted copy is not signed (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |

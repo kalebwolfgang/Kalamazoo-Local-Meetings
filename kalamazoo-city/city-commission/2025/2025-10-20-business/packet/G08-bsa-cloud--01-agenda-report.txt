@@ -1,0 +1,79 @@
+# Agenda item G8: Approval of sole source purchase with BS&A to upgrade to the Cloud in the amount of $358,565.
+# Attachment: Agenda Report
+# Packet pages 45-46 of the October 20, 2025 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 45 ---
+
+                                                                                          Date:   10/20/2025
+                City Commission                                                                      Item: G.8.
+
+                Agenda Report
+                City of Kalamazoo
+
+TO:            Mayor Anderson, Vice Mayor Hess, and City Commissioners
+
+FROM:          James K. Ritsema, ICMA-CM, City Manager
+               Prepared by: Steve Vicenzi, CFO/Director of Management Services
+
+DATE:          October 20, 2025
+
+SUBJECT:       Approval of sole source purchase with BS&A to upgrade software to the Cloud
+               (Bid Ref#00000-025.108)
+
+RECOMMENDATION:
+
+Approval of sole source purchase with BS&A software to the Cloud in the amount of $358,565.
+
+BACKGROUND:
+
+BS&A Software provides the City’s key financial and operational modules, including building
+permits, utility billing, assessing, tax, miscellaneous billing, and cash receipting. During the
+recent Enterprise Resource Planning (ERP) system evaluation, the City determined it was in the
+best interest to retain the BS&A software package due to the program’s seamless integration with
+the State of Michigan’s assessing tables and its ability to link billing items through customer and
+parcel-based records.
+
+BS&A is transitioning its platform from a locally hosted .NET system to a cloud-based
+environment. Moving to BS&A Cloud will enhance functionality, provide secure and flexible
+remote access, reduce IT maintenance, and ensure more reliable system updates. Upgrading prior
+to Kalamazoo County’s transition will also support a smoother annual exchange of tax data
+between the City and County systems.
+
+BS&A is currently scheduling clients out at least 12 months. Agreeing to the contract will allow
+the City to start the project in January 2027, immediately following the transition of the
+remaining ERP elements to Tyler Munis.
+
+STRATEGIC VISION ALIGNMENT:
+
+Strategic Goal Impact:
+Good Governance- Ensuring the City organization has the capacity and resources to effectively
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                            Page 45 of 427
+
+--- packet page 46 ---
+
+Commission Agenda Report
+Page 2
+
+implement the community's Strategic Vision in a way that is sustainable over the long term.
+
+COMMUNITY ENGAGEMENT:
+
+Appropriate Depth of Engagement
+Inform (one-way conversation) – no feasible alternatives available due to legal/regulatory
+restrictions, standards and best practices, or resource limitations; the community will be made
+aware of the project.
+
+FISCAL IMPACT:
+
+Funds for the transition portion of the project are budgeted in the Capital Improvements plan
+under project cip0500077 for $180,775. Ongoing SAAS fees will be paid for out of the General
+Fund (101-228-00.000-815.001) of $177,790 starting in 2027.
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                      Page 46 of 427
