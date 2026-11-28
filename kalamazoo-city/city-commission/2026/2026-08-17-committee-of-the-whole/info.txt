@@ -22,6 +22,7 @@ Files in this folder:
   agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
 
 Notes:
+  Staff record issue: no minutes are posted on CivicClerk (checked 2026-11-28), and no Business Meeting agenda from August 17 through November 16, 2026 has an item to approve them.
   No minutes have been posted, so attendance and public comment names and residency come from the video.
   All seven commissioners were present (on video).
   The CoW agenda packet is the agenda only, so there is no packet folder.

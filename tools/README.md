@@ -55,3 +55,11 @@ Smaller scripts that make each step faster. `CLAUDE.md` in the repo root explain
 - `write_public_comment.py`, `write_topics.py`, `write_agenda_items.py`: write the three spreadsheets from simple lists
 - `write_info.py`: writes info.txt
 - `build_checklist.py`: rebuilds checklist.md from meeting-list.csv
+
+## Helper scripts
+
+- `sheet.py PDF OUTPREFIX pages...`: contact sheets of page images, 8 per sheet, for checking many packet pages at once.
+- `typein.py PACKET_DIR PAGE TEXTFILE`: replaces one packet page's text with text typed in by hand.
+- `checkq.py MEETING_DIR`: lists topic quotes that are not found in the transcript.
+- `minfmt.py minutes.pdf`: drafts minutes text from a minutes PDF that has a text layer.
+- `rebookmark.py IN OUT`: rewrites flat "Item: G1: Title" packet bookmarks into the usual layout so `split_packet.py` can split the packet.

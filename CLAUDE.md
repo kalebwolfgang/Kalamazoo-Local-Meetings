@@ -9,7 +9,8 @@ A public archive of City of Kalamazoo City Commission meetings, going back to Ja
 ## How Kaleb wants to work
 
 - You do everything: find the materials, process them, and commit straight to `main`. He does not upload files by hand anymore.
-- Work one meeting date at a time (the Committee of the Whole and the Business Meeting on the same day count as one date). After each date is on GitHub, check in with a short message and wait for him to say go on.
+- Work one meeting date at a time (the Committee of the Whole and the Business Meeting on the same day count as one date), and commit each date on its own. By default, check in after each date and wait for him to say go on. If he asks for a batch (on Nov 28, 2026 he asked for all of June to August at once), check your own work after each date, keep committing date by date, and send one short check-in at the end.
+- He likes judgment calls that are labeled and explained: make the call, write it down in the notes, and tell him about it in the check-in.
 - Replies: short, plain language, no technical jargon unless he asks. Never use em dashes, in replies or in any file.
 - Ask before changing anything he did not ask for (README rules, folder layout, tagging rules). Small fixes found along the way: mention them and ask.
 - If a meeting has no minutes posted yet, process it anyway and say so in `info.txt`, `meeting-list.csv` and the checklist.
@@ -55,9 +56,25 @@ Work in a scratch folder (for example `/home/claude/w/DATE/TYPE/`) with `raw/` (
 6. **info.txt.** `tools/write_info.py` with a notes file. Notes cover absences, items moved or withdrawn, abstentions, and anything where the video and the minutes differ (the minutes win).
 7. **Commit.** Copy `out/` into the meeting folder, add the date to `meeting-list.csv` if it is missing, run `tools/build_checklist.py`, commit, push, and check GitHub.
 
+## Audit: mark every staff record issue
+
+Kaleb treats this collection as an audit of the city's records (decided Nov 28, 2026). Staff sometimes forget or miss things, so mark every one you find. Start the line with `Staff record issue:` so they can all be found with one search. Put it at the top of the Notes in `info.txt`, and also in the `notes` column of the agenda item it belongs to. In `meeting-list.csv` notes, say "Staff record issues are listed in info.txt." State what the record shows, with dates and where you checked. Do not guess why it happened.
+
+Things to look for:
+- Minutes not posted on CivicClerk, or posted only as an unsigned DRAFT after the Commission approved them.
+- Minutes never put on a later agenda for approval. Check each later Business Meeting agenda for "Approval of the minutes". Agenda text can be read in Chrome with `GetMeetingFileStream(fileId=ID,plainText=true)`.
+- Packets posted on the day of the meeting or after it (use `publishOn` from the CivicClerk Events API; it may show a later replacement date, so say so).
+- Packet mistakes: an address or subject that does not match the item, the same drawing used for two items, a wrong section reference, blank pages.
+- Slides or documents the minutes say were "filed with the papers" but that are not in the packet or on CivicClerk.
+- Minutes mistakes: a mover or seconder that differs from the video, a missing vote or document number, typos in document numbers.
+
 ## Rules and judgment calls already decided
 
 - Minutes are the official record. When the video and the minutes disagree, follow the minutes and add a note. Do not guess who said something when the captions are unclear.
+- Minutes are often inside a later meeting's packet ("Approval of the minutes from the City Commission meetings on ..."), even when CivicClerk never posted them. Search later packets before saying minutes do not exist. If you use a packet copy, say so in the minutes.txt header and info.txt, link the packet it came from, and mark it as a staff record issue. The approval date is the date of that later consent vote (per its minutes, or "on video" if those minutes are not posted).
+- When there are no minutes: votes, movers, attendance and speaker names come from the video, and the notes say so. Residency is "City resident" only when the speaker says they live in the city or names a city neighborhood they live in; "a resident of Kalamazoo" is "not stated". For a speaker who appears in earlier 2026 minutes, use the minutes' spelling of the name, and their residency when they do not state it on video (say so in `time_note`). If they state a different residency on video, follow the video and note the difference.
+- Names heard only in the captions: mark them in `time_note` as not confirmed. A speaker who gives no name is "Unnamed speaker (short description)". Do not guess gender.
+- An item added during the meeting with no printed number is listed as "Added".
 - `vote_at` is the time of the first "yes" in the roll call. `introduced_at` is when the item is read or announced.
 - Consent items share one vote. If someone abstained on some items, the vote is "5-0, 1 abstaining" with a note.
 - Tagging: count every topic a speaker says something about. Greetings, thanks, congratulations and describing themselves do not count. If the captions are too garbled to tell the topic, leave it out. Other always needs a note.
@@ -68,10 +85,24 @@ Work in a scratch folder (for example `/home/claude/w/DATE/TYPE/`) with `raw/` (
 - Minutes often group general public comment speakers by topic. The table still follows the video order. If the minutes list one person twice but they spoke once, use one row and explain it in `time_note`.
 - A meeting with no public comment still gets `public-comment.csv` and `public-comment-topics.csv`, with headers only.
 - Actions taken after a closed session (for example a labor contract) get their own row, named like `N1a`, with a note.
+- Typed-in tables that the software could not read (for example a page printed sideways) start with `[scanned page printed sideways: ...]`; check that the totals add up and say so.
 - Typed-in map or drawing pages start with `[map or picture page: the software text was not usable, so the readable labels were typed in by hand from the page image. ...]`. Fully blank-text slides use `[picture page: ...]`.
 - CSV files use Windows line endings (CRLF), like the rest of the repo. `finish_tables.py` and `fix_agenda_row.py` already write them that way.
 
+## Helper tools added Nov 28, 2026
+
+- `tools/sheet.py PDF OUTPREFIX pages...` makes contact sheets (8 page images each) so you can look at many packet pages at once.
+- `tools/typein.py PACKET_DIR PAGE TEXTFILE` replaces one packet page's text in whichever .txt file holds it. Log every use in `corrections.txt`.
+- `tools/checkq.py MEETING_OUT_DIR` lists topic quotes that `finish_tables.py` will not find, so you can fix them first.
+- `tools/minfmt.py minutes.pdf` drafts minutes.txt from a minutes PDF that has a text layer (margin headings in brackets). Still check it against the page images.
+- `tools/rebookmark.py IN OUT` fixes packets whose bookmarks are flat ("Item: G1: Title" with no section or Agenda Report bookmarks; the June 1, 2026 packet). Split the fixed working copy, never change the original, and note it in corrections.txt.
+
 ## Other traps
+
+- Speakers often hide inside another speaker's caption turn (the Mayor's "go ahead" and the new speaker's "my name is" on one line, or a new voice with no name). Read every speaker's full text with `speaker_text.py` and watch for a change of voice, a new name, or "next, please".
+- `split_packet.py` can take more than 2 minutes on a big packet. Run it in the background with `nohup` and check its log.
+- A browser_batch cannot go from YouTube to GitHub in one batch. Use one batch per site.
+- To push from this workspace, the repo must be added with push access first.
 
 - The repo moved to `kalebwolfgang/Kalamazoo-Local-Meetings` (capital letters). Use that URL.
 - Commit as "Claude" and end the message with the session attribution lines.
@@ -82,7 +113,10 @@ Work in a scratch folder (for example `/home/claude/w/DATE/TYPE/`) with `raw/` (
 
 - Sep 8, 2026 Business Meeting packet is over 100 MB.
 - May 18, 2026: both sets of minutes were posted only as unsigned DRAFTs. Replace minutes.txt and the approval date when the approved version is posted. (The CoW had no packet because the whole meeting was a closed session.)
-- Minutes stamped DRAFT: process them, say so in the minutes.txt header, info.txt and meeting-list.csv notes, and write "not yet (the posted minutes are a DRAFT)" for the approval date.
-- Minutes not posted yet (as of 2026-11-27): Jun 15 CoW, Jul 6, Aug 10 (both), Aug 17 (both), Sep 8 (both), Sep 21 Business.
+- Minutes stamped DRAFT: process them and say so in the minutes.txt header, info.txt and meeting-list.csv notes. If a later meeting approved them, the approval date is that meeting's date and the posted DRAFT is a staff record issue; otherwise write "not yet (the posted minutes are a DRAFT)".
+- Minutes not posted yet (checked 2026-11-28): Jul 6, Aug 10 (both), Aug 17 (both), Sep 8 (both), Sep 21 Business. None of these has been on a Business Meeting agenda for approval through Nov 16, 2026.
+- Jun 15 CoW minutes: never posted; the text comes from the July 6, 2026 packet (G19). Those pages are saved on `raw-inputs` as `inputs/2026-06-15-committee-of-the-whole/minutes-from-2026-07-06-packet.pdf`.
+- Posted only as unsigned DRAFTs even though approved: May 18 (both, approved Jun 1), Jun 1 and Jun 15 Business (approved Jul 6), Jul 20 (both, approved Aug 10).
+- Meetings processed before Nov 28, 2026 (January to May) were not checked for staff record issues the same way. Ask Kaleb before going back over them.
 - Mar 14, 2026 Planning Retreat: no minutes were ever posted. Video is on the Public Media Network channel. Names in it come from the video.
 - Before 2026: no meeting list yet. Check how far back CivicClerk goes and where older records live.

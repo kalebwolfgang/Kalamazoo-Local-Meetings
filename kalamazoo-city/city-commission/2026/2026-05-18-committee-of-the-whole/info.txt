@@ -14,7 +14,7 @@ Agenda: https://kalamazoomi.portal.civicclerk.com/event/2571/files/agenda/5059
 Agenda packet: none posted (the whole meeting was a closed session)
 Minutes: https://kalamazoomi.portal.civicclerk.com/event/2571/files/agenda/5074
 Minutes document number: CC-2026-19
-Minutes approved: not yet (the posted minutes are a DRAFT)
+Minutes approved: 2026-06-01 (consent item G11 at the June 1, 2026 Business Meeting, per the June 1 minutes); the posted copy is still the unsigned DRAFT
 
 Files in this folder:
   transcript.txt  cleaned YouTube automatic captions; 14 blocks, each sentence timestamped (29 timestamps)
@@ -25,8 +25,8 @@ Files in this folder:
   agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
 
 Notes:
+  Staff record issue: the Commission approved these minutes on 2026-06-01 (consent item G11 at the June 1, 2026 Business Meeting, per the June 1 minutes), but the copy posted on CivicClerk is still the unsigned DRAFT with a blank approval date (checked 2026-11-28).
   All seven commissioners were present (per minutes).
-  The posted minutes are a DRAFT: stamped DRAFT, not signed, and with no approval date. Check again later for the approved version.
   The whole meeting was a closed session to discuss pending litigation and an attorney-client privileged communication, so there was no agenda packet. The Commission did not return to open session; the meeting adjourned at 5:02 PM.
   No one spoke during public comment (per minutes), so public-comment.csv and public-comment-topics.csv have headers only.
 

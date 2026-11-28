@@ -14,7 +14,7 @@ Agenda: https://kalamazoomi.portal.civicclerk.com/event/2560/files/agenda/5249
 Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2560/files/agenda/5253
 Minutes: https://kalamazoomi.portal.civicclerk.com/event/2560/files/agenda/5279
 Minutes document number: CC-2026-28
-Minutes approved: not yet (the posted minutes are a DRAFT)
+Minutes approved: 2026-08-10 (consent item G16 at the August 10, 2026 Business Meeting, on video); the posted copy is still the unsigned DRAFT
 
 Files in this folder:
   transcript.txt  cleaned YouTube automatic captions; 902 blocks, each sentence timestamped (1787 timestamps)
@@ -27,10 +27,11 @@ Files in this folder:
                   packet/corrections.txt lists pages whose text was typed in or fixed by hand
 
 Notes:
+  Staff record issue: the Commission approved these minutes on 2026-08-10 (consent item G16 at the August 10, 2026 Business Meeting, on video), but the copy posted on CivicClerk is still the unsigned DRAFT with a blank approval date (checked 2026-11-28).
+  Staff record issue: the minutes list Commissioner Slaby as seconding the consent agenda, but on video the second is Commissioner Hess. The minutes print G2's document number as "2026-26-06", which looks like a typo for 2026-28-06.
   All seven commissioners were present (per minutes).
-  The posted minutes are a DRAFT: stamped DRAFT, not signed, and with no approval date. Check again later for the approved version.
   Agenda change: a settlement agreement in Dirk Adam v City of Kalamazoo was added to the regular agenda as H5. In agenda-items.csv it is listed as "Added", because it has no printed number.
-  Consent agenda: the minutes say Commissioner Wilson moved and Commissioner Slaby seconded; on video the second is Commissioner Hess. The minutes are followed. The minutes print G2's document number as "2026-26-06", which looks like a typo for 2026-28-06; it is kept as printed.
+  Consent agenda: the minutes say Commissioner Wilson moved and Commissioner Slaby seconded; the minutes are followed. G2's document number is kept as printed.
   Public comment: 26 general speakers, 2 on H3 and 7 on K1 (call-in public comments). Many spoke about Flock license plate cameras, a moratorium on data centers, the fence around Arcadia Creek Festival Place, and Northside safety.
   Jody Dozeman (general speaker 12) has no topic rows: she read her own writings about faith and a spaceship, and no city issue could be identified.
   Jonathan Yarbrough and Joe Williams do not say their names at the start of their general comments on video; they are matched to the minutes by speaking order. The speaker the minutes call "Thelma" is captioned "DOMA".

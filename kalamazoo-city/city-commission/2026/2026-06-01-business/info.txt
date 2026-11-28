@@ -14,7 +14,7 @@ Agenda: https://kalamazoomi.portal.civicclerk.com/event/2535/files/agenda/5142
 Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2535/files/agenda/5141
 Minutes: https://kalamazoomi.portal.civicclerk.com/event/2535/files/agenda/5207
 Minutes document number: CC-2026-22
-Minutes approved: not yet (the posted minutes are a DRAFT)
+Minutes approved: 2026-07-06 (consent item G19 at the July 6, 2026 Business Meeting, on video); the posted copy is still the unsigned DRAFT
 
 Files in this folder:
   transcript.txt  cleaned YouTube automatic captions; 745 blocks, each sentence timestamped (1417 timestamps)
@@ -27,10 +27,11 @@ Files in this folder:
                   packet/corrections.txt lists pages whose text was typed in or fixed by hand
 
 Notes:
+  Staff record issue: the Commission approved these minutes on 2026-07-06 (consent item G19 at the July 6, 2026 Business Meeting, on video), but the copy posted on CivicClerk is still the unsigned DRAFT with a blank approval date (checked 2026-11-28).
+  Staff record issue: in the packet, the easement drawings for G9 (1005 Newton Court) and G10 (1009 Newton Court) are the same page, so G10 has no drawing of its own.
+  Staff record issue: the H3 and H4 slides were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk.
   All seven commissioners were present (per minutes). The agenda was adopted as presented, and there were no proclamations.
-  The posted minutes are a DRAFT: stamped DRAFT, not signed, and with no approval date. Check again later for the approved version.
   Jody Dozeman (General public comment, speaker 1) has no topic rows: she spoke about her faith, a spaceship and her own life, and no city issue could be identified. The minutes spell her name "Jody"; the Feb 16, 2026 minutes spelled it "Jodi". Each meeting keeps its own minutes' spelling.
   The minutes list one speaker only as "K", with no residency. She says "I'm Kay" on video. She is listed as "K", residency "not stated".
   Items H3 and H4 (Kalamazoo Avenue two-way conversion) were presented together by Public Services Director James Baker; the slides were filed with the meeting papers, not in the packet.
-  In the packet, the easement drawings for G9 (1005 Newton Court) and G10 (1009 Newton Court) are the same page. See packet/corrections.txt.
   The packet's bookmarks used a different layout from other meetings, so they were rearranged on a working copy before splitting. Page numbers are unchanged.

@@ -14,7 +14,7 @@ Agenda: https://kalamazoomi.portal.civicclerk.com/event/2559/files/agenda/5164
 Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2559/files/agenda/5176
 Minutes: https://kalamazoomi.portal.civicclerk.com/event/2559/files/agenda/5218
 Minutes document number: CC-2026-24
-Minutes approved: not yet (the posted minutes are a DRAFT)
+Minutes approved: 2026-07-06 (consent item G19 at the July 6, 2026 Business Meeting, on video); the posted copy is still the unsigned DRAFT
 
 Files in this folder:
   transcript.txt  cleaned YouTube automatic captions; 550 blocks, each sentence timestamped (1065 timestamps)
@@ -27,8 +27,9 @@ Files in this folder:
                   packet/corrections.txt lists pages whose text was typed in or fixed by hand
 
 Notes:
+  Staff record issue: the Commission approved these minutes on 2026-07-06 (consent item G19 at the July 6, 2026 Business Meeting, on video), but the copy posted on CivicClerk is still the unsigned DRAFT with a blank approval date (checked 2026-11-28).
+  Staff record issue: CivicClerk lists the agenda packet as published on the day of the meeting (it may have been replaced that day; the first posting date is not shown).
   Mayor Anderson and Commissioner Hoffman were absent and were excused by voice vote (per minutes). Vice Mayor Duncan chaired. All votes were 5-0 with two members absent.
-  The posted minutes are a DRAFT: stamped DRAFT, not signed, and with no approval date. Check again later for the approved version.
   Nine public comment speakers opposed a proposed data center in the Milwood Neighborhood (speakers describe the Harbor Farms building on what the captions call "full circle drive"). Vice Mayor Duncan read a statement on data centers before public comment (row D).
   Jeffrey Fry and Thelma spoke together in one turn and are one row, as in the minutes. Jeffrey Fry came back briefly at about 1:00:20 to show a picture; the Vice Mayor reminded him each person speaks once. That return is not a separate row and is not in the minutes.
   Tina McClinton spoke once but is listed twice in the minutes (with the data center speakers and on her other topics). She has one row.

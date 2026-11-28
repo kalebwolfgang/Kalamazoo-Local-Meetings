@@ -24,6 +24,9 @@ Files in this folder:
                   packet/corrections.txt lists pages whose text was typed in or fixed by hand
 
 Notes:
+  Staff record issue: no minutes are posted on CivicClerk (checked 2026-11-28), and no Business Meeting agenda from August 17 through November 16, 2026 has an item to approve them.
+  Staff record issue: CivicClerk lists the agenda packet as published on the day of the meeting (it may have been replaced that day; the first posting date is not shown).
+  Staff record issue: H6: the moratorium resolution in the packet cited the wrong section (section 5(a)(3) said "section one, paragraph three" instead of "section two, paragraph three"). A speaker pointed it out and the Commission corrected it by amendment at the meeting.
   No minutes have been posted, so attendance, votes, movers, public comment names and residency come from the video. Times, outcomes and votes should be checked against the minutes once they are posted.
   All seven commissioners were present (on video). All votes were 7-0.
   Residency: "City resident" is used when a speaker said they live in the city or named a city neighborhood they live in. For speakers who also appear in earlier 2026 minutes, names follow those minutes, and residency does too when the speaker did not state it on video. Bex Bergman and Jude Watkins said on video that they live in Kalamazoo Township, so they are listed as non-residents even though the March 16, 2026 minutes list them as City residents.
