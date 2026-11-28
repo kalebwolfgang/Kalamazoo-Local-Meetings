@@ -1,0 +1,37 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-03-02
+Scheduled start: 7:00 PM
+Called to order: 7:01 PM (per minutes)
+Adjourned: 8:58 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=pp5pCqjcJLE
+Note: the meeting starts about 2 minutes and 55 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2532/files/agenda/4806
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2532/files/agenda/4821
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2532/files/agenda/4984
+Minutes document number: CC-2026-09
+Minutes approved: 2026-03-16
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 533 blocks, each sentence timestamped (1170 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (25 rows): 24 in general public comment, 1 in agenda item H2 (B-NEZ resolution)
+  public-comment-topics.csv  one row per topic each speaker mentioned (78 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (20 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 19 agenda items and 26 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  Agenda item H3 (COPS Hiring Program Award) was removed from the agenda at the start of the meeting. Its packet pages are still included.
+  The minutes list Tracey Lawie, Liz Healy and Holly Smith together. Only Tracey Lawie spoke on video, so there is one row.
+  Margaret Wilson does not say her name on video. She is matched to the minutes by speaking order.
+  On H2 (B-NEZ resolution), Commissioner Praedel and Vice Mayor Duncan abstained (per minutes). On video, Commissioner Praedel said the owner of the developer sits on the board of the nonprofit he leads.
+  The minutes spell the sorority both "Delta Theta Sigma" and "Delta Sigma Theta." Both are kept as written.
+  The Wightman design presentation slides were filed with the meeting papers but are not in the packet.
+
+Related meeting: 2026-03-02-committee-of-the-whole (5:00 PM, same day)

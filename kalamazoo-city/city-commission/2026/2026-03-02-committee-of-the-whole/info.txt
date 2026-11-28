@@ -1,0 +1,34 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Committee of the Whole
+Date: 2026-03-02
+Scheduled start: 5:00 PM
+Called to order: 5:00 PM (per minutes)
+Adjourned: 6:11 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=_HzfrsdW5C0
+Note: the meeting starts about 1 minute and 59 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2544/files/agenda/4819
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2544/files/agenda/4820
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2544/files/agenda/4990
+Minutes document number: CC-2026-08
+Minutes approved: 2026-03-16
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 324 blocks, each sentence timestamped (627 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (1 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (3 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (2 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 1 agenda items and 1 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  Commissioner Praedel was excused at the start and arrived at 5:02 PM (per minutes).
+  The Commission went into closed session to discuss an attorney-client privileged communication and did not return to open session (per minutes). The closed session is listed in agenda-items.csv as CS.
+  The presentation slides are in the packet (D1).
+
+Related meeting: 2026-03-02-business (7:00 PM, same day)

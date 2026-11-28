@@ -9,6 +9,7 @@ rows=[]
 for line in sys.stdin:
     if not line.strip(): continue
     p=line.rstrip('\n').split('|')
+    assert len(p)==16, f'need 16 fields, got {len(p)}: {line[:60]}'
     it,ti,sec,out,vote,no,mv,sd,res,md,top,intro,va,mp,pp,notes=p
     if ti=='*': ti=T[it]
     elif ti.startswith('*'): ti=T[ti[1:]]

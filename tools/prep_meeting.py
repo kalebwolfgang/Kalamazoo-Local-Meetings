@@ -18,7 +18,7 @@ open(f'{d}/out/agenda.txt','w').write('\n'.join(parts))
 if os.path.exists(f'{d}/raw/transcript-paste.txt'):
     subprocess.run(['python3',f'{R}/tools/clean_transcript.py',f'{d}/raw/transcript-paste.txt',f'{R}/rosters/kalamazoo-city-commission.csv',f'{d}/out/transcript.txt',f'{d}/transcript-report.txt',title,vid,date])
 # minutes OCR
-if os.path.exists(f'{d}/raw/minutes.pdf'):
+if os.path.exists(f'{d}/raw/minutes.pdf') and not os.path.exists(f'{d}/minutes-ocr.txt'):
     os.makedirs(f'{d}/img',exist_ok=True)
     subprocess.run(['pdftoppm','-r','300','-png',f'{d}/raw/minutes.pdf',f'{d}/img/min'])
     for f in sorted(glob.glob(f'{d}/img/min-*.png')):

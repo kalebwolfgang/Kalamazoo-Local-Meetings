@@ -1,0 +1,6 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The pages below were a map or blank pages. Software turned them into unreadable or no text, so that text was replaced.
+
+H02-b-nez-resolution--02-b-nez-resolution.txt, packet page 53: map. Readable labels typed in by hand from the page image.
+H03-cops-hiring-grant--03-award-details-faw-189271.txt, packet pages 79, 83, 86: blank pages. Marked as blank.
