@@ -1,0 +1,6 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The pages below had no text the software could read, so the text was typed in by hand or the page was marked blank.
+
+G07-b-on-burdick-brownfield-plan--05-b-on-burdick-city-of-kalamazoo-brownfield-plan-491.txt, packet page 60: section title page. Typed in by hand from the page image.
+H03-cops-hiring-grant--03-award-details-faw-189271.txt, packet pages 194, 198, 201: blank pages. Marked as blank.

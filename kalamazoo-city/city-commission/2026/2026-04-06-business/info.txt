@@ -1,0 +1,38 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-04-06
+Scheduled start: 7:00 PM
+Called to order: 7:02 PM (per minutes)
+Adjourned: 9:08 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=lhe0djlxkgc
+Note: the meeting starts about 1 minute and 26 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2533/files/agenda/4922
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2533/files/agenda/4976
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2533/files/agenda/4986
+Minutes document number: CC-2026-14
+Minutes approved: 2026-04-20
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 610 blocks, each sentence timestamped (1229 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (36 rows): 35 in general public comment, 1 in agenda item H1 (808 Simpson sale)
+  public-comment-topics.csv  one row per topic each speaker mentioned (151 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (22 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 20 agenda items and 39 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  Commissioner Hoffman was absent and excused (per minutes).
+  Item H3 (COPS Hiring Program Award) was removed from the agenda at City Manager Hankins's request when the agenda was adopted. Most general public comments were about this grant.
+  The minutes group the speakers by topic, so their order differs from the video. public-comment.csv follows the video order.
+  Kimberly Bender's name is not clear in the captions, and Cathy Phason, Shona Espinoza and the two anonymous speakers do not give names on video. They are matched to the minutes by speaking order.
+  Names are kept as the minutes spell them (for example "Samatha Vimes"). The minutes spell Commissioner Praedel as "Pradel" once, in the note on consent item G7.
+  Consent item G7: Commissioner Praedel said he was not abstaining, because Jamauri Bogan no longer serves on the board for his employer (per minutes).
+  Item H1 (808 Simpson Street): on video the motion was first stated as a motion to approve. Staff then explained that property sales come back at a second meeting. The minutes record a motion to postpone to April 20, 2026, and the tables follow the minutes.
+
+Related meeting: 2026-04-06-committee-of-the-whole (5:00 PM, same day)

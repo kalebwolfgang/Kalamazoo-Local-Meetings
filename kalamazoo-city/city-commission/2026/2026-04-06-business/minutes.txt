@@ -1,0 +1,171 @@
+# Kalamazoo City Commission, Business Meeting, April 6, 2026: Minutes
+# Official minutes, document CC-2026-14. Approved by the City Commission on 04/20/2026.
+# Source: scanned PDF. Text read by software, then checked by hand for names, numbers, and votes.
+# Margin headings from the original are shown in [brackets]. Page numbers match the original.
+
+--- page 59 ---
+
+A regular meeting of the Kalamazoo City Commission was held on Monday, April 6, 2026 at 7:02 p.m. in the City Commission Chambers at City Hall.
+
+[Roll Call]
+COMMISSIONERS PRESENT: Mayor David Anderson, Vice Mayor Drew Duncan, Jeanne Hess, Chris Praedel, Jacqueline Slaby, Alonzo Wilson
+COMMISSIONERS ABSENT: Stephanie Hoffman
+Also present were City Manager Malcolm Hankins, City Attorney Aaron Leal, and Deputy City Clerk Shelby Moss.
+
+[Commissioners Excused]
+Commissioner Praedel, seconded by Vice Mayor Duncan, moved to excuse the absence of Commissioner Hoffman. With a voice vote the motion passed.
+
+[Opening Ceremony]
+
+[Invocation/Pledge]
+The invocation, given by Pastor Jermaine Gayle, Kalamazoo Seventh-Day Adventist Church, was followed by the Pledge of Allegiance.
+
+[Proclamations] [2026-14-01]
+Commissioner Hess read a proclamation recognizing the Choices for Change 35th Anniversary. Michelle Serlin and Troy Zukowski-Serlin received the proclamation.
+
+[Formal Adoption of the Agenda]
+
+[Adoption of the Agenda] [2026-14-02]
+By unanimous consent the City Commission adopted its meeting agenda as presented/with the following change:
+    City Manager Hankins requested the language regarding the waiver of City Commission Rule 12k be removed from the appointment of Drew Duncan to the Planning Commission and that Item H-3, acceptance of a COPS Hiring Program Award, be removed from the agenda.
+
+[Public Comments]
+Next, when an opportunity was given for general public comments, the following people addressed the City Commission:
+    The following people expressed opposition to the COPS Hiring Program Award, data sharing, police brutality, and the practices of Immigration and Customs Enforcement (ICE) agents:
+        Kay, non-resident
+        Rabbi Simone Schicker, City resident
+        Wendy Fields, City resident and NAACP President
+        Carol Anderson, City resident
+        Marysol Millar, City resident
+        Katherine Heins, City resident
+        Vicki Vanas, City resident
+        Steve Seats, unhoused
+
+--- page 60 ---
+
+[Public Comments (cont'd)]
+        Jay Wholihan, City resident
+        Wendy Flora, City resident
+        Aedin Clements, City resident and League of Women Voters member
+        Jack Papin, non-resident
+        Anonymous Speaker
+        Gloria Baldwin-Wilson, City resident
+        Samatha Vimes, City resident
+        Kimberly Bender, City resident
+        Claire, City resident
+        Laura Moss, City resident
+        Maggie Adams, City resident and ISAAC member
+        Kori Jock, City resident
+        Sarah Pruitt, City resident
+        Liberty Kostrzewa, City resident
+        Ashante Collins, ISAAC member
+        Charlae Davis, ISAAC member
+        Cathy Phason, ISAAC member
+        Luke Zimmer, City resident
+        Sean McLaughlin, City resident
+        Anonymous Speaker
+        Shona Espinoza, City resident
+    Irshad Manji, Moral Courage Founder & CEO, invited the public to attend the official kick-off of the Western Michigan University Moral Courage Mentorship Program.
+    Leslie Zook, City resident, regarding the need to hire more social workers not more police officers.
+    Rev. Sarah Schmidt-Lee, City resident, regarding gathering on the steps of City Hall on Wednesdays to pray for our elected officials to have moral courage and in opposition of accepting money from the Federal Government.
+    Letitia McKissic, City resident, regarding issues with sidewalks, trees, and potholes in the Northside neighborhood and the lack of communication from the City regarding these issues.
+    Vanisha read a list of individuals who have lost their lives to ICE actions since January 2025.
+    Tina McClinton, City resident, thanked the City for finally acknowledging the flooding in her neighborhood and for turning down the COPS grant.
+
+[Consent Agenda]
+Consent Agenda items were presented as follows with a recommendation to approve the items and authorize the City Manager to sign all related documents on behalf of the city:
+    2026-14-03: approval of a contract extension with Earthworks Lawn and Landscape for 13 and 26 frequency 2026 property mowing in the amount of $168,760.
+
+--- page 61 ---
+
+    2026-14-04: approval of a contract supplemental and change order with Prein & Newhof for engineering services related to the 2024 Drinking Water State Revolving Fund Edison Non-Copper Service Replacement Project in the amount of $270,000.
+    2026-14-05: approval of a sole source purchase with Centrifuge-Systems LLC for centrifuge equipment rehabilitation in the amount of $301,040.
+    2026-14-06: approval of a contract supplemental/change order with MES for Firefighter Turnout Gear in the amount of $527,142.
+    2026-14-07: approval of a contract supplemental and change order with Michigan Office Environments for office furniture associated with the 150 East Crosstown Facility Renovation Project in the amount of $976,623.39.
+    2026-14-08: adoption of a RESOLUTION recommending approval of a Social District Permit for Old Skool Bars, LLC located at 125 S Kalamazoo Mall.
+    2026-14-09: adoption of a RESOLUTION approving the Act 381 Brownfield Plan for the B on Burdick Redevelopment Project located at 802 S Burdick Street.
+    2026-14-10: approval of an Amendment to Services Agreement with United Way of South Central Michigan for the Kalamazoo Micro-Enterprise Grant (KMEG) program and to adjust funding sources for the KMEG program 2026 funding.
+    2026-14-11: approval of a Housing Development Fund deferred loan in the amount of $350,000 to Kalrecovery I Limited Dividend Housing Association Limited Partnership to construct a new 48-unit housing project to include 46 permanent supportive housing units for those recovering from opiate and methamphetamine use disorders.
+    2026-14-12: approval of an Addendum to Subrecipient Agreement with Kalrecovery I Limited Dividend Housing Association Limited Partnership for the conversion of an ARPA grant to a deferred loan in the amount of $700,000 to construct a new 48-unit housing project to include 46 permanent supportive housing units for those recovering from opiate and methamphetamine use disorders.
+    2026-14-13: acceptance of a Redevelopment Ready Communities technical assistance grant in the amount of $25,000 through the Community Economic Development Association of Michigan, and approval of the grant terms and a sole source agreement with MDDL for a housing development analysis in the amount of $25,000.
+    2026-14-14: acceptance of funding from the State of Michigan in the amount of $500,000 to purchase firefighter turnout gear; and approval of a budget amendment in the amount of $500,000 to enable expenditure of the funds.
+    2026-14-15: approval of the Mayor's appointments to boards, commissions, and committees:
+        - the appointment of Connor Sampson to the Downtown Development Authority and Downtown Economic Growth Authority Boards for a partial term expiring March 31, 2028.
+
+--- page 62 ---
+
+[Consent Agenda (cont'd)]
+        - the appointment of Harvin Sandhu to the Downtown Development Authority and Downtown Economic Growth Authority Boards for a full term expiring March 31, 2030.
+        - the appointment of Nelson Nave to the Historic District Commission for a partial term expiring on January 1, 2027.
+        - the appointment of Sarah Munchow to the Natural Features Protection Review Board for a partial term expiring on March 31, 2028.
+        - the appointment of Drew Duncan to the Planning Commission for a full term expiring March 31, 2029.
+        - the appointment of Diego Sandoval to the Planning Commission for a full term expiring March 31, 2029.
+        - the appointment of Sakhi Vyas to the Planning Commission for a full term expiring March 31, 2029.
+    2026-14-16: approval of the following reappointments to the Zoning Board of Appeals:
+        - the reappointment of Gary Wark for a full term expiring March 31, 2029.
+        - the reappointment of Allison Hahn for a full term expiring March 31, 2029.
+        - the reappointment of Jack Urban for a full term expiring March 31, 2029.
+    2026-14-17: approval of an easement agreement with Kalamazoo Public Schools (KPS) for watermain installed as part of the KPS school project on South Westnedge Avenue.
+    2026-14-18: approval of the minutes from the City Commission meetings on March 16, 2026.
+
+Commissioner Slaby, seconded by Commissioner Hess, moved to approve the consent agenda requests and authorize the City Manager to sign all related documents on behalf of the City.
+
+With a roll call vote this motion passed 6-0.
+AYES: Commissioners Hess, Praedel*, Slaby, Wilson, Vice Mayor Duncan, Mayor Anderson
+NAYS: None
+*At the time of the vote Commissioner Pradel indicated he was not abstaining from Item G-7, a resolution approving a Brownfield Plan for the B on Burdick Redevelopment Project, as Jamauri Bogan was no longer serving on the board for his employer.
+
+--- page 63 ---
+
+[Regular Agenda]
+
+[2026-14-19: Sale of 808 Simpson to Kalamazoo Neighborhood Housing Services]
+City Manager Hankins introduced for consideration the postponement of the sale of 808 Simpson Street to Kalamazoo Neighborhood Housing Services until April 20, 2026.
+
+Commissioner Questions: none
+
+Public Comments:
+    Beth McCann, Executive Director at Kalamazoo Neighborhood Housing Service, Inc., in support of the sale.
+
+Commissioner Slaby, seconded by Vice Mayor Duncan, moved to postpone until April 20, 2026 consideration of the sale of 808 Simpson Street to Kalamazoo Neighborhood Housing Services for the sale price of $500; and an amendment to the Housing Programs budget by $970.
+
+With a roll call vote this motion passed 6-0.
+AYES: Commissioners Hess, Praedel, Slaby, Wilson, Vice Mayor Duncan, Mayor Anderson
+NAYS: None
+
+[2026-14-20: Purchase of Self-Contained Breathing Apparatus (SCBA)]
+City Manager Hankins introduced for consideration the purchase of Self-Contained Breathing Apparatus and the funding sources for the purchase.
+
+Commissioner Questions: none
+Public Comments: none
+
+Commissioner Slaby, seconded by Vice Mayor Duncan, moved to approve the purchase of Self-Contained Breathing Apparatus from MacQueen Emergency through the Sourcewell cooperative purchasing program in the amount of $1,012,900.
+
+With a roll call vote this motion passed 6-0.
+AYES: Commissioners Hess, Praedel, Slaby, Wilson, Vice Mayor Duncan, Mayor Anderson
+NAYS: None
+
+[Reports and Legislation]
+
+[2026-14-21: City Manager's Report]
+City Manager Hankins reviewed and highlighted items in the written City Manager's Report.
+
+[Commissioner Comments]
+Commissioner Hess highlighted the comments made by Irshad Manji and the Moral Courage program and she remarked on her ride-along with Public Safety.
+
+--- page 64 ---
+
+[Commissioner Comments (cont'd)]
+Commissioner Praedel thanked State representatives for securing $500,000 for the purchase of firefighter turnout gear, and he offered remarks on the City's tree canopy projects.
+
+Commissioner Slaby expressed appreciation for the removal of Item H-3 from the agenda.
+
+Vice Mayor Duncan remarked on the importance of moral courage, and he encouraged everyone to stay diligent when it came to the review of future federal funding.
+
+Mayor Anderson highlighted the affordable housing agenda items, and he thanked the People's Food Co-Op for their management of the City's Farmers Market.
+
+[Adjournment]
+The meeting adjourned at 9:08 p.m.
+
+[signature] Shelby Moss, Deputy City Clerk
+Approved by the City Commission on: 04/20/2026 (handwritten)

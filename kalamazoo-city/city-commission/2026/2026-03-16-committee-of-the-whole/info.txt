@@ -25,7 +25,7 @@ Files in this folder:
   agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
 
 Notes:
-  Vice Mayor Duncan and Commissioner Slaby were absent. A motion to excuse them failed for lack of a second (per minutes). At the Business Meeting that night, both absences from this meeting were excused.
+  Vice Mayor Duncan and Commissioner Slaby were absent. A motion to excuse them failed for lack of a second (per minutes). At the Business Meeting that night, Commissioner Slaby's absence from this meeting was excused. A motion was also made to excuse Vice Mayor Duncan's absence from this meeting, but the minutes do not record a vote on it.
   The development presentation slides were filed with the meeting papers but are not in the packet.
 
 Related meeting: 2026-03-16-business (7:00 PM, same day)

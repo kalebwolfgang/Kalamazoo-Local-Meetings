@@ -1,0 +1,33 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Committee of the Whole
+Date: 2026-04-06
+Scheduled start: 5:00 PM
+Called to order: 5:02 PM (per minutes)
+Adjourned: 6:12 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=vJjjoeZAH2s
+Note: the meeting starts about 20 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2545/files/agenda/4928
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2545/files/agenda/4929
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2545/files/agenda/4992
+Minutes document number: CC-2026-13
+Minutes approved: 2026-04-20
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 317 blocks, each sentence timestamped (758 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (2 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (6 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 1 agenda items and 1 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  Commissioner Hoffman was absent and excused (per minutes).
+  Caleb Leonard's name is not clear in the captions. He is matched to the minutes by speaking order.
+
+Related meeting: 2026-04-06-business (7:00 PM, same day)
