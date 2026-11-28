@@ -1,0 +1,7 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The pages below had no usable text from the software, so the words on them were typed in by hand from the page images.
+
+G07-duke-street-easement--02-duke-street-housing-water-main-easement-exhibit.txt, packet page 25: water main easement survey drawing. Labels, bearings, legal description and title block typed in by hand.
+
+# Not typed in: the other scanned pages (the Duke Street easement agreement and the 1517 South Park Street buy/sell agreement) are text documents read by software. Signature blocks, stamps and handwriting may read as garbled text.

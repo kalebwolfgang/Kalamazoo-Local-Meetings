@@ -1,0 +1,40 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-07-20
+Scheduled start: 7:00 PM
+Called to order: 7:01 PM (per minutes)
+Adjourned: 9:50 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=U08BKv2Pc7A
+Note: the meeting starts about 1 minute and 22 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2560/files/agenda/5249
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2560/files/agenda/5253
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2560/files/agenda/5279
+Minutes document number: CC-2026-28
+Minutes approved: not yet (the posted minutes are a DRAFT)
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 902 blocks, each sentence timestamped (1787 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (from the PDF's text layer, checked against the page images)
+  public-comment.csv  one row per public comment speaker (35 rows): 26 in general public comment, 2 in agenda item H3 (water meter replacement), 7 in agenda item K1 (call-in public comments)
+  public-comment-topics.csv  one row per topic each speaker mentioned (112 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (19 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 14 agenda items and 17 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  All seven commissioners were present (per minutes).
+  The posted minutes are a DRAFT: stamped DRAFT, not signed, and with no approval date. Check again later for the approved version.
+  Agenda change: a settlement agreement in Dirk Adam v City of Kalamazoo was added to the regular agenda as H5. In agenda-items.csv it is listed as "Added", because it has no printed number.
+  Consent agenda: the minutes say Commissioner Wilson moved and Commissioner Slaby seconded; on video the second is Commissioner Hess. The minutes are followed. The minutes print G2's document number as "2026-26-06", which looks like a typo for 2026-28-06; it is kept as printed.
+  Public comment: 26 general speakers, 2 on H3 and 7 on K1 (call-in public comments). Many spoke about Flock license plate cameras, a moratorium on data centers, the fence around Arcadia Creek Festival Place, and Northside safety.
+  Jody Dozeman (general speaker 12) has no topic rows: she read her own writings about faith and a spaceship, and no city issue could be identified.
+  Jonathan Yarbrough and Joe Williams do not say their names at the start of their general comments on video; they are matched to the minutes by speaking order. The speaker the minutes call "Thelma" is captioned "DOMA".
+  The minutes spell one K1 speaker "Shone Espinoza" (and "Shona Espinoza" in general public comment); each row keeps the spelling the minutes use there.
+  K1 (call-in public comments) passed 7-0, directing staff to prepare options. L1 (data center moratorium) was a discussion with no vote; City Attorney Leal is to present on moratoria at the next Committee of the Whole.
+
+Related meeting: 2026-07-20-committee-of-the-whole (5:00 PM, same day)

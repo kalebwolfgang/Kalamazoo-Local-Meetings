@@ -1,0 +1,36 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Committee of the Whole
+Date: 2026-07-20
+Scheduled start: 5:00 PM
+Called to order: 5:00 PM (per minutes)
+Adjourned: 5:54 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=_SyWq7gym08
+Note: the meeting starts about 3 minutes and 18 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2573/files/agenda/5254
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2573/files/agenda/5255
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2573/files/agenda/5280
+Minutes document number: CC-2026-27
+Minutes approved: not yet (the posted minutes are a DRAFT)
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 301 blocks, each sentence timestamped (548 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (from the PDF's text layer, checked against the page images)
+  public-comment.csv  one row per public comment speaker (7 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (19 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (2 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 1 agenda items and 2 attachments; see packet/index.csv
+
+Notes:
+  All seven commissioners were present (per minutes).
+  The posted minutes are a DRAFT: stamped DRAFT, not signed, and with no approval date. Check again later for the approved version.
+  Jody Dozeman (speaker 2) has no topic rows: she read her own writings about faith, love and a spaceship, and no city issue could be identified.
+  Montrey Merritt (speaker 7) came forward after the Mayor had started to close public comment and was allowed to speak. His name is spelled as in the minutes; the captions give "Lamarre Merrit, senior".
+  D1: Bobby Boyd's slides were filed with the meeting papers; the packet has the agenda report and the recommended policy amendments.
+  D2: the Commission went into closed session to discuss pending litigation and did not return; the meeting adjourned at 5:54 PM (per minutes). The Business Meeting that evening added a settlement in Dirk Adam v City of Kalamazoo (item H5 there).
+
+Related meeting: 2026-07-20-business (7:00 PM, same day)
