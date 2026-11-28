@@ -1,0 +1,28 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Planning Retreat
+Date: 2026-03-14
+Scheduled start: 8:30 AM
+Called to order: not recorded (minutes not posted yet)
+Adjourned: not recorded (minutes not posted yet)
+Location: KRESA Career Connect Campus, 3500 Vanrick Drive
+
+Video: https://www.youtube.com/watch?v=IkkKEVJrGj4
+Note: the meeting starts about 1 minute and 30 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2580/files/agenda/4835
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2580/files/agenda/4836 (same as the agenda, no attachments; not stored separately)
+Minutes: not posted on CivicClerk yet (checked 2026-11-27). Add them when they are posted.
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 1445 blocks, each sentence timestamped (2066 timestamps)
+  agenda.txt      full agenda text
+  public-comment.csv  one row per public comment speaker (5 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (20 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
+
+Notes:
+  This is the annual planning retreat, held on a Saturday at the KRESA Career Connect Campus. The agenda calls it a Committee of the Whole meeting.
+  The video is on the Public Media Network YouTube channel, not the City of Kalamazoo channel.
+  No minutes have been posted, so public comment names come from the video. Names are spelled as in earlier minutes where the same person appears.
+  The meeting was not live streamed and had no call-in option (said during public comment).

@@ -7,12 +7,13 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 ## Summary
 
 - Done: 9
-- Not started: 25
+- Done, waiting on minutes: 1
+- Not started: 24
 - Cancelled: 2
 
 ## Still needed
 
-- 2026-03-14 Planning Retreat: not started (Planning retreat; no minutes posted and no video found on the city's YouTube channel (checked 2026-11-27))
+- 2026-03-14 Planning Retreat: add minutes once the city posts them
 - 2026-03-16 Committee of the Whole: not started
 - 2026-03-16 Business Meeting: not started
 - 2026-04-06 Committee of the Whole: not started
@@ -51,7 +52,7 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 | 2026-02-16 | Business Meeting | Done | yes | yes | yes | yes | yes | yes |  |
 | 2026-03-02 | Committee of the Whole | Done | yes | yes | yes | yes | yes | yes |  |
 | 2026-03-02 | Business Meeting | Done | yes | yes | yes | yes | yes | yes |  |
-| 2026-03-14 | Planning Retreat | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** | Planning retreat; no minutes posted and no video found on the city's YouTube channel (checked 2026-11-27) |
+| 2026-03-14 | Planning Retreat | Done, waiting on minutes | yes | yes | same as agenda | not posted yet | yes | yes | Planning retreat. Video is on the Public Media Network channel. No minutes posted (checked 2026-11-27) |
 | 2026-03-16 | Committee of the Whole | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
 | 2026-03-16 | Business Meeting | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
 | 2026-04-06 | Committee of the Whole | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
