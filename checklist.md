@@ -6,16 +6,14 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 
 ## Summary
 
-- Done: 13
+- Done: 15
 - Done, waiting on minutes: 1
-- Not started: 20
+- Not started: 18
 - Cancelled: 2
 
 ## Still needed
 
 - 2026-03-14 Planning Retreat: add minutes once the city posts them
-- 2026-04-20 Committee of the Whole: not started
-- 2026-04-20 Business Meeting: not started
 - 2026-05-11 Committee of the Whole: not started
 - 2026-05-11 Business Meeting: not started
 - 2026-05-18 Committee of the Whole: not started
@@ -53,8 +51,8 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 | 2026-03-16 | Business Meeting | Done | yes | yes | yes | yes | yes | yes |  |
 | 2026-04-06 | Committee of the Whole | Done | yes | yes | yes | yes | yes | yes |  |
 | 2026-04-06 | Business Meeting | Done | yes | yes | yes | yes | yes | yes |  |
-| 2026-04-20 | Committee of the Whole | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
-| 2026-04-20 | Business Meeting | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
+| 2026-04-20 | Committee of the Whole | Done | yes | yes | same as agenda | yes | yes | yes |  |
+| 2026-04-20 | Business Meeting | Done | yes | yes | yes | yes | yes | yes |  |
 | 2026-05-11 | Committee of the Whole | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
 | 2026-05-11 | Business Meeting | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
 | 2026-05-18 | Committee of the Whole | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |

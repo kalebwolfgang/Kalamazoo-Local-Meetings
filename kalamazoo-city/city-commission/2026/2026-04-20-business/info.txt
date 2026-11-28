@@ -1,0 +1,41 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-04-20
+Scheduled start: 7:00 PM
+Called to order: 7:04 PM (per minutes)
+Adjourned: 10:46 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=jnTLBXQYHik
+Note: the meeting starts about 3 minutes and 37 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2557/files/agenda/4965
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2557/files/agenda/4973
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2557/files/agenda/5065
+Minutes document number: CC-2026-16
+Minutes approved: 2026-05-11
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 847 blocks, each sentence timestamped (1727 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (38 rows): 28 in general public comment, 10 in public hearing F1 (PY 2026 HUD Action Plan)
+  public-comment-topics.csv  one row per topic each speaker mentioned (130 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (24 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 16 agenda items and 27 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  All seven commissioners were present (per minutes).
+  The meeting recessed from 8:54 PM to 9:06 PM, then held the public hearing on the PY 2026 HUD Action Plan (per minutes).
+  The minutes group the general public comment speakers by topic, so their order differs from the video. public-comment.csv follows the video order.
+  Jonathan Yarbrough is listed twice in the general public comment minutes (Flock support, and flooding and Northside Days) but spoke once. He has one row in public-comment.csv.
+  Pastor Addis Moore's and Euan Simpson's names are not clear in the captions, and Morgan Zapata does not give a name on video. They are matched to the minutes by speaking order.
+  Item F1: the minutes say Compliance Specialist Julie Johnston gave the presentation, but on video the Mayor introduces Community Development Manager Sharilyn Parsons. The tables follow the minutes. Commissioners Praedel and Slaby and Mayor Anderson abstained, so the vote was 4-0 with 3 abstentions.
+  Consent items G9 and G10: Commissioner Wilson abstained due to a conflict of interest (per minutes).
+  The minutes print consent item G6's document number as 2026-16-012. agenda-items.csv uses 2026-16-12.
+  The KMEA collective bargaining agreement was approved after the closed session. It is listed in agenda-items.csv as N1a.
+  Names and wording are kept as the minutes print them, including "September 31, 2026" in item G8 and both "Kalamazoo Metal Recycling" and "Kalamazoo Metal Recyclers".
+
+Related meeting: 2026-04-20-committee-of-the-whole (5:00 PM, same day)

@@ -1,0 +1,6 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The pages below are drawings whose labels the software could not read, so the labels were typed in by hand.
+
+G09-ksrr-sewer-easement--02-public-utility-easement-ksrr-llc-city-of-kalamazoo.txt, packet page 41: easement drawing. Labels, bearings and the sanitary easement description typed in by hand from the page image.
+G10-cd-arena-path-easement--02-cd-arena-llc-city-and-county-of-kalamazoo-non-moto.txt, packet page 55: easement drawing. Labels and bearings typed in by hand from the page image.
