@@ -1,0 +1,35 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Special Business Meeting
+Date: 2025-10-30
+Scheduled start: 5:00 PM
+Called to order: 5:00 PM (per minutes)
+Adjourned: 5:21 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=aZ9Egg3MR2k
+Note: the meeting starts about 3 minutes and 28 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2526/files/agenda/4404
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2526/files/agenda/4405
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2526/files/agenda/4411
+Minutes document number: CC-2025-47
+Minutes approved: 2025-11-17 (item B1 at the November 17, 2025 5:00 PM meeting, voice vote, per the November 17 minutes); the posted copy is still the unsigned DRAFT
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 47 blocks, each sentence timestamped (133 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (3 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (4 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (3 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 1 agenda items and 2 attachments; see packet/index.csv
+
+Notes:
+  Staff record issue: the Commission approved these minutes on 2025-11-17 (item B1 at the November 17, 2025 5:00 PM meeting, voice vote, per the November 17 minutes), but the copy posted on CivicClerk is still the unsigned DRAFT with a blank approval date (checked 2026-11-28).
+  Staff record issue: the minutes say the meeting was held on "Monday, October 30, 2025". October 30, 2025 was a Thursday, as the agenda and the Mayor on video say.
+  Staff record issue: the minutes say the Western Michigan University fireworks request was added "as item G-2"; this special meeting agenda has no section G. On video the Mayor calls it item 2 under D, discussion topics/action items. It is listed here as "Added".
+  Commissioner Hoffman was absent and excused by voice vote (per minutes). Six commissioners were present. No City Manager attended; City Attorney Aaron Leal and City Clerk Scott Borling were present.
+  D1 (employment agreement with Malcolm Hankins as City Manager) passed 5-1, with Commissioner Decker voting no.
+  Three people spoke during public comment (per minutes); the minutes group them under one summary. Wendy Flora does not say a name on video.
+  A copy of these minutes is also in the November 17, 2025 5:00 PM meeting packet (pages 30-31).
