@@ -1,0 +1,1034 @@
+# Agenda item G16: Adoption of a RESOLUTION approving an amendment to the Brownfield Plan for the 700 Block of North Burdick Street.
+# Attachment: BP AMD1_700 Block N Burdick_2025_1118
+# Packet pages 55-87 of the December 1, 2025 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 55 ---
+
+Act 381 Brownfield Plan
+Amendment No. 1
+700 Block of North Burdick Street
+708 and 714 North Burdick Street
+Kalamazoo, Michigan
+
+City of Kalamazoo Brownfield
+Redevelopment Authority
+
+Project No. 2500784
+November 18, 2025
+
+                                    Page 55 of 270
+
+--- packet page 56 ---
+
+Act 381 Brownfield Plan
+Amendment No. 1
+
+700 Block of North Burdick Street
+708 and 714 North Burdick Street
+Kalamazoo, Michigan
+
+Prepared For:
+City of Kalamazoo Brownfield Redevelopment Authority
+Kalamazoo, Michigan
+
+November 18, 2025
+Project No. 2500784
+
+Recommended for Approval by the City of Kalamazoo Brownfield Redevelopment Authority on January 16, 2020
+Adopted by the City of Kalamazoo City Commission on February 17, 2020
+
+Amendment No. 1
+Recommended for Approval by the City of Kalamazoo Brownfield Redevelopment Authority on: November 20, 2025
+Adopted by the City of Kalamazoo City Commission on: ________________
+
+                                                                                                   Page 56 of 270
+
+--- packet page 57 ---
+
+Table of Contents                                                                                                                                  Fishbeck | Page i
+
+1.0         Introduction ...................................................................................................................................................1
+            1.1     Proposed Redevelopment and Future Use for Each Eligible Property ..............................................1
+            1.2     Eligible Property Information ............................................................................................................2
+
+2.0         Information Required by Section 13(2) of the Statute ...................................................................................3
+            2.1    Description of Costs to be Paid for with Tax Increment Revenues ...................................................3
+                   2.1.1 Site Investigation Activities ..................................................................................................3
+                   2.1.2 Demolition ...........................................................................................................................3
+                   2.1.3 Infrastructure Improvements Necessary to Support Housing .............................................3
+                   2.1.4 Brownfield Plan Preparation ................................................................................................3
+                   2.1.5 Contingency .........................................................................................................................3
+            2.2    Summary of Eligible Activities ...........................................................................................................3
+            2.3    Estimate of Captured Taxable Value and Tax Increment Revenues ..................................................4
+            2.4    Method of Financing and Description of Advances Made by the Municipality ................................4
+            2.5    Maximum Amount of Note or Bonded Indebtedness .......................................................................4
+            2.6    Duration of Brownfield Plan..............................................................................................................4
+            2.7    Estimated Impact of Tax Increment Financing on Revenues of Taxing Jurisdictions ........................4
+            2.8    Legal Description, Property Map, Statement of Qualifying Characteristics, and Personal Property .4
+            2.9    Estimates of Residents and Displacement of Individuals/Families....................................................5
+            2.10 Plan for Relocation of Displaced Persons..........................................................................................5
+            2.11 Provisions for Relocation Costs .........................................................................................................5
+            2.12 Strategy for Compliance with Michigan’s Relocation Assistance Law...............................................5
+            2.13 Other Material that the Authority or Governing Body Considers Pertinent .....................................5
+
+List of Figures
+Figure 1 – Location Map of the Eligible Property
+Figure 2 – Site Plan
+
+List of Tables
+Table 1 – Summary of Eligible Costs
+Table 2 – Total Captured Incremental Taxes Estimates
+Table 3 – Estimated Reimbursement Schedule
+
+List of Appendices
+Appendix 1 – Brownfield Plan Resolution(s)
+Appendix 2 – Development/Reimbursement Agreement
+Appendix 3 – Notice to Taxing Jurisdictions
+Appendix 4 – Notice of Public Hearing
+Appendix 5 – Affidavit of City of Kalamazoo Assessor, Functionally Obsolete
+Appendix 6 – Relevant Data from the April 2025 Kalamazoo County Housing Plan
+
+Z:\2025\2500784\WORK\REPT\700 BLOCK N BURDICK\BP AMD1_700 BLOCK N BURDICK_2025_1118.DOCX
+
+                                                                                                                                                                 Page 57 of 270
+
+--- packet page 58 ---
+
+Table of Contents                                                                          Fishbeck | Page ii
+
+List of Abbreviations/Acronyms
+Act 381              Brownfield Redevelopment Financing Act, 1996 PA 381, as amended
+Developer            Kyle Gulau and 708 North Burdick St LLC
+LBRF                 Local Brownfield Revolving Fund
+PA                   Public Act
+TIR                  tax increment revenues
+
+Z:\2025\2500784\WORK\REPT\700 BLOCK N BURDICK\BP AMD1_700 BLOCK N BURDICK_2025_1118.DOCX
+
+                                                                                                     Page 58 of 270
+
+--- packet page 59 ---
+
+November 18, 2025                                                                                     Fishbeck | Page 1
+
+1.0 Introduction
+On February 17, 2020, the City of Kalamazoo City Commission adopted a Brownfield Plan to support the proposed
+redevelopment of the eligible property located at 708 North Burdick Street, 714 North Burdick Street, 718 North
+Burdick Street, and 720 North Burdick Street in the City of Kalamazoo.
+Since the plan was adopted, 718 and 720 North Burdick have been combined into a single parcel (currently known
+as 718 North Burdick), and the scope of the proposed redevelopment at 718 North Burdick has significantly
+expanded. Initially envisioned as a small-scale brewery with limited commercial build-out, the updated vision now
+includes a new mixed-use building with approximately 10 residential units and new ground-floor commercial
+space. This change roughly doubles the project’s square footage and introduces a more complex design and
+financing structure. This Brownfield Plan Amendment (Amendment No. 1) removes both the former 718 and
+720 North Burdick Street parcels from the existing Brownfield Plan and updates the eligible activities and costs for
+the 708 and 714 North Burdick projects.
+The originally approved Brownfield Plan, adopted by the City of Kalamazoo City Commission on February 17,
+2020, included $163,700 of eligible activities. Amendment No. 1 added additional eligible activities, increasing the
+total eligible activities by $96,715 to $260,415.
+
+1.1               Proposed Redevelopment and Future Use for Each Eligible Property
+Kyle Gulau and 708 North Burdick St LLC (the “Developer”) propose to develop real property located at 708 North
+Burdick Street and 714 North Burdick Street, Kalamazoo, Michigan (the “Subject Property”). 714 North Burdick
+Street has already been renovated into a mixed-use space, including commercial space and two residential units.
+The 708 North Burdick Street project involves the comprehensive redevelopment of a blighted and functionally
+obsolete masonry structure that is over 100 years old and is located in Kalamazoo’s Northside neighborhood. The
+building is currently vacant and has been disconnected from all utilities for over nine years. In 2020, it was
+deemed functionally obsolete by the local assessor. The property consists of two floors totaling approximately
+6,000 square feet. It is currently gutted to the studs and subfloor. Emergency stabilization measures have already
+been undertaken by the Developer, including full replacement of the roof and skylight, as well as structural
+repairs to compromised ceiling, floor, and wall joists. 708 North Burdick will be redeveloped into one commercial
+unit and six residential units, including one studio, four one-bedroom units, and one two-bedroom unit (the
+“Project”). The units will range from approximately 385 square feet (studio) to 700 square feet.
+The Developer anticipates investing over $1,200,000 into the Project. The Developer intends to commence
+eligible activities in the fall of 2025. It is anticipated that the Project will be completed in 2026. The Developer
+anticipates retaining four full-time-equivalent jobs that are currently remote positions.
+708 and 714 North Burdick Street are strategically located just north of downtown Kalamazoo, placing them
+within walking distance of the City’s central business district. The Project will expand the local tax base, result in
+significant capital investment into the community, and create much-needed new housing opportunities in the City
+of Kalamazoo.
+
+Z:\2025\2500784\WORK\REPT\700 BLOCK N BURDICK\BP AMD1_700 BLOCK N BURDICK_2025_1118.DOCX
+
+                                                                                                                Page 59 of 270
+
+--- packet page 60 ---
+
+November 18, 2025                                                                                    Fishbeck | Page 2
+
+1.2               Eligible Property Information
+Parcel ID: 06-15-181-012
+Address: 708 North Burdick Street, Kalamazoo, MI 49007
+Size: Approximately 0.171 acres
+Legal Description:
+            38364 T C SHELDONS ADDITION, Liber 3 of Plats Page 16; The North 56.5ft of the South 137ft of Lot 11 in
+            Block 44. The North 56.5ft of the South 137ft of Lot 12 in Block 44. Also historically described as T C
+            SHELDON ADDITION, Liber 3 of Plats Page 16; The North 52ft 11 inches of the South 133ft 05 inches of Lot
+            11 in Block 44 & the North 52ft 11 inches of the South 133ft 05 inches of Lot 12 in Block.
+Parcel ID: 06-15-181-121
+Address: 714 North Burdick Street, Kalamazoo, MI 49007
+Size: Approximately 0.085 acres
+Legal Description:
+            38362 T C SHELDONS ADDITION, Liber 3 of Plats Page 16; The North 28ft of Lot 11 in Block 44. The North
+            28ft of Lot 12 in Block 44. Historically described as T C SHELDONS ADDITION, Liber 3 of Plats Page 16; The
+            North 31ft 07 inches of Lot 11 in Block 44 & the North 31ft 07 inches of Lot 12 in Block 44.
+Basis of Eligibility
+The property qualifies as “eligible property” under the Brownfield Redevelopment Financing Act, 1996 PA 381, as
+amended (“Act 381”), based on meeting the definition of a “Housing Property” in Section 2(y). The 708 North
+Burdick Street property also qualifies as “eligible property” under Act 381 as “Functionally Obsolete” based on the
+Affidavit of City of Kalamazoo Assessor dated November 21, 2019, and included in Appendix 5. Act 381 defines
+Housing Property, in part, as property on which one or more units of residential housing are proposed to be
+constructed. The Project will have a total of eight rental residential units. Maps depicting the location and layout
+of the property are attached as Figures 1 and 2, respectively.
+According to Section 2(o)(ii), the Housing Property must be “located in a community that has identified a specific
+housing need and has absorption data or job growth data included in the brownfield plan.”
+Specific Housing Need
+The Kalamazoo County Housing Plan, completed in April 2025 and prepared by the W.E. Upjohn Institute,
+identified that 8,000 new units are needed by 2030 to appropriately house the new households forming or
+looking to locate in the county. This is an increase from the 2019 Housing Plan, which identified a need of
+7,750 new units. Of this demand, the study indicates that an estimated 1,225 units are needed in mid-sized
+apartments with 5–25 units, the target size of the Project.
+Additionally, the 2025 Housing Plan identified more than 17,500 overburdened renting households in Kalamazoo
+County. This is 2,500 more households than the estimates from the first release of the Kalamazoo County Housing
+Plan in 2019. The redevelopment of 708 and 714 North Burdick is anticipated to create eight apartments with
+attainable rents.
+Relevant sections of the April 2025 Kalamazoo County Housing Plan are included in Appendix 6.
+Job Growth Data
+The Kalamazoo region is home to several colleges and universities, nationally recognized healthcare systems, and
+household-name employers—such as Pfizer, Stryker, and Whirlpool—providing career opportunities across
+industries and interest areas. In addition, life sciences and mobility job opportunities have also increased, as well
+
+Z:\2025\2500784\WORK\REPT\700 BLOCK N BURDICK\BP AMD1_700 BLOCK N BURDICK_2025_1118.DOCX
+
+                                                                                                               Page 60 of 270
+
+--- packet page 61 ---
+
+November 18, 2025                                                                                    Fishbeck | Page 3
+
+as jobs in the outdoor recreation industry. From 2022 to 2023, employment in Kalamazoo grew at a rate of
+0.451%, from approximately 37,000 employees to 37,200 employees.
+
+2.0               Information Required by Section 13(2) of the Statute
+2.1               Description of Costs to be Paid for with Tax Increment Revenues
+To help facilitate the Project, costs to complete necessary eligible activities will be incurred by the Developer.
+These eligible costs will be reimbursed through capture of new local tax increment revenues (TIR) based on actual
+available new TIR generated from the Project and subject to local Authority approval. A limited amount of new
+state TIR will be captured for pre-approved (exempt from Act 381 Work Plan approval) activities. Base local taxes
+associated with the Subject Property will continue to be levied and distributed to local taxing jurisdictions. No local
+debt or special assessment will be captured to reimburse eligible activity costs.
+The total cost of eligible activities, including contingency, is anticipated to be $260,415, as described below and
+summarized in Table 1 (attached). Authority administrative and implementation costs are anticipated to be as
+much as $30,456. The capture of TIR for the Local Brownfield Revolving Fund (LBRF) is estimated to be as much as
+$62,493.
+2.1.1             Site Investigation Activities
+ASTM E1527-21 compliant Phase I Environmental Site Assessments (ESAs) were completed by the Developer as
+part of pre-acquisition due diligence for both 708 and 714 North Burdick for $2,500 each, totaling $5,000.
+2.1.2             Demolition
+Demolition activities will include site demolition and selective building demolition. The total cost of these
+demolition activities is anticipated to total $95,000, inclusive of $65,000 for 708 North Burdick and $30,000
+already incurred for 714 North Burdick.
+2.1.3             Infrastructure Improvements Necessary to Support Housing
+Infrastructure improvements necessary to support housing at 708 North Burdick include right-of-way
+improvements ($40,000) and utility main and connections ($86,000). Engineering and design of these activities
+are also included as eligible activities. The total cost of these activities is anticipated to be $126,000.
+2.1.4             Brownfield Plan Preparation
+Preparation of the Brownfield Plan ($5,000) and Amendment No. 1 ($765) is estimated to total $5,765.
+2.1.5             Contingency
+A 15% contingency on future demolition and infrastructure improvements is included. The total contingency cost
+is anticipated at $28,650.
+
+2.2               Summary of Eligible Activities
+Environmental Activities
+Pre-approved (exempt from Act 381 Work Plan approval) environmental costs are anticipated to be reimbursed
+through a Brownfield Plan using both school and non-school TIR. No further environmental costs are anticipated.
+Housing Development Activities
+Because the development is “Housing Property” as defined by Act 381, housing development costs defined in
+Section 2(o)(ii) of Act 381 can be reimbursed through a Brownfield Plan. This plan will provide for reimbursement
+
+Z:\2025\2500784\WORK\REPT\700 BLOCK N BURDICK\BP AMD1_700 BLOCK N BURDICK_2025_1118.DOCX
+
+                                                                                                               Page 61 of 270
+
+--- packet page 62 ---
+
+November 18, 2025                                                                                      Fishbeck | Page 4
+
+of eligible building and site/building demolition, infrastructure improvements to support housing, and
+development of the Brownfield Plan. Demolition costs of up to $250,000 are pre-approved (exempt from Act 381
+Work Plan approval) for school and non-school tax increment revenues under Act 381.
+Contingency
+A 15% contingency on future costs is included to account for unforeseen circumstances and cost overruns.
+
+2.3               Estimate of Captured Taxable Value and Tax Increment Revenues
+The initial baseline taxable value will be the 2020 taxable value, $67,993. Upon completion of the full build-out
+schedule, the projected taxable value is estimated to be $350,944.
+Project activities are planned to commence in 2025 and be completed in 2026. TIR capture is anticipated to be
+delayed five years from the original Brownfield Plan adoption, beginning with the 2026 taxes, with
+reimbursements based on actual TIR. An estimate of the captured real property taxable value for this
+redevelopment by year is depicted in Table 2, including a 1% annual increase in taxable value of the eligible
+property. The Brownfield Plan includes a 10% fee for the local tax increment for administrative and operating
+expenses of the Authority, estimated to total $30,456. A summary of the estimated reimbursement schedule and
+the amount of capture by year and in aggregate is presented in Table 3.
+
+2.4               Method of Financing and Description of Advances Made by the Municipality
+The eligible activities will be financed by the Developer, as outlined in this plan and the accompanying
+development and reimbursement agreement (Appendix 2). New available local and state TIR will be captured, to
+the extent permitted under Act 381, and used to reimburse eligible activities financed by the Developer. No
+interest costs on the eligible activities will be reimbursed, and no advances from the City are anticipated at this
+time.
+
+2.5               Maximum Amount of Note or Bonded Indebtedness
+At this time, there are no plans by the Authority to incur indebtedness to support the development of the Subject
+Property, but such plans could be made in the future to assist in the development if the Authority so chooses.
+
+2.6               Duration of Brownfield Plan
+The Authority intends to delay capture for five years from the original Brownfield Plan adoption, beginning with
+the 2026 taxes. The City has evaluated the Project based on their Incentive Evaluation Criteria and awarded the
+Developer a maximum reimbursement of 21 years, not including the five full years of LBRF capture or the
+five-year capture delay. Therefore, this plan will capture for a total of 26 years, or until the eligible activities have
+been fully reimbursed, whichever occurs sooner. An analysis showing the reimbursement schedule is attached in
+Table 3.
+
+2.7               Estimated Impact of Tax Increment Financing on Revenues of Taxing
+                  Jurisdictions
+An estimate of the impact of tax increment financing on the revenues of all taxing jurisdictions is illustrated in
+detail in Table 2.
+
+2.8               Legal Description, Property Map, Statement of Qualifying Characteristics,
+                  and Personal Property
+The Subject Property (708 and 714 North Burdick Street) is “Housing Property” as defined in Section 2(y) of Act
+381 and qualifies as eligible property pursuant to Section 2(p)(ii) of Act 381. The 708 North Burdick Street
+
+Z:\2025\2500784\WORK\REPT\700 BLOCK N BURDICK\BP AMD1_700 BLOCK N BURDICK_2025_1118.DOCX
+
+                                                                                                                  Page 62 of 270
+
+--- packet page 63 ---
+
+November 18, 2025                                                                                    Fishbeck | Page 5
+
+property also qualifies as “eligible property” under Act 381 as “Functionally Obsolete” based on the Affidavit of
+City of Kalamazoo Assessor dated November 21, 2019, and included in Appendix 5. A map showing eligible
+property dimensions is attached as Figure 2. Taxable personal property, if any, is included in this plan.
+The legal descriptions for the parcels are as follows:
+            708 North Burdick Street, Kalamazoo, MI 49007, Parcel ID: 06-15-181-012
+            38364 T C SHELDONS ADDITION, Liber 3 of Plats Page 16; The North 56.5ft of the South 137ft of Lot 11 in
+            Block 44. The North 56.5ft of the South 137ft of Lot 12 in Block 44. Also historically described as T C
+            SHELDON ADDITION, Liber 3 of Plats Page 16; The North 52ft 11 inches of the South 133ft 05 inches of Lot
+            11 in Block 44 & the North 52ft 11 inches of the South 133ft 05 inches of Lot 12 in Block.
+            714 North Burdick Street, Kalamazoo, MI 49007, Parcel ID: 06-15-181-121
+            38362 T C SHELDONS ADDITION, Liber 3 of Plats Page 16; The North 28ft of Lot 11 in Block 44. The North
+            28ft of Lot 12 in Block 44. Historically described as T C SHELDONS ADDITION, Liber 3 of Plats Page 16; The
+            North 31ft 07 inches of Lot 11 in Block 44 & the North 31ft 07 inches of Lot 12 in Block 44.
+
+2.9               Estimates of Residents and Displacement of Individuals/Families
+No residents, families, or individuals will be displaced by the Project.
+
+2.10              Plan for Relocation of Displaced Persons
+This Project does not involve the relocation of displaced persons.
+
+2.11              Provisions for Relocation Costs
+This Project does not involve the relocation of displaced persons.
+
+2.12              Strategy for Compliance with Michigan’s Relocation Assistance Law
+This Project does not involve the relocation of displaced persons.
+
+2.13              Other Material that the Authority or Governing Body Considers Pertinent
+None.
+
+Z:\2025\2500784\WORK\REPT\700 BLOCK N BURDICK\BP AMD1_700 BLOCK N BURDICK_2025_1118.DOCX
+
+                                                                                                               Page 63 of 270
+
+--- packet page 64 ---
+
+[picture page: the page has no text layer, so the words on it were typed in by hand from the page image.]
+Figures
+
+--- packet page 65 ---
+
+                                                                                                                                                        VICINITY MAP
+                                                                                                                                                            MICHIGAN
+                                                                                                                                                                                                                                                                                                                                                     Kindleberger
+                                                                                                                                                                                                                                                                                                                                                         Park
+
+                                                                                                                                                                                                                           North Westnedge Avenue
+                                                                                                                                                                A-45
+
+Barney Road
+                                                                                                                                                   CITY OF
+                                                                                                                                                 KALAMAZOO
+                                                                                                                                             KALAMAZOO COUNTY
+                                                                                                                                                                              _
+                                                                                                                                                                              ^
+                                                                                                                                                                                             BUS US 131
+
+                                                                                                                                                                                                                                                                                                                       Riverview Drive
+                                                                                                                                                                                                                                     BUS US 131                                                                                                                                             Hard copy is
+                                                                                                                                                                                                                                                                                                                                                                                          intended to be
+                                                                                                                                                                                                                                                                                                                                                                                          8.5"x11" when
+                                                                                                                                                                                                                                                                                                                                                                d
+                                                                                                                                                                                                                                                                                                                                                              oa
+                                                                                                                                                                                                                                                                                                                                                                                         plotted. Scale(s)
+
+                                                                                                                                                                                                                                                                                                                                                            tR
+                                                                                                                                                                                                                                                                                                                                                                                           indicated and
+                                                                                                                                                                                                                                                                                                                                                           e                            graphic quality may
+                                                                                                                                                                                                                                                                                                                                                        liv                             not be accurate for
+                                                                                                                                                                                                                                                                                                                                                       O
+                                                                                                                                                                                                                                                                                                                                                   unt                                    any other size.
+                                                                                                                                                                                                                                                                                                                                                  o
+                                                                                                                                                                                                                                                                                                                                              M
+
+                                                                                                                                                                                                                                                                                                                                                                          708 & 714 North Burdick Street
+                                                                                                                                                                                                                                                                                                                                                   Riverside
+                                                                                                                                                                 Douglas Av en
+
+                                                                                                                                                                                                                                                                                                                                                   Cemetery
+                                                                                                                                                                                                                                                          North Park Street
+                                                                                                                                                                                                                           North Westnedge Avenue
+
+                                                                                                                                                                                                                                                                              East Paterson Street
+                                                                                                                                                                                                                                                                                                                                                    M 343
+                                                                                                                                                                              ue
+
+                                                                                                                                                                                                                                                                                                                                                                                                           Kalamazoo, MI 49007
+                                                                                                                                                                                                                                                    SITE
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                 Brownfield Plan
+                                                                                                                                                                                                  West North Street
+
+                                                                                                                                                         Mountain
+                                                                                                                                                                                                    West Kalamazoo Avenue
+                                                               D ESA.aprx Layout: App 2a_Location Map Date: 11/17/2025 8:28 AM User: mbell
+
+                                                                                                                                                          Home
+                                                                                                                                                         Cemetery
+                                                                                                                                                                      West M
+                                                                                                                                                                             ain                                                                                                                                                                        Gearhart Yard
+                                                                                                                                                                                         Street
+                                                                                                                                                                                                                             Kalamazoo
+        West Main Hill                                                                                                                                                   Kalamazoo                                                                                            Po                                                                         Mayors'
+                                                                                                                                                                          College                                                                                               rta                                                                   Riverfront Park
+                                                                                                                                                                                                                                                                                   ge
+                                                                                                                                                                                                                                                                                        St
+                                                                                                                                                                                                         West Lovell Street                                                               r
+                                                                                                                                                                                                                                                                                          ee
+                                                                                                                                                                                                                                                                                            t
+
+                                                                                                                                                                            ive                                                                                                                                                                         BS I 94
+                                                                                                                                                                         Dr
+                                                                                                                                                               ium
+                                                                                                                                                            tad
+                                                                                                                                                           S                                                                                                                                                                                                            BS I 94
+
+ Western                                                                                                                                                                                                                                                                                                  East Vine Street
+ Michigan
+                                                                                                                                                                                         e
+
+                                                                                                                                                                                                                                                    South Park Street
+                                                                                                                                                                                     Driv
+
+ University
+                                                                                                                                                                                  nd
+                                                                                                                     e
+
+                                                                                                                                                                               kla
+                                                     riv
+         PLOT INFO: Z:\2025\2500784\CAD\GIS\Michigan ESA\Michigan
+
+                                                                                                                                                                             Oa
+
+                                                                                                                                                                                                                                                                                        Por
+        ium
+      ad
+
+                                                                                                                                                                                                                                                                                            tage
+    St
+
+                                                                                                                                                                                                                  South Westnedge Avenue
+
+                                                                                                                                                                                                                                                                                                 Cree k
+
+                                                                                                                                                                                                                                                                                                                                                                                         PROJECT NO.
+                                                                                                                                                                                                                                                                                                                    treet
+
+                                                                                                                                                                                                                                                                                                                                                                                                      2500784
+                                                                                                                                                          LOCATION MAP                   Maple Street
+                                                                                                                                                                                                                                                                                                                ge S
+
+                                                                                                                                                                                        Magnet School
+                                                                                                                                                                                                                                                                                                                rta
+
+                                                                                                                                                                                                                                                                                                                                                                                             FIGURE NO.
+                                                                                                                                                                                         for the Arts
+                                                                                                                                                                                                                                                                                                              Po
+
+                                                                                                                                             NORTH 0                               1,000    2,000
+                                                                                                                                                                                                 FEET
+
+                                                                                                                                                                                                                                                                                                                                         DATA SOURCES: ESRI STREET MAP.
+                                                                                                                                                                                                                                                                                                                                                                                                                 1
+                                                                                                                                ©Copyright 2025 All Rights Reserved
+
+                                                                                                                                                                                                                                                                                                                                                                          Page 65 of 270
+
+--- packet page 66 ---
+
+                                                                                                                                                                N Bu rdi ck S t
+                                                                                                                                                                                                                        LEGEND
+                                                                                                                                                                                                                                    Approximate Property Boundary
+
+                                                                                                                                                                                                                                                                                                         Hard copy is
+                                                                                                                                                                                                                                                                                                       intended to be
+                                                                                                                                                                                                                                                                                                       8.5"x11" when
+                                                                                                                                                                                                                                                                                                      plotted. Scale(s)
+                                                                                                                                                                                                                                                                                                        indicated and
+                                                                                                                                                                                                                                                                                                     graphic quality may
+                                                                                                                                                                                                                                                                                                     not be accurate for
+                                                                                                                                                                                                                                                                                                       any other size.
+
+                                                                                                                                                                                                                                                                                       708 & 714 North Burdick Street
+                                                                                                                                                                 N Burdick St
+
+                                                                                                                                                                                                        06-15-181-121
+
+                                                                                                                                                                                                                                                                                                                        Kalamazoo, MI 49007
+
+                                                                                                                                                                                                                                                                                                                                              Brownfield Plan
+                                                                                                                                                                                                        06-15-181-012
+PLOT INFO: Z:\2025\2500784\CAD\GIS\Michigan ESA\Michigan ESA.aprx Layout: App 2b_Site Map Date: 11/17/2025 8:28 AM User: mbell
+
+                                                                                                                                                                 N B urd i ck St
+
+                                                                                                                                                                                                 E N o rt h S t
+                                                                                                                                                                                                                                                                                                      PROJECT NO.
+                                                                                                                                                                                                                                                                                                               2500784
+                                                                                                                                                           SITE MAP                                                                                                                                       FIGURE NO.
+
+                                                                                                                                                                                                                                                                                                                               2
+                                                                                                                                                                                          FEET
+                                                                                                                                     NORTH 0                                       20   40
+                                                                                                                                                                                                                        DATA SOURCES: ESRI HYRBID REFERENCE LAYER & NEARMAP IMAGERY.
+
+                                                                                                                                 ©Copyright 2025 All Rights Reserved
+
+                                                                                                                                                                                                                                                                                       Page 66 of 270
+
+--- packet page 67 ---
+
+[picture page: the page has no text layer, so the words on it were typed in by hand from the page image.]
+Tables
+
+--- packet page 68 ---
+
+                                          Table 1 – Summary of Eligible Costs
+                                               Act 381 Brownfield Plan
+                                              700 Block of N Burdick
+                     708 North Burdick Street & 714 North Burdick Street, Kalamazoo, Michigan
+
+EGLE Eligible Activities Costs and Schedule
+                                                                                                    Completion
+                           EGLE Eligible Activities                                 Cost            Season/Year
+Phase I Environmental Site Assessment (ESA)                                     $           5,000
+  708 N Burdick Phase I ESA                                                     $           2,500
+  714 N Burdick Phase I ESA                                                     $           2,500
+
+                                            EGLE Eligible Activities Subtotal $             5,000
+Contingency (15%)                                                              $              -
+                                          EGLE Eligible Activities Total Costs $            5,000
+
+Pre-Approved Eligible Activities Costs and Schedule
+                                                                                                    Completion
+                      Pre-Approved Eligible Activities                              Cost            Season/Year
+Demolition                                                                      $          95,000
+  708 N Burdick Demolition                                                      $          65,000
+  714 N Burdick Demolition                                                      $          30,000
+
+                                   Pre-Approved Eligible Activities Subtotal $         95,000
+Contingency (15%)                                                             $         9,750
+                                 Pre-Approved Eligible Activities Total Costs $       104,750
+
+Local Only Eligible Activities Costs and Schedule
+                                                                                                    Completion
+                        Local Only Eligible Activities                              Cost            Season/Year
+Infrastructure Improvements to Support Housing                                  $     126,000
+    708 N Burdick Right-of-way Improvements                                     $      40,000
+    708 N Burdick Utility Connections                                           $      86,000
+
+                                     Local Only Eligible Activities Subtotal $        126,000
+Contingency (15%)                                                            $         18,900
+Brownfield Plan/Work Plan Preparation                                        $          5,765
+                                  Local Only Eligible Activities Total Costs $        150,665
+
+                                                                     TOTAL: $         260,415
+
+                                                                                                         11/14/2025
+                                                                                                           Page 68 of 270
+
+--- packet page 69 ---
+
+                                                                                                                                                                 Table 2 – Total Captured Incremental Taxes Schedule
+                                                                                                                                                                                 Act 381 Brownfield Plan
+                                                                                                                                                                                  700 Block of N Burdick
+                                                                                                                                                         708 North Burdick Street 714 North Burdick Street, Kalamazoo, Michigan
+
+                Estimated Taxable Value (TV) Increase Rate: 1% increase per year
+                                                 Plan Year            0                 0                  0                  0                   0                   1                  2                  3                  4                  5                  6                  7                  8                  9                 10                 11                 12
+                                             Calendar Year          2021               2022               2023               2024                2025                2026               2027               2028               2029               2030               2031               2032               2033               2034               2035               2036               2037
+                                      *Base Taxable Value $                67,993 $           67,993 $           67,993 $           67,993 $            67,993 $            67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993
+                                      Future Taxable Value $               68,943 $           71,217 $           74,777 $           78,515 $            80,948   $        198,955   $        350,944   $        354,454   $        357,998   $        361,578   $        365,194   $        368,846   $        372,534   $        376,260   $        380,022   $        383,823   $        387,661
+                 Incremental Difference (New TV - Base TV) $                 950   $          3,224   $          6,784   $          10,522   $          12,955   $        130,962   $        282,951   $        286,461   $        290,005   $        293,585   $        297,201   $        300,853   $        304,541   $        308,267   $        312,029   $        315,830   $        319,668
+
+School Capture                          Millage Rate
+State Education Tax (SET)                       17.6757      $                17 $               57 $              120 $              186 $               229 $             2,315 $             5,001 $            5,063 $            5,126 $            5,189 $            5,253 $            5,318 $           5,383 $            5,449 $            5,515 $            5,583 $             5,650
+School Operating Tax                             6.0000      $                 6 $               19 $               41 $               63 $                78 $               786 $            1,698 $            1,719 $            1,740 $            1,762 $            1,783 $            1,805 $            1,827 $            1,850 $            1,872 $            1,895 $             1,918
+                       School Total             23.6757      $                22 $               76 $              161 $              249 $               307 $             3,101 $            6,699 $            6,782 $            6,866 $            6,951 $            7,036 $            7,123 $            7,210 $            7,298 $            7,388 $            7,477 $             7,568
+
+Local Capture                           Millage Rate
+City Operating                                  12.0000      $                11 $               39 $               81 $              126 $               155 $             1,572 $             3,395 $            3,438 $           3,480 $            3,523 $            3,566 $            3,610 $            3,654 $            3,699 $            3,744 $            3,790 $             3,836
+City Solid Waste                                 1.8000      $                 2 $                6 $               12 $               19 $                23 $               236 $              509 $              516 $              522 $              528 $              535 $              542 $              548 $              555 $              562 $              568 $              575
+CCTA                                             0.8905      $                 1 $                3 $                6 $                9 $                12 $               117 $              252 $              255 $              258 $              261 $              265 $              268 $              271 $              275 $              278 $              281 $              285
+County Operating                                 4.6049      $                 4 $               15 $               31 $               48 $                60 $               603 $            1,303 $            1,319 $            1,335 $            1,352 $            1,369 $            1,385 $            1,402 $            1,420 $            1,437 $            1,454 $             1,472
+County Transit                                   0.3091      $                 0 $                1 $                2 $                3 $                 4 $                40 $               87 $               89 $               90 $               91 $               92 $               93 $               94 $               95 $               96 $               98 $               99
+Kal Valley CC                                    2.7645      $                 3 $                9 $               19 $               29 $                36 $               362 $              782 $              792 $              802 $              812 $              822 $              832 $              842 $              852 $              863 $              873 $              884
+County PubSafety                                 1.4344      $                 1 $                5 $               10 $               15 $                19 $               188 $              406 $              411 $              416 $              421 $              426 $              432 $              437 $              442 $              448 $              453 $              459
+County 911                                       0.6442      $                 1 $                2 $                4 $                7 $                 8 $                84 $              182 $              185 $              187 $              189 $              191 $              194 $              196 $              199 $              201 $              203 $              206
+County Housing                                   0.7434      $                 1 $                2 $                5 $                8 $                10 $                97 $              210 $              213 $              216 $              218 $              221 $              224 $              226 $              229 $              232 $              235 $              238
+County Seniors                                   0.3462      $                 0 $                1 $                2 $                4 $                 4 $                45 $               98 $               99 $              100 $              102 $              103 $              104 $              105 $              107 $              108 $              109 $              111
+County Veterans                                  0.0997      $                 0 $                0 $                1 $                1 $                 1 $                13 $               28 $               29 $               29 $               29 $               30 $               30 $               30 $               31 $               31 $               31 $               32
+KRESA CTE                                        0.9882      $                 1 $                3 $                7 $               10 $                13 $               129 $              280 $              283 $              287 $              290 $              294 $              297 $              301 $              305 $              308 $              312 $              316
+KRESA Operating                                  3.0026      $                 3 $               10 $               20 $               32 $                39 $               393 $              850 $              860 $              871 $              882 $              892 $              903 $              914 $              926 $              937 $              948 $              960
+KRESA Ehancement                                 1.4968      $                 1 $                5 $               10 $               16 $                19 $               196 $              424 $              429 $              434 $              439 $              445 $              450 $              456 $              461 $              467 $              473 $              478
+KRESA Special Ed                                 1.4909      $                 1 $                5 $               10 $               16 $                19 $               195 $              422 $              427 $              432 $              438 $              443 $              449 $              454 $              460 $              465 $              471 $              477
+Kal Pub Library                                  3.8893      $                 4 $               13 $               26 $               41 $                50 $               509 $            1,100 $            1,114 $            1,128 $            1,142 $            1,156 $            1,170 $            1,184 $            1,199 $            1,214 $            1,228 $             1,243
+                        Local Total             36.5047      $                35 $              118 $              248 $              384 $               473 $             4,781 $            10,329 $           10,457 $           10,587 $           10,717 $           10,849 $           10,983 $           11,117 $           11,253 $           11,391 $           11,529 $           11,669
+
+Non-Capturable Millages                 Millage Rate
+County Debt                                      0.1176      $                 0 $                0 $                1 $                1 $                 2 $                15 $               33 $               34 $               34 $               35 $               35 $               35 $               36 $               36 $               37 $               37 $               38
+Kal Sch Debt                                     8.2000      $                 8 $               26 $               56 $               86 $               106 $             1,074 $            2,320 $            2,349 $            2,378 $            2,407 $            2,437 $            2,467 $            2,497 $            2,528 $            2,559 $            2,590 $             2,621
+            Non-Capturable Total                 8.3176      $                 8 $               27 $               56 $               88 $               108 $             1,089 $            2,353 $            2,383 $            2,412 $            2,442 $            2,472 $            2,502 $            2,533 $            2,564 $            2,595 $            2,627 $             2,659
+
+Total Tax Increment Revenue (TIR) Available for Capture $                      - $                - $                - $                 - $                 - $            7,881 $            17,028 $           17,239 $           17,453 $           17,668 $           17,886 $           18,105 $           18,327 $           18,552 $           18,778 $           19,007 $           19,238
+
+                                                                                                                                                                                                                                                                                                                                                                                                      11/14/2025
+
+                                                                                                                                                                                                                                                                                                                                                                                                        Page 69 of 270
+
+--- packet page 70 ---
+
+                                                                                                                                                              Table 2 – Total Captured Incremental Taxes Schedule
+                                                                                                                                                                              Act 381 Brownfield Plan
+                                                                                                                                                                               700 Block of N Burdick
+                                                                                                                                                      708 North Burdick Street 714 North Burdick Street, Kalamazoo, Michigan
+
+                Estimated Taxable Value (TV) Increase Rate:
+                                                 Plan Year        13                 14                 15                 16                 17                 18                 19                 20                 21                 22                 23                 24                 25                 26                Totals
+                                             Calendar Year        2038               2039               2040               2041               2042               2043               2044               2045               2046               2047               2048               2049               2050               2051
+                                      *Base Taxable Value $              67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $           67,993 $               -
+                                      Future Taxable Value $           391,537   $        395,453   $        399,407   $        403,401   $        407,435   $        411,510   $        415,625   $        419,781   $        423,979   $        428,219   $        432,501   $        436,826   $        441,194   $        445,606 $                    -
+                 Incremental Difference (New TV - Base TV) $           323,544   $        327,460   $        331,414   $        335,408   $        339,442   $        343,517   $        347,632   $        351,788   $        355,986   $        360,226   $        364,508   $        368,833   $        373,201   $        377,613 $                    -
+
+School Capture                          Millage Rate
+State Education Tax (SET)                       17.6757       $           5,719 $            5,788 $            5,858 $            5,929 $            6,000 $            6,072 $            6,145 $            6,218 $            6,292 $            6,367 $            6,443 $            6,519 $            6,597 $            6,675 $        148,076
+School Operating Tax                             6.0000       $           1,941 $            1,965 $            1,988 $            2,012 $            2,037 $            2,061 $            2,086 $            2,111 $            2,136 $            2,161 $            2,187 $            2,213 $            2,239 $            2,266 $            50,264
+                       School Total             23.6757       $          7,660 $            7,753 $            7,846 $            7,941 $            8,037 $            8,133 $            8,230 $            8,329 $            8,428 $            8,529 $            8,630 $            8,732 $            8,836 $            8,940 $         198,340
+
+Local Capture                           Millage Rate
+City Operating                                  12.0000       $           3,883 $            3,930 $            3,977 $            4,025 $            4,073 $            4,122 $            4,172 $            4,221 $            4,272 $            4,323 $            4,374 $            4,426 $            4,478 $            4,531 $        100,528
+City Solid Waste                                 1.8000       $            582 $              589 $              597 $              604 $              611 $              618 $              626 $              633 $              641 $              648 $              656 $              664 $              672 $              680 $             15,079
+CCTA                                             0.8905       $            288 $              292 $              295 $              299 $              302 $              306 $              310 $              313 $              317 $              321 $              325 $              328 $              332 $              336 $              7,460
+County Operating                                 4.6049       $           1,490 $            1,508 $            1,526 $            1,545 $            1,563 $            1,582 $            1,601 $            1,620 $            1,639 $            1,659 $            1,679 $            1,698 $            1,719 $            1,739 $            38,577
+County Transit                                   0.3091       $            100 $              101 $              102 $              104 $              105 $              106 $              107 $              109 $              110 $              111 $              113 $              114 $              115 $              117 $              2,589
+Kal Valley CC                                    2.7645       $            894 $              905 $              916 $              927 $              938 $              950 $              961 $              973 $              984 $              996 $            1,008 $            1,020 $            1,032 $            1,044 $             23,159
+County PubSafety                                 1.4344       $            464 $              470 $              475 $              481 $              487 $              493 $              499 $              505 $              511 $              517 $              523 $              529 $              535 $              542 $             12,016
+County 911                                       0.6442       $            208 $              211 $              213 $              216 $              219 $              221 $              224 $              227 $              229 $              232 $              235 $              238 $              240 $              243 $              5,397
+County Housing                                   0.7434       $            241 $              243 $              246 $              249 $              252 $              255 $              258 $              262 $              265 $              268 $              271 $              274 $              277 $              281 $              6,228
+County Seniors                                   0.3462       $            112 $              113 $              115 $              116 $              118 $              119 $              120 $              122 $              123 $              125 $              126 $              128 $              129 $              131 $              2,900
+County Veterans                                  0.0997       $             32 $               33 $               33 $               33 $               34 $               34 $               35 $               35 $               35 $               36 $               36 $               37 $               37 $               38 $               835
+KRESA CTE                                        0.9882       $            320 $              324 $              328 $              331 $              335 $              339 $              344 $              348 $              352 $              356 $              360 $              364 $              369 $              373 $              8,279
+KRESA Operating                                  3.0026       $            971 $              983 $              995 $             1,007 $            1,019 $            1,031 $            1,044 $            1,056 $            1,069 $            1,082 $           1,094 $            1,107 $            1,121 $            1,134 $             25,154
+KRESA Ehancement                                 1.4968       $            484 $              490 $              496 $              502 $              508 $              514 $              520 $              527 $              533 $              539 $              546 $              552 $              559 $              565 $             12,539
+KRESA Special Ed                                 1.4909       $            482 $              488 $              494 $              500 $              506 $              512 $              518 $              524 $              531 $              537 $              543 $              550 $              556 $              563 $             12,490
+Kal Pub Library                                  3.8893       $           1,258 $            1,274 $            1,289 $            1,305 $            1,320 $            1,336 $            1,352 $            1,368 $            1,385 $            1,401 $            1,418 $            1,435 $            1,451 $            1,469 $            32,582
+                        Local Total             36.5047       $          11,811 $           11,954 $           12,098 $           12,244 $           12,391 $           12,540 $           12,690 $           12,842 $           12,995 $           13,150 $           13,306 $           13,464 $           13,624 $           13,785 $        305,813
+
+Non-Capturable Millages                 Millage Rate
+County Debt                                      0.1176       $             38 $               39 $               39 $               39 $               40 $               40 $               41 $               41 $               42 $               42 $               43 $               43 $               44 $               44 $               985
+Kal Sch Debt                                     8.2000       $           2,653 $            2,685 $            2,718 $            2,750 $            2,783 $            2,817 $            2,851 $            2,885 $            2,919 $            2,954 $            2,989 $            3,024 $            3,060 $            3,096 $            68,694
+            Non-Capturable Total                 8.3176       $          2,691 $            2,724 $            2,757 $            2,790 $            2,823 $            2,857 $            2,891 $            2,926 $            2,961 $            2,996 $            3,032 $            3,068 $            3,104 $            3,141 $             69,680
+
+Total Tax Increment Revenue (TIR) Available for Capture $                19,471 $           19,707 $           19,945 $           20,185 $           20,428 $           20,673 $           20,921 $           21,171 $           21,423 $           21,679 $           21,936 $           22,197 $           22,459 $           22,725 $        502,081
+
+                                                                                                                                                                                                                                                                                                                                                               11/14/2025
+
+                                                                                                                                                                                                                                                                                                                                                                 Page 70 of 270
+
+--- packet page 71 ---
+
+                                                                                                                                                                                 Table 3 – Estimated Reimbursement Schedule
+                                                                                                                                                                                             Act 381 Brownfield Plan
+                                                                                                                                                                                              700 Block of N Burdick
+                                                                                                                                                                     708 North Burdick Street 714 North Burdick Street, Kalamazoo, Michigan
+
+                                                       Developer
+                                                                                                  School & Local
+                                                       Maximum           Proportionality                              Local-Only Taxes         Total
+                                                                                                      Taxes
+                                                    Reimbursement                                                                                                                                                                                                                        Estimated Capture
+                                                          State              39.3%            $              43,177 $                -     $          43,177                                                                Estimated Total                                              Administrative Fees                         $         30,456
+                                                                                                                                                                                                                                                     26
+                                                          Local              60.7%            $              66,573 $            150,665 $           217,238                                                                 Years of Plan:                                              State Brownfield Redevelopment Fund         $         27,598
+                                                          TOTAL                                                                                                                                                                                                                          Local Brownfield Revolving Fund             $         62,493
+                                                           EGLE               1.9%            $               5,000 $                -   $             5,000
+                                                       Pre-Approved           40.2%           $             104,750 $                -   $           104,750
+                                                        Local-Only            57.9%           $                 -   $            150,665 $           150,665
+
+                                                                                0                       0                    0                   0                    0                    1                  2                    3                  4                   5                       6                    7                  8                  9                        10                   11
+                                                                              2021                    2022                 2023                2024                  2025                 2026               2027                2028                2029                2030                   2031                 2032                2033               2034                     2035                 2036
+Total State Incremental Revenue                                         $                   - $                     - $                  - $                 - $                  - $            3,101 $            6,699 $             6,782 $             6,866 $             6,951 $                7,036 $              7,123 $             7,210 $            7,298 $                   7,388 $              7,477
+State Brownfield Redevelopment Fund (50% of SET)                        $                   - $                     - $                  - $                 - $                  - $            1,157 $            2,501 $             2,532 $             2,563 $             2,595 $                2,627 $              2,659 $             2,691 $            2,724 $                   2,758 $              2,791
+State TIR Available for Reimbursement                                   $                   - $                     - $                  - $                 - $                  - $            1,943 $            4,198 $             4,250 $             4,303 $             4,356 $                4,410 $              4,464 $             4,519 $            4,574 $                   4,630 $              4,686
+
+Total Local Incremental Revenue                                         $                   - $                     - $                  - $                 - $                  - $            4,781 $            10,329 $            10,457 $            10,587 $            10,717 $               10,849 $             10,983 $          11,117 $           11,253 $                   11,391 $             11,529
+BRA Administrative Fee                                                  $                   - $                     - $                  - $                 - $                  - $              478 $             1,033 $             1,046 $             1,059 $             1,072 $                1,085 $              1,098 $           1,112 $            1,125 $                    1,139 $              1,153
+Local TIR Available for Reimbursement                                   $                   - $                     - $                  - $                 - $                  - $            4,303 $             9,296 $             9,411 $             9,528 $             9,646 $                9,764 $              9,884 $          10,005 $           10,128 $                   10,251 $             10,376
+
+Total State & Local TIR Available                                       $                   - $                     - $                  - $                 - $                  - $            6,246 $          13,495 $              13,662 $            13,831 $          14,002 $                 14,174 $            14,348 $           14,524 $           14,702 $                   14,881 $             15,063
+                                                        Beginning
+DEVELOPER                                                Balance
+Reimbursement Balance                              $         260,415 $           260,415 $               260,415 $               260,415 $        260,415 $               260,415 $            254,169 $          240,675 $            227,013 $          213,182 $           199,180 $               185,006 $            170,658 $          156,133 $          141,432 $                  126,550 $           114,714
+
+EGLE Environmental Costs                           $              5,000 $             5,000   $               5,000   $            5,000   $           5,000     $          5,000     $          5,000   $          4,851   $            4,530   $           4,205   $           3,876   $              3,543    $           3,206   $          2,865   $           2,519    $                2,169   $           1,815
+   State Tax Reimbursement                         $              1,967 $               -     $                 -     $              -     $             -       $            -       $             89   $            191   $              194   $             196   $             198   $                201    $             203   $            206   $             208    $                  211   $             -
+   Local Tax Reimbursement                         $              3,033 $               -     $                 -     $              -     $             -       $            -       $             60   $            130   $              131   $             133   $             135   $                136    $             138   $            140   $             141    $                  143   $             145
+   Total EGLE Reimbursement Balance                                     $             5,000   $               5,000   $            5,000   $           5,000     $          5,000     $          4,851   $          4,530   $            4,205   $           3,876   $           3,543   $              3,206    $           2,865   $          2,519   $           2,169    $                1,815   $           1,670
+
+Pre-Approved Non-Environmental Costs        $                104,750 $              104,750   $             104,750   $          104,750   $         104,750     $        104,750     $        104,750   $        101,637   $           94,911   $          88,101   $          81,207   $             74,228    $          67,163   $         60,012   $          52,772    $               45,444   $          38,027
+   State Tax Reimbursement                  $                 41,210 $                  -     $                 -     $              -     $             -       $            -       $          1,855   $          4,007   $            4,057   $           4,107   $           4,158   $              4,209    $           4,261   $          4,313   $           4,366    $                4,419   $           1,460
+   Local Tax Reimbursement                  $                 63,540 $                  -     $                 -     $              -     $             -       $            -       $          1,258   $          2,719   $            2,753   $           2,787   $           2,821   $              2,856    $           2,891   $          2,927   $           2,962    $                2,998   $           3,035
+   Total Pre-Approved Reimbursement Balance                          $              104,750   $             104,750   $          104,750   $         104,750     $        104,750     $        101,637   $         94,911   $           88,101   $          81,207   $          74,228   $             67,163    $          60,012   $         52,772   $          45,444    $               38,027   $          33,532
+
+Local-Only Costs                                   $         150,665 $              150,665 $               150,665 $            150,665 $           150,665 $            150,665 $            150,665 $          147,681 $            141,234 $          134,706 $           128,098 $               121,409 $            114,637 $          107,781 $          100,842 $                   93,818 $            86,708
+   Local Tax Reimbursement                         $         150,665 $                  -   $                   -   $                -   $               -   $                -   $              2,984 $            6,447 $              6,527 $            6,608 $             6,690 $                 6,772 $              6,855 $            6,939 $            7,024 $                    7,110 $             7,196
+   Total Local-Only Reimbursement Balance                            $              150,665 $               150,665 $            150,665 $           150,665 $            150,665 $            147,681 $          141,234 $            134,706 $          128,098 $           121,409 $               114,637 $            107,781 $          100,842 $           93,818 $                   86,708 $            79,512
+
+Total Annual Developer Reimbursement                                    $               -     $                 -     $              -     $             -       $            -       $          6,246 $            13,495 $            13,662 $            13,831 $            14,002 $               14,174 $             14,348 $          14,524 $             14,702 $                 14,881 $             11,836
+
+LOCAL BROWNFIELD REVOLVING FUND
+LBRF Deposits *                                                            $               - $               - $                  -        $                 -   $                -   $              -   $              -   $                -   $               -   $               -   $                   -   $               -   $              -   $               -    $                    -   $               -
+     State Tax Capture                                                     $               - $               - $                  -        $                 -   $                -   $              -   $              -   $                -   $               -   $               -   $                   -   $               -   $              -   $               -    $                    -   $           1,897
+     Local Tax Capture                                                     $               - $               - $                  -        $                 -   $                -   $              -   $              -   $                -   $               -   $               -   $                   -   $               -   $              -   $               -    $                    -   $               -
+     Total LBRF Capture                                                    $               - $               - $                  -        $                 -   $                -   $              -   $              -   $                -   $               -   $               -   $                   -   $               -   $              -   $               -    $                    -   $               -
+ * Up to five years of capture for LBRF Deposits after eligible activities are reimbursed. May be taken from state and local TIR.
+                                                                                                                                                                                                                                                                                                                                                                            Returned to Taxing Jur.: $            1,329
+
+                                                                                                                                                                                                                                                                                                                                                                                                                          11/14/2025
+
+                                                                                                                                                                                                                                                                                                                                                                                                                            Page 71 of 270
+
+--- packet page 72 ---
+
+                                                                                                                                                                             Table 3 – Estimated Reimbursement Schedule
+                                                                                                                                                                                         Act 381 Brownfield Plan
+                                                                                                                                                                                          700 Block of N Burdick
+                                                                                                                                                                 708 North Burdick Street 714 North Burdick Street, Kalamazoo, Michigan
+
+                                                             12                     13                     14                       15                 16                  17                  18                  19                 20                  21                 22                  23                 24                 25                 26
+                                                           2037                    2038                  2039                   2040                  2041                2042                2043                2044               2045                2046               2047                2048               2049               2050               2051               TOTAL
+Total State Incremental Revenue               $                         - $                    - $                   - $                      - $                 - $                 - $                 - $                - $                 - $                - $                   - $                - $                - $                - $                - $       73,932
+State Brownfield Redevelopment Fund (50% of SET)
+                                              $                         - $                    - $                   - $                      - $                 - $                 - $                 - $                - $                 - $                - $                   - $                - $                - $                - $                - $       27,598
+State TIR Available for Reimbursement         $                         - $                    - $                   - $                      - $                 - $                 - $                 - $                - $                 - $                - $                   - $                - $                - $                - $                - $       46,334
+
+Total Local Incremental Revenue                    $              11,669 $                11,811 $              11,954 $                 12,098 $           12,244 $             12,391 $            12,540 $           12,690 $            12,842 $           12,995 $            13,150 $           13,306 $           13,464 $           13,624 $           13,785 $        304,556
+BRA Administrative Fee                             $               1,167 $                 1,181 $               1,195 $                  1,210 $            1,224 $              1,239 $             1,254 $            1,269 $             1,284 $            1,300 $             1,315 $            1,331 $            1,346 $            1,362 $            1,378 $         30,456
+Local TIR Available for Reimbursement              $              10,502 $                10,630 $              10,758 $                 10,888 $           11,020 $             11,152 $            11,286 $           11,421 $            11,558 $           11,696 $            11,835 $           11,976 $           12,118 $           12,261 $           12,406 $        274,100
+
+Total State & Local TIR Available                  $              10,502 $                10,630 $              10,758 $                 10,888 $           11,020 $             11,152 $            11,286 $           11,421 $            11,558 $           11,696 $            11,835 $           11,976 $           12,118 $           12,261 $           12,406 $        320,434
+
+DEVELOPER
+Reimbursement Balance                              $              104,212 $               93,582 $              82,823 $                 71,935 $            60,915 $            49,763 $            38,477 $           27,056 $            15,498 $            3,803 $               -     $            -     $            -     $            -     $            -     $          -
+
+EGLE Environmental Costs                           $                1,670   $              1,524   $             1,375   $                1,225   $           1,073   $            919    $            763    $           606    $            446    $            285   $            122    $           122    $           122    $           122    $           122    $          -
+   State Tax Reimbursement                         $                  -     $                -     $               -     $                  -     $             -     $            -      $            -      $           -      $            -      $            -     $            -      $           -      $           -      $           -      $           -      $        1,897
+   Local Tax Reimbursement                         $                  147   $                148   $               150   $                  152   $             154   $            156    $            158    $           159    $            161    $            163   $            -      $           -      $           -      $           -      $           -      $        2,981
+   Total EGLE Reimbursement Balance                $                1,524   $              1,375   $             1,225   $                1,073   $             919   $            763    $            606    $           446    $            285    $            122   $            122    $           122    $           122    $           122    $           122    $        4,878
+
+Pre-Approved Non-Environmental Costs        $                      33,532   $             30,460   $            27,351   $               24,204   $          21,020   $          17,797   $          14,535   $         11,234   $           7,893   $          4,513   $           1,092   $          1,092   $          1,092   $          1,092   $          1,092   $          -
+   State Tax Reimbursement                  $                         -     $                -     $               -     $                  -     $             -     $             -     $             -     $            -     $             -     $            -     $             -     $            -     $            -     $            -     $            -     $       41,210
+   Local Tax Reimbursement                  $                       3,072   $              3,109   $             3,147   $                3,185   $           3,223   $           3,262   $           3,301   $          3,341   $           3,381   $          3,421   $             -     $            -     $            -     $            -     $            -     $       62,448
+   Total Pre-Approved Reimbursement Balance $                      30,460   $             27,351   $            24,204   $               21,020   $          17,797   $          14,535   $          11,234   $          7,893   $           4,513   $          1,092   $           1,092   $          1,092   $          1,092   $          1,092   $          1,092   $      103,658
+
+Local-Only Costs                                   $               79,512 $               72,228 $              64,855 $                 57,394 $            49,842 $            42,200 $            34,465 $           26,638 $            18,717 $            10,701 $            2,589 $            2,589 $            2,589 $            2,589 $            2,589 $            -
+   Local Tax Reimbursement                         $                7,284 $                7,372 $               7,461 $                  7,552 $             7,643 $             7,735 $             7,827 $            7,921 $             8,016 $             8,111 $              -   $              -   $              -   $              -   $              -   $        148,076
+   Total Local-Only Reimbursement Balance          $               72,228 $               64,855 $              57,394 $                 49,842 $            42,200 $            34,465 $            26,638 $           18,717 $            10,701 $             2,589 $            2,589 $            2,589 $            2,589 $            2,589 $            2,589 $        148,076
+
+Total Annual Developer Reimbursement               $               10,502 $               10,630 $              10,758 $                 10,888 $            11,020 $            11,152 $            11,286 $           11,421 $            11,558 $            11,696 $              -     $            -     $            -     $            -     $            -     $      256,612
+
+LOCAL BROWNFIELD REVOLVING FUND
+LBRF Deposits *                                    $                       - $                  - $                  - $                      -   $               -   $               -   $               -   $              -   $               -   $              -   $               -   $         11,835   $         23,811   $         35,928   $         48,190   $       62,493
+     State Tax Capture                             $                       - $                  - $                  - $                      -   $               -   $               -   $               -   $              -   $               -   $              -   $               -   $              -   $              -   $              -   $              -   $        1,897
+     Local Tax Capture                             $                       - $                  - $                  - $                      -   $               -   $               -   $               -   $              -   $               -   $              -   $          11,835   $         11,976   $         12,118   $         12,261   $         12,406   $       60,596
+     Total LBRF Capture                            $                       - $                  - $                  - $                      -   $               -   $               -   $               -   $              -   $               -   $              -   $          11,835   $         11,976   $         12,118   $         12,261   $         12,406   $       62,493
+ * Up to five years of capture for LBRF Deposits after
+                                                   ter eligible activities are reimbursed. May be taken from state and local TIR.
+
+                                                                                                                                                                                                                                                                                                                                                                                         11/14/2025
+
+                                                                                                                                                                                                                                                                                                                                                                                           Page 72 of 270
+
+--- packet page 73 ---
+
+[picture page: the page has no text layer, so the words on it were typed in by hand from the page image.]
+Appendix 1
+
+--- packet page 74 ---
+
+Page Intentionally Left Blank
+    Resolutions Pending
+
+                                Page 74 of 270
+
+--- packet page 75 ---
+
+[picture page: the page has no text layer, so the words on it were typed in by hand from the page image.]
+Appendix 2
+
+--- packet page 76 ---
+
+         Page Intentionally Left Blank
+Development and Reimbursement Agreement Pending
+
+                                                  Page 76 of 270
+
+--- packet page 77 ---
+
+[picture page: the page has no text layer, so the words on it were typed in by hand from the page image.]
+Appendix 3
+
+--- packet page 78 ---
+
+Page Intentionally Left Blank
+       Notice Pending
+
+                                Page 78 of 270
+
+--- packet page 79 ---
+
+[picture page: the page has no text layer, so the words on it were typed in by hand from the page image.]
+Appendix 4
+
+--- packet page 80 ---
+
+Page Intentionally Left Blank
+       Notice Pending
+
+                                Page 80 of 270
+
+--- packet page 81 ---
+
+[picture page: the page has no text layer, so the words on it were typed in by hand from the page image.]
+Appendix 5
+
+--- packet page 82 ---
+[scanned page, text read by software: may contain small errors]
+
+AFFIDAVIT OF CITY OF KALAMAZOO ASSESSOR
+
+|, Aaron P. Powers, being duly sworn, states that if called upon will testify to the
+following facts:
+
+1.
+2.
+3. | am familiar with the property located at 708N Burdick, in the City of
+
+| am employed by the City of Kalamazoo in the Management Services
+Department as the City Assessor.
+| am a certified Michigan Master Assessing Officer (4).
+
+Kalamazoo
+
+This affidavit is given in accordance with MCL 125.2663(1) (h) and is
+made to confirm this property qualifies as ‘Functionally Obsolete Property’
+as that term is defined under MCL 125.2652(r). The following facts,
+without limitation, form the basis for my expert opinion:
+
+The property is unable to be used to adequately perform the function for
+which it was intended due to a substantial loss in value resulting from
+factors such as overcapacity, changes in technology, deficiencies or super
+adequacies in design, or other similar factors that affect the property itself
+or the property's relationship with other surrounding property.
+
+AI.
+
+Aaron P. Powers, City Assessor
+
+Subscribed and sworn to before me by Aaron Powers on November 21, 2019.
+
+Le eo Aern.
+
+Notary Public
+Wayne County, Michigan
+
+ROBIN L MOORE
+Notary Public - Michigan
+
+Wayne County
+My Commissioh Expires May 29, 202)
+
+Acting in the County of _ (4) ne
+
+Prepared by:
+
+Aaron P. Powers (R-6684)
+City Assessor
+
+241 West South Street
+Kalamazoo, MI 49008
+(269) 337-8011
+
+f R. Moore,
+
+Commission Expires: May 29, 2021
+Acting in Wayne County
+
+Page 82 of 270
+
+--- packet page 83 ---
+
+[picture page: the page has no text layer, so the words on it were typed in by hand from the page image.]
+Appendix 6
+
+--- packet page 84 ---
+
+Kalamazoo County
+Housing Plan Updates
+April 2025
+
+Report prepared by the Regional and Community Development Team at
+W.E Upjohn Institute for the Kalamazoo County Board of Commissioners
+
+Emily Petz, Lee Adams, Val Klomparens, Gerrit Anderson, Brian Pittelko
+
+                                                                         Page 84 of 270
+
+--- packet page 85 ---
+
+Introduction
+       Creating This Plan
+       The Upjohn Institute was asked by the Kalamazoo County Board of
+       Commissioners to complete an update to the 2022 housing plan for            Housing situations exist on a continuum from homelessness
+       Kalamazoo County. This update includes a housing assessment and             to securely affording a market-rate home. An example of this
+       market demands with the most recent data. We hope this update               housing continuum is shown below. A healthy housing market
+       continues to support effective and efficient housing policy.                has options for any stage. People can move throughout the
+                                                                                   continuum as needs change in their lives. Kalamazoo County
+                                                                                   needs additional housing construction in all types and price
+       Executive Summary                                                           points, combined with rental protections and investment to
+                                                                                   create stable and affordable housing for those making low
+       A healthy housing continuum provides homes for those in a range             incomes. These three approaches will allow occupants to
+       of incomes or in different life situations. Kalamazoo County has            achieve financial stability and potentially move to a more secure
+       a shortage of housing units at multiple price points. Low rates of          or preferred form of housing.
+       construction, high construction costs, pent-up demand, and housing
+       costs that are increasing faster than wages have contributed to the
+       shortage and affordability issues.
+                                                                                       Affordability is defined by a household
+       The housing concerns in Kalamazoo County are not small. Rising                  paying 30% or less of their total gross annual
+       costs have put most moderate- and low-income earners into
+                                                                                       income on housing. This is an inclusive
+       situations where they are paying more in rent or ownership costs
+       than what is financially sustainable. This increases the chances                definition is used for market-rate or subsidized
+       for displacement, especially for those with fixed incomes, such as              housing. Conversely, income-qualified units are
+       seniors, individuals with disabilities, or people trying to rebuild their       intended only for low- and moderate-income
+       lives after homelessness. There are more than17,500 overburdened                households.
+       renting households in Kalamazoo County. This is 2,500 more
+       than were counted the 2019 estimates from the first release of
+       the Kalamazoo County Housing Plan. These households are
+       concentrated on the lower end of the income spectrum, most below
+       $35,000 per year. These households would need rental units
+       below $875 per month in order to not be burdened by housing
+       expenses.
+
+Kalamazoo County Housing Plan: Introduction                                                                                                              5
+                                                                                                                                                Page 85 of 270
+
+--- packet page 86 ---
+
+Introduction
+       Housing Assessment
+       This plan uses a number of indicators to assess the condition of the    existing homes may, in some cases, cost more than the value of the
+       housing continuum. The indicators examined include demographics,        house; this often leads to delays in addressing these concerns and
+       cost of housing, homeownership, and renter rates and changes.           impacts the quality of housing throughout the county.
+       Population indicators are needed to understand the current and
+       future demand for housing in the county. An examination of the          Supply and Demand
+       existing housing stock is needed in order to grasp what problems
+       currently exist and which housing types and policies are needed
+       going forward. Assessing the changes in demand helps guide              Over 27,000 households are renting or owning homes that do
+       decision-making around how resources are utilized to provide the        not meet their budget, while others are in types of housing they
+       greatest benefit to county residents.                                   do not prefer. Housing construction has not been able to catch up
+                                                                               to pent-up demand. The large number of units needed by 2030
+       The population of Kalamazoo County has not significantly changed        to meet projected demand has increased because of changing
+       over the five-year period from 2018 to 2023. The rate of growth         demographics and because of the Ford BlueOval Battery Park in
+       in the county was slightly lower than that of the state. Even without   Marshall. The total number of units needed in 2030 is up to 8,000,
+       significant increases in population, the number of housing units        up from 7,750. While just over 2,500 units have been permitted
+       produced did not keep pace with the demand. This has caused             since the first iteration of this plan in 2022, that is below the pace of
+       housing shortages and price increases, which in turn have caused        1,000 per year. The county still needs to build around 5,500 units
+       more households to pay more than 30 percent of their income             by 2030 to meet this demand. The type of units needed has also
+       toward housing expenses. This phenomenon was not experienced            changed; the number of single-family units has decreased, and the
+       equally across all parts of the county: certain urban and rural areas   number of two-to-four attached units has increased. The movement
+       (Edison and Arcadia Neighborhoods, Richland and Oshtemo                 from single-family to smaller units is due to a change in preferences
+       Townships) saw higher than average levels of overburdened               from consumers, a greater need for more affordable units, and a
+       renters.                                                                willingness to loosen zoning ordinances from municipalities.
+
+       Many homes in Kalamazoo County have issues that require
+       repairs. This is exacerbated by the fact that much of the housing
+       stock is older than 50 years. There are also multiple historic
+       districts requiring specific standards for updates, adding cost or
+       complication for owners, many of whom have low-to-moderate
+       incomes. Addressing both the immediate and long-term issues with
+
+Kalamazoo County Housing Plan: Introduction                                                                                                                 7
+                                                                                                                                                   Page 86 of 270
+
+--- packet page 87 ---
+
+Housing Supply and Demand
+      Future Demand Cont’d
+
+      Using the preferences expressed in the countywide survey in 2021
+      and in a national housing preference survey, and the construction
+      trends realized over the past few years, the following number of
+      units by type and location are needed in the county.
+
+      Table 10: Units Needed to Meet Demand from Growth over the Next Six Years
+                                           Single-Familiy Single-Familiy   Mid-Sized       Low- and Mid-     Accessory
+                                             Detached        Attached      Multi Family   Rise Apartments   Dwelling Units
+
+                                               1 Unit        2-4 Units       5-25 Units      25+ Units         +1 Unit           Total
+                      Rural/Small
+                         Town                   600             300             150             50              125              1,225
+
+                       Suburban
+                                               2100             450             275             200             150              3,175
+
+                    General Urban
+        Location
+
+                                                700             350             350             300             150              1,850
+
+                     Urban Center
+                                                200             250             300             250             150              1,150
+
+                      Urban Core
+                                                 0              25              150             400              25               600
+
+                          Total
+                                               3,600           1,375           1,225           1,200            600              8,000
+                      Estimated Cost
+                   to Build per Unit ($)      350,000         200,000         175,000         150,000          75,000
+                        Total Cost
+                       By Type ($)         $1,260,000,000   $275,000,000   $214,375,000    $180,000,000     $45,000,000      $1,974,375,000
+
+Kalamazoo County Housing Plan: Housing Supply and Demand                                                                                              48
+                                                                                                                                              Page 87 of 270

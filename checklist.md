@@ -6,9 +6,9 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 
 ## Summary
 
-- Done: 27
+- Done: 29
 - Done, waiting on minutes: 6
-- Not started: 14
+- Not started: 12
 - Cancelled: 2
 
 ## Still needed
@@ -21,8 +21,6 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 - 2025-10-30 Special Business Meeting: not started
 - 2025-11-17 Business Meeting and Oath of Office Ceremony: not started (5:00 PM meeting. YouTube title is "November 17, 2025 Kalamazoo City Commission" for both meetings that day; matched by content.)
 - 2025-11-17 Business Meeting: not started (7:00 PM meeting with the newly seated Commission. YouTube title is "November 17, 2025 Kalamazoo City Commission" for both meetings that day; matched by content.)
-- 2025-12-01 Committee of the Whole: not started
-- 2025-12-01 Business Meeting: not started
 - 2026-03-14 Planning Retreat: add minutes once the city posts them
 - 2026-07-06 Business Meeting: add minutes once the city posts them
 - 2026-08-10 Committee of the Whole: add minutes once the city posts them
@@ -46,8 +44,8 @@ Goal: every City of Kalamazoo City Commission meeting back to January 2020. So f
 | 2025-10-30 | Special Business Meeting | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
 | 2025-11-17 | Business Meeting and Oath of Office Ceremony | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** | 5:00 PM meeting. YouTube title is "November 17, 2025 Kalamazoo City Commission" for both meetings that day; matched by content. |
 | 2025-11-17 | Business Meeting | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** | 7:00 PM meeting with the newly seated Commission. YouTube title is "November 17, 2025 Kalamazoo City Commission" for both meetings that day; matched by content. |
-| 2025-12-01 | Committee of the Whole | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
-| 2025-12-01 | Business Meeting | Not started | **missing** | **missing** | **missing** | **missing** | **missing** | **missing** |  |
+| 2025-12-01 | Committee of the Whole | Done | yes | yes | same as agenda | yes | yes | yes | Minutes approved 2026-01-05 but the posted copy is not signed (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |
+| 2025-12-01 | Business Meeting | Done | yes | yes | yes | yes | yes | yes | Minutes approved 2026-01-05 but posted only as an unsigned DRAFT (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |
 | 2025-12-08 | Budget Work Session | Done | yes | yes | same as agenda | yes | yes | yes | Video titled "December 8, 2025 Kalamazoo City Commission". The agenda and minutes call it a Committee of the Whole meeting. Minutes approved 2026-02-16 but posted only as an unsigned DRAFT (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |
 | 2025-12-15 | Committee of the Whole | Done | yes | yes | same as agenda | yes | yes | yes | Minutes approved 2026-02-16 but posted only as an unsigned DRAFT (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |
 | 2025-12-15 | Business Meeting | Done | yes | yes | yes | yes | yes | yes | Minutes approved 2026-02-16 but posted only as an unsigned DRAFT (checked 2026-11-28). See info.txt and audit.csv for staff record issues. |

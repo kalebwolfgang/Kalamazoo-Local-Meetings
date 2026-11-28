@@ -1,0 +1,17 @@
+# Hand corrections to software-read pages in this packet
+# No budget tables in this packet needed checking against totals.
+# The fee table CSV for "Proposed 2026 WWR Rates 110725_Final" (H3 attachment 5) did not line up in columns, so it was removed; the full text is in the .txt file.
+# The pages below had no usable text from the software, so the words on them were typed in by hand from the page images.
+
+G16-700-north-burdick-brownfield--04-bp-amd1-700-block-n-burdick-2025-1118.txt, packet page 64: section divider page "Figures".
+G16-700-north-burdick-brownfield--04-bp-amd1-700-block-n-burdick-2025-1118.txt, packet page 67: section divider page "Tables".
+G16-700-north-burdick-brownfield--04-bp-amd1-700-block-n-burdick-2025-1118.txt, packet page 73: section divider page "Appendix 1".
+G16-700-north-burdick-brownfield--04-bp-amd1-700-block-n-burdick-2025-1118.txt, packet page 75: section divider page "Appendix 2".
+G16-700-north-burdick-brownfield--04-bp-amd1-700-block-n-burdick-2025-1118.txt, packet page 77: section divider page "Appendix 3".
+G16-700-north-burdick-brownfield--04-bp-amd1-700-block-n-burdick-2025-1118.txt, packet page 79: section divider page "Appendix 4".
+G16-700-north-burdick-brownfield--04-bp-amd1-700-block-n-burdick-2025-1118.txt, packet page 81: section divider page "Appendix 5".
+G16-700-north-burdick-brownfield--04-bp-amd1-700-block-n-burdick-2025-1118.txt, packet page 83: section divider page "Appendix 6".
+H03-water-rates-first-reading--03-stantec-water-cost-of-service.txt, packet page 190: Stantec closing page "Thank you".
+H04-4301-stadium-rezoning--03-2025-05-4301-stadium-drive-aerial-view.txt, packet page 264: aerial view map; title and legend typed in by hand.
+H04-4301-stadium-rezoning--04-2025-05-4301-stadium-current-zoning.txt, packet page 265: current zoning map; title and legend typed in by hand.
+H04-4301-stadium-rezoning--05-2025-05-4301-stadium-future-land-use.txt, packet page 266: future land use map; title and legend typed in by hand.

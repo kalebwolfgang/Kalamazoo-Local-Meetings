@@ -1,0 +1,36 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Committee of the Whole
+Date: 2025-12-01
+Scheduled start: 5:00 PM
+Called to order: 5:02 PM (per minutes)
+Adjourned: 6:26 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=9WxH9oBCHTQ
+Note: the meeting starts about 2 minutes and 38 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/1296/files/agenda/4489
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/1296/files/agenda/4490 (same as the agenda, no attachments; not stored separately)
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/1296/files/agenda/4612
+Minutes document number: CC-2025-50
+Minutes approved: 2026-01-05 (consent item G10 at the January 5, 2026 Business Meeting, per the January 5 minutes); the posted copy is not signed
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 173 blocks, each sentence timestamped (512 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (1 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (2 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
+
+Notes:
+  Staff record issue: the Commission approved these minutes on 2026-01-05 (consent item G10 at the January 5, 2026 Business Meeting, per the January 5 minutes), but the copy posted on CivicClerk is not signed and has a blank approval date (checked 2026-11-28).
+  Staff record issue: the slides from both presentations (Director Baker's 2026 Proposed Utility Rates and Community Action's Introduction to Water Bill Assistance) were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk.
+  Staff record issue: the minutes' roll call spells Commissioner Slaby's first name "Jacquelin"; every other 2025 and 2026 set of minutes checked so far spells it "Jacqueline". The text is kept as printed.
+  Possible staff record issue: the minutes give Laura Jones's title as Assistant Director of Development and Supportive Services for Community Action; on video she says "assistant director of emergency and supportive services" (captions). Captions can mishear, so this is only possible.
+  All seven commissioners were present (per minutes). Patsy Moore attended as Interim City Manager.
+  One person spoke during public comment (per minutes).
+  The agenda packet is the agenda with page footers only, so it is not stored separately.
+
+Related meeting: 2025-12-01-business (7:00 PM, same day)

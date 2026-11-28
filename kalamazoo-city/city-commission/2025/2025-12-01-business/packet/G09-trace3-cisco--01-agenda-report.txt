@@ -1,0 +1,71 @@
+# Agenda item G9: Approval of the purchase of Cisco switches, controllers, and wireless access points as part of hardware lifecycle replacement from Trace3 in the amount of $349,069.70.
+# Attachment: Agenda Report
+# Packet pages 24-25 of the December 1, 2025 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 24 ---
+
+                                                                                             Date:    12/1/2025
+                City Commission                                                                         Item: G.9.
+
+                Agenda Report
+                City of Kalamazoo
+
+TO:            Mayor Anderson, Vice Mayor Duncan, and City Commissioners
+
+FROM:          Patsy Moore, Interim City Manager
+               Reviewed by: Tim Dubois, Chief Information Officer
+               Prepared by: John Hambright, Deputy Chief Information Officer
+
+DATE:          December 1, 2025
+
+SUBJECT:       Approval of a MiDeal Contract with Trace3 for the purchase of Cisco switches,
+               controllers, and wireless access points as part of hardware lifecycle replacement
+               in the amount of $349,069.70.
+
+RECOMMENDATION:
+
+It is recommended that the City Commission approve the purchase of Cisco switches,
+controllers, and wireless access points as part of hardware lifecycle replacement in the amount of
+$349,069.70.
+
+BACKGROUND:
+
+The City replaces network devices like switches and wireless access points on a regular schedule
+to keep systems reliable, secure, and supported. Upgrading hardware is needed as older models
+lose support, create security risks, and become less dependable.
+
+STRATEGIC VISION ALIGNMENT:
+
+Strategic Goal Impact:
+Good Governance- Ensuring the City organization has the capacity and resources to effectively
+implement the community's Strategic Vision in a way that is sustainable over the long term.
+
+COMMUNITY ENGAGEMENT:
+
+Appropriate Depth of Engagement
+Inform (one-way conversation) – no feasible alternatives available due to legal/regulatory
+restrictions, standards and best practices, or resource limitations; the community will be made
+aware of the project.
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                              Page 24 of 270
+
+--- packet page 25 ---
+
+Commission Agenda Report
+Page 2
+
+FISCAL IMPACT:
+
+The lifecycle replacement for network hardware is included in the City's Fiscal Year 2025
+Information Technology operating budget.
+
+Description                          Account                                 Project #      Dollar Amount
+IT Network and Security              101-228-00.000-975.000                                 $349,069.70
+
+              Kalamazoo City Manager’s Office 241 W. South Street, Kalamazoo, MI 49007 269.337.8047
+                                                Fax: 269.337.8182
+
+                                                                                                            Page 25 of 270

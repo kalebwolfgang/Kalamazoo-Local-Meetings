@@ -1,0 +1,41 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2025-12-01
+Scheduled start: 7:00 PM
+Called to order: 7:02 PM (per minutes)
+Adjourned: 9:38 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=ignrwCYOUdE
+Note: the meeting starts about 1 minute and 33 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/1272/files/agenda/4493
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/1272/files/agenda/4494
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/1272/files/agenda/4607
+Minutes document number: CC-2025-51
+Minutes approved: 2026-01-05 (consent item G10 at the January 5, 2026 Business Meeting, per the January 5 minutes); the posted copy is still the unsigned DRAFT
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 369 blocks, each sentence timestamped (955 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (18 rows): 10 in general public comment, 2 in agenda item G22 (Winstons EIF loan, moved to regular agenda), 2 in agenda item G23 (Country Club fireworks, moved to regular agenda), 3 in agenda item H1 (Arcadia Creek design), 1 in agenda item H4 (4301 Stadium Drive rezoning first reading)
+  public-comment-topics.csv  one row per topic each speaker mentioned (56 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (33 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 29 agenda items and 53 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  Staff record issue: the Commission approved these minutes on 2026-01-05 (consent item G10 at the January 5, 2026 Business Meeting, per the January 5 minutes), but the copy posted on CivicClerk is still the unsigned DRAFT with a blank approval date (checked 2026-11-28).
+  Staff record issue: the slides from Assistant City Planner Bobby Durkee's presentation on 4301 Stadium Drive (H4) were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk.
+  Staff record issue: the minutes' roll call spells Commissioner Slaby's first name "Jacquelin" (as in the same day's Committee of the Whole minutes); other minutes spell it "Jacqueline". The text is kept as printed.
+  Possible staff record issue: the minutes name the Alpha Phi Alpha chapter president as Van Burch, Sr.; on video he introduces himself as "brother Dean Burch" (captions). Captions can mishear, so this is only possible.
+  All seven commissioners were present (per minutes). Patsy Moore attended as Interim City Manager.
+  Two consent items were moved to the regular agenda when the agenda was adopted: G23 (Kalamazoo Country Club fireworks, by Commissioner Slaby) and G22 (Winstons EIF loan, by Vice Mayor Duncan). They keep their printed numbers here. On video the regular agenda items are renumbered H1 to H6 in the order G22, G23, H1, H2, H3, H4.
+  Vice Mayor Duncan abstained on G23 (per minutes and video).
+  H4: the motion first included scheduling the public hearing for January 26, 2026. It was amended 7-0 to remove the date, then passed 7-0 as a first reading only. By consensus the Commission asked staff to consider a larger venue for the hearing.
+  Public comment (per minutes): 10 people in general public comment, plus 2 on G22, 2 on G23, 3 on H1 and 1 on H4. The minutes list "Clifton Burgett and students from Kalamazoo Central High School" as one entry; four students also spoke (names in time_note). These minutes spell one speaker "Shone Espinoza"; the December 15, 2025 minutes spell the name "Shona Espinoza". Each meeting keeps its own minutes' spelling.
+  G25 approves the minutes of the November 17, 2025 7:00 p.m. Business Meeting; a copy of those minutes is in this packet (pages 139-144).
+
+Related meeting: 2025-12-01-committee-of-the-whole (5:00 PM, same day)
