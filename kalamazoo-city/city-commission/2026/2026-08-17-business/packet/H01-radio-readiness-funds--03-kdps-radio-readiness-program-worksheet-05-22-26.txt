@@ -1,0 +1,85 @@
+# Agenda item H1: Acceptance of Radio Readiness Funds from the Kalamazoo Consolidated Dispatch Authority in the amount of $1,107,210 and approval of a budget amendment. the City Manager to sign all related documents)
+# Attachment: KDPS - Radio Readiness Program Worksheet - 05.22.26
+# Packet pages 23-24 of the August 17, 2026 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 23 ---
+
+                                                               Radio Readiness Program Worksheet
+     Agency/Depart Name:          Kalamazoo Department of Public Safety
+
+           Primary Point of Contact                       Alternate Point of Contact                            Initial Meeting & Worksheet Completed 4/2/26.
+   Name: Chirstopher Franks                        Name: John Hurst
+   Office: 269-337-8700                            Office: 269-337-8068
+  Mobile: 269-599-8231                            Mobile: 269-993-2058
+   Email: franksc@kalamazoocity.org                Email: hurstj@kalamazoocity.org
+
+DEVICES SUBMITTED ON 2024 SURVEY:                                                        SPECIFIC       AES
+             TYPE                 BAND      QTY       MAKE              MODEL NAME     MODEL NUMBER   ENCRYPT NOTES:
+           Portable              800/700    200     Motorola              XTS5000      H18UCF9PW6AN     NO    Radios are not in service.
+           Portable              800/700     28     Motorola              XTS5000      H18UCF9PW6AN     NO    5/22/26 - 20 of these still in service - the remainder are not.
+           Portable             Dual-band    27     Motorola              APX8000      H91TGD9PW6AN     NO    2019 PURCHASE DVR CAPABLE
+           Portable             Dual-band    98     Motorola              APX8000      H91TGD9PW6AN     NO    2019 PURCHASE
+           Portable             Dual-band   145     Motorola              APX8000      H91TGD9PW6AN     YES   2020 PURCHASE DVR CAPABLE
+           Portable             Dual-band    2      Motorola              APX8000      H91TGD9PW7AN     NO    2019 PURCHASE DVR CAPABLE
+           Portable              800/700     1      Motorola              APX6000      H98UCF9PW7AN   UKNOWN (2015???)
+    Mobile w/Remote Head         800/700     82     Motorola              XTL5000      M20URS9PW1AN     NO    5/22/26 - FOUR of these still in service - the remainder are not
+    Mobile w/Remote Head         800/700     10     Motorola              XTL5000      M20URS9PW1AN     NO    5/22/26 - These are still in service
+    Mobile w/Remote Head         800/700     2      Motorola              XTL2500      M21URM9PW1AN   UKNOWN
+    Mobile w/Remote Head         800/700     1      Motorola              APX6500      M25URS9PW1AN   UKNOWN
+    Mobile w/Remote Head        Dual-band    1      Motorola              APX7500      M30TXS9PW1AN   UKNOWN
+    Mobile w/Remote Head        Dual-band    21     Motorola              APX8500      M37TSS9PW1AN     NO   2019 PURCHASE
+    Mobile w/Remote Head        Dual-band    84     Motorola              APX8500      M37TSS9PW1AN     YES  2020 PURCHASE
+
+                                            702
+
+DEVICES REPLACED SINCE 2024 SURVEY:                                                      SPECIFIC       AES
+             TYPE                 BAND      QTY       MAKE              MODEL NAME     MODEL NUMBER   ENCRYPT NOTES:
+
+                                             0
+
+                                                                                                                                                                                 Page 23 of 125
+
+--- packet page 24 ---
+
+RADIOS ELIGIBLE & FUNDING:                                                                                                                            AGENCY CHOICES
+                                                                                                  KCCDA ELIGIBLE                   New Device or                         Eligible       Total
+                                                                                                                                                    Year of
+             TYPE                   BAND         QTY           MAKE             MODEL NAME           FUNDING                      Reimbursement               Quantity   max. per    Eligibility
+                                                                                                                                                   Purchase
+                                                                                                                                      Funding                             Device        Max.
+           Portable                800/700        20          Motorola             XTS5000         New Device Only          1       New Device        x          20       $4,500      $90,000
+           Portable               Dual-band       27          Motorola             APX8000        Reimburse or New          2        Reimburse      2019         27       $2,400      $64,800
+           Portable               Dual-band       98          Motorola             APX8000        Reimburse or New          3        Reimburse      2019         98       $2,400     $235,200
+           Portable               Dual-band      145          Motorola             APX8000        Reimburse or New          4        Reimburse      2020        145       $2,700     $391,500
+           Portable               Dual-band       2           Motorola             APX8000        Reimburse or New          5        Reimburse      2019         2        $2,400       $4,800
+           Portable                800/700        1           Motorola             APX6000        Reimburse or New          6       New Device        x          1        $4,500       $4,500
+    Mobile w/Remote Head           800/700        4           Motorola             XTL5000         New Device Only          7       New Device        x          4        $3,975      $15,900
+    Mobile w/Remote Head           800/700        10          Motorola             XTL5000         New Device Only          8       New Device        x          10       $3,975      $39,750
+    Mobile w/Remote Head           800/700        2           Motorola             XTL2500         New Device Only          9       New Device        x          2        $3,975       $7,950
+    Mobile w/Remote Head           800/700        1           Motorola             APX6500        Reimburse or New         10       New Device        x          1        $3,975       $3,975
+    Mobile w/Remote Head          Dual-band       1           Motorola             APX7500        Reimburse or New         11       New Device        x          1        $3,975       $3,975
+    Mobile w/Remote Head          Dual-band       21          Motorola             APX8500        Reimburse or New         12        Reimburse      2019         21       $2,120      $44,520
+    Mobile w/Remote Head          Dual-band       84          Motorola             APX8500        Reimburse or New         13        Reimburse      2020         84       $2,385     $200,340
+                                                 416                                                                                                            416           $1,107,210
+
+                                                                                                           KCCDA Internal Tracking
+                                                                                                                                PROOF OF DEVICE DEVICE(S)      CHECK
+                                                                                                                                                                                      CHECK
+                                                                      Mobile   Mobile    Base          #        VENDOR           PURCH TEMPLATE RECVD BY      VOUCHER    AMOUNT
+                                                                                                                                                                                      ISSUED
+                                                Portable   Mobile     w/RH     w/2-RH   Station                                  RECVD?  REVIEW VENDOR        CREATED
+            Program Replacement Cost Average:    $6,000    $5,000     $5,300   $6,000   $4,500        1                                   DATE    DATE          DATE                   DATE
+    KCCDA Maximum Amount(s) Permitted                                                                 2
+                     New Devices      75%        $4,500    $3,750     $3,975   $4,500    $3,375       3
+          Purchased 1/1-12/31/25      70%        $4,200    $3,500     $3,710   $4,200    $3,150       4
+          Purchased 1/1-12/31/24      65%        $3,900    $3,250     $3,445   $3,900    $2,925       5
+          Purchased 1/1-12/31/23      60%        $3,600    $3,000     $3,180   $3,600    $2,700       6
+          Purchased 1/1-12/31/22      55%        $3,300    $2,750     $2,915   $3,300    $2,475       7
+          Purchased 1/1-12/31/21      50%        $3,000    $2,500     $2,650   $3,000    $2,250       8
+          Purchased 1/1-12/31/20      45%        $2,700    $2,250     $2,385   $2,700    $2,025       9
+          Purchased 1/1-12/31/19      40%        $2,400    $2,000     $2,120   $2,400    $1,800       10
+          Purchased 1/1-12/31/18      35%        $2,100    $1,750     $1,855   $2,100    $1,575       11
+          Purchased 1/1-12/31/17      30%        $1,800    $1,500     $1,590   $1,800    $1,350       12
+        Purchased before 12/31/16     25%        $1,500    $1,250     $1,325   $1,500    $1,125       13
+
+                                                                                                                                                                                    Page 24 of 125

@@ -1,0 +1,129 @@
+# Agenda item K2: Discussion of Call-In Public Comments
+# Attachment: Attachment 1 - Public Comment Options Matrix
+# Packet pages 105-108 of the August 17, 2026 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 105 ---
+
+                                            Kalamazoo City Commission
+                              Public Comment Options Comparison Matrix
+Public Comment Time Limits
+Option                Advantages              Potential Drawbacks     Operational Impact    Public Engagement          Legal
+                                                                                            Impact                     Considerations
+
+Status Quo (4         Familiar process;       Longer meetings;        No implementation     Provides substantial       Low legal risk;
+minutes)              allows more detailed    fewer speakers can      changes.              opportunity for public     existing practice has
+                      comments; no rule       be heard if                                   expression.                been implemented
+                      changes required.       attendance is high.                                                      successfully.
+Shorter Time (2–3     Allows more speakers    Speakers may have       May reduce overall    More individuals may       Generally permissible
+minutes)              within the same         less opportunity to     meeting length.       participate, but with      if applied uniformly
+                      meeting time;           fully explain complex                         less time per speaker.     and content-neutral.
+                      improves meeting        issues.
+                      efficiency; commonly
+                      used by many public
+                      bodies.
+Flexible Time Based   Balances efficiency     Less predictable for    Requires procedural   Can maximize               Must be administered
+on                    with participation;     speakers; requires      guidelines and        participation while        consistently to avoid
+Number of Speakers    more time               Chair discretion or     monitoring.           maintaining flexibility.   unequal treatment.
+                      available when          administrative
+                      attendance is low.      tracking.
+
+                                                                                                                                  Page 105 of 125
+
+--- packet page 106 ---
+
+Remote Public Participation
+ Option                     Advantages                Potential Drawbacks       Operational Impact                               Legal &
+                                                                                                         Public Engagement
+                                                                                                                                 Accessibility
+                                                                                                         Impact
+                                                                                                                                 Considerations
+ No Remote                  Simplifies meeting        May limit participation   Lowest staffing and      Reduced access for      Generally permissible
+ Participation              management;               by residents unable       technology               some community          if
+ (In-Person Only)           minimizes technical       to attend.                requirements.            members.                consistent with state
+                            issues.                                                                                              law. ADA
+                                                                                                                                 accommodations may
+                                                                                                                                 still be required.
+ Remote Participation       Maximizes                 Increased technology      Requires staff           Highest level of        Requires procedures
+ Available to All (Live     accessibility             needs; potential          support, technology,     accessibility and       to ensure orderly
+ Call-In)                   and participation;        technical disruptions;    and procedures for       public engagement.      participation and
+                            accommodates              longer meetings.          speaker                                          equal treatment. Not
+                            residents unable to                                 management.                                      clear whether allowed
+                            attend in person.                                                                                    by Open Meetings Act
+                                                                                                                                 (OMA) post-COVID.
+ Remote Participation       Balances accessibility    Requires a process        Moderate                 Improves access for     May align with ADA
+ Only for Individuals       with operational          for requesting            administrative           individuals with        accommodation
+ with                       simplicity; limits        accommodations;           effort to process        disabilities while      obligations; requires
+ Identified Accessibility   technology demands.       may be viewed as          requests.                maintaining primarily   clear and consistent
+ Needs                                                less inclusive.                                    in-person               procedures. 1
+                                                                                                         participation.
+ Pre-Recorded or            Reduces live              Eliminates opportunity    Staff time needed to     Expands participation   Procedures should
+ Written Comments           technical issues;         for real-time             receive, review, and     for some residents      establish submission
+ (Submitted Before          predictable meeting       interaction;              present recordings.      while reducing          deadlines, formats,
+ Meeting)                   flow.                     submission deadlines                               spontaneity.            and equal time limits.
+                                                      required.
+ Hybrid Option (Live        Provides the greatest     Highest complexity        Significant technology   Broadest opportunity    Requires consistent
+ In-Person + Live           flexibility and access.   and staffing needs.       and meeting              for participation.      administration and
+ Remote)                                                                        management                                       reliable technology.
+                                                                                requirements.                                    Not clear whether this
+
+1 We have an existing process to review ADA reasonable accommodation requests, including for commission and board meetings. Such requests
+
+are individual-specific and do not serve as a basis for including individuals who may have non-ADA covered disabilities.
+
+                                                                                                                                            Page 106 of 125
+
+--- packet page 107 ---
+
+                                                                                                                         is allowed by OMA
+                                                                                                                         post-COVID.
+
+Placement of General Public Comment on the Agenda
+Option                 Advantages              Potential Drawbacks        Operational Impact      Public Engagement      Considerations for
+                                                                                                  Impact                 Commission
+
+Beginning of Meeting   Public can address      Comments may occur         May lengthen the        Convenient for         Allows
+                       the Commission          before agenda items        beginning of meetings   speakers and           Commissioners to
+                       before business is      are discussed, limiting    and time before         encourages             hear public concerns
+                       conducted; residents    informed discussion.       addressing formal       participation.         before deliberations.
+                       do not need to wait                                agenda items.
+                       through the meeting.
+End of Meeting         Comments can reflect    Residents may need         Keeps agenda            May reduce             Allows comments on
+                       actions taken during    to wait longer to          moving early in the     participation due to   Commission actions
+                       the meeting; business   speak; some may            meeting.                extended wait times.   taken during the
+                       proceeds without        leave before                                                              meeting.
+                       interruption.           commenting.
+Both Beginning and     Provides flexibility;   May increase total         Requires clear rules    Maximizes              Commission should
+End                    allows comments         meeting length;            regarding which         opportunities for      determine whether
+                       before and after        potential for repetitive   comments belong in      participation.         duplicate comments
+                       Commission action.      comments.                  each period.                                   would be permitted.
+Before Each Major      Public input occurs     Adds complexity and        Longer meetings and     Encourages             Requires
+Agenda Section         immediately before      may interrupt meeting      more transitions.       issue-specific         restructuring of
+                       related business.       flow.                                              participation.         meeting agenda and
+                                                                                                                         procedures.
+
+Summary
+Issue                               Option That Maximizes                 Option That Maximizes Public        Option Requiring Least
+                                    Efficiency                            Participation                       Operational Change
+
+                                                                                                                                    Page 107 of 125
+
+--- packet page 108 ---
+
+ Public Comment Time                2–3 minutes                        Maintain 4 minutes                 Maintain 4 minutes
+
+ Remote Participation               No remote participation            Hybrid (In-Person + Live Remote)   In-person only
+
+ Agenda Placement                   End of meeting                     Beginning and End                  Maintain current agenda
+                                                                                                          placement (if unchanged)
+
+Overall Consideration Regarding Combined Policy Changes
+While each option is evaluated independently in this matrix, the Commission may choose to adopt multiple procedural changes
+simultaneously. The combined effect of those changes may differ from the impacts identified for any single option. For example, moving
+general public comment to the end of the meeting could reduce in-person participation because of longer wait times; however, offering
+live remote call-in participation may mitigate that effect by allowing residents to remain engaged without being physically present for the
+duration of the meeting. Likewise, shorter speaking times combined with remote participation may increase the total number of
+residents able to provide comments during a meeting. Commissioners may wish to evaluate not only the individual merits of each
+option, but also how combinations of procedural changes interact to affect accessibility, meeting efficiency, public participation, and
+overall meeting management.
+
+                                                                                                                                Page 108 of 125

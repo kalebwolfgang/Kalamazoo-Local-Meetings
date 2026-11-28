@@ -1,0 +1,297 @@
+# Agenda item H6: Adoption of a RESOLUTION establishing a moratorium on the acceptance and/or processing of applications for Data Centers, Battery Energy Storage Systems, Cryptocurrency Mining Centers, and Artificial Intelligence Data Centers within the City of Kalamazoo, Michigan.
+# Attachment: Data Center Moratorium - Resolution
+# Packet pages 89-94 of the August 17, 2026 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 89 ---
+
+                         CITY OF KALAMAZOO, MICHIGAN
+
+                             RESOLUTION NO. __________
+
+ A RESOLUTION TO ESTABLISH A MORATORIUM ON THE ACCEPTANCE
+ AND/OR PROCESSING OF APPLICATIONS FOR DATA CENTERS, BATTERY
+ ENERGY STORAGE SYSTEMS, CRYPTOCURRENCY MINING CENTERS,
+ AND ARTIFICIAL INTELLIGENCE DATA CENTERS WITHIN THE CITY OF
+ KALAMAZOO, MICHIGAN.
+
+       Minutes of a regular meeting of the City Commission of the City held on August 17,
+ 2026, at 7 p.m., local time, at 241 W. South Street, Kalamazoo, Michigan.
+
+ PRESENT:
+
+ ABSENT:
+
+ The following resolution was offered by Commissioner ________________ and seconded
+ by Commissioner __________________.
+
+Section 1. Moratoriums.
+
+In accordance with the Home Rule City Act (Act 279 of 1909), as amended, the City
+Commission determines that in some cases, it is appropriate for the City to temporarily pause
+consideration and/or review of certain applications or requests, or to not accept or process
+certain applications in order to allow the City adequate time to research an issue and adopt
+and/or amend, any City ordinances related thereto. The City Commission determines that it
+has the authority to enter into a temporary moratorium.
+
+Section 2. Data Centers.
+
+A. Findings.
+
+   1. The City Commission determines that the approval of data centers may result in or
+      produce negative impacts on permitted land uses and development and may harm
+      the public health, safety, and general welfare of property owners and residents of the
+      City of Kalamazoo.
+
+   2. A data center is a facility used primarily for the storage, management, processing,
+      and transmission of digital data, which houses computer network equipment,
+      systems, servers, appliances and other associated components related to digital data
+      operations. The facility may also include air handlers, power generators, water
+      cooling and storage facilities, utility substations, and other associated utility
+      infrastructure to support sustained operations at the date center. Some examples of
+      data centers include: hyperscale; colocation; edge; and enterprise.
+
+                                                                                                Page 89 of 125
+
+--- packet page 90 ---
+
+   3. The City Commission has received from the public a multitude of land use
+      compatibility and environmental concerns regarding data centers and their operation
+      which include, but are not limited to, noise, vibrations, harmful decibel levels that
+      exceed safe hearing limits and cause chronic sleep disturbances, lighting, excessive
+      reliance of diesel generators for backup power, water usage, wastewater discharge,
+      emergency fire response, and exceedingly high greenhouse emissions.
+
+   4. The City’s Zoning Ordinance currently lacks specific local zoning standards, site
+      plan requirements, design standards, utility and infrastructure requirements,
+      environmental safeguards, and other regulatory controls tailored specifically to data
+      centers that would address the foregoing issues.
+
+   5. The City Commission is reasonably concerned future data centers, without proper
+      regulations, would be established in inappropriate or inadvisable locations within
+      the City.
+
+   6. The Commission believes the concerns raised may require necessary regulations to
+      be adopted to protect the public health, safety, and general welfare of the community.
+
+   7. The City Commission has a legitimate public purpose in assessing the regulation of
+      the establishment and use of data centers within the City to ensure that data centers
+      do not interfere with other land uses, or have substantial impacts on the environment,
+      public health, and safety.
+
+Section 3. Battery Energy Storage Systems (“BESS”).
+
+A. Findings
+
+   1. The City Commission determines that the approval of Battery Energy Storage
+      Systems (“BESS”) may result in or produce negative impacts on permitted land uses
+      and development and may harm the public health, safety, and general welfare of
+      property owners and residents of the City of Kalamazoo.
+
+   2. A BESS is a system that stores energy from different sources, often renewable
+      sources like wind and solar, and stores it in rechargeable lithium-ion batteries for
+      later use when there is increased demand for energy from electrical grids. These
+      systems commonly consist of lithium-ion batteries, power conversion systems, and
+      control equipment but can vary widely in their uses and scale. The construction of
+      these systems has increased due to the increased demand for electricity nationwide.
+
+   3. Since BESS systems primarily use lithium-ion batteries, they can spark fires that are
+      extremely difficult to extinguish. According to the U.S. Environmental Protection
+      Agency, these fires can reignite hours or days later. The fires can also release
+      harmful gases that pose health safety risks for nearby residents and first responders.
+
+                                                                                               Page 90 of 125
+
+--- packet page 91 ---
+
+   4. Two BESS projects have been proposed in townships that border the City. This has
+      raised concerns as to potential land use and environmental impacts such BESS
+      projects may have on the City, including any BESS projects that may desire to
+      construct a facility within the City.
+
+   5. The City’s Zoning Ordinance currently lacks specific local zoning standards, site
+      plan requirements, design standards, utility and infrastructure requirements,
+      environmental safeguards, and other regulatory controls tailored specifically to
+      BESS systems that would address the foregoing issues.
+
+   6. The City Commission is reasonably concerned that future BESS systems, without
+      proper regulations, would be established in inappropriate or inadvisable locations
+      within the City.
+
+   7. The Commission believes the concerns raised may require necessary regulations to
+      be adopted to protect the public health, safety, and general welfare of the community.
+
+   8. The City Commission has a legitimate public purpose in assessing the regulation of
+      the establishment and use of BESS systems within the City to ensure that BESS
+      systems do not interfere with other land uses, or have substantial impacts on the
+      environment, public health, and safety.
+
+Section 4. Cryptocurrency Mining Centers.
+
+A. Findings
+
+   1. The City Commission determines that the approval of cryptocurrency mining centers
+      may result in or produce negative impacts on permitted land uses and development
+      and may harm the public health, safety, and general welfare of property owners and
+      residents of the City of Kalamazoo.
+
+   2. Cryptocurrency mining operation involves the validating of cryptocurrency
+      transactions on a blockchain network and adding them to a distributed ledger. These
+      operations typically occur in specialized data centers that require substantial and
+      specialized computing power. As a result, cryptocurrency mining operations require
+      lots of computer processing power which requires high amounts of electricity. These
+      operations require servers to run 24 hours a day.
+
+   3. Cryptocurrency mining operations’ high energy use creates a significant amount of
+      heat which could pose fire risks if the cooling systems are inadequate. In addition,
+      their high energy consumption can destabilize electric grids. These operations also
+      create loud industrial noise that can adversely impact nearby residents and
+      businesses. For example, the Dowagiac, Michigan data center is a cryptocurrency
+      mining center that has generated excessive noise that resulted in noise ordinance
+      citations and a class action lawsuit. Finally, cryptocurrency mining centers are
+      scalable as demand increases.          Where traditional data centers are static
+
+                                                                                               Page 91 of 125
+
+--- packet page 92 ---
+
+        infrastructure, cryptocurrency mining centers are modular.
+
+   4. The City’s Zoning Ordinance currently lacks specific local zoning standards, site
+      plan requirements, design standards, utility and infrastructure requirements,
+      environmental safeguards, and other regulatory controls tailored specifically to
+      cryptocurrency mining centers that would address the foregoing issues.
+
+   5.    The City Commission is reasonably concerned future cryptocurrency mining
+        centers, without proper regulations, would be established in inappropriate or
+        inadvisable locations within the City.
+
+   6. The Commission believes the concerns raised may require necessary regulations to
+      be adopted to protect the public health, safety, and general welfare of the community.
+
+   7. The City Commission has a legitimate public purpose in assessing the regulation of
+      the establishment and use of cryptocurrency mining centers within the City to ensure
+      that they do not interfere with other land uses, or have substantial impacts on the
+      environment, public health, and safety.
+
+Section 5. Artificial Intelligence (“AI”) Data Centers.
+
+A. Findings
+
+   1. The City Commission determines that the approval of AI data centers may result in
+      or produce negative impacts on permitted land uses and development and may harm
+      the public health, safety, and general welfare of property owners and residents of the
+      City of Kalamazoo.
+
+   2. An AI data center is a computing facility designed to support artificial intelligence
+      and machine learning workloads at scale. While traditional data centers focus on
+      general-purpose computing, AI environments prioritize computing resources and
+      extremely fast data movement. These facilities typically include: Graphics
+      Processing Unit-accelerated computing clusters; high-throughput storage systems;
+      low-latency networking fabrics; and specialized cooling and power infrastructure.
+      AI data centers consume much more energy to power their facilities as compared to
+      traditional data centers. As a result, AI data centers tend to be located in hyperscale
+      or collocation data centers.
+
+   3. AI data centers create the same land use compatibility and environmental concerns
+      as traditional data centers do as described in Section 1., Paragraph 3, but to a larger
+      scale.
+
+   4. The City’s Zoning Ordinance currently lacks specific local zoning standards, site
+      plan requirements, design standards, utility and infrastructure requirements,
+      environmental safeguards, and other regulatory controls tailored specifically to AI
+      data centers that would address the foregoing issues.
+
+                                                                                                Page 92 of 125
+
+--- packet page 93 ---
+
+     5. The City Commission is reasonably concerned future AI data centers, without
+        proper regulations, would be established in inappropriate or inadvisable locations
+        within the City.
+
+     6. The Commission believes the concerns raised may require necessary regulations to
+        be adopted to protect the public health, safety, and general welfare of the community.
+
+     7. The City Commission has a legitimate public purpose in assessing the regulation of
+        the establishment and use of AI data centers within the City to ensure that AI data
+        centers do not interfere with other land uses, or have substantial impacts on the
+        environment, public health, and safety.
+
+THEREFORE, BE IT RESOLVED:
+
+1.      The City Commission hereby declares that it has the statutory authority to adopt a
+        moratorium as described in Section 1, and the City Commission additionally adopts
+        the findings in Sections 2 through 5 above as legislative findings supporting the need
+        for a temporary moratorium on data centers, battery energy storage systems,
+        cryptocurrency mining centers, and AI data centers.
+
+2.      The City Commission finds that adopting a limited moratorium is reasonable and
+        necessary for, among other reasons, the following reasons:
+
+        a. Michigan courts have recognized that a moratorium is a common and legitimate
+           tool to preserve the status quo while formulating a development strategy.
+
+        b. The City Commission wants to review and study the public health, safety, and
+           welfare concerns regarding data centers and any City regulations that may
+           impact and/or regulate such projects.
+
+        c. The adoption of the moratorium will allow the City Commission adequate time
+           to study and possibly implement revisions to the City’s ordinances and
+           regulations, including attention to and consideration of citizen input and
+           involvement, public debate and full consideration of all points of view.
+
+3.      The City Commission hereby imposes a temporary moratorium on the acceptance
+        and/or processing of any applications for a data center, battery energy storage
+        systems, cryptocurrency mining center, and AI data center. The temporary
+        moratorium is until August 16, 2027, or until the effective date of any amended or
+        new City ordinances or regulations addressing data centers, battery energy storage
+        systems, cryptocurrency mining centers, and AI data centers are effective, whichever
+        occurs first.
+
+4.      Before the moratorium on data centers, battery energy storage systems,
+        cryptocurrency mining centers, and AI data centers expires, the City Commission
+
+                                                                                                 Page 93 of 125
+
+--- packet page 94 ---
+
+       may extend the moratorium by resolution as appropriate to allow sufficient time to
+       complete amendments or additions to its ordinances and regulations.
+
+5.     City staff, together with the City Attorney and appropriate technical consultants, if
+       needed, shall undertake a comprehensive review of the land use, infrastructure,
+       environmental, public safety, and other regulatory issues associated with data
+       centers, battery energy storage systems, cryptocurrency mining centers, and AI data
+       centers. Not later than the termination date of the moratorium as provided herein,
+       City staff shall present to the Planning Commission and the City Council proposed
+       Zoning Ordinance amendments for consideration.
+
+6.     If any provision, clause, sentence, or phrase of this Resolution is for any reason held
+       to be invalid or unenforceable by a court of competent jurisdiction, such decision
+       shall not affect the validity of the remaining provisions of this Resolution, which
+       shall remain in full force and effect.
+
+7.    This Resolution shall be interpreted and applied to be consistent with all applicable
+      State and Federal laws. Nothing in this moratorium shall be constructed as limiting
+      any vested rights recognized by law.
+
+ AYES:
+
+ NAYS:
+
+ ABSTAIN:
+
+ RESOLUTION DECLARED ADOPTED.
+
+                                      CERTIFICATE
+
+The foregoing is a true and complete copy of a resolution adopted by at a regular meeting
+held on August 17, 2026. Public notice was given and the meeting was conducted in full
+compliance with the Michigan Open Meetings Act (PA 267, 1976). Minutes of the meeting
+will be available as required by Act 381.
+
+                                                             ________________________
+                                                             Scott A. Borling
+                                                             City Clerk
+
+                                                                                                 Page 94 of 125

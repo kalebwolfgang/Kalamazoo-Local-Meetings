@@ -1,0 +1,4 @@
+# Hand corrections to software-read pages in this packet
+# No pages needed text typed in by hand: no maps, drawings or picture-only pages were found, and the pages with little text (signature pages, bond form pages and short policy pages) were checked against the page images.
+
+# Not typed in: the two scanned pages (packet page 13, part of the School Resource Officer agreement, and packet page 104, the call-in public comment cover memo) are text documents read by software. Signatures and email addresses may read as garbled text.

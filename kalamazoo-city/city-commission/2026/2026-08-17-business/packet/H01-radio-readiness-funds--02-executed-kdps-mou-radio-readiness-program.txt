@@ -1,0 +1,98 @@
+# Agenda item H1: Acceptance of Radio Readiness Funds from the Kalamazoo Consolidated Dispatch Authority in the amount of $1,107,210 and approval of a budget amendment. the City Manager to sign all related documents)
+# Attachment: Executed KDPS MOU - Radio Readiness Program
+# Packet pages 21-22 of the August 17, 2026 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 21 ---
+
+                       Kalamazoo County
+                 Consolidated Dispatch Authority
+
+         RADIO READINESS PROGRAM MEMORANDUM OF UNDERSTANDING
+
+THIS MEMORANDUM OF UNDERSTANDING is entered into by and between the Kalamazoo County
+Consolidated Dispatch Authority (“KCCDA”) and Kalamazoo Department of Public Safety (“KDPS”).
+
+     WHEREAS, the KCCDA Board of Directors allocated four million dollars ($4,000,000) of Capital
+     Project Fund monies in 2026 and is expected to allocate the same amount in 2027, for a two-year
+     Radio Readiness Program (“Program”) totaling eight million dollars ($8,000,000); and
+
+     WHEREAS, KCCDA’s Program provides funding to assist public safety agencies in Kalamazoo
+     County accomplish two critical radio communication goals: complete the transition of law
+     enforcement to Advanced Encryption Standard to comply with Criminal Justice Information Security
+     policy requirements, and encourage Fire Departments and the Kalamazoo County Medical Control
+     Authority to migrate to the Kalamazoo MPSCS Subsystem for primary communications; and
+
+     WHEREAS, the Program is based on the public safety radio inventory survey completed in 2024 and
+     only applies to radios/devices directly attributable and dedicated to the delivery of 9-1-1 service
+     within Kalamazoo County; and
+
+     WHEREAS, the Program is optional for public safety agencies, and is governed by the Radio
+     Readiness Program Guidelines (“Guidelines”) as established by the KCCDA Board of Directors; and
+
+     WHEREAS, the Program shall be administered on a first-come first-serve basis until allocated
+     monies are expended or December 31, 2027, whichever comes first; and
+
+     WHEREAS, KDPS has requested to participate in this optional Program.
+
+NOW THEREFORE, the parties agree to the following:
+
+1. In accordance with the Guidelines, KCCDA administration has evaluated KDPS’s 2024 public safety
+   radio inventory survey and deemed the following devices to be Program eligible:
+
+                                                                                              ELIGIBLE
+ #             RADIO TYPE               BAND      QTY       MAKE             MODEL
+                                                                                              FUNDING
+ 1               Portable             800/700     20       Motorola         XTS5000       New Device Only
+ 2               Portable            Dual-band    27       Motorola         APX8000      Reimburse or New
+ 3               Portable            Dual-band    98       Motorola         APX8000      Reimburse or New
+ 4               Portable            Dual-band    145      Motorola         APX8000      Reimburse or New
+ 5               Portable            Dual-band     2       Motorola         APX8000      Reimburse or New
+
+                                                                                                     Page 21 of 125
+
+--- packet page 22 ---
+
+        6             Portable                 800/700      1       Motorola          APX6000       Reimburse or New
+        7      Mobile w/Remote Head            800/700      4       Motorola          XTLS000        New Device Only
+        8      Mobile w/Remote Head            800/700     10       Motorola          XTLS000        New Device Only
+        9      Mobile w/Remote Head            800/700     2        Motorola          XTL2500        New Device Only
+       10      Mobile w/Remote Head            800/700      1       Motorola          APX6500       Reimburse or New
+       11      Mobile w/Remote Head           Dual-band     1       Motorola          APX7500       Reimburse or New
+       12      Mobile w/Remote Head           Dual-band    21       Motorola          APX8500       Reimburse or New
+       13      Mobile w/Remote Head           Dual-band    84       Motorola          APX8500       Reimburse or New
+
+      2. KDPS agrees that any reimbursement Program monies received from KCCDA for eligible devices, must
+         be used to bring the device(s) into compliance with the Guidelines as soon as possible but no later than
+         April 1, 2028.
+
+      3. KDPS agrees that any new devices purchased and activated as part of this Program shall be compliant
+         with the Guidelines at the time the new device is activated as a subscriber unit on the Kalamazoo
+         MPSCS Subsystem.
+
+      4. All Program funding will be distributed to KDPS as part of KCCDA's normative accounts payable
+         schedule.
+              a. Reimbursement Program monies will be distributed via check after supporting documentation is
+                  provided to KCCDA to verify proof of purchase and equipment received dates.
+              b. New device Program monies will be distributed via check after supporting documentation is
+                  provided to KCCDA to verify proof of purchase and the equipment has been received by KDPS's
+                  vendor.
+
+      5. These are one-time Program monies and KCCDA holds no responsibility for maintenance, repair, or
+         replacement of any radio communication devices.
+
+      6. The parties shall work together with KDPS's vendor(s) of choice. KCCDA administration reserves the
+         right to request any/all supporting documentation as it deems appropriate and necessary to validate or
+         verify radio communication devices adhere to the Program Guidelines.
+
+       KALAMAZOO DEPARTMENT OF PUBLIC SAFETY                      KALAMAZOO COUNTY CONSOLDIATED
+                                                                  DISPATCH AUTHORITY
+
+       Melissa Fuller, Deputy Director of Mgmt. Services          Jeffery Troyer, Executive Director
+
+              June 2, 2026 _
+       Date: ______                                                      June 2, 2026
+                                                                  Date: ________      _
+
+FORM ppAQVW
+
+                                                                                                                   Page 22 of 125

@@ -1,0 +1,32 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Committee of the Whole
+Date: 2026-08-17
+Scheduled start: 5:00 PM
+Called to order: not recorded (minutes not posted yet)
+Adjourned: not recorded (minutes not posted yet)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=acs3pPGgFtQ
+Note: the meeting starts about 2 minutes and 22 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2574/files/agenda/5302
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2574/files/agenda/5303 (same as the agenda, no attachments; not stored separately)
+Minutes: not posted on CivicClerk yet (checked 2026-11-28). Add them when they are posted.
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 492 blocks, each sentence timestamped (902 timestamps)
+  agenda.txt      full agenda text
+  public-comment.csv  one row per public comment speaker (3 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (8 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
+
+Notes:
+  No minutes have been posted, so attendance and public comment names and residency come from the video.
+  All seven commissioners were present (on video).
+  The CoW agenda packet is the agenda only, so there is no packet folder.
+  F1 was the All Things Diverse organizational assessment update. Presenter names are spelled as heard in the captions.
+  Wendy Fields spoke as president of the local NAACP branch in support of the Flock cameras, with transparency and oversight.
+  No commissioner comments were made.
+
+Related meeting: 2026-08-17-business (7:00 PM, same day)

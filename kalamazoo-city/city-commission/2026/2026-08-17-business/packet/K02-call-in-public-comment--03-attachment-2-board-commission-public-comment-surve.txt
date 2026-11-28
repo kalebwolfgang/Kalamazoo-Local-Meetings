@@ -1,0 +1,44 @@
+# Agenda item K2: Discussion of Call-In Public Comments
+# Attachment: Attachment 2 - Board/Commission Public Comment Survey
+# Packet pages 109-109 of the August 17, 2026 Business Meeting agenda packet. Full text, not summarized.
+
+--- packet page 109 ---
+
+                                      Length of public
+         Board/Commission              comment time                           Call-in Opportunity                                                      Staff Notes
+CPSRAB                                    3 mins       General Public Comment time only                                       Public comment section towards end of mtg
+
+                                                                                                                            Public comment section towards end of mtg. There have been
+                                                                                                                            more in-person comments than callers. Concerns were raised that
+                                                                                                                            the call-in number was not posted on livestream, and the number
+Civil Rights Board                        3 mins       General Public Comment time only (which is at the end)               is now posted and on the CRB website.
+                                                       General Public Comment time and for each regular agenda item that Not many call ins except for the Stadium Drive rezoning in
+Planning Commission                        3 min       contains a public comment section                                    November.
+                                                                                                                            There have not been many call-in or in-person comments utilized
+                                                                                                                            the past year or so, however, the flexibility of having both is great.
+                                                       General Public Comment time; Each new Business Item has its own      There is a delay in the stream so the call-in window is extended
+Natural Features Protection Board         3 mins       Public Comment Period (Call-in and In-Person)                        slightly to make up for this.
+                                                       General Public Comment time only at the beginning and end of
+Environmental Concerns Committee          3 mins       meeting                                                              Staff recalls having one call since 2024.
+                                                       Yes, for each public hearing on the agenda. No "general public       There has not been a call-in for at least five months, but continue
+Zoning Board of Appeals                   3 mins       comment" section.                                                    to offer this option for the public hearings.
+                                                       Address non agenda items at the beginning of the meeting and on
+                                                       project reviews after the applicant has made their presentation, but
+Historic District Commission               3 min       prior to HDC discussion
+Historic Preservation Commission           4 min       General Public Comment time only
+
+                                                                                                                              Call-in option currently suspended due to system issues; Call-ins
+                                                       General Public Comment time at the beginning and end of meeting        were live - not voicemail; Callers could call in at any time to be
+Kalamazoo County Commission               3 mins       only; No call-ins for specific agenda items.                           placed in the queue; in-person speakers are allowed to speak first.
+
+Call-in Staffing Considerations
+  As other boards/commissions are utilizing call-in function, the feature can be easily activated for Commission meetings.
+  Currently, board liaisons/staff administer the call-in function for meetings. IT does not manage call-ins for any meetings at this time.
+  IT covering CC meetings would create an additional duty outside of normal daily operations for IT. IT already has multiple staff that work regularly outside of business hours.
+ Estimated 10 hours/month, or 6% of total monthly hours (for 1 FTE) to cover call-ins for City Commission meetings.
+ IT has identified 2 staff and 1 back-up that are most familiar with Commission Chambers technology. If IT takes on this role, workload impacts could include: Tuesday morning
+ service desk response times being slower/delayed; short term delays to cloud migration project or server admin work; gaps in capacity for handling “patch” work that occurs
+ after-hours.
+ PMN has indicated that they will need to make sure they get the call-in audio for the stream, but this should be straightforward.
+
+                                                                                                                                                                                Page 109 of 125

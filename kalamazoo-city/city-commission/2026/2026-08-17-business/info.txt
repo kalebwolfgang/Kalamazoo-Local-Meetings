@@ -1,0 +1,34 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Business Meeting
+Date: 2026-08-17
+Scheduled start: 7:00 PM
+Called to order: not recorded (minutes not posted yet)
+Adjourned: not recorded (minutes not posted yet)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=X3phlfFERpQ
+Note: the meeting starts about 6 minutes and 14 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2561/files/agenda/5308
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2561/files/agenda/5328
+Minutes: not posted on CivicClerk yet (checked 2026-11-28). Add them when they are posted.
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 1597 blocks, each sentence timestamped (3171 timestamps)
+  agenda.txt      full agenda text
+  public-comment.csv  one row per public comment speaker (65 rows): 46 in general public comment, 14 in agenda item H6 (data center moratorium), 5 in agenda item Added (prior approval for license plate reader contracts)
+  public-comment-topics.csv  one row per topic each speaker mentioned (216 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (16 rows): outcome, vote, mover, video times, minutes page, packet pages
+  packet/         full agenda packet split into 14 agenda items and 27 attachments; see packet/index.csv
+                  packet/corrections.txt lists pages whose text was typed in or fixed by hand
+
+Notes:
+  No minutes have been posted, so attendance, votes, movers, public comment names and residency come from the video. Times, outcomes and votes should be checked against the minutes once they are posted.
+  All seven commissioners were present (on video). All votes were 7-0.
+  Residency: "City resident" is used when a speaker said they live in the city or named a city neighborhood they live in. For speakers who also appear in earlier 2026 minutes, names follow those minutes, and residency does too when the speaker did not state it on video. Bex Bergman and Jude Watkins said on video that they live in Kalamazoo Township, so they are listed as non-residents even though the March 16, 2026 minutes list them as City residents.
+  Many speaker names were heard only in the captions and may be misspelled; each one is marked in time_note. Many speakers gave no name and are listed as "Unnamed speaker" with a short description.
+  65 public comments in all: 46 in general public comment, 14 on H6 (data center moratorium) and 5 on the added item about license plate reader contracts. Most general public comment speakers spoke about the clearing of the North Edwards Street homeless encampment on August 13, Flock license plate cameras, and the data center moratorium.
+  Added item: Vice Mayor Duncan added a motion under policy items about Commission approval of license plate reader contracts. The Mayor said it had not been given a number, so it is listed as "Added".
+
+Related meeting: 2026-08-17-committee-of-the-whole (5:00 PM, same day)
