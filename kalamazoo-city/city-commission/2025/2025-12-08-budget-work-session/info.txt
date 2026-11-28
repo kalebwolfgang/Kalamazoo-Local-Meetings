@@ -1,0 +1,34 @@
+Government: City of Kalamazoo
+Board: City Commission
+Meeting: Budget Work Session
+Date: 2025-12-08
+Scheduled start: 5:00 PM
+Called to order: 5:01 PM (per minutes)
+Adjourned: 7:17 PM (per minutes)
+Location: City Commission Chambers, City Hall, 241 West South Street
+
+Video: https://www.youtube.com/watch?v=dVa3BKW55Q4
+Note: the meeting starts about 2 minutes and 39 seconds into the video.
+
+Agenda: https://kalamazoomi.portal.civicclerk.com/event/2554/files/agenda/4525
+Agenda packet: https://kalamazoomi.portal.civicclerk.com/event/2554/files/agenda/4526 (same as the agenda, no attachments; not stored separately)
+Minutes: https://kalamazoomi.portal.civicclerk.com/event/2554/files/agenda/4723
+Minutes document number: CC-2025-52
+Minutes approved: 2026-02-16 (consent item G18 at the February 16, 2026 Business Meeting, per the February 16 minutes); the posted copy is still the unsigned DRAFT
+
+Files in this folder:
+  transcript.txt  cleaned YouTube automatic captions; 307 blocks, each sentence timestamped (841 timestamps)
+  agenda.txt      full agenda text
+  minutes.txt     full minutes text (scanned original, checked by hand)
+  public-comment.csv  one row per public comment speaker (3 rows)
+  public-comment-topics.csv  one row per topic each speaker mentioned (8 rows), with time and exact quote
+  agenda-items.csv    one row per agenda item (1 rows): outcome, vote, mover, video times, minutes page, packet pages
+
+Notes:
+  Staff record issue: the Commission approved these minutes on 2026-02-16 (consent item G18 at the February 16, 2026 Business Meeting, per the February 16 minutes), but the copy posted on CivicClerk is still the unsigned DRAFT with a blank approval date (checked 2026-11-28).
+  Staff record issue: the slides from the 2026 Proposed Budget presentation were filed with the meeting papers (per minutes) but are not in the packet or posted on CivicClerk. The agenda links to the online budget book instead.
+  Possible staff record issue: the minutes say Edward Nickerson spoke about an incident at the Kalamazoo Transportation Center, but on video he says it was at the Kalamazoo Valley Museum ("Talazoo Valley Museum" in the captions). Captions can mishear, so this is only possible.
+  The agenda, the minutes and the Mayor on video call this a Committee of the Whole meeting; CivicClerk lists it as a Budget Work Session. It is filed here as a Budget Work Session.
+  All seven commissioners were present (per minutes). Patsy Moore attended as Interim City Manager.
+  Three people spoke during public comment (per minutes). Albert says "I live in Kalamazoo"; the minutes give no residency, so it is "not stated".
+  The agenda packet is the agenda with page footers only, so it is not stored separately.

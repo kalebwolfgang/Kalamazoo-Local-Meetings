@@ -1,15 +1,15 @@
 type,official_name,title,first_seen,last_seen,fix_only_after,wrong_spellings,verified_from,notes
-member,David Anderson,Mayor,2025-12-15,2026-08-17,Mayor,,2026-01-05 minutes,Not the same person as Christina Anderson (staff)
-member,Drew Duncan,Vice Mayor,2025-12-15,2026-08-17,Vice Mayor|Commissioner,Beckin,2026-01-05 minutes,
-member,Jeanne Hess,Commissioner,2025-12-15,2026-08-17,Commissioner,Hes|Hus|Hessa,2026-01-05 minutes,"""Commissioner H"" is left alone because it could be Hess or Hoffman"
-member,Stephanie Hoffman,Commissioner,2025-12-15,2026-08-17,Commissioner,Huffman,2026-01-05 minutes,
-member,Chris Praedel,Commissioner,2025-12-15,2026-08-17,Commissioner,Pradle|Pradell|Prao|Pradoor|Prado|Ple|Bra|Po|Pedle|Prle|Fredo|Cradle,2026-01-05 minutes,
-member,Jacqueline Slaby,Commissioner,2025-12-15,2026-08-17,Commissioner,Sley|Slay|Slayby|Slaybe|Slayy|Sllayy|Slavy|Slavey|Slave|Sbe|Sy|Slabby|Slavyy|Slate,2026-01-05 minutes,
-member,Alonzo Wilson,Commissioner,2025-12-15,2026-08-17,Commissioner,,2026-01-05 minutes,
+member,David Anderson,Mayor,2025-12-08,2026-08-17,Mayor,,2026-01-05 minutes,Not the same person as Christina Anderson (staff)
+member,Drew Duncan,Vice Mayor,2025-12-08,2026-08-17,Vice Mayor|Commissioner,Beckin,2026-01-05 minutes,
+member,Jeanne Hess,Commissioner,2025-12-08,2026-08-17,Commissioner,Hes|Hus|Hessa,2026-01-05 minutes,"""Commissioner H"" is left alone because it could be Hess or Hoffman"
+member,Stephanie Hoffman,Commissioner,2025-12-08,2026-08-17,Commissioner,Huffman,2026-01-05 minutes,
+member,Chris Praedel,Commissioner,2025-12-08,2026-08-17,Commissioner,Pradle|Pradell|Prao|Pradoor|Prado|Ple|Bra|Po|Pedle|Prle|Fredo|Cradle,2026-01-05 minutes,
+member,Jacqueline Slaby,Commissioner,2025-12-08,2026-08-17,Commissioner,Sley|Slay|Slayby|Slaybe|Slayy|Sllayy|Slavy|Slavey|Slave|Sbe|Sy|Slabby|Slavyy|Slate,2026-01-05 minutes,
+member,Alonzo Wilson,Commissioner,2025-12-08,2026-08-17,Commissioner,,2026-01-05 minutes,
 staff,Malcolm Hankins,City Manager,2026-01-05,2026-08-17,Manager|City Manager|Mr.|Malcolm,Henkins|Hengins|Henens|Higgins|Hanken|Hen|Hanks,2026-01-05 minutes,Started as City Manager 2026-01-05
-staff,Aaron Leal,City Attorney,2025-12-15,2026-08-17,Attorney|City Attorney,Leo|Leel,2026-01-05 minutes,
-staff,Scott Borling,City Clerk,2025-12-15,2026-08-17,Clerk|City Clerk,Bowling|Boling|Boring|Booring|Boing|Borley|Berling|Barley|Borland|Florane|Porley,2026-01-05 minutes,
-staff,Steve Vicenzi,Chief Financial Officer,2025-12-15,2026-06-15,CFO|Steve,Vicencies|Vasensei|Vensei|Vencies,2026-01-05 minutes,Also Management Services Director
+staff,Aaron Leal,City Attorney,2025-12-08,2026-08-17,Attorney|City Attorney,Leo|Leel,2026-01-05 minutes,
+staff,Scott Borling,City Clerk,2025-12-08,2026-08-17,Clerk|City Clerk,Bowling|Boling|Boring|Booring|Boing|Borley|Berling|Barley|Borland|Florane|Porley,2026-01-05 minutes,
+staff,Steve Vicenzi,Chief Financial Officer,2025-12-08,2026-06-15,CFO|Steve,Vicencies|Vasensei|Vensei|Vencies,2026-01-05 minutes,Also Management Services Director
 staff,Christina Anderson,Deputy Director of Community Planning and Economic Development,2025-12-15,2026-02-16,Christina|Christine|Planner|Director,,2026-01-05 minutes,"Transcripts often say ""Christine"""
 staff,Charlie Bear,Assistant City Attorney,2026-01-05,2026-01-26,Attorney|Charlie|Charles,Bearer,2026-01-05 minutes,
 staff,Nolan Bergstrom,Community Planner,2026-01-05,2026-01-05,Nolan|Planner,Burkstrom,2026-01-05 minutes,
@@ -22,16 +22,18 @@ staff,Sarah Van Hyfte,Assistant City Attorney,2026-02-16,2026-02-16,Attorney|Sar
 staff,Jamie McCarthy,Development Manager,2026-02-16,2026-03-16,Manager|Jamie,,2026-02-16 minutes,
 staff,Justin Gish,Sustainability Planner,2026-02-16,2026-04-20,Planner|Justin,,2026-02-16 minutes,
 staff,Chris Broadbent,Solid Waste Coordinator,2026-02-16,2026-02-16,Coordinator|Chris,,2026-02-16 minutes,
-staff,James Baker,Public Services Director,2025-12-15,2026-07-20,Director|James,,2026-02-16 minutes,
+staff,James Baker,Public Services Director,2025-12-08,2026-07-20,Director|James,,2026-02-16 minutes,
 staff,Bobby Boyd,Economic Development Supervisor,2025-12-15,2026-07-20,Supervisor|Bobby,,2026-03-02 minutes,
 staff,Shelby Moss,Deputy City Clerk,2026-04-06,2026-07-06,Clerk|Deputy Clerk|Shelby,,2026-04-06 minutes,
 staff,Julie Johnston,Compliance Specialist,2026-04-20,2026-04-20,,,2026-04-20 minutes,
-staff,Laura Lam,Chief Operating Officer,2026-04-20,2026-04-20,,,2026-04-20 minutes,
+staff,Laura Lam,Chief Operating Officer,2025-12-08,2026-04-20,,,2026-04-20 minutes,
 staff,Antonio Mitchell,Community Planning and Economic Development Director,2026-05-18,2026-06-01,,,2026-05-18 minutes,
 staff,Kevin Ford,Shared Prosperity Coordinator,2026-05-18,2026-05-18,,,2026-05-18 minutes,
 guest,Jamauri Bogan,"CEO, Bogan Developments",2026-05-18,2026-05-18,,,2026-05-18 minutes,
 guest,Aaron Powers,"Managing Director, WCA Assessing",2026-06-01,2026-06-01,,,2026-06-01 minutes,
 guest,Sean McBride,"Chief Executive Officer, Kalamazoo Metro",2026-06-15,2026-06-15,,,2026-06-15 minutes,
 guest,Curt Aardema,"Chair, Kalamazoo County Transportation Authority and Central County Transportation Authority",2026-06-15,2026-06-15,,,2026-06-15 minutes,
-staff,Patsy Moore,Interim City Manager,2025-12-15,2025-12-15,Manager|City Manager|Interim City Manager,,2025-12-15 minutes,Interim City Manager before Malcolm Hankins started 2026-01-05
+staff,Patsy Moore,Interim City Manager,2025-12-08,2025-12-15,Manager|City Manager|Interim City Manager,,2025-12-15 minutes,Interim City Manager before Malcolm Hankins started 2026-01-05
+staff,Rebekah Kik,Deputy City Manager,2025-12-08,2025-12-08,Manager|Deputy City Manager|Rebekah,Kick|Kic,2025-12-08 minutes,
+staff,David Marquardt,Deputy City Manager,2025-12-08,2025-12-08,Manager|Deputy City Manager|David,Marquart|Markhart|Markert,2025-12-08 minutes,
 place,Kalamazoo,,,,,Kalazoo|Calazoo|Kamazoo|Calamazoo|Kelzoo|Kelmsu|Kalum Zoo|Cattle mazoo|Count Mazoo|Count Mazou|Cal Mazoo|Kal Mazoo,,"""Kazoo"" is left alone because speakers may really be saying the nickname ""K-zoo"""
